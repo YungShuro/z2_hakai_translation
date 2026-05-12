@@ -1,0 +1,541 @@
+{"text":"敵の全滅。","translation":"All enemies defeated.","id":"000580"}
+{"text":"スコープドッグ（コニン）の撃墜。","translation":"Scopedog (Conin) shot down.","id":"000590"}
+{"text":"キリコの撃墜。","translation":"Chirico shot down.","id":"0005C0"}
+{"text":"いずれかの味方ユニットの撃墜。","translation":"Any allied unit shot down.","id":"0005D0"}
+{"text":"？？？","translation":"???","id":"0005F8"}
+{"text":"ヒイロとデュオ登場から２ターン以内に他の敵を全滅させた後、\n最後にコニンを撃墜する。","translation":"Beat all but Conin 2 Turns after Heero \nand Duo arrive, then defeat Conin.","id":"000600"}
+{"text":"「頼むぞ、キリコ…。\n　ワシはお前に賭けてるからな」","translation":"I'm counting on you, Chirico... I'm betting on you.","id":"000AA0"}
+{"text":"「やっぱり、昨日の男を選手にしてたね…！」","translation":"So you really did pick that guy from yesterday as your fighter...!","id":"000AE0"}
+{"text":"「お、おう…来てたのか、ココナ、バニラ」","translation":"O-oh... you came, Cocona, Vanilla.","id":"000B18"}
+{"text":"「来てたのか…じゃねえよ、とっつぁん！\n　俺達を出し抜きやがってよ！」","translation":"Don't give me that \"you came\" crap, old man! You went and cut us out!","id":"000B48"}
+{"text":"「へへ…金の卵はワシの所に転がり込んだんだ。\n　悪く思うなよ」","translation":"Heh... a golden egg rolled right into my lap. No hard feelings.","id":"000B98"}
+{"text":"「ちっ…今に見てろよ。\n　俺だって、いい選手を見つけて、\n　がっぽり稼いでやるぜ！」","translation":"Tch... just you wait. I'll find myself a good fighter too, and rake in a fortune!","id":"000BE0"}
+{"text":"「で、そのいい選手ってのが、俺か？」","translation":"So that \"good fighter\" would be me?","id":"000C40"}
+{"text":"「おうよ、$n！\n　契約金はたっぷりはずむぜ！」","translation":"You bet, $n! I'll pay you a generous signing bonus!","id":"000C68"}
+{"text":"「９８万Ｇ」","translation":"980,000 G","id":"000CA0"}
+{"text":"「はぁ！？」","translation":"Huh!?","id":"000CB0"}
+{"text":"「俺の背負ってる借金の現在額だ。\n　それだけ出してくれるんなら、やるぜ」","translation":"That's how much debt I'm carrying right now. If you can pay that much, I'm in.","id":"000CC8"}
+{"text":"「あんた、何言ってんのよ！\n　常識ってもんを考えなよ！！」","translation":"What are you talking about!? Use some common sense!!","id":"000D18"}
+{"text":"「このド守銭奴！\n　そんな金が払えるわけねえだろうが！」","translation":"You damn money-grubber! There's no way I can pay that kind of cash!","id":"000D60"}
+{"text":"「フ…守銭奴か。\n　借金だらけの俺は守るより\n　攻めるしかない身だがな」","translation":"Heh... a miser, am I? Drowning in debt as I am, I don't have the luxury of playing defense~ only offense.","id":"000DA0"}
+{"text":"「ちっ…しらけちまったぜ。\n　もうお前との契約話は無し無し」","translation":"Tch... what a buzzkill. Forget it. No deal.","id":"000DF0"}
+{"text":"「こんなのと組んだら、儲けるどころか、\n　ケツの毛まで抜かれちまうぜ」","translation":"If I teamed up with someone like you, I'd get fleeced down to my last hair instead of making a profit.","id":"000E38"}
+{"text":"「金にうるさい男ってのは嫌だねぇ。\n　あ～…あたいの眼鏡も曇ったもんだよ」","translation":"I hate guys who are so obsessed with money. Ah~... guess my glasses are all fogged up.","id":"000E88"}
+{"text":"「まあまあ…最初の話通り、\n　仲良くバトリング見物といこうぜ」","translation":"Now, now... just like we said from the start, let's all get along and enjoy the Battling.","id":"000EE0"}
+{"text":"「で、あのスコープドッグが\n　そっちの親父さんが見つけてきた選手が\n　乗ってるのかい？」","translation":"So, is the fighter your old man found riding in that Scopedog?","id":"000F28"}
+{"text":"「名前はキリコ・キュービィー。\n　ワシが見た所、かなりの腕だ」","translation":"His name's Chirico Cuvie. From what I've seen, he's got some serious skill.","id":"000F88"}
+{"text":"「どうかな～？\n　とっつぁんの見立ては当てにならねえからな」","translation":"You think so~? The old man's judgment isn't exactly reliable.","id":"000FD0"}
+{"text":"「でもさ、ちょっといい男だったよ。\n　そっちの借金持ちなんかと違ってさ」","translation":"Still, he was kind of handsome. Unlike that debt-ridden guy over there.","id":"001018"}
+{"text":"「これだから女ってのは…」","translation":"Women, I swear...","id":"001068"}
+{"text":"「だがよ、相手はイレヴンの赤い悪魔だろ？\n　勝てるのか？」","translation":"But his opponent's the Red Devil of the Eleven, right? Can he win?","id":"001088"}
+{"text":"「わからん。\n　だが、ワシはキリコに賭けてみる事にした」","translation":"No idea. But I've decided to bet on Chirico.","id":"0010D0"}
+{"text":"「幾ら？」","translation":"How much?","id":"001110"}
+{"text":"「…５Ｇだ」","translation":"...5 G.","id":"001128"}
+{"text":"「んだよ！　大きな事言ってるわりにゃ、\n　賭け額は小せえじゃねえか！」","translation":"What the hell! For all that big talk, that's a pretty tiny bet!","id":"001140"}
+{"text":"「結局、信じてるわけじゃないんだね。\n　ま…本当に金の卵だったら\n　儲けもんってところが本音と見たよ」","translation":"So in the end, you don't really believe in him. Well... if he really is a golden goose, I guess that's easy money for you.","id":"001190"}
+{"text":"「まあな。\n　だが、全く自信が無いわけでもないぞ」","translation":"Maybe so. But it's not like I don't have any confidence in him at all.","id":"001200"}
+{"text":"「よう、$n。\n　そんなに借金があるんなら、\n　キリコの方に張ってみろよ」","translation":"Hey, $n. If you're that deep in debt, why not put your money on Chirico?","id":"001240"}
+{"text":"「当たればデカい大穴だぜ」","translation":"If it hits, it'll pay off big.","id":"001290"}
+{"text":"「やめとく」","translation":"I'll pass.","id":"0012B8"}
+{"text":"「どん底にいるくせに\n　勝負する度胸もないの！？」","translation":"You're already at rock bottom, and you still don't have the guts to take a gamble?!","id":"0012C8"}
+{"text":"「ギャンブルで金を稼ぐのは俺の主義じゃない。\n　クソ親父から学んだ数少ない知恵だ」","translation":"Making money through gambling isn't my style. That's one of the few useful things I learned from my damn old man.","id":"001308"}
+{"text":"「ま…バトリングの楽しみは\n　金儲けだけじゃないさ。\n　ここには他では味わえないスリルがある」","translation":"Well... the fun of Battling isn't just about making money. There's a thrill here you can't get anywhere else.","id":"001360"}
+{"text":"「それを楽しみたくて、\n　ブリタニアの連中もこっそり来てるのさ」","translation":"That's why even the Britannians sneak in here to watch.","id":"0013C8"}
+{"text":"「スリルね…。\n　毎日が綱渡りの俺はノーサンキューだ」","translation":"Thrill, huh... I'm already walking a tightrope every day, so no thanks.","id":"001410"}
+{"text":"「さあ、そろそろ時間だ。\n　イレヴンの赤い悪魔が出てくるぞ」","translation":"All right, it's about time. Here comes the Red Devil of the Eleven.","id":"001450"}
+{"text":"「イレヴンの赤い悪魔じゃないよ！」","translation":"That's not the Red Devil of the Eleven!","id":"0019F8"}
+{"text":"「２対１のハンディキャップマッチかよ！？」","translation":"A two-on-one handicap match?!","id":"001A28"}
+{"text":"「どうなってんだ、これは！？」","translation":"What the hell is going on here?!","id":"001A60"}
+{"text":"「無名の新人が\n　イレヴンの赤い悪魔とすぐに戦えると\n　思っているのか！」","translation":"Did you really think some no-name rookie would get to fight the Red Devil of the Eleven right away?!","id":"001A88"}
+{"text":"「誰だ、あれ？」","translation":"Who's that?","id":"001AD8"}
+{"text":"「バトリングの選手達のリーダー格の\n　コニンとかいう男だ」","translation":"That's a guy named Conin, one of the leaders among the battlers.","id":"001AF0"}
+{"text":"「この街に来たのは最近だが、\n　やたらと羽振りがいいんで、幅を利かせてる」","translation":"He only came to this town recently, but he's got money to burn, so he's been throwing his weight around.","id":"001B38"}
+{"text":"「俺達の試合申し込みをすっ飛ばして\n　奴に挑戦する以上、その新人の実力を\n　試させてもらう！」","translation":"If you're going to skip over our match request and challenge him, then we'll just have to test this rookie's skills ourselves!","id":"001B90"}
+{"text":"「いいぞーっ！　やらせろ！\n　ド新人をぶっ潰してやれ！！」","translation":"Yeah! Let 'em fight! Crush that rookie!!","id":"001D78"}
+{"text":"「だからって、２対１はおかしいだろ」","translation":"Even so, a 2-on-1 match is just wrong.","id":"001DB8"}
+{"text":"「無駄だよ。\n　ここにいる連中はスリルに飢えてんだ。\n　こうなったら、誰にも止められねえ」","translation":"It's no use. The people here are hungry for thrills. Once it gets like this, nobody can stop them.","id":"001DE0"}
+{"text":"「キリコ、戻って来い！\n　こんなハンディキャップマッチなんざ\n　受ける必要はない！」","translation":"Chirico, come back! There's no need to accept a handicap match like this!","id":"001E40"}
+{"text":"「………」","translation":".........","id":"001EA0"}
+{"text":"「あいつ、やる気だよ！」","translation":"He's going for it!","id":"001FD8"}
+{"text":"「馬鹿野郎！\n　相手は海千山千のボトムズ乗りだ！\n　２対１じゃ無理だ！」","translation":"You idiot! They're seasoned VOTOMS pilots! Two against one is impossible!","id":"001FF8"}
+{"text":"「よし！　戦闘開始だ！」","translation":"All right! Battle start!","id":"002048"}
+{"text":"（コニン…。\n　あの作戦の指揮を執った男が\n　この街にいるのか…）","translation":"(Conin... So the man who commanded that operation is in this town...)","id":"002068"}
+{"text":"「ちいっ！　しぶとい奴め！\n　ならば、次は…」","translation":"Tch! Stubborn bastard! Then next...","id":"0021B0"}
+{"text":"「出たよ！　イレヴンの赤い悪魔だ！」","translation":"There she is! The Red Devil of the Elevens!","id":"002288"}
+{"text":"「貴様、何をする気だ！？\n　まだ奴のテストは終わってないぞ！」","translation":"What do you think you're doing!? I'm not done testing him yet!","id":"0022B8"}
+{"text":"「あたしの試合にケチをつけるのも\n　いい加減にしな！」","translation":"Quit butting into my match already!","id":"002300"}
+{"text":"「ええっ！　\n　イレヴンの赤い悪魔って女だったの！？」","translation":"What!? The Red Devil of the Elevens is a woman!?","id":"002340"}
+{"text":"「マジかよ！\n　こいつは驚きだ！」","translation":"No way! Now that's a surprise!","id":"002380"}
+{"text":"「テストなら、もう済んだ。\n　スクラップになったあんたの手下のＡＴが\n　その結果さ」","translation":"The test's already over. Those scrap heaps your underlings' ATs turned into are proof enough.","id":"0023B0"}
+{"text":"「ほら、お客さんも待ってるじゃないか。\n　あたしはやらせてもらう」","translation":"Look, the crowd's waiting too. I'm going through with this.","id":"002550"}
+{"text":"「ちいっ！　こうなったら…」","translation":"Tch! If that's how it's going to be...","id":"0025A0"}
+{"text":"「…さあ、邪魔者は黙ったよ。\n　待たせたね、新人さん」","translation":"...There, the nuisance has shut up. Sorry to keep you waiting, rookie.","id":"0025C8"}
+{"text":"「あんたには恨みはないけど、\n　日本人の力を見せ付けるためにも\n　相手をしてもらう！」","translation":"I've got nothing against you, but to show them the strength of the Japanese, you'll have to be my opponent!","id":"002608"}
+{"text":"「ねえ、おやっさん！\n　キリコ、勝てるかな！？」","translation":"Hey, old man! Can Chirico win?!","id":"002668"}
+{"text":"「ワシにもわからん！\n　だが、奴はワシが予想した以上の\n　腕だったわ！」","translation":"I don't know either! But he's even more skilled than I expected!","id":"0026A0"}
+{"text":"「こうなったら、俺は奴を応援するぜ！\n　やっちまえ、キリコ！！」","translation":"Then I'll cheer for him! Go, Chirico!!","id":"0026F0"}
+{"text":"（まずいな…。\n　あのコニンとかいう奴、何かしでかす気だ…）","translation":"This is bad... That guy Conin's up to something...","id":"002738"}
+{"text":"「こいつ…強い！」","translation":"This guy... he's strong!","id":"002918"}
+{"text":"「何なの！？」","translation":"What is this!?","id":"0029D8"}
+{"text":"「コニン少尉の命令だ！\n　バトリングの秩序を乱したお前達を潰す！」","translation":"By order of Lieutenant Conin! We're crushing you for disrupting the order of Battling!","id":"0029F0"}
+{"text":"「何言ってるのさ！\n　勝手を押し付けてきたのは\n　そっちじゃないか！」","translation":"What are you talking about!? You're the ones forcing your own rules on us!","id":"002A40"}
+{"text":"「黙れ、女！」","translation":"Shut up, woman!","id":"002A90"}
+{"text":"「実弾を撃ちやがったよ！」","translation":"They're firing live rounds!","id":"002BA8"}
+{"text":"「馬鹿ヤローッ！\n　キリコ達は武器無しでやってんだぞ！」","translation":"Idiots! Chirico and the others are fighting unarmed!","id":"002BD0"}
+{"text":"「逃げるぞ、ココナ、バニラ！\n　奴等、ここで本気でドンパチをやる気だ！」","translation":"Run, Cocona, Vanilla! They're really going to start a firefight here!","id":"002C10"}
+{"text":"「でも、このままじゃキリコが！」","translation":"But at this rate, Chirico's in danger!","id":"002C60"}
+{"text":"「待て！　何か来る！」","translation":"Wait! Something's coming!","id":"002C88"}
+{"text":"「素手の相手に銃を持ち出すとはな。\n　みっともないぜ、兄さん達」","translation":"Pulling guns on unarmed opponents? That's pathetic, boys.","id":"002DC8"}
+{"text":"「その声！　$nか！」","translation":"That voice! Is that $n!?","id":"002E10"}
+{"text":"「フ…いいファイトを見ていたら、\n　俺も熱くなってきちまった。\n　相手をしてもらうぜ」","translation":"Heh... Watching a good fight got me fired up too. I'll take you on.","id":"002E30"}
+{"text":"「ちいっ！　邪魔をするなら、\n　お前も叩き落としてやる！！」","translation":"Tch! If you're going to interfere, I'll take you down too!!","id":"002E88"}
+{"text":"「キリコ、姐さん！　こっちだ！\n　武器を用意したぞ！！」","translation":"Chirico, miss! This way! We've got weapons for you!!","id":"002ED0"}
+{"text":"「助かる！」","translation":"You're a lifesaver!","id":"002F10"}
+{"text":"「そっちがその気なら迎え撃つまでだ！\n　手加減はしない！」","translation":"If that's how you want it, then we'll meet you head-on! I won't hold back!","id":"003068"}
+{"text":"「そっちのキリコっての！\n　お前も準備はいいな！」","translation":"Hey, Chirico! You ready too?","id":"0030B0"}
+{"text":"「意外と熱い奴だな。\n　それじゃ、行くか…！」","translation":"You're surprisingly hot-blooded. Well then, let's go...!","id":"0031C8"}
+{"text":"（コニン少尉…。\n　奴ならば、あれの正体を知っているはずだ）","translation":"Lieutenant Conin... If it's him, he should know the true identity of that thing.","id":"003200"}
+{"text":"（俺の運命を変えた素体と呼ばれる女の\n　正体を…）","translation":"(The true identity of the woman called the Prototype who changed my fate...)","id":"003248"}
+{"text":"「気をつけろ、二人共…！\n　何か来るぞ！」","translation":"Watch out, both of you...! Something's coming!","id":"003368"}
+{"text":"「治安警察…！」","translation":"The Security Police...!","id":"003438"}
+{"text":"「全員、大人しく投降しろ！\n　これ以上、戦闘を続ける者は\n　我々が鎮圧する！」","translation":"All of you, surrender peacefully! Anyone who continues fighting will be subdued by us!","id":"003450"}
+{"text":"（キリコめ…！\n　こうなれば、俺自らの手で奴を仕留める！）","translation":"(Chirico...! Fine, I'll take him down myself!)","id":"0034A8"}
+{"text":"「見て、バニラ！\n　コニンのＡＴもいるよ！」","translation":"Look, Vanilla! Conin's AT is here too!","id":"0034F0"}
+{"text":"「あの野郎！\n　治安警察にチクりやがったのかよ！」","translation":"That bastard! Did he rat us out to the Security Police?!","id":"003528"}
+{"text":"「コニンの奴、治安警察の力を借りて\n　キリコ達を潰すつもりらしいぞ！」","translation":"Looks like Conin plans to use the Security Police to crush Chirico and the others!","id":"003568"}
+{"text":"「くっ…数が違い過ぎる…！」","translation":"Damn... We're badly outnumbered!","id":"0035B8"}
+{"text":"「待て…！\n　また何か来るぞ！」","translation":"Wait...! Something else is coming!","id":"0035E0"}
+{"text":"「コロニーのガンダム！\n　やっぱり、トウキョウにいたか！」","translation":"The Colony Gundam! So it was in Tokyo after all!","id":"0037A8"}
+{"text":"「あのアクシオンの新型のいる所に\n　トラブルありだな。\n　本当に使える奴だぜ」","translation":"Wherever that new Axio shows up, trouble follows. That guy really is useful.","id":"0037E8"}
+{"text":"「ターゲット確認。\n　攻撃目標、治安警察」","translation":"Target confirmed. Attack objective: Security Police.","id":"003840"}
+{"text":"「連中の狙いは治安警察か。\n　ブリタニア・ユニオンの手先を叩くのは\n　当然と言えば、当然だな」","translation":"So their target is the Security Police. Well, taking down the Britannia Union's lackeys is only natural, I guess.","id":"003878"}
+{"text":"「ええい、応戦しろ！\n　抵抗する者は全て叩き潰せ！」","translation":"Damn it, return fire! Crush anyone who resists!","id":"0038D8"}
+{"text":"「さて…俺達のエリア１１でのデビュー戦だ。\n　ブリタニア・ユニオンの連中に\n　たっぷりアピールといこうか」","translation":"Now then... this is our debut battle in Area 11. Let's make a real impression on the Britannia Union bunch.","id":"003918"}
+{"text":"「もっとも、俺の姿を見た奴には\n　みんな死んでもらうがな！」","translation":"Of course, anyone who sees me is gonna die!","id":"003988"}
+{"text":"「コニン少尉…！」","translation":"Lieutenant Conin...!","id":"003B30"}
+{"text":"「キリコ曹長…お前はあの時、\n　死ぬ…べき…だったんだ………」","translation":"Sergeant Chirico... You should have died back then...","id":"003B50"}
+{"text":"（いったい何を言っている…。\n　何故、俺は死なねばならないんだ…）","translation":"What are you talking about...? Why should I have died...?","id":"003C58"}
+{"text":"「とっつぁん！\n　コニンがやられて、奴等、総崩れだ！」","translation":"Boss! Conin's down, and the whole lot of them are falling apart!","id":"003CA8"}
+{"text":"「だが、ボヤボヤしてたら、\n　今度はブリタニア・ユニオンの正規軍が\n　出てくる！」","translation":"But if we dawdle, the Britannia Union regular army will show up next!","id":"003CE8"}
+{"text":"「キリコ、$n！\n　こっちだ！　ずらかるぞ！」","translation":"Chirico, $n! This way! Let's get out of here!","id":"003D40"}
+{"text":"「聞こえるか、イレヴンの赤い悪魔に\n　コロニーのガンダム。\n　ここは退いた方がよさそうだ」","translation":"Can you hear me, Red Devil of the Elevens and the Colony Gundam? It'd be best to withdraw from here.","id":"003D78"}
+{"text":"「了解だ。\n　ここはそっちの誘導に乗らせてもらうぜ」","translation":"Roger that. We'll follow your lead and pull back for now.","id":"003DD8"}
+{"text":"（コニン少尉は何かを知っていた…。\n　小惑星リドで見た素体と呼ばれる女…\n　あれは何だったんだ…）","translation":"Lieutenant Conin knew something... That woman called a Prototype I saw on asteroid Lido... What was she...?","id":"003F58"}
+{"text":"「これだけの騒ぎを起こせば、\n　ここの管理を任されてる治安警察が\n　出てくる…」","translation":"If we stir up this much trouble, the Security Police in charge of this place will show up...","id":"004060"}
+{"text":"「もし、コロニーのガンダムが\n　近くにいるのなら、連中が出てくれば\n　黙っていないはずだ」","translation":"And if the Colony Gundam is nearby, he won't stay quiet once they show up.","id":"0040B8"}
+{"text":"「それに賭けてみるか…！」","translation":"Then I'll bet on that...!","id":"004118"}
+{"text":"（あの日、小惑星リドで見た素体と呼ばれる女…。\n　俺の運命は、あの日から変わった…）","translation":"That woman called a Prototype I saw on asteroid Lido that day... My fate changed from that day on...","id":"004218"}
+{"text":"（コニン少尉を問い詰めれば、\n　あの日の作戦の意味もわかるのか…）","translation":"If I press Lieutenant Conin, will I learn the meaning of that operation too...?","id":"004278"}
+{"text":"「ＫＭＦの実戦訓練を兼ねて\n　参加したバトリングで、これ程の相手と\n　会えるとはね…」","translation":"To think I'd meet an opponent like this in a Battling match I entered as part of my KMF combat training...","id":"004388"}
+{"text":"「でも、こいつを倒せないようじゃ、\n　ブリタニア・ユニオンには勝てない…！\n　やってみせる！」","translation":"But if I can't beat this guy, I'll never defeat the Britannia Union...! I'll do it!","id":"0043E8"}
+{"text":"「生きていくためとはいえ、\n　ブリタニア・ユニオンに尻尾を振るのなら\n　あたしの敵だ！」","translation":"Even if it's just to survive, if you're going to wag your tail for the Britannia Union, then you're my enemy!","id":"004510"}
+{"text":"「あたしは日本人だ！\n　イレヴンなんかじゃない！！」","translation":"I'm Japanese! I'm not an Eleven!!","id":"004570"}
+{"text":"「治安警察は\n　所詮、ブリタニア・ユニオンの手先だ」","translation":"The Security Police are nothing but the Britannia Union's lackeys.","id":"004670"}
+{"text":"「だが、こいつらを叩いていけば、\n　そのうち、ブリタニア・ユニオンの正規軍も\n　動き出す…」","translation":"But if we keep hammering them, sooner or later the Britannia Union's regular army will move too...","id":"0046B0"}
+{"text":"「そこからが俺にとっちゃ本番だな…！」","translation":"That's when the real fight starts for me...!","id":"004718"}
+{"text":"「キリコ曹長！\n　貴様、俺を追ってきたな！」","translation":"Sergeant Chirico! You followed me here!","id":"004828"}
+{"text":"「やはり、コニン少尉か…！\n　あの時の作戦の意味は何だ！？」","translation":"So it really was Lieutenant Conin...! What was the meaning of that operation back then?!","id":"004860"}
+{"text":"「貴様が知る必要のない事だ！\n　そして、貴様にはここで死んでもらう！」","translation":"That's something you don't need to know! And you're going to die right here!","id":"0048A8"}
+{"text":"「あ！」","translation":"Ah!","id":"0049D8"}
+{"text":"オフィス","translation":"Office","id":"004B68"}
+{"text":"　\n　\n　　　　　～ギルガメス軍　オフィス～","translation":"~Gilgamesh Army Office~","id":"004B78"}
+{"text":"「…キリコの現在位置はどうなっている？」","translation":"...What's Chirico's current location?","id":"004BA8"}
+{"text":"「ブリタニア・ユニオンのエリア１１の\n　カントウ地区…シンジュクゲットーに\n　潜伏している模様です」","translation":"He appears to be hiding in the Kanto District of the Britannia Union's Area 11... in the Shinjuku Ghetto.","id":"004BE0"}
+{"text":"「奴に仕込んでおいた発信機は健在か…」","translation":"Is the tracker we planted on him still active...?","id":"004C50"}
+{"text":"（キリコ・キュービィー…\n　どう動くか、見せてもらうぞ）","translation":"Chirico Cuvie... Let's see what you'll do.","id":"004C80"}
+{"text":"黒ベタ","translation":"Black screen","id":"004CC8"}
+{"text":"アッシュフォード","translation":"Ashford","id":"004CD0"}
+{"text":"　\n　\n　　　～アッシュフォード学園　生徒会室～","translation":"~Ashford Academy Student Council Room~","id":"004CE8"}
+{"text":"「みんな、時間通りに集まってるわね。\n　感心感心」","translation":"Everyone's here right on time. Very good, very good.","id":"004D18"}
+{"text":"「ミレイ会長の招集に遅れると\n　後が怖いですからね」","translation":"Because if we're late answering President Milly's summons, it's scary what comes after.","id":"004D58"}
+{"text":"「言ってくれるじゃないの、シャーリー。\n　せっかく、遅刻者には罰ゲームを\n　用意してたのに残念～」","translation":"You've got some nerve, Shirley. I even prepared a punishment game for latecomers... what a shame~","id":"004D98"}
+{"text":"「そういう所が怖いって言ってるんスよ」","translation":"That's exactly the kind of thing that's scary about you.","id":"004E00"}
+{"text":"「…一応、聞いてもいいですか？\n　その罰ゲームの内容…」","translation":"...Mind if I ask what the punishment was?","id":"004E30"}
+{"text":"「男女逆転の刑って事で\n　男子は女装、女子は男装して\n　一日過ごしてもらうの」","translation":"It's a gender-swap punishment. The boys dress as girls, and the girls as boys for the whole day.","id":"004E70"}
+{"text":"「それを拒否した場合は\n　一週間、頭にウサ耳、語尾に『ピョン』付けて\n　しゃべってもらうバニーの刑よ」","translation":"If they refuse, they spend a week with bunny ears on their heads and have to end every sentence with 'pyon'.","id":"004EC8"}
+{"text":"「な～んだ、それなら\n　沙慈に遅刻してもらえばよかった。\n　女装が似合いそうだもんね」","translation":"Oh, so that's all? Then I should've had Saji be late. He'd probably look good in girls' clothes.","id":"004F38"}
+{"text":"「えっ！？」","translation":"Huh!?","id":"004F98"}
+{"text":"「そしたら、あたしも男装して、\n　デートしてあげたのに」","translation":"Then I'd have dressed as a boy and gone on a date with you.","id":"004FB0"}
+{"text":"「ええっ！？」","translation":"Whaaat!?","id":"004FF0"}
+{"text":"「お前…色々と大変だな…」","translation":"Man... you've really got it rough, don't you...","id":"005008"}
+{"text":"「は～…ルイスの場合、\n　罰ゲームにならないわね、これじゃ…」","translation":"Haaah... in your case, Louise, this wouldn't even be a punishment...","id":"005030"}
+{"text":"「どうも、すいません」","translation":"Sorry about that.","id":"005078"}
+{"text":"「でも、あたし…本当に会長には感謝してます。\n　スペインからの留学生のあたしを\n　こうして生徒会に誘ってくれて」","translation":"But really, President... I'm truly grateful. You invited me, an exchange student from Spain, to join the student council.","id":"005098"}
+{"text":"「どういたしまして。\n　…でも、気にしないでよ。\n　留学生のお世話をするのも私の務めだから」","translation":"You're welcome. ...But don't worry about it. Looking after exchange students is part of my job.","id":"005110"}
+{"text":"「さすがは我がアッシュフォード学園理事長の孫、\n　生徒会長のミレイ・アッシュフォード」","translation":"As expected of Milly Ashford, our student council president and the granddaughter of Ashford Academy's chairman.","id":"005178"}
+{"text":"「ミレイちゃん…昔から世話好きだものね」","translation":"Milly's always been the caring type, even back then.","id":"0051D8"}
+{"text":"（でも、そうやって\n　学校で孤立しがちな僕にも\n　声を掛けてくれたんだよな、会長って）","translation":"But the president was the one who reached out to me too, even though I tended to be isolated at school.","id":"005208"}
+{"text":"「どうしたの、沙慈？\n　私に見とれてるとルイスがヤキモチ焼くわよ」","translation":"What's wrong, Saji? If you keep staring at me like that, Louise is going to get jealous.","id":"005268"}
+{"text":"「そ、そういうわけじゃ…！」","translation":"N-no, that's not it...!","id":"0052B8"}
+{"text":"「じゃあ、どういうわけよ、沙慈！\n　…そりゃ、あたしは会長みたいに\n　スタイルはよくないけどさ…」","translation":"Then what is it, Saji!? ...Sure, I may not have a figure like the president's, but...","id":"0052E0"}
+{"text":"「あら、ルイス…\n　この部屋の中で一番のナイスバディは\n　シャーリーよ」","translation":"Oh, Louise... the one with the best figure in this room is Shirley.","id":"005348"}
+{"text":"「何しろ、３サイズは上から…」","translation":"After all, her measurements are, from the top...","id":"005398"}
+{"text":"「どうして会長が私のサイズを\n　知ってるんですか！？」","translation":"How do you know my measurements, President!?","id":"0053C0"}
+{"text":"「それも会長の務めよ。\n　…無論、誰かさんの恋する相手についても\n　当然、チェック済みよ」","translation":"That's part of the president's duties too. ...Naturally, I've already checked up on a certain someone's crush as well.","id":"005408"}
+{"text":"「な、何ですか、それ！？\n　プライバシーの侵害ですよ！」","translation":"W-what is that supposed to mean!? That's an invasion of privacy!","id":"005468"}
+{"text":"「だって、誰かさん…\n　想ってるだけで、なかなかアプローチしないから\n　じれったいんだもの」","translation":"Because a certain someone just keeps pining away without ever making a move, and it's so frustrating to watch.","id":"0054B0"}
+{"text":"「…会長…俺達、生徒会メンバーを集めたのは\n　何のためです？」","translation":"...President... why did you gather us student council members here?","id":"005518"}
+{"text":"「さすが、ルルーシュ。\n　絶妙のタイミングでナイトの登場ね」","translation":"As expected of you, Lelouch. Our knight makes his entrance at the perfect moment.","id":"005568"}
+{"text":"（ルルが私を助けてくれた…。\n　…それとも、私の想いが迷惑だから…？）","translation":"Lulu helped me... ...Or are my feelings just a nuisance to him...?","id":"0055B0"}
+{"text":"「では、ルルーシュの質問に答えましょう。\n　今日、我々は生徒会に新たなメンバーを\n　加える事になりました」","translation":"Now then, let me answer Lelouch's question. Today, we're adding a new member to the student council.","id":"005608"}
+{"text":"「やっぱりね…」","translation":"I thought as much...","id":"005678"}
+{"text":"「私の考えを読んだの？\n　さすがはチェスの名手…！」","translation":"Did you read my mind? As expected of a chess master...!","id":"005698"}
+{"text":"「今回はルルーシュじゃなくても\n　わかったっスよ」","translation":"You didn't have to be Lelouch to figure that one out.","id":"0056D8"}
+{"text":"「朝から学園中が、あの子の話題で\n　持ちきりでしたからね」","translation":"The whole school's been talking about her since this morning, after all.","id":"005718"}
+{"text":"「それで、彼女はどこに？」","translation":"So, where is she?","id":"005760"}
+{"text":"「今、ナナリーが迎えにいっているわ」","translation":"Nunnally is bringing her over right now.","id":"005788"}
+{"text":"「皆さん、お待たせしました。\n　リリーナ・ドーリアンさんを\n　お連れしました」","translation":"Sorry to keep you waiting, everyone. I've brought Miss Relena Darlian.","id":"0057B8"}
+{"text":"「お招きありがとうございます、ミレイ会長。\n　リリーナ・ドーリアンです」","translation":"Thank you for inviting me, President Milly. I'm Relena Darlian.","id":"005810"}
+{"text":"「ようこそ、アッシュフォード学園へ。\n　…では、みんなにも改めて紹介しましょう」","translation":"Welcome to Ashford Academy. ...Now then, let me introduce you to everyone properly.","id":"005868"}
+{"text":"「本日、この学園に転入された\n　リリーナ・ドーリアン嬢です」","translation":"This is Miss Relena Darlian, who transferred to our academy today.","id":"0058C0"}
+{"text":"「初めまして、皆さん」","translation":"It's a pleasure to meet you all.","id":"005908"}
+{"text":"「いや～何とも言えない気品があるねぇ。\n　さすが転校初日でプリンセスのあだ名が\n　付いただけある！」","translation":"Wow~ she's got this indescribable elegance about her. No wonder she got nicknamed \"Princess\" on her very first day!","id":"005928"}
+{"text":"「そうなんですか…？\n　…何だか恥ずかしいです…」","translation":"Is that so...? ...That's kind of embarrassing...","id":"005998"}
+{"text":"「気にしない、気にしない。\n　そう言われるに相応しい品格があるもの」","translation":"Don't worry about it, don't worry about it. You have the grace to deserve being called that.","id":"0059D8"}
+{"text":"「私みたいな落ち目のブリタニア貴族に\n　言われても、嬉しくないかも知れないけど」","translation":"Though it might not mean much coming from a fallen Britannian noble like me.","id":"005A28"}
+{"text":"「いえ、そんな…」","translation":"No, not at all...","id":"005A80"}
+{"text":"「では、リリーナって呼んで\n　いいかしら？」","translation":"Then, would it be all right if I called you Relena?","id":"005AA0"}
+{"text":"「喜んで」","translation":"I'd be delighted.","id":"005AD8"}
+{"text":"「リリーナ…今日、あなたを招いたのは、\n　あなたに生徒会の一員に\n　なってもらいたいからなの」","translation":"Relena... I invited you here today because I'd like you to join the student council.","id":"005AF0"}
+{"text":"「転校してきたばかりの私がですか？」","translation":"Me? Even though I just transferred here?","id":"005B58"}
+{"text":"「そういうのは気にしなくていいの。\n　生徒会って言っても、名ばかりで\n　遊び仲間の集まりみたいなもんだから」","translation":"Don't worry about that. The student council's really just friends hanging out.","id":"005B88"}
+{"text":"「ルイスの言う通りよ。\n　みんな、会長の目に留まって\n　強引に集められたようなものだから」","translation":"Louis is right. We all basically just got dragged into this after catching the president's eye.","id":"005C00"}
+{"text":"「主な活動は、学園生活を楽しく送るために\n　様々なイベントを計画、実行する事よ。\n　その手伝いをあなたにも頼みたいの」","translation":"Our main job is planning and running various events to make school life more fun. I'd like you to help with that too.","id":"005C68"}
+{"text":"「…わかりました。\n　私でよければ、喜んでお手伝いさせて\n　いただきます」","translation":"...I understand. If you'll have me, I'd be happy to help.","id":"005CE8"}
+{"text":"「これで決まりね。\n　じゃあ、自己紹介といこうか」","translation":"Then it's settled. Now, let's introduce ourselves.","id":"005D40"}
+{"text":"「私は生徒会長のミレイ・アッシュフォード。\n　よろしくね」","translation":"I'm Milly Ashford, the student council president. Nice to meet you.","id":"005D80"}
+{"text":"「シャーリー・フェネットよ。\n　生徒会は水泳部と掛け持ちでやってるの。\n　わからない事があったら、何でも聞いてね」","translation":"I'm Shirley Fenette. I'm on the student council and swim team. If there's anything you don't understand, ask me.","id":"005DC8"}
+{"text":"「俺、リヴァル・カルデモンド。\n　エスコート役は俺に任せてね」","translation":"I'm Rivalz Cardemonde. Leave the escort duties to me!","id":"005E48"}
+{"text":"「ニーナ・アインシュタインです。\n　幼馴染のミレイちゃんに誘われて\n　生徒会役員をやってます」","translation":"I'm Nina Einstein. My childhood friend Milly invited me, so I'm serving as a student council officer.","id":"005E90"}
+{"text":"「あたし、ルイス・ハレヴィ。\n　スペインからの留学生なんだ」","translation":"I'm Louise Halevy. I'm an exchange student from Spain.","id":"005EF8"}
+{"text":"「沙慈・クロスロードです。\n　宇宙工学を専攻しています」","translation":"I'm Saji Crossroad. I'm majoring in space engineering.","id":"005F40"}
+{"text":"「あ、リリーナ！\n　沙慈はあたしのだから、手を出しちゃ\n　駄目よ！」","translation":"Oh, Relena! Saji's mine, so don't you go making a move on him!","id":"005F80"}
+{"text":"「な、何言ってるんだよ、ルイス！」","translation":"W-What are you saying, Louise?!","id":"005FD0"}
+{"text":"「仲がおよろしいのですね」","translation":"You two seem very close.","id":"005FF8"}
+{"text":"「手出し厳禁と言えば、うちの副会長も駄目よ。\n　誰かさんが怒るから」","translation":"Speaking of hands off, our vice president is off-limits too. Someone would get mad.","id":"006020"}
+{"text":"「会長…！」","translation":"President...!","id":"006070"}
+{"text":"「ほら、ルルーシュ。\n　自己紹介しなさいよ」","translation":"Come on, Lelouch. Introduce yourself.","id":"006088"}
+{"text":"「副会長のルルーシュ・ランペルージだ。\n　よろしく、リリーナ」","translation":"I'm Lelouch Lamperouge, the vice president. Nice to meet you, Relena.","id":"0060C0"}
+{"text":"「妹のナナリー・ランペルージです。\n　中等部ですが準会員という事で\n　生徒会に出入りさせてもらっています」","translation":"I'm his younger sister, Nunnally Lamperouge. I'm in middle school, but I'm allowed in as an associate member.","id":"006110"}
+{"text":"「俺とナナリーは、このクラブハウスに\n　住んでいるんだ」","translation":"Nunnally and I live here in this clubhouse.","id":"006188"}
+{"text":"「寮ではなく、ここにですか？」","translation":"You live here, not in the dorms?","id":"0061D0"}
+{"text":"「私、目も見えず、足も不自由なので、\n　特別なんです」","translation":"I'm blind and have difficulty walking, so I'm a special case.","id":"0061F8"}
+{"text":"「あ…ごめんなさい」","translation":"Ah... I'm sorry.","id":"006238"}
+{"text":"「お気になさらないで下さい。\n　お兄様やミレイさん達がよくして下さいますので\n　何も困っていませんから」","translation":"Please don't worry about it. My brother and Milly and the others take such good care of me that I have no troubles at all.","id":"006258"}
+{"text":"「ルルーシュ達は私の遠縁に当たるから、\n　理事長であるおじいちゃんも\n　便宜を図って下さってるの」","translation":"Lelouch and the others are distant relatives of mine, so my grandfather, the chairman, helps them out.","id":"0062C8"}
+{"text":"「そうなのですか」","translation":"I see.","id":"006330"}
+{"text":"「リリーナ…君のお父さんは\n　国連のドーリアン外務調停次官と聞くけど…」","translation":"Relena... I hear your father is the UN's Deputy Foreign Minister, Dorian...","id":"006350"}
+{"text":"「はい。\n　この度の転校も父の意向によるものです」","translation":"Yes. My transfer here was also at my father's request.","id":"0063A8"}
+{"text":"「外務次官の？」","translation":"The deputy foreign minister's?","id":"0063E8"}
+{"text":"「父は私に世界について学ぶ事を勧め、\n　そのためにエリア１１を知るように\n　言いました」","translation":"My father encouraged me to learn about the world, and told me that to do so, I should get to know Area 11.","id":"006408"}
+{"text":"「なるほどね…。\n　７年前にブリタニア・ユニオンの植民地となった\n　ここは世界の縮図のような場所だ」","translation":"I see... This place, which became a colony of the Britannia Union seven years ago, is like a microcosm of the world.","id":"006468"}
+{"text":"「今の世界を知るための様々な要素が\n　このエリア１１にはあると言える」","translation":"You could say that Area 11 contains all the various elements needed to understand the world as it is today.","id":"0064D8"}
+{"text":"「父もそれを肌で感じさせるために\n　私に転校を勧めたのだと思います」","translation":"I believe my father recommended I transfer here so that I could experience that firsthand.","id":"006530"}
+{"text":"「だが、果たしてそれは\n　トウキョウ租界にいるだけで学べるかな？」","translation":"But can you really learn that just by staying in the Tokyo Settlement?","id":"006580"}
+{"text":"「とおっしゃられますと？」","translation":"What do you mean by that?","id":"0065D0"}
+{"text":"「トウキョウ租界はブリタニア人の居住区だ」","translation":"The Tokyo Settlement is a residential district for Britannians.","id":"0065F8"}
+{"text":"「本当に真実を学びたいのなら、\n　イレヴン…旧日本人が住むゲットーにも\n　行ってみるべきだろう」","translation":"If you really want to learn the truth, you should also visit the ghettos where the Elevens... the former Japanese, live.","id":"006630"}
+{"text":"「ゲットー…」","translation":"The ghettos...","id":"0066A0"}
+{"text":"「無茶言わないの、ルル！\n　ゲットーなんて治安の悪い所に行ったら、\n　危険なんだから！」","translation":"Don't be ridiculous, Lulu! If you go to a dangerous place like the ghettos, you could get hurt!","id":"0066B8"}
+{"text":"「あそこは相当のカオスって話だぜ。\n　アストラギウスの人間達も\n　住み着いてるらしいからな」","translation":"I hear it's total chaos over there. Apparently people from Astragius have settled there too.","id":"006720"}
+{"text":"「アストラギウス…。\n　２年前にこの世界に転移してきた人達のいた\n　別の銀河…」","translation":"Astragius... The other galaxy the people who transferred into this world two years ago came from...","id":"006788"}
+{"text":"「聞いた話じゃ、あそこは長い戦争で\n　誰も彼もが荒みきってたらしいからな」","translation":"From what I've heard, that place was so ravaged by years of war that everyone there was completely hardened.","id":"0067E0"}
+{"text":"「あの世界の人間は未だに戸籍もないし、\n　元軍人は傭兵、民間人は全員がゴロツキか、\n　チンピラらしいぜ」","translation":"People from that world still don't even have IDs, and they say ex-soldiers are mercs, while civilians are all thugs or punks.","id":"006838"}
+{"text":"「それはちょっと言い過ぎなんじゃない？」","translation":"Isn't that a bit of an exaggeration?","id":"0068A8"}
+{"text":"「当たらずとも遠からずってやつさ」","translation":"It's not exactly wrong.","id":"0068D8"}
+{"text":"「でも、あそこってブリタニア・ユニオンに\n　抵抗を続けてるイレヴンのレジスタンスも\n　いるんでしょ？」","translation":"But aren't there also Eleven resistance groups there that are still fighting the Britannia Union?","id":"006908"}
+{"text":"「７年前の極東事変に敗れた日本人の一部は\n　ブリタニア・ユニオンに忠誠を誓い、\n　名誉ブリタニア人となった」","translation":"Some Japanese defeated in the Far East Incident seven years ago swore loyalty to Britannia and became Honorary Britannians.","id":"006978"}
+{"text":"「だが、未だにそれを認めず、\n　ナンバーズ…いわゆるイレヴンとして\n　生きている者もゲットーに住んでいる」","translation":"But there are still those who refuse to accept that, and live in the ghettos as Numbers... so-called Elevens.","id":"0069F0"}
+{"text":"「支配する者とされる者…。\n　ゲットーはこの世界の縮図…」","translation":"Those who rule and those who are ruled... The ghettos are a microcosm of this world...","id":"006A68"}
+{"text":"「冗談だよ、リリーナ。\n　シャーリーの言う通り、あんな所には\n　近づかない方がいい」","translation":"Just kidding, Relena. Shirley's right—you'd be better off staying away from a place like that.","id":"006AB0"}
+{"text":"「それよりも、この学園での生活を\n　満喫してくれ」","translation":"More importantly, enjoy your life at this academy.","id":"006B10"}
+{"text":"「はい…ありがとうございます」","translation":"Yes... thank you very much.","id":"006B50"}
+{"text":"（そうだ…。\n　知らないで済むのなら、知らなくていい…）","translation":"That's right... If you can get by without knowing, then it's better not to know...","id":"006B78"}
+{"text":"（だが、俺は違う…。\n　ナナリーが平和に暮らせる世界のために\n　俺は真実と向き合わねばならない…）","translation":"But I'm different... For the sake of a world where Nunnally can live in peace, I have to face the truth...","id":"006BC0"}
+{"text":"ウドの街","translation":"Udo City","id":"006C30"}
+{"text":"　\n　\n　　　　　　～シンジュクゲットー～","translation":"~Shinjuku Ghetto~","id":"006C40"}
+{"text":"（…さてと、あの死神君の言葉を信じて、\n　エリア１１に来たはいいが、\n　どこにコロニーのガンダムがいるのやら…）","translation":"...Well, I came to Area 11 trusting what that grim reaper said, but where the hell is that colony Gundam...?","id":"006C70"}
+{"text":"（奴等の機体のデータは、いい金になる。\n　ソレスタルビーイングで儲け損なった分を\n　ここで取り戻すぜ）","translation":"The data on their machines is worth good money. I'll make back what I lost out on with Celestial Being here.","id":"006CE8"}
+{"text":"（財団のコネでブラスタを持ち込めはしたが、\n　派手に動くのはまずい…。\n　ここは地道に足で調べるしかないか）","translation":"I got Brasta in through the Foundation's connections, but I can't make any flashy moves... I'll have to investigate on foot.","id":"006D50"}
+{"text":"（ま…俺としても\n　現地潜入任務は本職だがな…）","translation":"Well... field infiltration is my specialty anyway...","id":"006DC0"}
+{"text":"「お兄さん…見かけない顔だね。\n　ブリタニア・ユニオン本国からの観光客？」","translation":"Hey, mister... you're a face I don't recognize. Are you a tourist from the Britannia Union homeland?","id":"006DF8"}
+{"text":"「まあ、そんなところだ。\n　…と言っても、道に迷って\n　こんな所に来ちまったんだがな」","translation":"Well, something like that. ...Though to be honest, I got lost and ended up in a place like this.","id":"006E50"}
+{"text":"「だよね。\n　まともなブリタニアの人が\n　ゲットーに来る事なんてないもんね」","translation":"Right? No decent Britannian would ever come to the ghetto.","id":"006EA8"}
+{"text":"「って事は、まともじゃないブリタニアの人は\n　来るのか？」","translation":"So that means indecent Britannians do come here?","id":"006F00"}
+{"text":"「鋭い…！\n　…本当はお兄さん、ブリタニアの軍の\n　人じゃない？」","translation":"Sharp...! ...You're not really with the Britannian military, are you?","id":"006F40"}
+{"text":"「で、昨日の捕り物に何か関係してるの？」","translation":"So, did you have anything to do with yesterday's chase?","id":"006F88"}
+{"text":"「捕り物？」","translation":"Chase?","id":"006FB8"}
+{"text":"「知らないって事は無関係か。\n　このゲットーを仕切ってる治安警察の連中が、\n　誰かを追ってたみたいなんだよ」","translation":"If you don't know, I guess you're not involved. Looks like the Security Police running this ghetto were chasing someone.","id":"006FC8"}
+{"text":"「善良な一市民の俺には関係ない話だな」","translation":"That has nothing to do with a good, law-abiding citizen like me.","id":"007040"}
+{"text":"（…追われてたのは\n　例のガンダム乗りの可能性もある…。\n　ここは、この子からネタをもらうか…）","translation":"...The one they were chasing might've been that Gundam pilot... Maybe I can get some info out of this girl...","id":"007070"}
+{"text":"「じゃあ、お兄さんも迷子のふりして、\n　例のアレを見に来たってわけか」","translation":"So you were pretending to be lost too, just to come see that thing, huh?","id":"0070D8"}
+{"text":"「…まあな。\n　お嬢ちゃん、案内してくれるかい？」","translation":"...Yeah. Say, kid, would you show me around?","id":"007128"}
+{"text":"「いいよ。\n　お兄さん、ちょっといい男だから\n　サービスしちゃう」","translation":"Sure. You're kind of handsome, mister, so I'll do you a favor.","id":"007160"}
+{"text":"「っと、身体に触るのは無しだ」","translation":"Hold it. Keep your hands off me.","id":"0071A8"}
+{"text":"「へえ、変わってるぅ。\n　ここに来るブリタニアの人は、\n　みんな、スケベだと思ってたよ」","translation":"Huh, you're weird. I thought all the Britannians who came here were perverts.","id":"0071D0"}
+{"text":"「でも、お兄さん…ただの観光客じゃないでしょ。\n　もしかして、パイロット？」","translation":"But mister... you're not just a tourist, are you? Could you be a pilot?","id":"007230"}
+{"text":"「わかるのかい？」","translation":"You can tell?","id":"007288"}
+{"text":"「あたいはアストラギウスの人間だからね。\n　血の代わりにオイルが流れてるような奴を\n　いっぱい見てきたよ」","translation":"I'm from Astragius, you know. I've seen plenty of guys with oil running through their veins instead of blood.","id":"0072A0"}
+{"text":"「ねえ、何だったら、お兄さん…\n　見物じゃなくて、アレの選手になってみない？\n　いい小遣い稼ぎになるよ」","translation":"Hey, if you want, mister... why not be a contestant instead of just a spectator? You could make some nice pocket money.","id":"007310"}
+{"text":"「どうしようかな…」","translation":"Hmm, what should I do...?","id":"007380"}
+{"text":"「くぉら、このドラ猫！\n　人のシマで商売するたぁ、\n　いい度胸してるじゃねえか！」","translation":"Hey, you alley cat! You've got some nerve, trying to do business on my turf!","id":"007398"}
+{"text":"「何がシマよ！\n　この人はあたいが先に見つけたんだからね！」","translation":"What do you mean, your turf?! I found this guy first!","id":"0073F0"}
+{"text":"「兄さん、悪い事は言わねえ。\n　やるんなら、俺と契約しねえか？\n　稼がせてやるぜ」","translation":"Listen, brother, I'm telling you this for your own good. If you're gonna do it, why not sign with me? I'll make you money.","id":"007438"}
+{"text":"「何言ってんのよ！\n　あたいがドラ猫なら、あんたは獲物を横取りする\n　野良犬じゃないのさ！」","translation":"What are you talking about?! If I'm an alley cat, then you're just a stray dog trying to steal someone else's prey!","id":"007490"}
+{"text":"「んだと！？\n　俺はこっちの兄さんのためを思って\n　言ってるんだよ！」","translation":"What'd you say?! I'm saying this for this guy's own good!","id":"0074F8"}
+{"text":"「まあまあ、二人共。\n　俺はまだ、その選手をやると決めたわけじゃ…」","translation":"Easy, you two. I haven't even decided whether I'm going to be a contestant yet...","id":"007548"}
+{"text":"「伏せろ！」","translation":"Get down!","id":"007590"}
+{"text":"「な、何だ！？」","translation":"W-What the hell!?","id":"0075A0"}
+{"text":"「そこか！！」","translation":"There!!","id":"0075B8"}
+{"text":"「な、何が起きてんのよ！？\n　何であたい達が狙われんのよ！」","translation":"W-What's going on?! Why are we being targeted?!","id":"0075D0"}
+{"text":"「いや…狙われたのは俺だろう。\n　どうやら賊は行っちまったようだがな…」","translation":"No... I was the one they were after. Looks like the thugs have already gone, though...","id":"007618"}
+{"text":"「大丈夫か、あんた！\n　怪我したみてえじゃねえか！」","translation":"You okay, mister?! Looks like you're hurt!","id":"007668"}
+{"text":"「かすり傷だ…と思いたい。\n　それに俺の反撃で相手も傷を負ったと見た」","translation":"It's just a scratch... I hope. And I think my counterattack wounded them too.","id":"0076A8"}
+{"text":"「とにかく、手当てした方がいいよ。\n　あたいの部屋においでよ」","translation":"Anyway, you should get that treated. Come to my room.","id":"0076F8"}
+{"text":"「そうやって、この兄さんを\n　引っ張りこむ気かよ！\n　こんな時にも商売たぁ恐れ入ったぜ！」","translation":"So that's your angle, trying to reel this guy in?! I've gotta hand it to you, still thinking about business at a time like this!","id":"007740"}
+{"text":"「じゃあ、どうしろってのよ！\n　怪我した人を放っておけって言うのかい！」","translation":"Then what am I supposed to do?! You want me to just leave an injured guy alone?!","id":"0077A0"}
+{"text":"「…仕方ねえ。\n　とりあえず、とっつぁんの所へ行こうぜ。\n　ここから近いしな」","translation":"...No choice. For now, let's go to the old man's place. It's close by.","id":"0077F0"}
+{"text":"「えーっ！　あのタヌキ親父の所へ\n　連れて行ったら、こっちの上前をはねられるに\n　決まってるよ！」","translation":"What?! If we take him to that old tanuki, he's definitely gonna skim our cut!","id":"007848"}
+{"text":"「あのよ…。\n　そろそろどっちかに決めてくれないか、\n　段々気が遠くなってきた…」","translation":"Hey... can you two decide already? I'm starting to black out here...","id":"0078B0"}
+{"text":"「ご、ごめんよ、兄さん！\n　バニラ！　こうなったら仕方ない！\n　ゴウトの所へ行くよ！」","translation":"S-Sorry, mister! Vanilla! We have no choice now! We'll go to Gotou's place!","id":"007908"}
+{"text":"「おう。\n　だが、俺だって儲け話をふいにする気はねえ。\n　余計な事はとっつぁんの前でしゃべるなよ」","translation":"Yeah. But I'm not about to pass up a deal, either. Don't say anything unnecessary in front of the old man.","id":"007968"}
+{"text":"（犬も歩けば、棒に当たる…。\n　とりあえず、この流れに乗れば、\n　ゲットーの裏がわかるかも知れん…）","translation":"Even a dog out walking hits a stick... For now, if I go along with this, I might learn what's going on behind the Ghetto...","id":"0079D0"}
+{"text":"（…出血多量であの世に行かなければの\n　話だがな…）","translation":"...That is, if I don't bleed out and end up in the next world first...","id":"007A38"}
+{"text":"シンジュクゲットー","translation":"Shinjuku Ghetto","id":"007A70"}
+{"text":"　\n　\n　　　　～シンジュクゲットー　公園跡～","translation":"~Shinjuku Ghetto: Park Ruins~","id":"007A88"}
+{"text":"（ここがシンジュクゲットー…。\n　危険だと言われながら、来てしまった…）","translation":"So this is the Shinjuku Ghetto... I was told it was dangerous, and yet I came anyway...","id":"007AB8"}
+{"text":"（ここに来るまでに多くのイレヴン…\n　日本の方を見た）","translation":"On my way here, I saw many Elevens... Japanese people.","id":"007B10"}
+{"text":"（みんなが悲しみと諦めを湛えた目をしていた…。\n　それが戦争の爪痕…。\n　７年経っても、消える事のない傷…）","translation":"Their eyes were full of sorrow and resignation... the scars of war... wounds that still haven't healed after seven years...","id":"007B50"}
+{"text":"「誰です！？」","translation":"Who's there!?","id":"007BC8"}
+{"text":"「………」","translation":".........","id":"007BE0"}
+{"text":"「あなた…怪我をしているのですね？\n　どうしたのです？」","translation":"You're... injured, aren't you? What happened?","id":"007BF8"}
+{"text":"「俺に触るな…」","translation":"Don't touch me...","id":"007C40"}
+{"text":"「え…」","translation":"Huh...?","id":"007C58"}
+{"text":"「そこをどけ…！」","translation":"Get out of the way...!","id":"007C70"}
+{"text":"「………」","translation":".........","id":"007C90"}
+{"text":"（彼の目…日本の方とも違う…。\n　あの目は…何かと戦う人の目…）","translation":"His eyes... they're different from the Japanese people's... Those eyes are... the eyes of someone fighting something...","id":"007CA8"}
+{"text":"「私は…私はリリーナ・ドーリアン…。\n　あなたは…？」","translation":"I'm... I'm Relena Darlian... And you are...?","id":"007CF8"}
+{"text":"倉庫","translation":"Warehouse","id":"007D38"}
+{"text":"　\n　　\n　　　　　　　　～ゴウトの倉庫～","translation":"~Gotho's Warehouse~","id":"007D40"}
+{"text":"「いるかい、とっつぁん！」","translation":"You in there, old man!?","id":"007D70"}
+{"text":"「バニラとココナか…。\n　金にならねえ二人がつるんでるとは\n　珍しいな」","translation":"Vanilla and Cocona, huh... It's rare to see two people who don't make any money hanging around together.","id":"007D98"}
+{"text":"「そんな話は後だよ！\n　救急箱を借りるよ！」","translation":"Forget that for now! I'm borrowing the first-aid kit!","id":"007DE8"}
+{"text":"「さあ、兄さん、傷を見せてよ。\n　すぐに手当てするから」","translation":"Come on, mister, let me see your wound. I'll patch you up right away.","id":"007E20"}
+{"text":"「すまないな。\n　あんたらに借りを作っちまった」","translation":"Sorry. Looks like I owe you one.","id":"007E60"}
+{"text":"「だったら、後で…」","translation":"Then later...","id":"007E98"}
+{"text":"「くぉら！\n　抜け駆けすんじゃねえって言ってんだろ！」","translation":"Hey! I told you not to cut in line!","id":"007EB8"}
+{"text":"「何言ってんだ、お前等？」","translation":"What are you two talking about?","id":"007EF8"}
+{"text":"「何でもない！　何でもないよ！」","translation":"Nothing! Nothing at all!","id":"007F20"}
+{"text":"「で、そっちの兄さんは何だい？\n　ここらの住民には見えないが…」","translation":"So, who's this guy? He doesn't look like a local...","id":"007F48"}
+{"text":"「そう言えば、そっちのお嬢ちゃん達にも\n　自己紹介してなかったな」","translation":"Come to think of it, I haven't introduced myself to you girls either.","id":"007F90"}
+{"text":"「俺は$F。\n　$nと呼んでくれ」","translation":"I'm $F. Call me $n.","id":"007FD8"}
+{"text":"「あたいはココナ。\n　向こうがバニラで、この倉庫の持ち主が\n　ゴウトだよ」","translation":"I'm Cocona. That's Vanilla over there, and the owner of this warehouse is Gotho.","id":"008000"}
+{"text":"「よろしくな、兄さん」","translation":"Nice to meet you, mister.","id":"008050"}
+{"text":"「悪いな、$nとやら。\n　コーヒーの一杯も出せないが、\n　ゆっくりしていってくれ」","translation":"Sorry, $n. I can't even offer you a cup of coffee, but make yourself at home.","id":"008070"}
+{"text":"「あれ、とっつぁん？\n　どこかに出かけるのかい？」","translation":"Huh, old man? You heading out somewhere?","id":"0080C8"}
+{"text":"「ん、まあな…。\n　お前等もゆっくりしていっていいぞ」","translation":"Yeah, well... You guys can stay and relax if you want.","id":"008108"}
+{"text":"「あからさまに怪しいな…」","translation":"That's blatantly suspicious...","id":"008148"}
+{"text":"「あたい、見たよ。\n　昨日、ゴウトの家に若い男がいたのを」","translation":"I saw it. Yesterday, there was a young man at Gotho's place.","id":"008170"}
+{"text":"「もしかして、あいつ…\n　治安警察が追ってた奴かも」","translation":"Maybe he was... the guy the Public Security Police were after.","id":"0081B8"}
+{"text":"「何者だ？」","translation":"Who is he?","id":"0081F8"}
+{"text":"「わからないけど、耐圧服を着てた」","translation":"I don't know, but he was wearing a pressure suit.","id":"008210"}
+{"text":"「ボトムズ乗りか…。\n　って事は、とっつぁんは…！？」","translation":"A VOTOMS pilot...? Then the old man might be...!?","id":"008240"}
+{"text":"「うん！　ありえる！！」","translation":"Yeah! Totally possible!!","id":"008280"}
+{"text":"「すまない。\n　話が見えないんだが…」","translation":"Sorry. I'm not following this...","id":"0082A0"}
+{"text":"「ねえ、$n。\n　とりあえず、契約は後回しにして、\n　今日は見物だけにしとこうよ」","translation":"Hey, $n. For now, let's put the contract on hold and just watch today.","id":"0082D0"}
+{"text":"「くそっ！　とっつぁんの奴、\n　転がり込んできた野郎をバトリングの選手に\n　するつもりかよ！」","translation":"Damn it! Is the old man planning to turn that drifter who rolled in here into a Battling fighter!?","id":"008328"}
+{"text":"（バトリング…。\n　どうやら、この二人が俺を選手にすると\n　言っていたのは、それの事のようだな…）","translation":"Battling... So that's what those two meant when they said they'd make me a fighter...","id":"008390"}
+{"text":"バトリング会場","translation":"Battling Arena","id":"0083F8"}
+{"text":"　\n　\n　　　　　　　～バトリング会場～","translation":"~Battling Arena~","id":"008408"}
+{"text":"「どうだ、キリコ？\n　これがお前の出場するバトリングの会場だ」","translation":"What do you think, Chirico? This is the Battling arena where you'll be competing.","id":"008430"}
+{"text":"「お前さんだって聞いた事があるだろ？\n　軍を抜けて仕事にあぶれたＡＴ乗りが\n　客の前で戦うんだよ」","translation":"You've heard of it too, haven't you? AT pilots who left the military and can't find work fight in front of paying customers.","id":"008478"}
+{"text":"「客は勝敗に金を賭けて楽しむ。\n　噂じゃブリタニアの連中もスリルを求めて、\n　見に来てるらしいぞ」","translation":"The crowd bets on the outcome for fun. Word is even people from Britannia come to watch for the thrill.","id":"0084E0"}
+{"text":"「そうか…」","translation":"I see...","id":"008548"}
+{"text":"「他人事みたいに言うなよ。\n　ワシと契約した以上、お前も\n　今日ここで戦うんだ」","translation":"Don't act like it's none of your business. Once you made a deal with me, you're fighting here today too.","id":"008560"}
+{"text":"「お前はツイてたよ。\n　治安警察に追われて転がり込んできたのが\n　ワシの所でな」","translation":"You were lucky. You ended up with me after running from the Public Security Police.","id":"0085B8"}
+{"text":"「ワシは一目見てピンと来た。\n　こいつは相当の腕を持った\n　ボトムズ乗りだってな」","translation":"I knew it the moment I saw you. I knew you were a VOTOMS pilot with some serious skill.","id":"008610"}
+{"text":"「なあ…人間は食ってくために\n　働かなきゃならねえ」","translation":"Listen... a man has to work to put food on the table.","id":"008668"}
+{"text":"「この地球に跳ばされてきたおかげで\n　アストラギウスの人間は\n　みんな、苦労してきた」","translation":"Ever since we were thrown onto this Earth, everyone from Astragius has had it rough.","id":"0086A8"}
+{"text":"「大時空震動とやらに\n　ちょっと遅れて跳ばされてきただけで\n　社会からつまはじきだ」","translation":"Just because we were thrown here a little late due to the Great Space-Time Quake, we've been cast out of society.","id":"008708"}
+{"text":"「ギルガメスとバララントの正規軍は\n　戦争をやめて、それぞれ傭兵稼業を始めたが、\n　所詮は雇われ者だ」","translation":"The regular armies of Gilgamesh and Balarant stopped fighting and became mercs, but they're still just hired hands.","id":"008768"}
+{"text":"「お前も傭兵をやってた口だろうから\n　散々見てきたろう？\n　生命が安く売り買いされてるのを」","translation":"You were a mercenary yourself, so you must've seen it plenty. Life bought and sold cheap.","id":"0087D8"}
+{"text":"「だが、ワシについてくれば心配ない。\n　ワシがお前のマネージャーをやってやる」","translation":"But if you stick with me, you've got nothing to worry about. I'll be your manager.","id":"008840"}
+{"text":"「バトリングで勝ち続ければ、\n　いい暮らしも出来る。\n　まあ、このゲットーの中でだけだがな」","translation":"If you keep winning in Battling, you can live pretty well. Well, only inside this ghetto, anyway.","id":"008898"}
+{"text":"「俺は何をすればいい？」","translation":"What do I have to do?","id":"008900"}
+{"text":"「勝つ事だ。\n　今夜がお前のデビュー戦だ」","translation":"Win. Tonight's your debut match.","id":"008920"}
+{"text":"「ワシのコネで\n　人気選手『イレヴンの赤い悪魔』との試合を\n　組んだ」","translation":"Through my connections, I've arranged a match against the popular fighter, the \"Red Devil of Eleven.\"","id":"008958"}
+{"text":"「赤い悪魔？」","translation":"Red Devil?","id":"0089A8"}
+{"text":"「謎の選手だよ。\n　乗っているのはＡＴじゃなく、\n　ブリタニアのＫＭＦだ」","translation":"A mysterious fighter. He doesn't ride an AT, but a Britannian KMF.","id":"0089C0"}
+{"text":"「ブリタニア・ユニオンに支配された日本人が\n　奴等への怒りからＫＭＦに乗り、\n　暴れまわってるってギミックだ」","translation":"The gimmick is that he's a Japanese under Britannian Union rule, riding a KMF and rampaging out of hatred for them.","id":"008A10"}
+{"text":"「まあ…客を盛り上げるための\n　ホラ話に決まってるがな」","translation":"Well... it's obviously just a tall tale to get the crowd excited.","id":"008A88"}
+{"text":"「だが、腕はなかなかのもんだ。\n　そいつを倒したとなりゃ、一気に\n　お前の名前も知れ渡る事になる」","translation":"But he's got real skill. If you beat him, your name will spread fast.","id":"008AC8"}
+{"text":"「そうなりゃ、マネージャーの俺にも\n　儲けが転がり込んでくるってわけだ。\n　頼むぞ、キリコ」","translation":"And if that happens, the money will come rolling in for me as your manager too. I'm counting on you, Chirico.","id":"008B30"}
+{"text":"「ああ…」","translation":"Yeah...","id":"008B98"}
+{"text":"「それじゃ、今夜お前の乗るＡＴを見に行くか。\n　今日はブロウバトルだから、\n　火器の使用は禁じられている」","translation":"All right then, let's go take a look at the AT you'll be using tonight. Today's a Blow Battle, so firearms are prohibited.","id":"008BB0"}
+{"text":"「ドッグ系、トータス系…\n　お前の好きなのを選べばいいぞ」","translation":"Dog types, Tortoise types... Pick whichever you like.","id":"008C20"}
+{"text":"（あれはキリコ…。\n　奴め、生きていたか…）","translation":"That's Chirico... So the bastard's still alive...","id":"008C68"}
+{"text":"（そして、この街に現れたという事は\n　奴はギルガメス軍の犬となり、\n　俺達の組織をかぎ回っているのか…）","translation":"So he's in this city... Has he turned Gilgamesh\ndog and gone sniffing around our group?","id":"008CA0"}
+{"text":"工場地区","translation":"Factory District","id":"008D10"}
+{"text":"　\n　\n　　　～シンジュクゲットー　旧倉庫地区～","translation":"~Shinjuku Ghetto - Old Warehouse District~","id":"008D20"}
+{"text":"「よう…やられたようだな」","translation":"Hey... looks like you got beat up.","id":"008D50"}
+{"text":"「お前には関係ない」","translation":"None of your business.","id":"008D78"}
+{"text":"「可愛げのない奴だぜ。\n　人が心配してるんだから、\n　もうちょっと言い方があるだろうが」","translation":"You're a cold one. People are worried about you, so you could at least say it a little nicer.","id":"008D98"}
+{"text":"「このエリア１１にいる間は協力し合うって\n　決めたんだろ」","translation":"We agreed to cooperate while we're in Area 11, didn't we?","id":"008DF8"}
+{"text":"「お前と俺の任務が重なっていただけだ」","translation":"Our missions just happened to overlap.","id":"008E40"}
+{"text":"「エリア１１の解放…。\n　お互いに無理難題を押し付けられたもんだな」","translation":"Liberating Area 11... They sure saddled us both with an impossible task.","id":"008E70"}
+{"text":"「ま…少しでもブリタニア・ユニオンに\n　ゆさぶりがかけられりゃ、成功ってところだな」","translation":"Well... if we can shake up the Britannia Union even a little, I'd call that a success.","id":"008EC0"}
+{"text":"「で、例の奴はどうした？\n　仕留めたのか？」","translation":"So, what happened to that guy? Did you finish him off?","id":"008F20"}
+{"text":"「次は必ず殺す」","translation":"Next time, I'll definitely kill him.","id":"008F58"}
+{"text":"「やめとけって。\n　向こうは別に俺達をどうしようって\n　つもりじゃないだろうさ」","translation":"Forget it. I doubt he means to do anything to us.","id":"008F70"}
+{"text":"「だが、奴は俺達を追ってきた」","translation":"But he came after us.","id":"008FC8"}
+{"text":"「あいつを騒動に巻き込みゃ、\n　こっちの仕事もやりやすくなるって踏んだんで\n　行き先を教えてやったまでだ」","translation":"I figured dragging him into the mess would make our job easier, so I told him where we were headed.","id":"008FF0"}
+{"text":"「その上で俺達の敵に回ったら、\n　そこでやればいいだけの話だ」","translation":"If he turns against us after that, then we deal with him then.","id":"009060"}
+{"text":"「それより、面白い情報を拾ってきたぜ。\n　ブリタニア・ユニオンはゲットーの管理のために\n　アストラギウスの人間を雇ってるんだが…」","translation":"More importantly, I picked up some info. The Britannia Union hires Astragius people to manage the ghettos, but...","id":"0090A8"}
+{"text":"「その連中…いわゆる治安警察は\n　裏でＰＭＣトラストと繋がってるらしい」","translation":"Those guys... the so-called Public Security Police apparently have ties to PMC Trust behind the scenes.","id":"009130"}
+{"text":"「ＰＭＣトラストはギルガメス軍から\n　抜けたレッドショルダーの連中がいる組織だ」","translation":"PMC Trust is an organization that includes former Red Shoulder troops who left the Gilgamesh Army.","id":"009180"}
+{"text":"「それがブリタニア・ユニオンの下請けと\n　繋がってるんだ。\n　こいつは何かあるかも知れないぜ」","translation":"And that outfit is linked to a Britannia Union subcontractor. This could mean something.","id":"0091D8"}
+{"text":"「少しはリアクションしてくれよ。\n　話してて張り合いがねえぜ」","translation":"Could you at least react a little? It's no fun talking to you.","id":"009240"}
+{"text":"「まあいい…。\n　そろそろ俺達も行動を起こそうぜ。\n　次に騒動が起きたら、動くとするか」","translation":"Whatever... it's about time we made our move too. When the next disturbance breaks out, we'll act.","id":"009288"}
+{"text":"黒バック","translation":"Black screen","id":"00BE88"}
+{"text":"（この街は地獄だ…。\n　俺が戦った戦場と同じに、\n　それは地獄に見えた）","translation":"This city is hell... Just like the battlefields I'd fought on, it looked like hell to me.","id":"00BE98"}
+{"text":"（俺はどうやらまた地獄に\n　迷い込んでしまったらしい…）","translation":"Looks like I've wandered into hell again...","id":"00BEE8"}
+{"text":"　\n　\n　　　　～シンジュクゲットー　倉庫街～","translation":"~Shinjuku Ghetto: Warehouse District~","id":"00BF28"}
+{"text":"「ここはワシが仕入れた武器を隠しておく倉庫だ。\n　治安警察の目も、ここまでは届かん」","translation":"This warehouse is where I hide the weapons I procure. The Public Security Police's eyes don't reach this far.","id":"00BF58"}
+{"text":"「俺達のガンダムも隠せるとはな。\n　悪くないアジトだぜ」","translation":"So we can even hide our Gundams here, huh? Not a bad hideout.","id":"00BFB8"}
+{"text":"「とりあえず、ありがとう。\n　離脱を手伝ってくれた事は礼を言う」","translation":"For now, thanks. I appreciate you helping us get out.","id":"00BFF8"}
+{"text":"「へえ…あんたがイレヴンの赤い悪魔か」","translation":"Heh... so you're the Red Devil of Eleven.","id":"00C040"}
+{"text":"「あれ！　お前、もしかして…！？」","translation":"Huh!? You... could it be...?!","id":"00C070"}
+{"text":"「大丈夫か、カレン！」","translation":"You okay, Kallen?!","id":"00C0A0"}
+{"text":"「見ての通り、傷一つないですよ。\n　ＫＭＦも無事です」","translation":"As you can see, not a scratch on me. And my KMF's fine too.","id":"00C0C0"}
+{"text":"「あれ？\n　どうして、ここにバニラがいんだよ？」","translation":"Huh? Why is Vanilla here?","id":"00C100"}
+{"text":"「驚いてるのはこっちだぜ。\n　どっかで見た顔だと思ったら、\n　玉城の仲間がイレヴンの赤い悪魔だったとはよ」","translation":"I'm the one who's surprised. So your friend really is the Red Devil.","id":"00C138"}
+{"text":"「知り合いなの？」","translation":"You know each other?","id":"00C1A8"}
+{"text":"「ああ、こいつらは俺がとっつぁんの所から\n　武器を仕入れて流しているレジスタンスの\n　グループだ」","translation":"Yeah, these guys are a resistance group I supply with weapons I get from the old man.","id":"00C1C8"}
+{"text":"「イレヴンの赤い悪魔が\n　反ブリタニア・ユニオンの\n　レジスタンスだったとはな」","translation":"So the Red Devil of Eleven was part of the anti-Britannia Union resistance.","id":"00C230"}
+{"text":"「噂も半分は当たりだったって事か」","translation":"Guess the rumors were half true after all.","id":"00C288"}
+{"text":"「悪いけど、仲間を呼ばせてもらった。\n　助けてもらったけれど、あんた達を\n　信用したわけじゃないから」","translation":"Sorry, but I called in my comrades. You helped us, but that doesn't mean I trust you.","id":"00C2B8"}
+{"text":"「当然だな。\n　ここにいるのは追われる身ってのは同じだが、\n　数時間前までは全く互いを知らない間柄だ」","translation":"Fair enough. We're all on the run here, but until a few hours ago, we were complete strangers.","id":"00C328"}
+{"text":"「そうかい、死神？\n　俺の事を忘れたとは言わせないぜ」","translation":"Oh yeah, Shinigami? Don't tell me you've forgotten me.","id":"00C398"}
+{"text":"「だいたい、俺がエリア１１に来たのは\n　お前の誘いに乗ってやったからだぜ」","translation":"Besides, I only came to Area 11 because I took you up on your invitation.","id":"00C3D8"}
+{"text":"「意外に鋭いな。\n　ちょっと見直したぜ、トラブルメーカーさんよ」","translation":"You're sharper than I expected. I'm starting to think better of you, Mr. Troublemaker.","id":"00C428"}
+{"text":"「俺だって\n　好きで揉め事に首を突っ込んでるわけじゃ\n　ねえんだよ」","translation":"It's not like I go sticking my nose into trouble because I want to.","id":"00C470"}
+{"text":"「で、そっちの無口な奴が、\n　可変型のガンダムのパイロットか？」","translation":"So, that quiet guy over there is the pilot of the transforming Gundam?","id":"00C4B8"}
+{"text":"「ああ、そうだ。\n　名前はヒイロ・ユイってんだ」","translation":"Yeah, that's right. His name's Heero Yuy.","id":"00C500"}
+{"text":"「先に言っとくぜ。\n　誤解しているようだが、\n　俺はお前等を的にしてるわけじゃない」","translation":"Let me say this first. You seem to have the wrong idea, but I'm not targeting you guys.","id":"00C538"}
+{"text":"「俺もお前も怪我をしてる以上、\n　昼の事は恨みっこ無しだ」","translation":"Since we're both injured, let's call it even over what happened earlier today.","id":"00C590"}
+{"text":"「ヒイロ・ユイ…。\n　非暴力・非武装を謳っていた\n　かつてのコロニー解放運動の指導者か」","translation":"Heero Yuy... The leader of the old colony liberation movement who preached nonviolence and disarmament?","id":"00C5D0"}
+{"text":"「その人って暗殺されたんですよね…」","translation":"He was assassinated, wasn't he...?","id":"00C630"}
+{"text":"「ああ…。\n　そして、彼の死に怒ったコロニー側の\n　抗議運動は暴動に発展し…」","translation":"Yeah... And the colony-side protests, enraged by his death, escalated into riots...","id":"00C660"}
+{"text":"「結局、地球側の三大国家による\n　コロニー弾圧の契機となってしまった」","translation":"In the end, it became the trigger for the three major Earth nations to crack down on the colonies.","id":"00C6B0"}
+{"text":"「こいつのコードネームは\n　その指導者にあやかってるんだろうな」","translation":"I guess his codename was taken in honor of that leader.","id":"00C700"}
+{"text":"「俺はデュオ・マックスウェル。\n　相棒はガンダムデスサイズだ」","translation":"I'm Duo Maxwell. My partner is Gundam Deathscythe.","id":"00C748"}
+{"text":"「俺は扇要。\n　レジスタンスの扇グループのリーダーを\n　やっている」","translation":"I'm Ohgi Kaname. I lead the Ohgi resistance group.","id":"00C790"}
+{"text":"「俺は玉城真一郎ってんだ。\n　グループの財務担当なんで、バニラとは\n　武器の買い付けで顔なじみだったんだ」","translation":"I'm Shinichiro Tamaki. I handle the group's finances, so I know Vanilla from buying weapons.","id":"00C7D8"}
+{"text":"「あたしは紅月カレン。\n　バトリングには実戦訓練を兼ねて、\n　素性を隠して参加していた」","translation":"I'm Kallen Kouzuki. I took part in Battling while hiding my identity, as part of my combat training.","id":"00C848"}
+{"text":"「じゃあ、次は俺だな。\n　名前は$F、\n　$nと呼んでくれ」","translation":"Then I'm next. My name is $F, so call me $n.","id":"00C8A8"}
+{"text":"「アクシオン財団のテストパイロットで、\n　あのブラスタの戦闘データを\n　集める仕事をしてる」","translation":"I'm a test pilot for the Axion Foundation, and my job is to collect combat data on that Brasta.","id":"00C8E8"}
+{"text":"「ねえ、あんたも自己紹介しなよ」","translation":"Hey, you should introduce yourself too.","id":"00C948"}
+{"text":"「キリコ・キュービィーだ」","translation":"Chirico Cuvie.","id":"00C970"}
+{"text":"「いい腕してるな、兄さん。\n　ゴウトのとっつぁんは放っといて\n　俺と組まねえか？」","translation":"You've got some real skill, brother. How about forgetting old man Gout and teaming up with me instead?","id":"00C998"}
+{"text":"「あんた、まだバトリングをやらせる気？\n　あれだけの騒動起こしたんだから、\n　無理に決まってるよ！」","translation":"You still want him doing Battling? After causing all that trouble, there's no way!","id":"00C9F0"}
+{"text":"「ばぁ～か！\n　俺だって、そんな事ぁわかってるに\n　決まってるだろうが！」","translation":"Idiot! Of course I know that already!","id":"00CA60"}
+{"text":"「こいつの腕があれば、\n　もっと大きな仕事が出来るぜ。\n　な…だから、俺と組もうぜ」","translation":"With his skills, we could pull off even bigger jobs. So come on, team up with me.","id":"00CAB0"}
+{"text":"「勝手に話を進めるな！\n　キリコはワシと契約が済んでるんだ！」","translation":"Don't go deciding things on your own! Chirico already has a contract with me!","id":"00CB10"}
+{"text":"「駄目だよ、キリコ！\n　こんな奴等と組んだら、ロクな目に\n　遭わないよ！」","translation":"Don't do it, Chirico! If you team up with guys like these, nothing good will come of it!","id":"00CB58"}
+{"text":"「ね、あたいと組もうよ。\n　あんたの腕があれば、幾らでも\n　稼ぐ当てがあるさ！」","translation":"Hey, team up with me instead. With your skills, there's no end to the money we could make!","id":"00CBA8"}
+{"text":"「俺だ！　俺がこいつと組むんだ！」","translation":"Me! I'm the one teaming up with him!","id":"00CC00"}
+{"text":"「ワシだ！　ワシがキリコのマネージャーだ！」","translation":"Me! I'm Chirico's manager!","id":"00CC30"}
+{"text":"「盛り上がってるのはいいけどよ、\n　当の本人は聞いちゃいねえぜ」","translation":"Nice to see you're all fired up, but the man himself isn't listening to a word of it.","id":"00CC68"}
+{"text":"「寝てるの？\n　だとしたら、相当の図太い神経だね…」","translation":"Is he asleep? If so, he's got some serious nerve...","id":"00CCB0"}
+{"text":"「いや、違うだろう…。\n　俺達の話に全く興味がないようだ」","translation":"No, that's not it... He doesn't seem interested in our conversation at all.","id":"00CCF0"}
+{"text":"「やれやれ…。\n　無愛想もここまでいくと、\n　人間離れしてるな」","translation":"Good grief... when someone's this unfriendly, it's practically inhuman.","id":"00CD30"}
+{"text":"「ま…俺は、こういうのは慣れっこだけどな」","translation":"Well... I'm used to this sort of thing, though.","id":"00CD78"}
+{"text":"「こいつも無口を通り越したレベルだな」","translation":"This guy's gone way past just being quiet.","id":"00CDB0"}
+{"text":"「元々こういう奴らしいぜ。\n　誰に対しても、こんなもんだ」","translation":"Apparently that's just how he is. He's like this with everybody.","id":"00CDE0"}
+{"text":"「もっとも、俺もエリア１１に来てからの\n　付き合いだけどな」","translation":"Though, to be fair, I've only known him since I came to Area 11.","id":"00CE28"}
+{"text":"「コロニーのガンダムは\n　全部で５機が確認されているが、\n　それぞれ別の組織に属してるのか？」","translation":"We've confirmed a total of five Gundams from the colonies, but do they each belong to different organizations?","id":"00CE70"}
+{"text":"「まあな。\n　少なくとも俺とヒイロは別のコロニーから\n　送り込まれてる」","translation":"Yeah. At the very least, Heero and I were sent from different colonies.","id":"00CED0"}
+{"text":"「ブリタニア・ユニオンをかく乱するって目的が\n　同じだから、ここでは手を組んでるだけだ」","translation":"We're only working together here because we share the same goal: to disrupt the Britannian Union.","id":"00CF20"}
+{"text":"「ねえ、君…モビルスーツ１機で\n　ブリタニア・ユニオンに勝てると\n　思ってるの？」","translation":"Hey, you... do you really think you can beat the Britannian Union with a single Mobile Suit?","id":"00CF80"}
+{"text":"「全軍と正面から戦って勝てるとは\n　さすがに思ってないさ」","translation":"I'm not arrogant enough to think I can beat their entire army head-on.","id":"00CFD8"}
+{"text":"「だが、俺達がブリタニア・ユニオンに\n　揺さぶりをかければ、三大国家の\n　軍事バランスが崩れる」","translation":"But if we shake up the Britannian Union, it'll upset the military balance among the three major powers.","id":"00D020"}
+{"text":"「そうなれば、コロニー側が\n　有利に事を運ぶ事が出来るというわけか」","translation":"So if that happens, the colonies will be able to turn things to their advantage?","id":"00D088"}
+{"text":"「だから、俺達は\n　ブリタニア・ユニオンの重要拠点である\n　エリア１１を攻撃してるのさ」","translation":"That's why we're attacking Area 11, one of the Britannian Union's key strongholds.","id":"00D0D0"}
+{"text":"「なあ、デュオ君…\n　君とヒイロ君の力を俺達に貸してくれないか？」","translation":"Hey, Duo... would you and Heero lend us your strength?","id":"00D130"}
+{"text":"「レジスタンスグループに\n　協力しろって事か？」","translation":"You want us to cooperate with your resistance group?","id":"00D178"}
+{"text":"「俺達はそれ程大きなグループではないが、\n　ブリタニア・ユニオンの支配に対して\n　俺達なりのやり方で抵抗している」","translation":"We're not a very large group, but we're resisting Britannian Union rule in our own way.","id":"00D1B0"}
+{"text":"「そのためにあたしはＫＭＦの操縦を\n　覚えたんだ」","translation":"That's why I learned how to pilot a KMF.","id":"00D228"}
+{"text":"「だが、現実は俺達だけでは\n　治安警察の暴徒鎮圧部隊にさえ\n　苦戦する有様だ」","translation":"But the truth is, on our own, we struggle even against the Public Security police's riot suppression units.","id":"00D268"}
+{"text":"「頼む、デュオ君。\n　君達と俺達の目的は同じだ。\n　手を貸してくれ」","translation":"Please, Duo. Your goal and ours are the same. Help us.","id":"00D2B8"}
+{"text":"「…そうだな…。\n　確かに俺とヒイロだけじゃ出来る事も\n　限られる…」","translation":"...Yeah... It's true, there's only so much Heero and I can do on our own...","id":"00D300"}
+{"text":"「あんたらの力を貸してもらえば、\n　任務達成も見えてくるかもな」","translation":"If we had your help, completing the mission might actually be within reach.","id":"00D350"}
+{"text":"「では、俺達に協力してくれるんだな？」","translation":"Then you'll help us?","id":"00D398"}
+{"text":"「ヒイロ…お前もいいな？」","translation":"Heero... you're okay with this too, right?","id":"00D3C8"}
+{"text":"「好きにしろ」","translation":"Do as you like.","id":"00D3F0"}
+{"text":"「じゃあ、ＯＫって事にさせてもらうぜ」","translation":"Then I'll take that as a yes.","id":"00D408"}
+{"text":"「扇よぉ、じゃあ俺も手伝ってやるぜ」","translation":"Hey, Ohgi, I'll help out too.","id":"00D438"}
+{"text":"「前にレジスタンスに誘った時には\n　断ったのにか？」","translation":"Even though you turned me down when I asked you to join the resistance before?","id":"00D468"}
+{"text":"「ガンダムちゃんが２機も加わったとなりゃ、\n　話は別だ」","translation":"Now that you've got two Gundams on your side, that changes things.","id":"00D4A0"}
+{"text":"「俺も治安警察の野郎には\n　いつか一泡吹かせてやりたいと思ってたからな」","translation":"I've been wanting to teach those Public Security bastards a lesson someday anyway.","id":"00D4E0"}
+{"text":"「それはワシも同じだ。\n　どうだ、扇…バニラを通さず、\n　ワシが直接武器を売ってやるぞ」","translation":"Same here. How about it, Ohgi... I'll sell you weapons directly, no need to go through Vanilla.","id":"00D530"}
+{"text":"「それは助かります。\n　是非お願いします、ゴウトさん」","translation":"That would be a huge help. Please do, Gouto-san.","id":"00D590"}
+{"text":"「いいって事よ。\n　俺だってお得意さんが出来りゃ、\n　商売の得になる」","translation":"Don't mention it. If I can get myself a regular customer, that's good for business too.","id":"00D5D0"}
+{"text":"「ついでに出血大サービスだ。\n　キリコもお前達に貸してやる」","translation":"And while I'm at it, here's a special bonus. I'll lend you Chirico too.","id":"00D620"}
+{"text":"「彼が加わってくれるのは心強いですけど、\n　本人の意思を聞かなくていいんですか？」","translation":"It's reassuring to have him with us, but shouldn't we ask what he wants first?","id":"00D668"}
+{"text":"「こいつもボトムズ乗りだ。\n　戦いの中でしか生きていけんさ」","translation":"He's a VOTOMS pilot too. He can only live in the midst of battle.","id":"00D6C0"}
+{"text":"「目を開けたって事は\n　話に興味が出てきたって事か…」","translation":"He opened his eyes... So he's interested in the offer?","id":"00D708"}
+{"text":"「治安警察には俺も借りがある。\n　その話、乗ってもいい」","translation":"I've got a score to settle with the Public Security police too. I'm in.","id":"00D748"}
+{"text":"「そうこなくっちゃ！\n　へへ…お前と一緒なら、デカい仕事が\n　出来るってもんだ」","translation":"That's more like it! Heh... with you around, we can pull off a big job.","id":"00D788"}
+{"text":"「キリコがやるってんなら、\n　あたいも行くよ」","translation":"If Chirico's in, I'm coming too.","id":"00D7E0"}
+{"text":"「これでもゲットーの情報についちゃ、\n　何でも仕入れる自信があるよ」","translation":"When it comes to information from the ghetto, I'm confident I can get my hands on anything.","id":"00D818"}
+{"text":"「よかったな、レジスタンス。\n　一気に戦力アップだ」","translation":"Good for you, resistance. That's a big boost to your fighting strength all at once.","id":"00D868"}
+{"text":"「他人事みたいに言ってんなよ。\n　お前にも手伝ってもらうぜ」","translation":"Don't act like it's none of your business. You're helping too.","id":"00D8A0"}
+{"text":"「俺か？」","translation":"Me?","id":"00D8E8"}
+{"text":"「あれだけ派手に暴れたんだ。\n　もうお前だって表通りは歩けないぜ」","translation":"After all the hell you raised, you can't exactly walk the main streets anymore either.","id":"00D8F8"}
+{"text":"「確かにな…。\n　…そういう生活にはうんざりだったが、\n　身についた癖ってのは抜けないもんだ」","translation":"True enough... I was sick of living like that, but habits you pick up don't go away so easily.","id":"00D940"}
+{"text":"「どうだい、$n君？\n　よかったら、君も俺達に協力してくれないか？」","translation":"What do you say, $n? If you're willing, would you help us too?","id":"00D9A0"}
+{"text":"「幾ら出す？」","translation":"How much are you paying?","id":"00D9E8"}
+{"text":"「え…？」","translation":"Huh...?","id":"00DA00"}
+{"text":"「すまないな。\n　俺は借金持ちの身なんで、\n　この話は報酬次第って事にさせてもらう」","translation":"Sorry, but I'm in debt, so whether I take this job depends on the pay.","id":"00DA10"}
+{"text":"「幾らなら飲むんだよ？」","translation":"How much would it take to get you on board?","id":"00DA68"}
+{"text":"「な！？」","translation":"What!?","id":"00DA88"}
+{"text":"「このド守銭奴が！\n　物事には限度ってもんがあるだろうが！」","translation":"You damn penny-pincher! There's such a thing as going too far, you know!","id":"00DA98"}
+{"text":"「俺と同じリアクションだな」","translation":"That's the same reaction I had.","id":"00DAE0"}
+{"text":"「わかった。\n　俺も無茶を言った事は理解した。\n　一仕事５０Ｇでどうだ？」","translation":"I get it. I realize I was asking too much. How about 50 G per job?","id":"00DB08"}
+{"text":"「それ位なら何とかなりそうだ」","translation":"If it's that much, we should be able to manage it.","id":"00DB58"}
+{"text":"「何よ！　あたいらの時とは\n　全然話が違うじゃない！」","translation":"What!? That's completely different from what you offered us!","id":"00DB80"}
+{"text":"「俺も世間の相場を学んだんだよ。\n　ま…ブリタニア・ユニオンのやり方に\n　ちょいと言いたい事もあるんでな」","translation":"I've learned the going rate. Well... I've got a few things to say about the Britannia Union's way of doing things too.","id":"00DBC0"}
+{"text":"「あんたもブリタニアに恨みがあるの？」","translation":"You got a grudge against Britannia too?","id":"00DC30"}
+{"text":"「ま…昔の話だ。\n　逆恨みに近いがな」","translation":"Well... that's an old story. It's closer to a misplaced grudge, really.","id":"00DC60"}
+{"text":"「じゃあ、決まりだな。\n　ここはアジトの一つとして自由に\n　使ってくれ」","translation":"Then it's settled. Feel free to use this place as one of your hideouts.","id":"00DC90"}
+{"text":"「よっしゃ！\n　一気に戦力が集まったぜ！」","translation":"All right! We've gathered quite a force all at once!","id":"00DCE0"}
+{"text":"「頑張ろうね、扇さん」","translation":"Let's do our best, Mr. Ohgi.","id":"00DD10"}
+{"text":"「あ、ああ…」","translation":"Y-yeah...","id":"00DD30"}
+{"text":"（勢いで協力を頼んだが、\n　この戦力を俺は使いこなす事が\n　出来るのか…）","translation":"I asked for their cooperation on impulse, but can I really make use of all this strength...?","id":"00DD48"}
+{"text":"アッシュフォード学園　外観","translation":"Ashford Academy - Exterior","id":"00DD98"}
+{"text":"　\n　\n　　　　～アッシュフォード学園　外観～","translation":"~Ashford Academy - Exterior~","id":"00DDB8"}
+{"text":"「おっす、沙慈！\n　昨日のニュース、見たか？」","translation":"Hey, Saji! Did you see yesterday's news?","id":"00DDE8"}
+{"text":"「ゲットーの方の騒動だよね。\n　すごかったみたいだね」","translation":"You mean the trouble in the ghetto, right? Sounds like it was pretty intense.","id":"00DE20"}
+{"text":"「ガンダムが現れたって聞いたぜ。\n　ソレスタルビーイングがエリア１１に\n　来たのかな？」","translation":"I heard a Gundam showed up. Could Celestial Being have come to Area 11?","id":"00DE60"}
+{"text":"「いや…違うよ。\n　あれはコロニーから送り込まれたって\n　噂されてるガンダムだ」","translation":"No... I don't think so. That Gundam's rumored to have been sent from the colonies.","id":"00DEC0"}
+{"text":"「コロニーから？\n　何でそいつらがエリア１１にいるの？」","translation":"From the colonies? Why would they be in Area 11?","id":"00DF18"}
+{"text":"「エリア１１を混乱させる事で\n　ブリタニア・ユニオンに揺さぶりを掛けるのが\n　目的らしいんだ」","translation":"Apparently their goal is to throw Area 11 into chaos and shake up the Britannia Union.","id":"00DF58"}
+{"text":"「詳しいのね、沙慈」","translation":"You know a lot about this, Saji.","id":"00DFC0"}
+{"text":"「ほら…僕の姉さんがＪＮＮの記者で、\n　国際情勢を追ってるから」","translation":"Well... my sister's a reporter for JNN, and she covers international affairs.","id":"00DFE0"}
+{"text":"「そっか…。\n　…お…プリンセスのご登校だ」","translation":"I see... Oh... here comes the princess.","id":"00E028"}
+{"text":"「おはようございます、皆さん」","translation":"Good morning, everyone.","id":"00E060"}
+{"text":"「おはよう、リリーナ。\n　昨日の歓迎会の後、どこかに寄ってから\n　帰ったみたいだけど…」","translation":"Good morning, Relena. It looked like you stopped somewhere on your way home after yesterday's welcome party...","id":"00E088"}
+{"text":"「ちょっと父に頼まれていたものを\n　探しに行っていたんです」","translation":"I went to look for something my father asked me to find.","id":"00E0F0"}
+{"text":"「よかった。\n　昨日、ルルに変な事を言われたんで\n　ゲットーに行ったのかと思った」","translation":"That's a relief. Lulu said something strange yesterday, so I thought maybe you'd gone to the ghetto.","id":"00E138"}
+{"text":"「もしゲットーに行ってたら、危なかったね。\n　昨日は大きな戦闘があったみたいだし」","translation":"If you'd gone to the ghetto, that would've been dangerous. It sounds like there was a major battle there yesterday.","id":"00E198"}
+{"text":"（あの怪我をした少年…。\n　昨日のゲットーの戦いに関係があるような\n　気がする…）","translation":"That injured boy... I have a feeling he was connected to yesterday's battle in the ghetto...","id":"00E1F8"}
+{"text":"（彼の目は戦う意志に満ちていた…）","translation":"His eyes were full of the will to fight...","id":"00E258"}
+{"text":"「おはよう、リリーナ。\n　朝から考え過ぎると授業中に\n　疲れてしまうな」","translation":"Good morning, Relena. If you think too much first thing in the morning, you'll wear yourself out in class.","id":"00E288"}
+{"text":"「ルルーシュさん…」","translation":"Lelouch...","id":"00E2E0"}
+{"text":"「君のお父さんの見立て通り、\n　このエリア１１は変わろうとしているのかも\n　知れないね」","translation":"Just as your father predicted, this Area 11 may be about to change.","id":"00E300"}
+{"text":"「コロニーのガンダムですか…」","translation":"The colony Gundam...","id":"00E368"}
+{"text":"「それだけじゃない。\n　この間のソレスタルビーイングの宣言で\n　世界全体が動き始めている」","translation":"It's not just that. Ever since Celestial Being's declaration the other day, the whole world has started moving.","id":"00E390"}
+{"text":"「このエリア１１も\n　きっとその渦に巻き込まれるだろう」","translation":"This Area 11 will surely be swept up in that turmoil as well.","id":"00E3F8"}
+{"text":"「はい…」","translation":"Yes...","id":"00E440"}
+{"text":"（変わりつつある世界の中で俺に何が出来る…？\n　今の俺ではナナリーのための平和な世界を\n　創ってやる事は出来ない…）","translation":"In this changing world, what can I do...? As I am now, I can't create a peaceful world for Nunnally...","id":"00E458"}
+{"text":"（力が欲しい…。\n　この世界を変えるだけの力が…）","translation":"I need power... Power enough to change this world...","id":"00E4D8"}

@@ -1,0 +1,983 @@
+{"text":"■サブオーダー","translation":"Saves","id":"menu_help_000001"}
+{"text":"「スーパーロボット軍団、怒りの大反撃！！」","translation":"「スーパーロボット軍団、怒りの大反撃！！」","id":"menu_help_000002"}
+{"text":"「１２３４５６７８９０１２３４５６７８９０１」","translation":"「１２３４５６７８９０１２３４５６７８９０１」","id":"menu_help_000003"}
+{"text":"「Ｅｌｅｍｅｎｔａｌ」","translation":"「Ｅｌｅｍｅｎｔａｌ」","id":"menu_help_000004"}
+{"text":"「ＨＢ」","translation":"「ＨＢ」","id":"menu_help_000005"}
+{"text":"「ＮｏＳｉｚｅ」","translation":"「ＮｏＳｉｚｅ」","id":"menu_help_000006"}
+{"text":"『　　　　』","translation":"『　　　　』","id":"menu_help_000007"}
+{"text":"『　　　　』Ｕｓｅ","translation":"『　　　　』Ｕｓｅ","id":"menu_help_000008"}
+{"text":"『装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ』","translation":"『装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ』","id":"menu_help_000009"}
+{"text":"【　　　　　　　　】","translation":"【　　　　　　　　】","id":"menu_help_000010"}
+{"text":"【】\n\n\n【】\n【】","translation":"【】\n\n\n【】\n【】","id":"menu_help_000011"}
+{"text":"【】\n【】\n\n\n【】\n【】\n【】\n【】\n【】\n【】\n【】","translation":"【】\n【】\n\n\n【】\n【】\n【】\n【】\n【】\n【】\n【】","id":"menu_help_000012"}
+{"text":"【シミュレーター】","translation":"【Simulation】","id":"menu_help_000013"}
+{"text":"【トレーニング】","translation":"【Training】","id":"menu_help_000014"}
+{"text":"【パトロール】","translation":"【Patrol】","id":"menu_help_000015"}
+{"text":"【・ＢＧＭ・】","translation":"【・ＢＧＭ・】","id":"menu_help_000016"}
+{"text":"【・Ｓｏｒｔｉｅ・】","translation":"【・Ｓｏｒｔｉｅ・】","id":"menu_help_000017"}
+{"text":"【資金調達】","translation":"【Funds】","id":"menu_help_000018"}
+{"text":"【ＡＬＬＹ】","translation":"【ＡＬＬＹ】","id":"menu_help_000019"}
+{"text":"【Ｃｈａｎｇｅ】","translation":"【Ｃｈａｎｇｅ】","id":"menu_help_000020"}
+{"text":"【ＤｅｆＴｂｌ】","translation":"【ＤｅｆＴｂｌ】","id":"menu_help_000021"}
+{"text":"【Ｅｑｕｉｐ】","translation":"【Ｅｑｕｉｐ】","id":"menu_help_000022"}
+{"text":"【ＦＯＥＳ】","translation":"【ＦＯＥＳ】","id":"menu_help_000023"}
+{"text":"【Ｍｅｃｈ】","translation":"【Ｍｅｃｈ】","id":"menu_help_000024"}
+{"text":"【Ｐｉｌｏｔｓ】","translation":"【Ｐｉｌｏｔｓ】","id":"menu_help_000025"}
+{"text":"【ＱｕｉｃｋＣｍｄ】","translation":"【ＱｕｉｃｋＣｍｄ】","id":"menu_help_000026"}
+{"text":"【ＳｕｂＯｒｄｅｒ】","translation":"【ＳｕｂＯｒｄｅｒ】","id":"menu_help_000027"}
+{"text":"【Ｓｕｐｐ】","translation":"【Ｓｕｐｐ】","id":"menu_help_000028"}
+{"text":"【Ｓｗａｐ】","translation":"【Ｓｗａｐ】","id":"menu_help_000029"}
+{"text":"【Ｔｒａｉｎ】","translation":"【Ｔｒａｉｎ】","id":"menu_help_000030"}
+{"text":"【ＴｒｐＴｂｌ】","translation":"【ＴｒｐＴｂｌ】","id":"menu_help_000031"}
+{"text":"【Ｕｐｇｒａｄｅ】","translation":"【Ｕｐｇｒａｄｅ】","id":"menu_help_000032"}
+{"text":"おまかせで設定します。","translation":"Configure","id":"menu_help_000033"}
+{"text":"かく乱","translation":"かく乱","id":"menu_help_000034"}
+{"text":"このメンバーで出撃しますか？","translation":"Sortie team？","id":"menu_help_000035"}
+{"text":"この母艦で出撃しますか？","translation":"Sortie ship?","id":"menu_help_000036"}
+{"text":"しない","translation":"しない","id":"menu_help_000037"}
+{"text":"する","translation":"する","id":"menu_help_000038"}
+{"text":"を獲得しました。","translation":"Obtain","id":"menu_help_000039"}
+{"text":"エースボーナス","translation":"AceBns","id":"menu_help_000040"}
+{"text":"カスタムボーナス","translation":"CustBns","id":"menu_help_000041"}
+{"text":"カタカナ","translation":"Kata","id":"menu_help_000042"}
+{"text":"カーソル移動","translation":"Cursor","id":"menu_help_000043"}
+{"text":"キャラクター事典へ","translation":"Character","id":"menu_help_000044"}
+{"text":"クリアデータ引継ぎ","translation":"SaveTrans","id":"menu_help_000045"}
+{"text":"ゲーム中に登場したキャラクターのデータを閲覧します。","translation":"ゲーム中に登場したキャラクターのデータを閲覧します。","id":"menu_help_000046"}
+{"text":"コマンド選択","translation":"Commnd","id":"menu_help_000047"}
+{"text":"サブパイロット","translation":"SbPilot","id":"menu_help_000048"}
+{"text":"サブ情報切換え","translation":"SbInfo","id":"menu_help_000049"}
+{"text":"ソート条件切換え","translation":"Sort","id":"menu_help_000050"}
+{"text":"デモ：ＯＮ／ＯＦＦ切換え","translation":"Demo:On/Off","id":"menu_help_000051"}
+{"text":"バリア・アーマー発動時の消費ＥＮを０にする","translation":"バリア・アーマー発動時の消費ＥＮを０にする","id":"menu_help_000052"}
+{"text":"パイロット変更","translation":"PChange","id":"menu_help_000053"}
+{"text":"パイロット選択","translation":"PSelect","id":"menu_help_000054"}
+{"text":"パラメータ操作","translation":"Params","id":"menu_help_000055"}
+{"text":"ページ切換え","translation":"N.Page","id":"menu_help_000056"}
+{"text":"ボタンを押している間、ＭＡＰカーソルの移動速度が速くなります。","translation":"ボタンを押している間、ＭＡＰカーソルの移動速度が速くなります。","id":"menu_help_000057"}
+{"text":"ボーナス強化パーツ","translation":"BonusPart","id":"menu_help_000058"}
+{"text":"ボーナス資金","translation":"Bonus$","id":"menu_help_000059"}
+{"text":"マジンガーＺ零号機\nボスボロット\nＴＦＯ\nゲッタードラゴン\nニルヴァーシュｔｙｐｅＺＥＲＯ\n百式\n月光号\nレディコマンド\nバルディオス\nグレンダイザー\nグレンラガン","translation":"マジンガーＺ零号機\nボスボロット\nＴＦＯ\nゲッタードラゴン\nニルヴァーシュｔｙｐｅＺＥＲＯ\n百式\n月光号\nレディコマンド\nバルディオス\nグレンダイザー\nグレンラガン","id":"menu_help_000060"}
+{"text":"マップをみる","translation":"SeeMap","id":"menu_help_000061"}
+{"text":"マップ上のピースへ","translation":"マップ上のピースへ","id":"menu_help_000062"}
+{"text":"マップ上のピースへ（マーク実行）","translation":"GoToUnit )Mark","id":"menu_help_000063"}
+{"text":"マークＯＦＦ（戻る）","translation":"Mark Off","id":"menu_help_000064"}
+{"text":"マークＯＮ／ＯＦＦ","translation":"Mark Tgl","id":"menu_help_000065"}
+{"text":"ユニット変更","translation":"UChnge","id":"menu_help_000066"}
+{"text":"ユニット選択","translation":"USelct","id":"menu_help_000067"}
+{"text":"ヨーコ","translation":"ヨーコ","id":"menu_help_000068"}
+{"text":"ロボット大図鑑へ","translation":"ロボット大図鑑へ","id":"menu_help_000069"}
+{"text":"・その他","translation":"・その他","id":"menu_help_000070"}
+{"text":"・アーマー消費ＥＮを０","translation":"・アーマー消費ＥＮを０","id":"menu_help_000071"}
+{"text":"・サテライトチャージ","translation":"・サテライトチャージ","id":"menu_help_000072"}
+{"text":"・スキル","translation":"・スキル","id":"menu_help_000073"}
+{"text":"・再攻撃時使用可能","translation":"・再攻撃時使用可能","id":"menu_help_000074"}
+{"text":"・反撃時使用可能","translation":"・反撃時使用可能","id":"menu_help_000075"}
+{"text":"・合体攻撃相手","translation":"・合体攻撃相手","id":"menu_help_000076"}
+{"text":"・地形","translation":"・地形","id":"menu_help_000077"}
+{"text":"・射程","translation":"・射程","id":"menu_help_000078"}
+{"text":"・弾数","translation":"・弾数","id":"menu_help_000079"}
+{"text":"・援護攻撃時使用可能","translation":"・援護攻撃時使用可能","id":"menu_help_000080"}
+{"text":"・気力","translation":"・気力","id":"menu_help_000081"}
+{"text":"・移動後可能","translation":"・移動後可能","id":"menu_help_000082"}
+{"text":"・－－－－－－－－－","translation":"・－－－－－－－－－","id":"menu_help_000083"}
+{"text":"・ＢＧＭ　Ｐｌａｙ\n・ＳｅｔＢＧＭ\n・Ｆｏｒｃｅ\n・ＳｏｒｔＳａｖｅＩｎｆｏ\n・ＩｎｓｔａｌｌＤａｔａ","translation":"・ＢＧＭ　Ｐｌａｙ\n・ＳｅｔＢＧＭ\n・Ｆｏｒｃｅ\n・ＳｏｒｔＳａｖｅＩｎｆｏ\n・ＩｎｓｔａｌｌＤａｔａ","id":"menu_help_000084"}
+{"text":"・ＥＮ","translation":"・ＥＮ","id":"menu_help_000085"}
+{"text":"ーー","translation":"ーー","id":"menu_help_000086"}
+{"text":"ーーーー","translation":"ーーーー","id":"menu_help_000087"}
+{"text":"ーーーーーーーー","translation":"ーーーーーーーー","id":"menu_help_000088"}
+{"text":"一字削除","translation":"Dek","id":"menu_help_000089"}
+{"text":"下記の使用条件を満たしていません。","translation":"Requirement unmet","id":"menu_help_000090"}
+{"text":"下記の換装パーツを入手しました。","translation":"Replacements","id":"menu_help_000091"}
+{"text":"下記の機体を入手しました。","translation":"Unit Obtained","id":"menu_help_000092"}
+{"text":"仕様","translation":"仕様","id":"menu_help_000093"}
+{"text":"使用条件","translation":"","id":"menu_help_000094"}
+{"text":"修理費","translation":"Rp$","id":"menu_help_000095"}
+{"text":"個別／一括切換え","translation":"Ind/Grp","id":"menu_help_000096"}
+{"text":"候補","translation":"Op","id":"menu_help_000097"}
+{"text":"元に戻します。","translation":"Revert","id":"menu_help_000098"}
+{"text":"入力","translation":"In","id":"menu_help_000099"}
+{"text":"入力できる文字の種類を切り替えます。","translation":"Switch chars","id":"menu_help_000100"}
+{"text":"入力をやめますか？","translation":"Finish?","id":"menu_help_000101"}
+{"text":"入力を決定して終了します。","translation":"Confirm&Exit","id":"menu_help_000102"}
+{"text":"入力カーソルを右に移動します。","translation":"Cursor Right","id":"menu_help_000103"}
+{"text":"入力カーソルを左に移動します。","translation":"Cursor Left","id":"menu_help_000104"}
+{"text":"入力カーソル移動","translation":"Cursor","id":"menu_help_000105"}
+{"text":"全種","translation":"全種","id":"menu_help_000106"}
+{"text":"再攻撃","translation":"再攻撃","id":"menu_help_000107"}
+{"text":"再生","translation":"Re","id":"menu_help_000108"}
+{"text":"分類切換え","translation":"Ctgry","id":"menu_help_000109"}
+{"text":"切換え","translation":"Cha","id":"menu_help_000110"}
+{"text":"勢力（敵／味方）切換え","translation":"Side Switch","id":"menu_help_000111"}
+{"text":"反","translation":"D","id":"menu_help_000112"}
+{"text":"各、敵　機を撃墜しました。","translation":"各、敵　機を撃墜しました。","id":"menu_help_000113"}
+{"text":"各、経験値を　　獲得しました。","translation":"各、経験値を　　獲得しました。","id":"menu_help_000114"}
+{"text":"各、ＰＰを　　獲得しました。","translation":"各、ＰＰを　　獲得しました。","id":"menu_help_000115"}
+{"text":"合計　　　　の資金を入手しました。","translation":"合計　　　　の資金を入手しました。","id":"menu_help_000116"}
+{"text":"名","translation":"N","id":"menu_help_000117"}
+{"text":"名前の読み方を切り替えます。","translation":"Reading","id":"menu_help_000118"}
+{"text":"名前カーソルを切り替えます。","translation":"Cursor","id":"menu_help_000119"}
+{"text":"地形","translation":"地形","id":"menu_help_000120"}
+{"text":"基本操作\n－－－－－－－－－－","translation":"Norm\n－－－－－－－－－－","id":"menu_help_000121"}
+{"text":"基本曲にする","translation":"Deflt","id":"menu_help_000122"}
+{"text":"堀川りょう","translation":"堀川りょう","id":"menu_help_000123"}
+{"text":"実行","translation":"Ex","id":"menu_help_000124"}
+{"text":"射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ","translation":"射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ","id":"menu_help_000125"}
+{"text":"必中","translation":"必中","id":"menu_help_000126"}
+{"text":"愛称","translation":"Ni","id":"menu_help_000127"}
+{"text":"戦闘アニメ時に再生するＢＧＭを詳細に設定します。","translation":"戦闘アニメ時に再生するＢＧＭを詳細に設定します。","id":"menu_help_000128"}
+{"text":"戦闘開始","translation":"Bgn","id":"menu_help_000129"}
+{"text":"戻る","translation":"Bk","id":"menu_help_000130"}
+{"text":"換装パーツ","translation":"Parts","id":"menu_help_000131"}
+{"text":"援護攻撃","translation":"援護攻撃","id":"menu_help_000132"}
+{"text":"援護防御","translation":"援護防御","id":"menu_help_000133"}
+{"text":"改造キャンセル／戻る","translation":"Cancel Mod","id":"menu_help_000134"}
+{"text":"改造ゲージ操作","translation":"Gauge","id":"menu_help_000135"}
+{"text":"攻","translation":"O","id":"menu_help_000136"}
+{"text":"日","translation":"D","id":"menu_help_000137"}
+{"text":"日本読み","translation":"East","id":"menu_help_000138"}
+{"text":"月","translation":"M","id":"menu_help_000139"}
+{"text":"未出撃パイロット：　　人\n総定員数：","translation":"ToDeploy：　　人\nLeft：","id":"menu_help_000140"}
+{"text":"検索変更","translation":"Srch","id":"menu_help_000141"}
+{"text":"検索／特殊スキル／特殊能力の各説明表示。\n２９文字ｘ２～３行。精神コマンドのみ２行。","translation":"検索／特殊スキル／特殊能力の各説明表示。\n２９文字ｘ２～３行。精神コマンドのみ２行。","id":"menu_help_000142"}
+{"text":"機","translation":"U","id":"menu_help_000143"}
+{"text":"機\n機","translation":"U\nU","id":"menu_help_000144"}
+{"text":"機体","translation":"機体","id":"menu_help_000145"}
+{"text":"機体と武器の地形適応を全てＡに、移動タイプ「空／陸」を得る。","translation":"機体と武器の地形適応を全てＡに、移動タイプ「空／陸」を得る。","id":"menu_help_000146"}
+{"text":"機体性能強化・武器攻撃力アップを行ないます。","translation":"機体性能強化・武器攻撃力アップを行ないます。","id":"menu_help_000147"}
+{"text":"機体選択","translation":"Unit","id":"menu_help_000148"}
+{"text":"武器選択","translation":"Weap","id":"menu_help_000149"}
+{"text":"気力１３０以上の場合、自軍フェイズ開始時に「不屈」がかかる。","translation":"気力１３０以上の場合、自軍フェイズ開始時に「不屈」がかかる。","id":"menu_help_000150"}
+{"text":"気見出しＬさいず","translation":"気見出しＬさいず","id":"menu_help_000151"}
+{"text":"水専用","translation":"水専用","id":"menu_help_000152"}
+{"text":"水見出しＭさいず","translation":"水見出しＭさいず","id":"menu_help_000153"}
+{"text":"水見出しＳさいず","translation":"水見出しＳさいず","id":"menu_help_000154"}
+{"text":"決定","translation":"Ok","id":"menu_help_000155"}
+{"text":"決定へ","translation":"Ok","id":"menu_help_000156"}
+{"text":"決定ダイアログ","translation":"Select","id":"menu_help_000157"}
+{"text":"決定（マーク実行）","translation":"ExMark","id":"menu_help_000158"}
+{"text":"消費","translation":"消費","id":"menu_help_000159"}
+{"text":"漢字","translation":"KJ","id":"menu_help_000160"}
+{"text":"熱魂閃不鉄集必加覚手狙直突乱分","translation":"熱魂閃不鉄集必加覚手狙直突乱分","id":"menu_help_000161"}
+{"text":"熱魂閃不鉄集必加覚手狙直突幸努乱","translation":"熱魂閃不鉄集必加覚手狙直突幸努乱","id":"menu_help_000162"}
+{"text":"特殊","translation":"特殊","id":"menu_help_000163"}
+{"text":"特殊スキル","translation":"特殊スキル","id":"menu_help_000164"}
+{"text":"特殊スキル発動","translation":"Skill Active","id":"menu_help_000165"}
+{"text":"特殊操作\n－－－－－－－－－－","translation":"Spec\n－－－－－－－－－－","id":"menu_help_000166"}
+{"text":"特殊能力","translation":"特殊能力","id":"menu_help_000167"}
+{"text":"特殊能力発動","translation":"特殊能力発動","id":"menu_help_000168"}
+{"text":"現在のシナリオ進行状況","translation":"現在のシナリオ進行状況","id":"menu_help_000169"}
+{"text":"甲児\nさやか\n鉄也\n竜馬\nビッグボルフォッグ\nジュン\nボス\nみちる\nマリン\nあしゅら\nシロー","translation":"甲児\nさやか\n鉄也\n竜馬\nビッグボルフォッグ\nジュン\nボス\nみちる\nマリン\nあしゅら\nシロー","id":"menu_help_000170"}
+{"text":"発進","translation":"Go","id":"menu_help_000171"}
+{"text":"移動力＋２　運動性・照準値＋２５\nマップ兵器、及び\n射程１以外の武器の射程＋１","translation":"移動力＋２　運動性・照準値＋２５\nマップ兵器、及び\n射程１以外の武器の射程＋１","id":"menu_help_000172"}
+{"text":"空専用","translation":"空専用","id":"menu_help_000173"}
+{"text":"空席を埋める","translation":"Fill","id":"menu_help_000174"}
+{"text":"空欄を詰める","translation":"Fill","id":"menu_help_000175"}
+{"text":"空水専用","translation":"空水専用","id":"menu_help_000176"}
+{"text":"空白","translation":"Cl","id":"menu_help_000177"}
+{"text":"精神","translation":"精神","id":"menu_help_000178"}
+{"text":"精神コマンド","translation":"Spirit","id":"menu_help_000179"}
+{"text":"能力画面","translation":"Abil","id":"menu_help_000180"}
+{"text":"英数字","translation":"Eng","id":"menu_help_000181"}
+{"text":"行動不能","translation":"行動不能","id":"menu_help_000182"}
+{"text":"表示切換え","translation":"View","id":"menu_help_000183"}
+{"text":"被撃墜機体・清算","translation":"被撃墜機体・清算","id":"menu_help_000184"}
+{"text":"装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ","translation":"装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ","id":"menu_help_000185"}
+{"text":"覚醒","translation":"覚醒","id":"menu_help_000186"}
+{"text":"記号","translation":"No","id":"menu_help_000187"}
+{"text":"設定終了","translation":"Done","id":"menu_help_000188"}
+{"text":"詳細画面切換え","translation":"Detail","id":"menu_help_000189"}
+{"text":"資金","translation":"$$","id":"menu_help_000190"}
+{"text":"資金・ＰＰは、以下の引継ぎになります。","translation":"　　$ & PP Carry","id":"menu_help_000191"}
+{"text":"通常切換え","translation":"Stdrd","id":"menu_help_000192"}
+{"text":"選択","translation":"Ch","id":"menu_help_000193"}
+{"text":"部隊名入力を終了していいですか？","translation":"Confirm name?","id":"menu_help_000194"}
+{"text":"部隊名登録","translation":"Group","id":"menu_help_000195"}
+{"text":"陸専用","translation":"陸専用","id":"menu_help_000196"}
+{"text":"頁頭へ／頁末へ","translation":"Top/Bot","id":"menu_help_000197"}
+{"text":"項目切換え","translation":"Swtc","id":"menu_help_000198"}
+{"text":"項目選択","translation":"Slct","id":"menu_help_000199"}
+{"text":"黄見出しＭさいず","translation":"黄見出しＭさいず","id":"menu_help_000200"}
+{"text":"黄見出しＭさいず・リスト","translation":"黄見出しＭさいず・リスト","id":"menu_help_000201"}
+{"text":"黄見出しＭ－Ｅｘさいず\n（「戦況報告」用？）","translation":"黄見出しＭ－Ｅｘさいず\n（「戦況報告」用？）","id":"menu_help_000202"}
+{"text":"黄見出しＳさいず","translation":"黄見出しＳさいず","id":"menu_help_000203"}
+{"text":"＃Ｕｓｅ","translation":"＃Ｕｓｅ","id":"menu_help_000204"}
+{"text":"＄＄\n＋＋\n－－","translation":"＄＄\n＋＋\n－－","id":"menu_help_000205"}
+{"text":"＄＄＄","translation":"＄＄＄","id":"menu_help_000206"}
+{"text":"％","translation":"％","id":"menu_help_000207"}
+{"text":"（","translation":"（","id":"menu_help_000208"}
+{"text":"（　　　　　）","translation":"","id":"menu_help_000209"}
+{"text":"（　　　）","translation":"","id":"menu_help_000210"}
+{"text":"（サブパイロット）","translation":"（SubPlt）","id":"menu_help_000211"}
+{"text":"（ページ切換え）","translation":"（N.Page）","id":"menu_help_000212"}
+{"text":"（マークＯＮ／ＯＦＦ）","translation":"（マークＯＮ／ＯＦＦ）","id":"menu_help_000213"}
+{"text":"（一覧）","translation":"（Lt）","id":"menu_help_000214"}
+{"text":"（切換え）","translation":"（Swc）","id":"menu_help_000215"}
+{"text":"（反撃行動切換え）","translation":"（Counter）","id":"menu_help_000216"}
+{"text":"（変形確認）","translation":"（Degr）","id":"menu_help_000217"}
+{"text":"（援護攻撃ＯＮ／ＯＦＦ）","translation":"（SupportAtk）","id":"menu_help_000218"}
+{"text":"（援護防御ＯＮ／ＯＦＦ）","translation":"（SupportDef）","id":"menu_help_000219"}
+{"text":"（能力画面）","translation":"（Abil）","id":"menu_help_000220"}
+{"text":"（設定画面へ）","translation":"（Setup）","id":"menu_help_000221"}
+{"text":"（）","translation":"","id":"menu_help_000222"}
+{"text":"（Ｆｉｘｅｒ）","translation":"（Ｆｉｘｅｒ）","id":"menu_help_000223"}
+{"text":"（ＳＲｅｐａｉｒＫｉｔ）","translation":"（ＳＲｅｐａｉｒＫｉｔ）","id":"menu_help_000224"}
+{"text":"）","translation":"）","id":"menu_help_000225"}
+{"text":"＋","translation":"＋","id":"menu_help_000226"}
+{"text":"＋\n＋","translation":"＋\n＋","id":"menu_help_000227"}
+{"text":"＋１","translation":"＋１","id":"menu_help_000228"}
+{"text":"＋１０％ｄａｍａｇｅ　ａｔ　１３０＋＋　Ｖｔ","translation":"＋１０％ｄａｍａｇｅ　ａｔ　１３０＋＋　WL","id":"menu_help_000229"}
+{"text":"＋１００％ＥＮ＆Ａｍｍｏ\n\nＡｌｌｙ","translation":"＋１００％ＥＮ＆Ａｍｍｏ\n\nＡｌｌｙ","id":"menu_help_000230"}
+{"text":"＋１００％ＭａｘＨＰ\n\nＡｌｌｙ","translation":"＋１００％ＭａｘＨＰ\n\nＡｌｌｙ","id":"menu_help_000231"}
+{"text":"＋１００％ＭａｘＨＰ\n\nＳｅｌｆ","translation":"＋１００％ＭａｘＨＰ\n\nＳｅｌｆ","id":"menu_help_000232"}
+{"text":"＋１０ＳＰ／ｔｕｒｎ","translation":"＋１０ＳＰ／ｔｕｒｎ","id":"menu_help_000233"}
+{"text":"＋２０％　Ｃｒｅｄｉｔｓ／ｋｉｌｌ\nＤｏｅｓｎ’ｔ　ｓｔａｃｋ　ｗ／ＬＵＣＫ","translation":"＋２０％　Ｃｒｅｄｉｔｓ／ｋｉｌｌ\nＤｏｅｓｎ’ｔ　ｓｔａｃｋ　ｗ／ＬＵＣＫ","id":"menu_help_000234"}
+{"text":"＋２５００ＨＰ\n\nＡｌｌｙ","translation":"＋２５００ＨＰ\n\nＡｌｌｙ","id":"menu_help_000235"}
+{"text":"＋３０％ＭａｘＨＰ\n\nＳｅｌｆ","translation":"＋３０％ＭａｘＨＰ\n\nＳｅｌｆ","id":"menu_help_000236"}
+{"text":"＋３ＰＰ／１０Ｋｉｌｌｓ　ｏｎ　ｅａｃｈ　ｌｅｖｅｌ　ｕｐ","translation":"＋３ＰＰ／１０Ｋｉｌｌｓ　ｏｎ　ｅａｃｈ　ｌｅｖｅｌ　ｕｐ","id":"menu_help_000237"}
+{"text":"＋５ＭａｘＳＰ／ｌｅｖｅｌ","translation":"＋５ＭａｘＳＰ／ｌｅｖｅｌ","id":"menu_help_000238"}
+{"text":"＋５ＰＰ　ｔｏ　ａｌｌ　ｓｏｒｔｉｅｄ　ｕｎｉｔｓ\nａｆｔｅｒ　ｃｌｅａｒｉｎｇ　ａ　ｍａｐ","translation":"＋５ＰＰ　ｔｏ　ａｌｌ　ｓｏｒｔｉｅｄ　ｕｎｉｔｓ\nａｆｔｅｒ　ｃｌｅａｒｉｎｇ　ａ　ｍａｐ","id":"menu_help_000239"}
+{"text":"－","translation":"－","id":"menu_help_000240"}
+{"text":"－－","translation":"－－","id":"menu_help_000241"}
+{"text":"－－－","translation":"－－－","id":"menu_help_000242"}
+{"text":"－－－－","translation":"－－－－","id":"menu_help_000243"}
+{"text":"－－－－－","translation":"－－－－－","id":"menu_help_000244"}
+{"text":"－－－－－－－－－","translation":"－－－－－－－－－","id":"menu_help_000245"}
+{"text":"－１","translation":"－１","id":"menu_help_000246"}
+{"text":"－ＣＬＲ＜","translation":"－ＣＬＲ＜","id":"menu_help_000247"}
+{"text":"／","translation":"／","id":"menu_help_000248"}
+{"text":"／　　　（　　　）","translation":"／　　　（　　　）","id":"menu_help_000249"}
+{"text":"０／０","translation":"０／０","id":"menu_help_000250"}
+{"text":"１００％　Ｅｖａｓｉｏｎ\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","translation":"１００％　Ｅｖａｓｉｏｎ\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","id":"menu_help_000251"}
+{"text":"１００％ＨｉｔＲａｔｅ\nＤｏｅｓｎ’ｔ　ｏｖｅｒｒｉｄｅ　ＡＬＥＲＴ\nＡｌｌｙ・１Ｔｕｒｎ","translation":"１００％ＨｉｔＲａｔｅ\nＤｏｅｓｎ’ｔ　ｏｖｅｒｒｉｄｅ　ＡＬＥＲＴ\nＡｌｌｙ・１Ｔｕｒｎ","id":"menu_help_000252"}
+{"text":"１００％ＨｉｔＲａｔｅ\nＤｏｅｓｎ’ｔ　ｏｖｅｒｒｉｄｅ　ＡＬＥＲＴ\nＳｅｌｆ・１Ｔｕｒｎ","translation":"１００％ＨｉｔＲａｔｅ\nＤｏｅｓｎ’ｔ　ｏｖｅｒｒｉｄｅ　ＡＬＥＲＴ\nＳｅｌｆ・１Ｔｕｒｎ","id":"menu_help_000253"}
+{"text":"１５段階まで可能","translation":"15 Tiers","id":"menu_help_000254"}
+{"text":"１ｓｔ","translation":"１ｓｔ","id":"menu_help_000255"}
+{"text":"１ｔｕｒｎ","translation":"１ｔｕｒｎ","id":"menu_help_000256"}
+{"text":"２０","translation":"２０","id":"menu_help_000257"}
+{"text":"２Ａｃｔｉｏｎ","translation":"２Ａｃｔｉｏｎ","id":"menu_help_000258"}
+{"text":"２ｔｕｒｎ","translation":"２ｔｕｒｎ","id":"menu_help_000259"}
+{"text":"２ｘＡ","translation":"２ｘＡ","id":"menu_help_000260"}
+{"text":"２ｘＡｃｔｉｏｎ／ｔｕｒｎ","translation":"２ｘＡｃｔｉｏｎ／ｔｕｒｎ","id":"menu_help_000261"}
+{"text":"５００","translation":"５００","id":"menu_help_000262"}
+{"text":"９９９","translation":"９９９","id":"menu_help_000263"}
+{"text":"：\n：\n：\n：\n：\n：\n：\n：\n：","translation":"：\n：\n：\n：\n：\n：\n：\n：\n：","id":"menu_help_000264"}
+{"text":"：♪♪","translation":"：♪♪","id":"menu_help_000265"}
+{"text":"：台詞戻し（＋　　：高速）\n：台詞送り（＋　　：高速）","translation":"：台詞戻し（＋　　：高速）\n：台詞送り（＋　　：高速）","id":"menu_help_000266"}
+{"text":"：台詞送り\n：台詞早送り\n：台詞スキップ\n\n：バックログ・台詞の履歴\n：オートモード＆速度調整","translation":"：台詞送り\n：台詞早送り\n：台詞スキップ\n\n：バックログ・台詞の履歴\n：オートモード＆速度調整","id":"menu_help_000267"}
+{"text":"：戻る","translation":"Bk","id":"menu_help_000268"}
+{"text":"：行戻し\n：行送り","translation":"：行戻し\n：行送り","id":"menu_help_000269"}
+{"text":"：選択","translation":"：OK","id":"menu_help_000270"}
+{"text":"：－－－－－－","translation":"：－－－－－－","id":"menu_help_000271"}
+{"text":"：＜Ｍｅｃｈ＞Ｓｅｌ","translation":"：＜Ｍｅｃｈ＞Ｓｅｌ","id":"menu_help_000272"}
+{"text":"：ＢａｃｋＬｏｇ","translation":"：ＢａｃｋＬｏｇ","id":"menu_help_000273"}
+{"text":"：ＢａｃｋＴｏＬｉｓｔ","translation":"：ＢａｃｋＴｏＬｉｓｔ","id":"menu_help_000274"}
+{"text":"：Ｂｋ","translation":"：Ｂｋ","id":"menu_help_000275"}
+{"text":"：Ｂｕｙ","translation":"：Ｂｕｙ","id":"menu_help_000276"}
+{"text":"：Ｃ","translation":"：Ｃ","id":"menu_help_000277"}
+{"text":"：Ｃａｔ．","translation":"：Ｃａｔ．","id":"menu_help_000278"}
+{"text":"：Ｃａｕｔ","translation":"：Ｃａｕｔ","id":"menu_help_000279"}
+{"text":"：Ｃｈａｎｇｅ","translation":"：Ｃｈａｎｇｅ","id":"menu_help_000280"}
+{"text":"：Ｃｈａｒａｃｔｒ","translation":"：Ｃｈａｒａｃｔｒ","id":"menu_help_000281"}
+{"text":"：Ｄａｔａ","translation":"：Ｄａｔａ","id":"menu_help_000282"}
+{"text":"：Ｄｅｆ","translation":"：Ｄｅｆ","id":"menu_help_000283"}
+{"text":"：Ｄｅｓｔｒｏｙ","translation":"：Ｄｅｓｔｒｏｙ","id":"menu_help_000284"}
+{"text":"：Ｄｓ","translation":"：Ｄｓ","id":"menu_help_000285"}
+{"text":"：Ｅｘｐｅｒ","translation":"：Ｅｘｐｅｒ","id":"menu_help_000286"}
+{"text":"：Ｆｉｎｄ","translation":"：Ｆｉｎｄ","id":"menu_help_000287"}
+{"text":"：Ｇｅｔ","translation":"：Ｇｅｔ","id":"menu_help_000288"}
+{"text":"：Ｇｏ","translation":"：Ｇｏ","id":"menu_help_000289"}
+{"text":"：Ｈａ","translation":"：Hard","id":"menu_help_000290"}
+{"text":"：Ｈｅ","translation":"：Ｈｅ","id":"menu_help_000291"}
+{"text":"：Ｉｎｃｒ．","translation":"：Ｉｎｃｒ．","id":"menu_help_000292"}
+{"text":"：Ｋｉｌｌｓ・ＰＰ","translation":"：Ｋｉｌｌｓ・ＰＰ","id":"menu_help_000293"}
+{"text":"：Ｌｅａｒｎ","translation":"：Ｌｅａｒｎ","id":"menu_help_000294"}
+{"text":"：Ｌｉｓｔ","translation":"：Ｌｉｓｔ","id":"menu_help_000295"}
+{"text":"：Ｌｓｔ","translation":"：Ｌｓｔ","id":"menu_help_000296"}
+{"text":"：ＭＡＰ－ＤＡＴＡ","translation":"：ＭＡＰ－ＤＡＴＡ","id":"menu_help_000297"}
+{"text":"：ＭｅｃｈＳｗ","translation":"：ＭｅｃｈＳｗ","id":"menu_help_000298"}
+{"text":"：Ｍｅｎｕ","translation":"：Ｍｅｎｕ","id":"menu_help_000299"}
+{"text":"：Ｍｉｘｅｄ","translation":"：Ｍｉｘｅｄ","id":"menu_help_000300"}
+{"text":"：Ｍｒｋ","translation":"：Ｍｒｋ","id":"menu_help_000301"}
+{"text":"：Ｎｏ","translation":"：Normal","id":"menu_help_000302"}
+{"text":"：ＯＫ","translation":"：ＯＫ","id":"menu_help_000303"}
+{"text":"：Ｏｐｅｒａｔ","translation":":Operation","id":"menu_help_000304"}
+{"text":"：Ｏｒｄｅｒ","translation":"：Ｏｒｄｅｒ","id":"menu_help_000305"}
+{"text":"：Ｐａｇｅｓ","translation":"：Ｐａｇｅｓ","id":"menu_help_000306"}
+{"text":"：Ｐａｒｔｓ","translation":"：Ｐａｒｔｓ","id":"menu_help_000307"}
+{"text":"：Ｐｇ．","translation":"：Ｐｇ．","id":"menu_help_000308"}
+{"text":"：Ｐｉｃ\n：♪","translation":"：Ｐｉｃ\n：♪","id":"menu_help_000309"}
+{"text":"：ＰｒａｃＭｏｄ","translation":"：ＰｒａｃＭｏｄ","id":"menu_help_000310"}
+{"text":"：Ｑｕｅｓｔ","translation":":Question","id":"menu_help_000311"}
+{"text":"：Ｒｅｐｏｒ","translation":":Report","id":"menu_help_000312"}
+{"text":"：Ｒｅｖｅｒｓ","translation":"：Ｒｅｖｅｒｓ","id":"menu_help_000313"}
+{"text":"：ＳＴ","translation":"：ＳＴ","id":"menu_help_000314"}
+{"text":"：Ｓａｖｅ","translation":"：Ｓａｖｅ","id":"menu_help_000315"}
+{"text":"：Ｓｅｔ","translation":"：Ｓｅｔ","id":"menu_help_000316"}
+{"text":"：Ｓｌｏｔｓ","translation":"：Ｓｌｏｔｓ","id":"menu_help_000317"}
+{"text":"：Ｓｏｒｔｉｅ","translation":"：Ｓｏｒｔｉｅ","id":"menu_help_000318"}
+{"text":"：Ｓｐｉｒｉｔ","translation":"：Ｓｐｉｒｉｔ","id":"menu_help_000319"}
+{"text":"：Ｓｒｔ","translation":"：Ｓｒｔ","id":"menu_help_000320"}
+{"text":"：Ｓｔｕｄｙ","translation":"：Ｓｔｕｄｙ","id":"menu_help_000321"}
+{"text":"：Ｓｕｂ．","translation":"：Ｓｕｂ．","id":"menu_help_000322"}
+{"text":"：Ｓｗ","translation":"：Ｓｗ","id":"menu_help_000323"}
+{"text":"：ＳｗａｐＥｑｐ","translation":"：ＳｗａｐＥｑｐ","id":"menu_help_000324"}
+{"text":"：Ｔａｂｓ","translation":"：Ｔａｂｓ","id":"menu_help_000325"}
+{"text":"：Ｔａｃｔ","translation":"：Situation","id":"menu_help_000326"}
+{"text":"：Ｔａｒｇ『　　　　』","translation":"：Ｔａｒｇ『　　　　』","id":"menu_help_000327"}
+{"text":"：ＶＲ","translation":"：ＶＲ","id":"menu_help_000328"}
+{"text":"：Ｖａｃａｎｔ","translation":"：Ｖａｃａｎｔ","id":"menu_help_000329"}
+{"text":"：Ｗｐ","translation":"：Ｗｐ","id":"menu_help_000330"}
+{"text":"＜　　　　　　　　　　　　　　＞","translation":"＜　　　　　　　　　　　　　　＞","id":"menu_help_000331"}
+{"text":"＜あと　　人＞","translation":"<++　　N>","id":"menu_help_000332"}
+{"text":"＜あと　人選択可能です。＞","translation":"＜    　Chars left＞","id":"menu_help_000333"}
+{"text":"＜・・ＢＧＭ♪・・＞","translation":"＜・・ＢＧＭ♪・・＞","id":"menu_help_000334"}
+{"text":"＜・Ｍｅｃｈｓ・＞","translation":"＜・Ｍｅｃｈｓ・＞","id":"menu_help_000335"}
+{"text":"＜作品ランダム＞\nＣＡＮ　ＹＯＵ　ＦＥＥＬ　ＭＹ　ＳＯＵＬ\n射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ","translation":"＜作品ランダム＞\nＣＡＮ　ＹＯＵ　ＦＥＥＬ　ＭＹ　ＳＯＵＬ\n射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ","id":"menu_help_000336"}
+{"text":"＜作品順へ＞","translation":"＜作品順へ＞","id":"menu_help_000337"}
+{"text":"＜入れ替えるパイロットを選択してください。＞","translation":"＜入れ替えるパイロットを選択してください。＞","id":"menu_help_000338"}
+{"text":"＜全ランダム＞で決定","translation":"Random","id":"menu_help_000339"}
+{"text":"＜早乙女研究所　管制室＞","translation":"＜早乙女研究所　管制室＞","id":"menu_help_000340"}
+{"text":"＜＋＋　　Ｎ＞","translation":"＜＋＋　　Ｎ＞","id":"menu_help_000341"}
+{"text":"＜５０音順へ＞","translation":"＜５０音順へ＞","id":"menu_help_000342"}
+{"text":"＜＞","translation":"＜＞","id":"menu_help_000343"}
+{"text":"＜ＣｈａｒＬｉｓｔ＞","translation":"＜ＣｈａｒＬｉｓｔ＞","id":"menu_help_000344"}
+{"text":"＜ＥＸＴＲＡＳ＞","translation":"＜ＥＸＴＲＡＳ＞","id":"menu_help_000345"}
+{"text":"＜ＳＣＮｃｈａｒｔ＞","translation":"＜ＳＣＮｃｈａｒｔ＞","id":"menu_help_000346"}
+{"text":"＜ＳＹＳ＞","translation":"＜ＳＹＳ＞","id":"menu_help_000347"}
+{"text":"＜ＳｅｔＵｐ＞","translation":"＜ＳｅｔＵｐ＞","id":"menu_help_000348"}
+{"text":"？？？？","translation":"？？？？","id":"menu_help_000349"}
+{"text":"＠＠","translation":"＠＠","id":"menu_help_000350"}
+{"text":"Ａ","translation":"Ａ","id":"menu_help_000351"}
+{"text":"Ａ・Ｂｅａｓｔ","translation":"Ａ・Ｂｅａｓｔ","id":"menu_help_000352"}
+{"text":"Ａ・ＥＳＰｅｒ","translation":"Ａ・ＥＳＰｅｒ","id":"menu_help_000353"}
+{"text":"Ａ＋","translation":"Ａ＋","id":"menu_help_000354"}
+{"text":"Ａ＋Ｗ＋","translation":"Ａ＋Ｗ＋","id":"menu_help_000355"}
+{"text":"Ａ－Ｂｏｎｕｓ","translation":"Ａ－Ｂｏｎｕｓ","id":"menu_help_000356"}
+{"text":"ＡＬＷＳ","translation":"ＡＬＷＳ","id":"menu_help_000357"}
+{"text":"ＡＴＩＯ","translation":"","id":"menu_help_000358"}
+{"text":"Ａｃｃｅｌ","translation":"Ａｃｃｅｌ","id":"menu_help_000359"}
+{"text":"Ａｃｔ　ａｇａｉｎ　ａｆｔｅｒ　ｍｏｖｉｎｇ\nＤｏｅｓｎ’ｔ　ｓｔａｃｋ\nＳｅｌｆ・１Ｍｏｖｅ","translation":"Ａｃｔ　ａｇａｉｎ　ａｆｔｅｒ　ｍｏｖｉｎｇ\nＤｏｅｓｎ’ｔ　ｓｔａｃｋ\nＳｅｌｆ・１Ｍｏｖｅ","id":"menu_help_000360"}
+{"text":"Ａｃｔ．","translation":"Action","id":"menu_help_000361"}
+{"text":"Ａｆｔｅｒ","translation":"Ａｆｔｅｒ","id":"menu_help_000362"}
+{"text":"Ａｉｍ","translation":"Ａｉｍ","id":"menu_help_000363"}
+{"text":"Ａｌｅｒｔ","translation":"Ａｌｅｒｔ","id":"menu_help_000364"}
+{"text":"Ａｌｌｏｗｓ　ｄｅｆｅｎｓｉｖｅ\nｓｕｐｐｏｒｔ　ｔｏ　ａｎ　ａｄｊａｃｅｎｔ\nａｌｌｙ","translation":"Ａｌｌｏｗｓ　ｄｅｆｅｎｓｉｖｅ\nｓｕｐｐｏｒｔ　ｔｏ　ａｎ　ａｄｊａｃｅｎｔ\nａｌｌｙ","id":"menu_help_000365"}
+{"text":"Ａｌｌｏｗｓ　ｏｆｆｅｎｓｉｖｅ\nｓｕｐｐｏｒｔ　ｔｏ　ａｎ　ａｄｊａｃｅｎｔ\nａｌｌｙ","translation":"Ａｌｌｏｗｓ　ｏｆｆｅｎｓｉｖｅ\nｓｕｐｐｏｒｔ　ｔｏ　ａｎ　ａｄｊａｃｅｎｔ\nａｌｌｙ","id":"menu_help_000366"}
+{"text":"Ａｌｌｏｗｓ　ｒｅｓｕｐｐｌｙｉｎｇ\nａｆｔｅｒ　ｍｏｖｉｎｇ","translation":"Ａｌｌｏｗｓ　ｒｅｓｕｐｐｌｙｉｎｇ\nａｆｔｅｒ　ｍｏｖｉｎｇ","id":"menu_help_000367"}
+{"text":"Ａｌｌｏｗｓ　ｕｓａｇｅ　ｏｆ　ｉｔｅｍｓ\nｏｎ　ａｄｊａｃｅｎｔ　ｕｎｉｔｓ","translation":"Ａｌｌｏｗｓ　ｕｓａｇｅ　ｏｆ　ｉｔｅｍｓ\nｏｎ　ａｄｊａｃｅｎｔ　ｕｎｉｔｓ","id":"menu_help_000368"}
+{"text":"Ａｍ\nＥＮ　　\nＶｔ　　\nＳｋｉｌｌ","translation":"Ａｍ\nＥＮ　　\nWL　　\nＳｋｉｌｌ","id":"menu_help_000369"}
+{"text":"Ａｍ\nＨＩＴ","translation":"Ａｍ\nＨＩＴ","id":"menu_help_000370"}
+{"text":"Ａｒｉｓｅ","translation":"Ａｒｉｓｅ","id":"menu_help_000371"}
+{"text":"Ａｒｍｒ","translation":"Ａｒｍｒ","id":"menu_help_000372"}
+{"text":"Ａｒｍｓ","translation":"Ａｒｍｓ","id":"menu_help_000373"}
+{"text":"Ａｓ　ＨＰ　ｇｏｅｓ　ｄｏｗｎ、\nＨｉｔ／Ｅｖａ／Ｃｒｔ／Ｄｅｆ\nｇｏｅｓ　ｕｐ","translation":"Ａｓ　ＨＰ　ｇｏｅｓ　ｄｏｗｎ、\nＨｉｔ／Ｅｖａ／Ｃｒｔ／Ｄｅｆ\nｇｏｅｓ　ｕｐ","id":"menu_help_000374"}
+{"text":"ＡｓｓｉｇｎＰ","translation":"ＡｓｓｉｇｎＰ","id":"menu_help_000375"}
+{"text":"Ａｔ　１２０＋＋　Ｖｔ、\n＋１Ａｃｔｉｏｎ／Ｋｉｌｌ\nＡｐｐｌｉｅｓ　１ｘ／ｔｕｒｎ／ｐｈａｓｅ","translation":"Ａｔ　１２０＋＋　WL、\n＋１Ａｃｔｉｏｎ／Ｋｉｌｌ\nＡｐｐｌｉｅｓ　１ｘ／ｔｕｒｎ／ｐｈａｓｅ","id":"menu_help_000376"}
+{"text":"Ａｔ　１３０＋＋　Ｖｔ、　Ｄｍｇ＋１０％、\nＨｉｔ／Ｅｖａ／Ｃｒｔ　＋２０％","translation":"Ａｔ　１３０＋＋　WL、　Ｄｍｇ＋１０％、\nＨｉｔ／Ｅｖａ／Ｃｒｔ　＋２０％","id":"menu_help_000377"}
+{"text":"Ａｔｋ","translation":"Ａｔｋ","id":"menu_help_000378"}
+{"text":"Ａｔｔａｃｋ\nＤｅｆｅｎｄ\nＡｌｌＯｕｔ","translation":"Ａｔｔａｃｋ\nＤｅｆｅｎｄ\nＡｌｌＯｕｔ","id":"menu_help_000379"}
+{"text":"Ａｔｔａｃｋ　ｆｉｒｓｔ　ｉｎ　ｂａｔｔｌｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ａｃｔｉｖａｔｅｓ\nｔｈｉｓ　ａｂｉｌｉｔｙ","translation":"Ａｔｔａｃｋ　ｆｉｒｓｔ　ｉｎ　ｂａｔｔｌｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ａｃｔｉｖａｔｅｓ\nｔｈｉｓ　ａｂｉｌｉｔｙ","id":"menu_help_000380"}
+{"text":"Ａｔｔａｃｋ　ｔｗｉｃｅ　ｉｆ　ｔｈｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ｉｓ　２０＆ｕｐ","translation":"Ａｔｔａｃｋ　ｔｗｉｃｅ　ｉｆ　ｔｈｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ｉｓ　２０＆ｕｐ","id":"menu_help_000381"}
+{"text":"Ａｔｔｕｎ","translation":"Ａｔｔｕｎ","id":"menu_help_000382"}
+{"text":"Ｂ","translation":"Ｂ","id":"menu_help_000383"}
+{"text":"Ｂ－Ｓａｖｅ","translation":"Ｂ－Ｓａｖｅ","id":"menu_help_000384"}
+{"text":"ＢＧＭ","translation":"ＢＧＭ","id":"menu_help_000385"}
+{"text":"ＢＧＭ　Ｐｌａｙ　\nＢＧＭ　Ｔｙｐｅ\nＳｅｔＢＧＭ　　\nＱｕｉｃｋＣｍｎｄ\nＳｐｅｅｄ　\nＣｏｌｏｒｓ\nＣｕｒｓｏｒＭｏｖ\nＭａｐＧｒｉｄ\nＳｏｒｔＳａｖｅ　　　　\nＳｅｔＳｕｐｐＤｅｆ\nＩｎｔａｌｌ　Ｄａｔａ","translation":"ＢＧＭ　Ｐｌａｙ　\nＢＧＭ　Ｔｙｐｅ\nＳｅｔＢＧＭ　　\nＱｕｉｃｋＣｍｎｄ\nＳｐｅｅｄ　\nＣｏｌｏｒｓ\nＣｕｒｓｏｒＭｏｖ\nＭａｐＧｒｉｄ\nＳｏｒｔＳａｖｅ　　　　\nＳｅｔＳｕｐｐＤｅｆ\nＩｎｔａｌｌ　Ｄａｔａ　　","id":"menu_help_000386"}
+{"text":"Ｂａｒ","translation":"Ｂａｒ","id":"menu_help_000387"}
+{"text":"Ｂｅａｍ","translation":"Ｂｅａｍ","id":"menu_help_000388"}
+{"text":"Ｂｌｏｃｋｉｎｇ","translation":"Ｂｌｏｃｋｉｎｇ","id":"menu_help_000389"}
+{"text":"Ｂｏｎｕｓ","translation":"Ｂｏｎｕｓ","id":"menu_help_000390"}
+{"text":"Ｂｏｎｕｓ！","translation":"Ｂｏｎｕｓ！","id":"menu_help_000391"}
+{"text":"Ｂｏｏｓ","translation":"Boosted","id":"menu_help_000392"}
+{"text":"Ｂｔｎ","translation":"Ｂｔｎ","id":"menu_help_000393"}
+{"text":"Ｃ","translation":"Ｃ","id":"menu_help_000394"}
+{"text":"Ｃ１","translation":"Ｃ１","id":"menu_help_000395"}
+{"text":"Ｃ２","translation":"Ｃ２","id":"menu_help_000396"}
+{"text":"Ｃ３","translation":"Ｃ３","id":"menu_help_000397"}
+{"text":"ＣＡＮ　ＹＯＵ　ＦＥＥＬ　ＭＹ　ＳＯＵＬ\n漂流～スカイハリケーン（ＯＰサイズ）\nｖｅｓｔｉｇｅ～ヴェスティージ～\n射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ\n\n炎のさだめ\nいつもあなたが\n軍靴の記憶\nＤＲＥＡＭＳ","translation":"ＣＡＮ　ＹＯＵ　ＦＥＥＬ　ＭＹ　ＳＯＵＬ\n漂流～スカイハリケーン（ＯＰサイズ）\nｖｅｓｔｉｇｅ～ヴェスティージ～\n射手座☆午後９時　Ｄｏｎ’ｔ　ｂｅ　ｌａｔｅ\n\n炎のさだめ\nいつもあなたが\n軍靴の記憶\nＤＲＥＡＭＳ","id":"menu_help_000398"}
+{"text":"ＣＨＡＲＡＣＴＥＲＳ－ＲＥＦＥＲＥＮＣＥ","translation":"ＣＨＡＲＡＣＴＥＲＳ－ＲＥＦＥＲＥＮＣＥ","id":"menu_help_000399"}
+{"text":"ＣＨＡＲＳ．","translation":"ＣＨＡＲＳ．","id":"menu_help_000400"}
+{"text":"ＣＲＴ","translation":"ＣＲＴ","id":"menu_help_000401"}
+{"text":"Ｃａｓｈ","translation":"Ｃａｓｈ","id":"menu_help_000402"}
+{"text":"Ｃａｓｈ\n　　　＄＄＄","translation":"　　Ｃａｓｈ\n　　　＄＄＄","id":"menu_help_000403"}
+{"text":"Ｃａｓｔｓ　ＦＬＡＳＨ　＆　ＡＩＭ\n\nＳｅｌｆ・１Ｔｕｒｎ","translation":"Ｃａｓｔｓ　ＦＬＡＳＨ　＆　ＡＩＭ\n\nＳｅｌｆ・１Ｔｕｒｎ","id":"menu_help_000404"}
+{"text":"Ｃｈ","translation":"Ｃｈ","id":"menu_help_000405"}
+{"text":"Ｃｈａｍｐ","translation":"Ｃｈａｍｐ","id":"menu_help_000406"}
+{"text":"ＣｈａｎｇｅＳｏｒｔ","translation":"ＣｈａｎｇｅＳｏｒｔ","id":"menu_help_000407"}
+{"text":"Ｃｈａｒｇ","translation":"Ｃｈａｒｇ","id":"menu_help_000408"}
+{"text":"Ｃｈｎｇ","translation":"Change","id":"menu_help_000409"}
+{"text":"Ｃｍｄ","translation":"Ｃｍｄ","id":"menu_help_000410"}
+{"text":"Ｃｏ","translation":"Command","id":"menu_help_000411"}
+{"text":"ＣｏＯｐＡｔｋ","translation":"ＣｏＯｐＡｔｋ","id":"menu_help_000412"}
+{"text":"Ｃｏｍｍａｎｄ","translation":"Ｃｏｍｍａｎｄ","id":"menu_help_000413"}
+{"text":"Ｃｏｎｆ．","translation":"Ｃｏｎｆ．","id":"menu_help_000414"}
+{"text":"Ｃｏｎｔｉｎ．","translation":"Ｃｏｎｔｉｎ．","id":"menu_help_000415"}
+{"text":"Ｃｏｓｔ","translation":"Ｃｏｓｔ","id":"menu_help_000416"}
+{"text":"Ｃｏｕｎｔｅｒ","translation":"Ｃｏｕｎｔｅｒ","id":"menu_help_000417"}
+{"text":"Ｃｒｉｔ．Ｈｉｔ　ａｔ　Ｓｕｐｐ．Ａｔｋ\nＤｏｅｓｎ’ｔ　ａｆｆｅｃｔ　Ｄｂｌ．Ａｔｋ","translation":"Ｃｒｉｔ．Ｈｉｔ　ａｔ　Ｓｕｐｐ．Ａｔｋ\nＤｏｅｓｎ’ｔ　ａｆｆｅｃｔ　Ｄｂｌ．Ａｔｋ","id":"menu_help_000418"}
+{"text":"ＣｒｉｔｉｃａｌＨｉｔ　ｄｅａｌｓ　１．５ｘｄａｍａｇｅ","translation":"ＣｒｉｔｉｃａｌＨｉｔ　ｄｅａｌｓ　１．５ｘｄａｍａｇｅ","id":"menu_help_000419"}
+{"text":"Ｃｔ","translation":"Ｃｔ","id":"menu_help_000420"}
+{"text":"Ｃｔ\nＮｍ\nＶｒ\nＴｐ","translation":"Ｃｔ\nＮｍ\nＶｒ\nＴｐ","id":"menu_help_000421"}
+{"text":"ＣｕｒｓｏｒＯｖｅｒＴｅｒｒａｉｎ","translation":"ＣｕｒｓｏｒＯｖｅｒＴｅｒｒａｉｎ","id":"menu_help_000422"}
+{"text":"ＣｕｒｓｏｒＯｖｅｒＵｎｉｔ","translation":"ＣｕｒｓｏｒＯｖｅｒＵｎｉｔ","id":"menu_help_000423"}
+{"text":"Ｄ","translation":"Ｄ","id":"menu_help_000424"}
+{"text":"Ｄａｍａｇｅ　ｔａｋｅｎ　－２０％\nａｔ　１３０＆Ｕｐ　Ｖｔ","translation":"Ｄａｍａｇｅ　ｔａｋｅｎ　－２０％\nａｔ　１３０＆Ｕｐ　WL","id":"menu_help_000425"}
+{"text":"Ｄａｍａｇｅ　ｘ２．５\nＯｖｅｒｒｉｄｅｓ　ＶＡＬＯＲ\nＳｅｌｆ・１Ａｔｔａｃｋ","translation":"Ｄａｍａｇｅ　ｘ２．５\nＯｖｅｒｒｉｄｅｓ　ＶＡＬＯＲ\nＳｅｌｆ・１Ａｔｔａｃｋ","id":"menu_help_000426"}
+{"text":"ＤａｍａｇｅＴａｋｅｎ－７５％\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","translation":"ＤａｍａｇｅＴａｋｅｎ－７５％\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","id":"menu_help_000427"}
+{"text":"Ｄａｓｈ","translation":"Ｄａｓｈ","id":"menu_help_000428"}
+{"text":"Ｄａｕｎｔ","translation":"Ｄａｕｎｔ","id":"menu_help_000429"}
+{"text":"Ｄｂｌ．Ａｔｋ","translation":"Ｄｂｌ．Ａｔｋ","id":"menu_help_000430"}
+{"text":"Ｄｅｆ","translation":"Ｄｅｆ","id":"menu_help_000431"}
+{"text":"Ｄｅｐｌｏｙ","translation":"Ｄｅｐｌｏｙ","id":"menu_help_000432"}
+{"text":"Ｄｆ","translation":"Ｄｆ","id":"menu_help_000433"}
+{"text":"Ｄｆ\nＭｂ","translation":"Ｄｆ\nＭｂ","id":"menu_help_000434"}
+{"text":"Ｄｆ\nＳｋ","translation":"Ｄｆ\nＳｋ","id":"menu_help_000435"}
+{"text":"Ｄｆ・Ｅｖ－４０","translation":"Ｄｆ・Ｅｖ－４０","id":"menu_help_000436"}
+{"text":"Ｄｆ：","translation":"Ｄｆ：","id":"menu_help_000437"}
+{"text":"Ｄｏｕｂｌｅｓ　ｄａｍａｇｅ\n\nＳｅｌｆ・１Ａｔｔａｃｋ","translation":"Ｄｏｕｂｌｅｓ　ｄａｍａｇｅ\n\nＳｅｌｆ・１Ａｔｔａｃｋ","id":"menu_help_000438"}
+{"text":"Ｄｒｉｖｅ","translation":"Ｄｒｉｖｅ","id":"menu_help_000439"}
+{"text":"Ｅ\nＨ","translation":"Ｅ\nＨ","id":"menu_help_000440"}
+{"text":"Ｅ－Ｓａｖｅ","translation":"Ｅ－Ｓａｖｅ","id":"menu_help_000441"}
+{"text":"ＥＮ","translation":"ＥＮ","id":"menu_help_000442"}
+{"text":"ＥＮ\nＰｗｒ","translation":"ＥＮ\nＰｗｒ","id":"menu_help_000443"}
+{"text":"ＥＮ＋＋：","translation":"ＥＮ＋＋：","id":"menu_help_000444"}
+{"text":"ＥＮｒｅｃ","translation":"ＥＮｒｅｃ","id":"menu_help_000445"}
+{"text":"ＥＳＰｅｒ","translation":"ＥＳＰｅｒ","id":"menu_help_000446"}
+{"text":"ＥＸＰ","translation":"ＥＸＰ","id":"menu_help_000447"}
+{"text":"Ｅｌｅｍｅｎｔａｌ","translation":"Ｅｌｅｍｅｎｔａｌ","id":"menu_help_000448"}
+{"text":"Ｅｎａｂｌｅ　ａｎ　ａｌｌｙ　ｔｏ　ｍｏｖｅ　ａｇａｉｎ\n\nＡｌｌｙ・１Ｍｏｖｅ","translation":"Ｅｎａｂｌｅ　ａｎ　ａｌｌｙ　ｔｏ　ｍｏｖｅ　ａｇａｉｎ\n\nＡｌｌｙ・１Ｍｏｖｅ","id":"menu_help_000449"}
+{"text":"Ｅｎａｂｌｅｓ　ＴａｃｔｉｃａｌＣｏｍｍａｎｄｓ：\nＯｆｆｅｎｓｅ、　Ｄｅｆｅｎｓｅ、\nＡｌｌ－Ｏｕｔ－Ａｔｔａｃｋ","translation":"Ｅｎａｂｌｅｓ　ＴａｃｔｉｃａｌＣｏｍｍａｎｄｓ：\nＯｆｆｅｎｓｅ、　Ｄｅｆｅｎｓｅ、\nＡｌｌ－Ｏｕｔ－Ａｔｔａｃｋ","id":"menu_help_000450"}
+{"text":"Ｅｎｄ","translation":"","id":"menu_help_000451"}
+{"text":"ＥｎｄＰｈ．","translation":"ＥｎｄＰｈ．","id":"menu_help_000452"}
+{"text":"Ｅｑｕｉｐ","translation":"Ｅｑｕｉｐ","id":"menu_help_000453"}
+{"text":"ＥｑｕｉｐＰａｒｔ","translation":"ＥｑｕｉｐＰａｒｔ","id":"menu_help_000454"}
+{"text":"Ｅｖ","translation":"Ｅｖ","id":"menu_help_000455"}
+{"text":"Ｅｖ\nＨｔ","translation":"Ｅｖ\nＨｔ","id":"menu_help_000456"}
+{"text":"Ｅｖ：","translation":"Ｅｖ：","id":"menu_help_000457"}
+{"text":"Ｅｖａ","translation":"Ｅｖａ","id":"menu_help_000458"}
+{"text":"ＥｘｉｔＭｅｎｕ","translation":"ＥｘｉｔＭｅｎｕ","id":"menu_help_000459"}
+{"text":"Ｅｘｔｒｅｍｅ","translation":"Ｅｘｔｒｅｍｅ","id":"menu_help_000460"}
+{"text":"ＦＣｈａｒｇｅ","translation":"ＦＣｈａｒｇｅ","id":"menu_help_000461"}
+{"text":"ＦＯＲＣＥ－ＮＡＭＥ　ＥＮＴＲＹ","translation":"ＦＯＲＣＥ－ＮＡＭＥ　ＥＮＴＲＹ","id":"menu_help_000462"}
+{"text":"ＦＳｐｉｒｉｔ","translation":"ＦＳｐｉｒｉｔ","id":"menu_help_000463"}
+{"text":"ＦＸ","translation":"ＦＸ","id":"menu_help_000464"}
+{"text":"Ｆａｉｔｈ","translation":"Ｆａｉｔｈ","id":"menu_help_000465"}
+{"text":"Ｆｉｎｉｓｈ","translation":"Ｆｉｎｉｓｈ","id":"menu_help_000466"}
+{"text":"Ｆｏｃｕｓ","translation":"Ｆｏｃｕｓ","id":"menu_help_000467"}
+{"text":"Ｆｕｎｄ","translation":"Ｆｕｎｄ","id":"menu_help_000468"}
+{"text":"Ｆｕｒｙ","translation":"Ｆｕｒｙ","id":"menu_help_000469"}
+{"text":"Ｆｘ","translation":"Search","id":"menu_help_000470"}
+{"text":"Ｆｘ：ＯＦＦ","translation":"Anim: Skip","id":"menu_help_000471"}
+{"text":"Ｆｘ：ＯＮ","translation":"Anim: On","id":"menu_help_000472"}
+{"text":"Ｇａｍｅｒ","translation":"Ｇａｍｅｒ","id":"menu_help_000473"}
+{"text":"Ｇｅｎｉｕｓ","translation":"Ｇｅｎｉｕｓ","id":"menu_help_000474"}
+{"text":"Ｇｅｔ　＄＄＄＝（ＰｉｌｏｔＬｖ　ｘ５００）","translation":"Ｇｅｔ　＄＄＄＝（ＰｉｌｏｔＬｖ　ｘ５００）","id":"menu_help_000475"}
+{"text":"Ｇｅｔ　Ａｃｅ－Ｂｏｎｕｓ！","translation":"Ｇｅｔ　Ａｃｅ－Ｂｏｎｕｓ！","id":"menu_help_000476"}
+{"text":"Ｇｏ！！","translation":"Start","id":"menu_help_000477"}
+{"text":"Ｇｒａｎｔｓ　ｅｆｆｅｃｔｓ　ｏｆ　ＥＳＰｅｒＬ９\nａｎｄ　＋１０ＳＰ／ｔｕｒｎ","translation":"Ｇｒａｎｔｓ　ｅｆｆｅｃｔｓ　ｏｆ　ＥＳＰｅｒＬ９\nａｎｄ　＋１０ＳＰ／ｔｕｒｎ","id":"menu_help_000478"}
+{"text":"Ｇｒｐ","translation":"Ｇｒｐ","id":"menu_help_000479"}
+{"text":"Ｇｕａｒｄ","translation":"Ｇｕａｒｄ","id":"menu_help_000480"}
+{"text":"Ｇｕｔｓ","translation":"Ｇｕｔｓ","id":"menu_help_000481"}
+{"text":"ＨＢ","translation":"ＨＢ","id":"menu_help_000482"}
+{"text":"ＨＩ","translation":"ＨＩ","id":"menu_help_000483"}
+{"text":"ＨＩＴ","translation":"ＨＩＴ","id":"menu_help_000484"}
+{"text":"ＨＰ","translation":"ＨＰ","id":"menu_help_000485"}
+{"text":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ","translation":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ","id":"menu_help_000486"}
+{"text":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ\nＭｏｖ\nＴｙｐ","translation":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ\nＭｏｖ\nＴｙｐ","id":"menu_help_000487"}
+{"text":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ\nＷｐ","translation":"ＨＰ\nＥＮ\nＤｅｆ\nＭｏｂ\nＨｉｔ\nＷｐ","id":"menu_help_000488"}
+{"text":"ＨＰ＋＋：","translation":"ＨＰ＋＋：","id":"menu_help_000489"}
+{"text":"ＨＰ／ＭＡＸ","translation":"ＨＰ／ＭＡＸ","id":"menu_help_000490"}
+{"text":"ＨＰｒｅｃ","translation":"ＨＰｒｅｃ","id":"menu_help_000491"}
+{"text":"Ｈｉ・Ｌｕｃｋ","translation":"Ｈｉ・Ｌｕｃｋ","id":"menu_help_000492"}
+{"text":"Ｈｉｔ↑＆Ｅｖａ↑","translation":"Ｈｉｔ↑＆Ｅｖａ↑","id":"menu_help_000493"}
+{"text":"Ｈｉｔ↑＆Ｅｖａ↑　ｔｏ　ｕｎｉｔ　ｗ／ｉｎ　ｔｈｅ\nｐｒｏｊｅｃｔｅｄ　ＣＯＭＭＡＮＤ　ｆｉｅｌｄ","translation":"Ｈｉｔ↑＆Ｅｖａ↑　ｔｏ　ｕｎｉｔ　ｗ／ｉｎ　ｔｈｅ\nｐｒｏｊｅｃｔｅｄ　ＣＯＭＭＡＮＤ　ｆｉｅｌｄ","id":"menu_help_000494"}
+{"text":"Ｈｉｔ↑＆Ｅｖａ↑、\n@＋Ｒａｎｇｅ　ｔｏ　ｓｏｍｅ\nｗｅａｐｏｎｓ","translation":"Ｈｉｔ↑＆Ｅｖａ↑、\n@＋Ｒａｎｇｅ　ｔｏ　ｓｏｍｅ\nｗｅａｐｏｎｓ","id":"menu_help_000495"}
+{"text":"Ｈｉｔ↑＆Ｅｖａ↑、　ＰｈｏｔｏｎＭａｔ↑、\nＷｅａｐｏｎＡｔｋＰｗｒ↑","translation":"Ｈｉｔ↑＆Ｅｖａ↑、　ＰｈｏｔｏｎＭａｔ↑、\nＷｅａｐｏｎＡｔｋＰｗｒ↑","id":"menu_help_000496"}
+{"text":"Ｈｉｔ＆Ｅｖａ＋３０％\n\nＳｅｌｆ・１Ｔｕｒｎ","translation":"Ｈｉｔ＆Ｅｖａ＋３０％\n\nＳｅｌｆ・１Ｔｕｒｎ","id":"menu_help_000497"}
+{"text":"Ｈｉｔ＆Ｒｕｎ","translation":"Ｈｉｔ＆Ｒｕｎ","id":"menu_help_000498"}
+{"text":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋１０％\nａｔ　１３０＆ｕｐ　Ｖｔ","translation":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋１０％\nａｔ　１３０＆ｕｐ　WL","id":"menu_help_000499"}
+{"text":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋２０％","translation":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋２０％","id":"menu_help_000500"}
+{"text":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋３０％\nａｔ　１３０＆Ｕｐ　Ｖｔ","translation":"Ｈｉｔ／Ｅｖａ／Ｃｒｔ　＋３０％\nａｔ　１３０＆Ｕｐ　WL","id":"menu_help_000501"}
+{"text":"ＨｉｔＲａｔｅ↑、ＤａｍａｇｅＴａｋｅｎ↓","translation":"ＨｉｔＲａｔｅ↑、ＤａｍａｇｅＴａｋｅｎ↓","id":"menu_help_000502"}
+{"text":"ＨｉｔＲａｔｅ－５０％\n\nＥｎｅｍｙ","translation":"ＨｉｔＲａｔｅ－５０％\n\nＥｎｅｍｙ","id":"menu_help_000503"}
+{"text":"Ｈｔ","translation":"Ｈｔ","id":"menu_help_000504"}
+{"text":"Ｈｔ\nＷｔ","translation":"Ｈｔ\nＷｔ","id":"menu_help_000505"}
+{"text":"ＩＦＩＣ","translation":"","id":"menu_help_000506"}
+{"text":"ＩＮ","translation":"ＩＮ","id":"menu_help_000507"}
+{"text":"Ｉｆ　ｄａｍａｇｅ≧ＨＰ、ｌｅａｖｅ　１０ＨＰ　ｔｏ\nｅｎｅｍｙ．　ＳＫＩＬＬ　ｄｉｆｆ．　ｒｅｑ．\nＳｅｌｆ・１Ａｔｔａｃｋ","translation":"Ｉｆ　ｄａｍａｇｅ≧ＨＰ、ｌｅａｖｅ　１０ＨＰ　ｔｏ\nｅｎｅｍｙ．　ＳＫＩＬＬ　ｄｉｆｆ．　ｒｅｑ．\nＳｅｌｆ・１Ａｔｔａｃｋ","id":"menu_help_000508"}
+{"text":"Ｉｇｎｏｒｅ　ｅｎｅｍｙ　ｄｅｆｅｎｓｉｖｅ\nｓｙｓｔｅｍｓ　＆　ｂａｒｒｉｅｒｓ\nＳｅｌｆ・１Ａｔｔａｃｋ","translation":"Ｉｇｎｏｒｅ　ｅｎｅｍｙ　ｄｅｆｅｎｓｉｖｅ\nｓｙｓｔｅｍｓ　＆　ｂａｒｒｉｅｒｓ\nＳｅｌｆ・１Ａｔｔａｃｋ","id":"menu_help_000509"}
+{"text":"Ｉｎｃ","translation":"Ｉｎｃ","id":"menu_help_000510"}
+{"text":"Ｉｎｃ．　ｐｉｌｏｔ　ｓｔａｔｓ","translation":"Ｉｎｃ．　ｐｉｌｏｔ　ｓｔａｔｓ","id":"menu_help_000511"}
+{"text":"Ｉｎｃ．　ｔｅｒｒａｉｎ　ｒａｔｉｎｇ","translation":"Ｉｎｃ．　ｔｅｒｒａｉｎ　ｒａｔｉｎｇ","id":"menu_help_000512"}
+{"text":"Ｉｎｖｉｎ","translation":"Ｉｎｖｉｎ","id":"menu_help_000513"}
+{"text":"ＩｔｅｍＵｓｅ","translation":"ＩｔｅｍＵｓｅ","id":"menu_help_000514"}
+{"text":"Ｋｉｌ","translation":"Kills","id":"menu_help_000515"}
+{"text":"Ｋｉｌｌ\nＴａｒｇ","translation":"Ｋｉｌｌ\nＴａｒｇ","id":"menu_help_000516"}
+{"text":"Ｋｌ","translation":"Ｋｌ","id":"menu_help_000517"}
+{"text":"Ｌ","translation":"Ｌ","id":"menu_help_000518"}
+{"text":"Ｌ＋","translation":"Ｌ＋","id":"menu_help_000519"}
+{"text":"Ｌ－Ｂｒｅａｋ","translation":"Ｌ－Ｂｒｅａｋ","id":"menu_help_000520"}
+{"text":"ＬＥＶＥＬ　ＵＰ！","translation":"ＬＥＶＥＬ　ＵＰ！","id":"menu_help_000521"}
+{"text":"Ｌａｕｎｃｈ","translation":"Ｌａｕｎｃｈ","id":"menu_help_000522"}
+{"text":"Ｌｅａｄｅｒ","translation":"Ｌｅａｄｅｒ","id":"menu_help_000523"}
+{"text":"Ｌｅａｒｎ","translation":"Ｌｅａｒｎ","id":"menu_help_000524"}
+{"text":"Ｌｅａｒｎ　ｐｉｌｏｔ　ｓｋｉｌｌｓ","translation":"Ｌｅａｒｎ　ｐｉｌｏｔ　ｓｋｉｌｌｓ","id":"menu_help_000525"}
+{"text":"Ｌｏｄ","translation":"Load","id":"menu_help_000526"}
+{"text":"Ｌｖ","translation":"Ｌｖ","id":"menu_help_000527"}
+{"text":"Ｌｖ\nＬｖ\nＬｖ","translation":"Ｌｖ\nＬｖ\nＬｖ","id":"menu_help_000528"}
+{"text":"Ｌｖ\nＶｔ\nＳＰ","translation":"Ｌｖ\nWL\nＳＰ","id":"menu_help_000529"}
+{"text":"Ｌｖ／","translation":"Ｌｖ／","id":"menu_help_000530"}
+{"text":"Ｍ\nＲ","translation":"Ｍ\nＲ","id":"menu_help_000531"}
+{"text":"Ｍ．Ａｔｋ","translation":"Ｍ．Ａｔｋ","id":"menu_help_000532"}
+{"text":"ＭＡＰ　ＳＥＡＲＣＨ　Ｓｅｌｅｃｔ　Ｕｎｉｔｓ","translation":"ＭＡＰ　ＳＥＡＲＣＨ　Ｓｅｌｅｃｔ　Ｕｎｉｔｓ","id":"menu_help_000533"}
+{"text":"ＭＢ","translation":"ＭＢ","id":"menu_help_000534"}
+{"text":"ＭａｉｎＭｅｎｕ","translation":"ＭａｉｎＭｅｎｕ","id":"menu_help_000535"}
+{"text":"ＭａｉｎＰｉｌｏｔ　ＳＰ　ｒｅｃ・Ｕｓｅ・ＡｄｊＢａｔｔｌｅｓｈｉｐ","translation":"ＭａｉｎＰｉｌｏｔ　ＳＰ　ｒｅｃ・Ｕｓｅ・ＡｄｊＢａｔｔｌｅｓｈｉｐ","id":"menu_help_000536"}
+{"text":"ＭａｐＡｒｒａｎｇｅｍｅｎｔ","translation":"ＭａｐＡｒｒａｎｇｅｍｅｎｔ","id":"menu_help_000537"}
+{"text":"Ｍａｘ　Ｖｔ　ｒａｉｓｅｄ　ｔｏ　１７０","translation":"Ｍａｘ　WL　ｒａｉｓｅｄ　ｔｏ　１７０","id":"menu_help_000538"}
+{"text":"Ｍｂ","translation":"Ｍｂ","id":"menu_help_000539"}
+{"text":"Ｍｃ","translation":"Ｍｃ","id":"menu_help_000540"}
+{"text":"Ｍｅｃｈ","translation":"Ｍｅｃｈ","id":"menu_help_000541"}
+{"text":"Ｍｅｒｃｙ","translation":"Ｍｅｒｃｙ","id":"menu_help_000542"}
+{"text":"Ｍｌ","translation":"Ｍｌ","id":"menu_help_000543"}
+{"text":"Ｍｌ\nＲｎ","translation":"Ｍｌ\nＲｎ","id":"menu_help_000544"}
+{"text":"Ｍｌ・Ｒｎ＋１５　Ｈｔ＋２０\n　　　　Ｄｆ＋２０　Ｅｖ＋２０","translation":"　　Ｍｌ・Ｒｎ＋１５　Ｈｔ＋２０\n　　　　Ｄｆ＋２０　Ｅｖ＋２０","id":"menu_help_000545"}
+{"text":"Ｍｌ・Ｒｎ＋３０","translation":"Ｍｌ・Ｒｎ＋３０","id":"menu_help_000546"}
+{"text":"Ｍｏｏｎ","translation":"Ｍｏｏｎ","id":"menu_help_000547"}
+{"text":"Ｍｏｖ＋３\n\nＳｅｌｆ・１Ｍｏｖｅ","translation":"Ｍｏｖ＋３\n\nＳｅｌｆ・１Ｍｏｖｅ","id":"menu_help_000548"}
+{"text":"Ｍｏｖ１","translation":"Ｍｏｖ１","id":"menu_help_000549"}
+{"text":"Ｍｏｖ２","translation":"Ｍｏｖ２","id":"menu_help_000550"}
+{"text":"Ｍｏｖｅ　ａｆｔｅｒ　ａｔｔａｃｋｉｎｇ\nｗｉｔｈｏｕｔ　ｍｏｖｉｎｇ","translation":"Ｍｏｖｅ　ａｆｔｅｒ　ａｔｔａｃｋｉｎｇ\nｗｉｔｈｏｕｔ　ｍｏｖｉｎｇ","id":"menu_help_000551"}
+{"text":"Ｍｐ","translation":"Ｍｐ","id":"menu_help_000552"}
+{"text":"Ｍｖ","translation":"Ｍｖ","id":"menu_help_000553"}
+{"text":"Ｍｖ\nＤｅｆ\nＭｏｂ\nＨｉｔ","translation":"Ｍｖ\nＤｅｆ\nＭｏｂ\nＨｉｔ","id":"menu_help_000554"}
+{"text":"Ｍｖ\nＴｙｐ","translation":"Ｍｖ\nＴｙｐ","id":"menu_help_000555"}
+{"text":"Ｎ・","translation":"Ｎ・","id":"menu_help_000556"}
+{"text":"Ｎ＃","translation":"Ｎ＃","id":"menu_help_000557"}
+{"text":"Ｎ．\nＶ．","translation":"Nick\nVA","id":"menu_help_000558"}
+{"text":"ＮＡ","translation":"ＮＡ","id":"menu_help_000559"}
+{"text":"ＮＡＭＥ","translation":"ＮＡＭＥ","id":"menu_help_000560"}
+{"text":"ＮＥＸＴ","translation":"ＮＥＸＴ　　","id":"menu_help_000561"}
+{"text":"ＮＳ","translation":"","id":"menu_help_000562"}
+{"text":"Ｎｅｗｔｙｐｅ","translation":"Ｎｅｗｔｙｐｅ","id":"menu_help_000563"}
+{"text":"Ｎｅｘｔ","translation":"Ｎｅｘｔ","id":"menu_help_000564"}
+{"text":"Ｎｅｘｔ－Ｌｖ\nＥＸＰ","translation":"Ｎｅｘｔ－Ｌｖ\nＥＸＰ\n","id":"menu_help_000565"}
+{"text":"Ｎｍ","translation":"Ｎｍ","id":"menu_help_000566"}
+{"text":"Ｎｏ　ｄａｍａｇｅ　ｐｅｎａｌｔｙ　ｗｈｅｎ\nａｔｔａｃｋｉｎｇ　ｌａｒｇｅｒ\nｅｎｅｍｉｅｓ","translation":"Ｎｏ　ｄａｍａｇｅ　ｐｅｎａｌｔｙ　ｗｈｅｎ\nａｔｔａｃｋｉｎｇ　ｌａｒｇｅｒ\nｅｎｅｍｉｅｓ","id":"menu_help_000567"}
+{"text":"Ｎｏ・ＳＡｔｋ","translation":"Ｎｏ・ＳＡｔｋ","id":"menu_help_000568"}
+{"text":"Ｎｏ・ＳＤｅｆ","translation":"Ｎｏ・ＳＤｅｆ","id":"menu_help_000569"}
+{"text":"ＮｏＳｉｚｅ","translation":"ＮｏＳｉｚｅ","id":"menu_help_000570"}
+{"text":"Ｎｕｌｌｉｆｉｅｓ　ｐｉｌｏｔ　ｓｔａｔｕｓ\nｅｆｆｅｃｔｓ．\nＭａｉｎ　Ｐｉｌｏｔ　ｏｎｌｙ","translation":"Ｎｕｌｌｉｆｉｅｓ　ｐｉｌｏｔ　ｓｔａｔｕｓ\nｅｆｆｅｃｔｓ．\nＭａｉｎ　Ｐｉｌｏｔ　ｏｎｌｙ","id":"menu_help_000571"}
+{"text":"ＮｘｔＭａｐ","translation":"Next Map","id":"menu_help_000572"}
+{"text":"ＯＦＦ","translation":"ＯＦＦ","id":"menu_help_000573"}
+{"text":"ＯＮ","translation":"ＯＮ","id":"menu_help_000574"}
+{"text":"Ｏｔｈｅ","translation":"Others","id":"menu_help_000575"}
+{"text":"Ｏｖｅｒ－Ｓ．","translation":"Ｏｖｅｒ－Ｓ．","id":"menu_help_000576"}
+{"text":"Ｐ－Ａｔｋ","translation":"Ｐ－Ａｔｋ","id":"menu_help_000577"}
+{"text":"Ｐ１","translation":"Ｐ１","id":"menu_help_000578"}
+{"text":"Ｐ２","translation":"Ｐ２","id":"menu_help_000579"}
+{"text":"ＰＩＬＯＴ","translation":"ＰＩＬＯＴ","id":"menu_help_000580"}
+{"text":"ＰＰ","translation":"ＰＰ","id":"menu_help_000581"}
+{"text":"ＰＰ\nＳＰ","translation":"ＰＰ\nＳＰ","id":"menu_help_000582"}
+{"text":"ＰＰ　　\nＰＰ＋　\nＰＰ－","translation":"ＰＰ　　\nＰＰ＋　\nＰＰ－　","id":"menu_help_000583"}
+{"text":"Ｐａｒ","translation":"Ｐａｒ","id":"menu_help_000584"}
+{"text":"Ｐａｒｔｓ","translation":"Ｐａｒｔｓ　　","id":"menu_help_000585"}
+{"text":"Ｐｉｌｏｔ","translation":"Ｐｉｌｏｔ","id":"menu_help_000586"}
+{"text":"Ｐｉｌｏｔｓ","translation":"Ｐｉｌｏｔｓ","id":"menu_help_000587"}
+{"text":"Ｐｉｌｏｔｓ’　ＥＸＰ　＋５００","translation":"Ｐｉｌｏｔｓ’　ＥＸＰ　＋５００","id":"menu_help_000588"}
+{"text":"Ｐｉｌｏｔｓ’　ＫｉｌｌＣｏｕｎｔ　＋２","translation":"Ｐｉｌｏｔｓ’　ＫｉｌｌＣｏｕｎｔ　＋２","id":"menu_help_000589"}
+{"text":"Ｐｉｌｏｔｓ’　ＰＰ　＋２０","translation":"Ｐｉｌｏｔｓ’　ＰＰ　＋２０","id":"menu_help_000590"}
+{"text":"Ｐｏｓ．","translation":"Ｐｏｓ．","id":"menu_help_000591"}
+{"text":"ＰｏｓｔＭｏｖ","translation":"ＰｏｓｔＭｏｖ","id":"menu_help_000592"}
+{"text":"Ｐｒｅｄｉｃｔ","translation":"Ｐｒｅｄｉｃｔ","id":"menu_help_000593"}
+{"text":"Ｐｒｅｖａｉｌ","translation":"Ｐｒｅｖａｉｌ","id":"menu_help_000594"}
+{"text":"Ｐｗｒ","translation":"Ｐｗｒ","id":"menu_help_000595"}
+{"text":"Ｐｗｒ\nＤｅｆ\nＭｏｂ","translation":"Ｐｗｒ\nＤｅｆ\nＭｏｂ","id":"menu_help_000596"}
+{"text":"ＱＳａｖｅ","translation":"ＱＳａｖｅ","id":"menu_help_000597"}
+{"text":"Ｒ－Ｕｐｇ","translation":"Ｒ－Ｕｐｇ","id":"menu_help_000598"}
+{"text":"ＲＡＮＫ","translation":"ＲＡＮＫ","id":"menu_help_000599"}
+{"text":"ＲＢ","translation":"ＲＢ","id":"menu_help_000600"}
+{"text":"ＲＯＢＯＴ","translation":"ＲＯＢＯＴ","id":"menu_help_000601"}
+{"text":"ＲＯＢＯＴＳ","translation":"ＲＯＢＯＴＳ","id":"menu_help_000602"}
+{"text":"ＲＯＢＯＴＳ－ＳＰＥＣ","translation":"SPECIFICATIONS","id":"menu_help_000603"}
+{"text":"Ｒａｎ　ａｌｌ　ｏｒｄｅｒｓ．","translation":"Ｒａｎ　ａｌｌ　ｏｒｄｅｒｓ．","id":"menu_help_000604"}
+{"text":"Ｒａｎｇｅ＋２　ｔｏ　ｎｏｎ－ＭＡＰ　＆　ｎｏｎ－Ｍｅｌｅｅ\nｗｅａｐｏｎｓ\nＳｅｌｆ・１Ａｔｔａｃｋ","translation":"Ｒａｎｇｅ＋２　ｔｏ　ｎｏｎ－ＭＡＰ　＆　ｎｏｎ－Ｍｅｌｅｅ\nｗｅａｐｏｎｓ\nＳｅｌｆ・１Ａｔｔａｃｋ","id":"menu_help_000605"}
+{"text":"Ｒｂ","translation":"Ｒｂ","id":"menu_help_000606"}
+{"text":"Ｒｅｃ－ＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","translation":"Ｒｅｃ－ＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","id":"menu_help_000607"}
+{"text":"Ｒｅｎｅｗ","translation":"Ｒｅｎｅｗ","id":"menu_help_000608"}
+{"text":"Ｒｅｐ－ＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","translation":"Ｒｅｐ－ＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","id":"menu_help_000609"}
+{"text":"Ｒｅｐａｉｒ","translation":"Ｒｅｐａｉｒ","id":"menu_help_000610"}
+{"text":"Ｒｅｐｏｒ","translation":"Ｒｅｐｏｒ","id":"menu_help_000611"}
+{"text":"Ｒｅｑ．","translation":"Ｒｅｑ．","id":"menu_help_000612"}
+{"text":"Ｒｅｓｏｌｖｅ","translation":"Ｒｅｓｏｌｖｅ","id":"menu_help_000613"}
+{"text":"Ｒｅｓｔｏｒｅｄ　ＨＰ　ｘ１．５","translation":"Ｒｅｓｔｏｒｅｄ　ＨＰ　ｘ１．５","id":"menu_help_000614"}
+{"text":"Ｒｅｓｕｌ","translation":"","id":"menu_help_000615"}
+{"text":"ＲｉｓｋＸ","translation":"ＲｉｓｋＸ","id":"menu_help_000616"}
+{"text":"Ｒｎ","translation":"Ｒｎ","id":"menu_help_000617"}
+{"text":"Ｒｏｂｏ","translation":"Ｒｏｂｏ","id":"menu_help_000618"}
+{"text":"Ｒｏｕｓｅ","translation":"Ｒｏｕｓｅ","id":"menu_help_000619"}
+{"text":"Ｒｐ","translation":"Ｒｐ","id":"menu_help_000620"}
+{"text":"Ｒｕｎ　Ａｌｌ　Ｏｒｄｅｒｓ","translation":"Ｒｕｎ　Ａｌｌ　Ｏｒｄｅｒｓ","id":"menu_help_000621"}
+{"text":"Ｒｕｎ　Ｅａｃｈ　Ｏｒｄｅｒ","translation":"Ｒｕｎ　Ｅａｃｈ　Ｏｒｄｅｒ","id":"menu_help_000622"}
+{"text":"Ｒｕｎ・Ａｌｌ","translation":"Ｒｕｎ・Ａｌｌ","id":"menu_help_000623"}
+{"text":"ＲｕｎＯｒｄｅｒ－ＦＵＮＤ","translation":"ＲｕｎＯｒｄｅｒ－ＦＵＮＤ","id":"menu_help_000624"}
+{"text":"ＲｕｎＯｒｄｅｒ－ＧＵＡＲＤ","translation":"ＲｕｎＯｒｄｅｒ－ＧＵＡＲＤ","id":"menu_help_000625"}
+{"text":"ＲｕｎＯｒｄｅｒ－ＳＩＭ","translation":"ＲｕｎＯｒｄｅｒ－ＳＩＭ","id":"menu_help_000626"}
+{"text":"ＲｕｎＯｒｄｅｒ－ＴＲＡＩＮ","translation":"ＲｕｎＯｒｄｅｒ－ＴＲＡＩＮ","id":"menu_help_000627"}
+{"text":"ＲｕｎＳｉｎｇｌｅ","translation":"ＲｕｎＳｉｎｇｌｅ","id":"menu_help_000628"}
+{"text":"Ｓ\nＤ","translation":"Ｓ\nＤ","id":"menu_help_000629"}
+{"text":"ＳＡｔｋ","translation":"ＳＡｔｋ","id":"menu_help_000630"}
+{"text":"ＳＣ","translation":"ＳＣ","id":"menu_help_000631"}
+{"text":"ＳＤｅｆ","translation":"ＳＤｅｆ","id":"menu_help_000632"}
+{"text":"ＳＥＥＤ","translation":"ＳＥＥＤ","id":"menu_help_000633"}
+{"text":"ＳＧｕｔｓ","translation":"ＳＧｕｔｓ","id":"menu_help_000634"}
+{"text":"ＳＰ","translation":"ＳＰ","id":"menu_help_000635"}
+{"text":"ＳＰ\nＳＰ\nＳＰ","translation":"ＳＰ\nＳＰ\nＳＰ","id":"menu_help_000636"}
+{"text":"ＳＰ・Ｕｐ","translation":"ＳＰ・Ｕｐ","id":"menu_help_000637"}
+{"text":"ＳＰＲｅｇｅｎ","translation":"ＳＰＲｅｇｅｎ","id":"menu_help_000638"}
+{"text":"ＳＲ　Ｐｔ．","translation":"ＳＲ　Ｐｔ．","id":"menu_help_000639"}
+{"text":"ＳＲ　Ｐｔ．Ｏｂｔａｉｎｅｄ","translation":"ＳＲ　Ｐｔ．Ｏｂｔａｉｎｅｄ","id":"menu_help_000640"}
+{"text":"ＳＲ　Ｐｔｓ","translation":"ＳＲ　Ｐｔｓ","id":"menu_help_000641"}
+{"text":"ＳＲ　Ｐｔｓ\nＭｏｄ","translation":"ＳＲ　Ｐｔｓ\nＭｏｄ","id":"menu_help_000642"}
+{"text":"ＳＲ　Ｐｔｓ．","translation":"ＳＲ　Ｐｔｓ．","id":"menu_help_000643"}
+{"text":"ＳＴ","translation":"ＳＴ","id":"menu_help_000644"}
+{"text":"ＳＵＰＰＯＲＴ","translation":"ＳＵＰＰＯＲＴ","id":"menu_help_000645"}
+{"text":"Ｓａｌａｒｙ","translation":"Ｓａｌａｒｙ","id":"menu_help_000646"}
+{"text":"Ｓａｖ","translation":"Save","id":"menu_help_000647"}
+{"text":"Ｓｃａｎ","translation":"Ｓｃａｎ","id":"menu_help_000648"}
+{"text":"Ｓｅｌｅｃｔ　Ｂａｔｔｌｅｓｈｉｐ","translation":"Ｓｅｌｅｃｔ　Ｂａｔｔｌｅｓｈｉｐ","id":"menu_help_000649"}
+{"text":"Ｓｅｌｅｃｔ　Ｄｅｐｌｏｙ　Ｌｏｃａｔｉｏｎ","translation":"Ｓｅｌｅｃｔ　Ｄｅｐｌｏｙ　Ｌｏｃａｔｉｏｎ","id":"menu_help_000650"}
+{"text":"Ｓｅｌｅｃｔ　Ｓｏｒｔｉｅ　Ｕｎｉｔｓ","translation":"Ｓｅｌｅｃｔ　Ｓｏｒｔｉｅ　Ｕｎｉｔｓ","id":"menu_help_000651"}
+{"text":"ＳｅｌｅｃｔＡｌｌｙ","translation":"ＳｅｌｅｃｔＡｌｌｙ","id":"menu_help_000652"}
+{"text":"ＳｅｌｅｃｔＡｌｌｙＵｎｉｔ","translation":"ＳｅｌｅｃｔＡｌｌｙＵｎｉｔ","id":"menu_help_000653"}
+{"text":"ＳｅｌｅｃｔＥｎｅｍｙ","translation":"ＳｅｌｅｃｔＥｎｅｍｙ","id":"menu_help_000654"}
+{"text":"ＳｅｌｅｃｔＴａｃｔｉｃｓＲａｎｇｅ","translation":"ＳｅｌｅｃｔＴａｃｔｉｃｓＲａｎｇｅ","id":"menu_help_000655"}
+{"text":"Ｓｅｎｓｅ","translation":"Ｓｅｎｓｅ","id":"menu_help_000656"}
+{"text":"Ｓｅｔ","translation":"Ｓｅｔ","id":"menu_help_000657"}
+{"text":"Ｓｅｔ：Ａ","translation":"Ｓｅｔ：Ａ","id":"menu_help_000658"}
+{"text":"Ｓｅｔ：Ｂ","translation":"Ｓｅｔ：Ｂ","id":"menu_help_000659"}
+{"text":"Ｓｅｔ：Ｃ","translation":"Ｓｅｔ：Ｃ","id":"menu_help_000660"}
+{"text":"Ｓｅｔ：Ｄ","translation":"Ｓｅｔ：Ｄ","id":"menu_help_000661"}
+{"text":"Ｓｅｔ：Ｅ","translation":"Ｓｅｔ：Ｅ","id":"menu_help_000662"}
+{"text":"ＳｅｔＵｐ","translation":"ＳｅｔＵｐ","id":"menu_help_000663"}
+{"text":"Ｓｉｄ","translation":"","id":"menu_help_000664"}
+{"text":"Ｓｉｍ","translation":"Ｓｉｍ","id":"menu_help_000665"}
+{"text":"Ｓｋ","translation":"Ｓｋ","id":"menu_help_000666"}
+{"text":"Ｓｋ\nＤｆ","translation":"Ｓｋ\nＤｆ","id":"menu_help_000667"}
+{"text":"Ｓｋｉｌｌ","translation":"Ｓｋｉｌｌ","id":"menu_help_000668"}
+{"text":"Ｓｋｉｌｌ＋１０　ａｔ　１３０Ｖｔ","translation":"Ｓｋｉｌｌ＋１０　ａｔ　１３０WL","id":"menu_help_000669"}
+{"text":"Ｓｋｉｌｌ＋３０　ａｔ　１３０Ｖｔ","translation":"Ｓｋｉｌｌ＋３０　ａｔ　１３０WL","id":"menu_help_000670"}
+{"text":"ＳｋｌＬｖ","translation":"ＳｋｌＬｖ","id":"menu_help_000671"}
+{"text":"Ｓｎｉｐｅ","translation":"Ｓｎｉｐｅ","id":"menu_help_000672"}
+{"text":"Ｓｏｒｔｉｅ　Ｐｒｅｐ．　Ｍｅｎｕ","translation":"Ｓｏｒｔｉｅ　Ｐｒｅｐ．　Ｍｅｎｕ","id":"menu_help_000673"}
+{"text":"Ｓｏｕｌ","translation":"Ｓｏｕｌ","id":"menu_help_000674"}
+{"text":"Ｓｐ","translation":"Spirit","id":"menu_help_000675"}
+{"text":"ＳｐＦｘ","translation":"ＳｐＦｘ","id":"menu_help_000676"}
+{"text":"ＳｐＦｘ\n\n\nＴｅｒｒ","translation":"ＳｐＦｘ\n\n\nＴｅｒｒ","id":"menu_help_000677"}
+{"text":"Ｓｐｅｃｉａｌ","translation":"Ｓｐｅｃｉａｌ","id":"menu_help_000678"}
+{"text":"Ｓｐｅｅｄ－Ｕｐ","translation":"Ｓｐｅｅｄ－Ｕｐ","id":"menu_help_000679"}
+{"text":"ＳｐｉｒａｌＰ","translation":"ＳｐｉｒａｌＰ","id":"menu_help_000680"}
+{"text":"Ｓｐｉｒｉｔ","translation":"Ｓｐｉｒｉｔ","id":"menu_help_000681"}
+{"text":"ＳｐｒＷａｌｌ","translation":"ＳｐｒＷａｌｌ","id":"menu_help_000682"}
+{"text":"Ｓｒｓ．","translation":"Series","id":"menu_help_000683"}
+{"text":"Ｓｔ","translation":"Ｓｔ","id":"menu_help_000684"}
+{"text":"Ｓｔａｔｓ","translation":"　Ｓｔａｔｓ","id":"menu_help_000685"}
+{"text":"Ｓｕ","translation":"Ｓｕ","id":"menu_help_000686"}
+{"text":"ＳｕｂＯｒｄ","translation":"Suborder","id":"menu_help_000687"}
+{"text":"Ｓｕｍ","translation":"Ｓｕｍ","id":"menu_help_000688"}
+{"text":"Ｓｕｐｐ","translation":"Support","id":"menu_help_000689"}
+{"text":"Ｓｕｐｐ．","translation":"Ｓｕｐｐ．","id":"menu_help_000690"}
+{"text":"ＳｕｐｐＡｔｋ","translation":"ＳｕｐｐＡｔｋ","id":"menu_help_000691"}
+{"text":"ＳｕｐｐＤｅｆ","translation":"ＳｕｐｐＤｅｆ","id":"menu_help_000692"}
+{"text":"ＳｕｐｐＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","translation":"ＳｕｐｐＳｅｌｅｃｔＡｌｌｙＵｎｉｔｓ","id":"menu_help_000693"}
+{"text":"Ｓｕｐｐｌｙ","translation":"Ｓｕｐｐｌｙ","id":"menu_help_000694"}
+{"text":"Ｓｕｒｖｉｖｅ","translation":"Ｓｕｒｖｉｖｅ","id":"menu_help_000695"}
+{"text":"Ｓｗａｐ","translation":"Ｓｗａｐ","id":"menu_help_000696"}
+{"text":"ＳｗａｐＰａｒｔ","translation":"ＳｗａｐＰａｒｔ","id":"menu_help_000697"}
+{"text":"Ｓｗｏｒｄ／Ｓｈｉｅｌｄ　Ｄｅｆｅｎｓｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ａｃｔｉｖａｔｅｓ\nｔｈｉｓ　ａｂｉｌｉｔｙ","translation":"Ｓｗｏｒｄ／Ｓｈｉｅｌｄ　Ｄｅｆｅｎｓｅ\nＳＫＩＬＬ　ｄｉｆｆ．　ａｃｔｉｖａｔｅｓ\nｔｈｉｓ　ａｂｉｌｉｔｙ","id":"menu_help_000698"}
+{"text":"Ｔ－Ｃｍｎｄ","translation":"Ｔ－Ｃｍｎｄ","id":"menu_help_000699"}
+{"text":"Ｔ１","translation":"Ｔ１","id":"menu_help_000700"}
+{"text":"Ｔ２","translation":"Ｔ２","id":"menu_help_000701"}
+{"text":"ＴＦ","translation":"ＴＦ","id":"menu_help_000702"}
+{"text":"ＴＨＥ　ＵＮＩＶＥＲＳＥ　ＥＮＤ　Ｍ－１４","translation":"ＴＨＥ　ＵＮＩＶＥＲＳＥ　ＥＮＤ　Ｍ－１４","id":"menu_help_000703"}
+{"text":"ＴＯＰ画面に戻ってオーダーを実行して下さい。","translation":"ＴＯＰ画面に戻ってオーダーを実行して下さい。","id":"menu_help_000704"}
+{"text":"Ｔａｋｅ　ｏｎｌｙ　１０　Ｄａｍａｇｅ\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","translation":"Ｔａｋｅ　ｏｎｌｙ　１０　Ｄａｍａｇｅ\n\nＳｅｌｆ・１Ｂａｔｔｌｅ","id":"menu_help_000705"}
+{"text":"Ｔｅｃｈ","translation":"Ｔｅｃｈ","id":"menu_help_000706"}
+{"text":"Ｔｅｒｒ","translation":"Ｔｅｒｒ","id":"menu_help_000707"}
+{"text":"Ｔｐ","translation":"Ｔｐ","id":"menu_help_000708"}
+{"text":"Ｔｒａｉｎ","translation":"Ｔｒａｉｎ","id":"menu_help_000709"}
+{"text":"Ｔｒａｎｓｆ．","translation":"Ｔｒａｎｓｆ．","id":"menu_help_000710"}
+{"text":"Ｔｒｎ\n＄＄","translation":"Ｔｒｎ\n＄＄","id":"menu_help_000711"}
+{"text":"Ｔｒｎ＞","translation":"Ｔｒｎ＞","id":"menu_help_000712"}
+{"text":"Ｔｒｕｓｔ","translation":"Ｔｒｕｓｔ","id":"menu_help_000713"}
+{"text":"Ｔｕｒｎ\n　Ｔｕｒｎ＋","translation":"　　Ｔｕｒｎ\n　Ｔｕｒｎ＋","id":"menu_help_000714"}
+{"text":"Ｔｙｐ","translation":"Ｔｙｐ","id":"menu_help_000715"}
+{"text":"ＵＮＩＴ","translation":"ＵＮＩＴ","id":"menu_help_000716"}
+{"text":"Ｕｎｉｔ","translation":"　Ｕｎｉｔ","id":"menu_help_000717"}
+{"text":"Ｕｎｉｔ　Ｍｏｖ＋１\nＡｔ　１３０＋＋　Ｖｔ、\nＵｎｉｔ　Ｍｏｖ＋２","translation":"Ｕｎｉｔ　Ｍｏｖ＋１\nＡｔ　１３０＋＋　WL、\nＵｎｉｔ　Ｍｏｖ＋２","id":"menu_help_000718"}
+{"text":"ＵｎｓｏｒｔｉｅｄＰｉｌｏｔ","translation":"ＵｎｓｏｒｔｉｅｄＰｉｌｏｔ","id":"menu_help_000719"}
+{"text":"Ｕｐ","translation":"Upgrade","id":"menu_help_000720"}
+{"text":"Ｕｐ＃","translation":"Ｕｐ＃","id":"menu_help_000721"}
+{"text":"Ｕｐｇｒａｄｅ","translation":"Ｕｐｇｒａｄｅ","id":"menu_help_000722"}
+{"text":"Ｕｓｅ","translation":"Ｕｓｅ","id":"menu_help_000723"}
+{"text":"Ｕｓｅ　ａｎｙ　ｎｏｎ－ＭＡＰ　ｗｅａｐｏｎｓ　ａｆｔｅｒ\nｍｏｖｉｎｇ\nＳｅｌｆ・１Ｍｏｖｅ","translation":"Ｕｓｅ　ａｎｙ　ｎｏｎ－ＭＡＰ　ｗｅａｐｏｎｓ　ａｆｔｅｒ\nｍｏｖｉｎｇ\nＳｅｌｆ・１Ｍｏｖｅ","id":"menu_help_000724"}
+{"text":"Ｖａｌ","translation":"Ｖａｌ","id":"menu_help_000725"}
+{"text":"Ｖａｌｏｒ","translation":"Ｖａｌｏｒ","id":"menu_help_000726"}
+{"text":"ＶｉｅｗＳｔａｔｓ\n\nＥｎｅｍｙ","translation":"ＶｉｅｗＳｔａｔｓ\n\nＥｎｅｍｙ","id":"menu_help_000727"}
+{"text":"Ｖｒ","translation":"Ｖｒ","id":"menu_help_000728"}
+{"text":"Ｖｓ","translation":"　　　　Ｖｓ","id":"menu_help_000729"}
+{"text":"Ｖｔ","translation":"Will","id":"menu_help_000730"}
+{"text":"Ｖｔ・Ｄｍｇ","translation":"WL・Ｄｍｇ","id":"menu_help_000731"}
+{"text":"Ｖｔ・Ｅｖａ","translation":"WL・Ｅｖａ","id":"menu_help_000732"}
+{"text":"Ｖｔ・Ｈｉｔ","translation":"WL・Ｈｉｔ","id":"menu_help_000733"}
+{"text":"Ｖｔ・Ｋｉｌｌ","translation":"WL・Ｋｉｌｌ","id":"menu_help_000734"}
+{"text":"Ｖｔ＋１／Ｋｉｌｌ","translation":"WL＋１／Ｋｉｌｌ","id":"menu_help_000735"}
+{"text":"Ｖｔ＋１／ｄｏｄｇｅｄ　ａｔｔａｃｋ","translation":"WL＋１／ｄｏｄｇｅｄ　ａｔｔａｃｋ","id":"menu_help_000736"}
+{"text":"Ｖｔ＋１／ｈｉｔ　ｔａｒｇｅｔ","translation":"WL＋１／ｈｉｔ　ｔａｒｇｅｔ","id":"menu_help_000737"}
+{"text":"Ｖｔ＋１０\n\nＳｅｌｆ","translation":"WL＋１０\n\nＳｅｌｆ","id":"menu_help_000738"}
+{"text":"Ｖｔ＋１０　ｕｐｏｎ　ｓｏｒｔｉｅ","translation":"WL＋１０　ｕｐｏｎ　ｓｏｒｔｉｅ","id":"menu_help_000739"}
+{"text":"Ｖｔ＋２　ｗｈｅｎ　ｄａｍａｇｅｄ","translation":"WL＋２　ｗｈｅｎ　ｄａｍａｇｅｄ","id":"menu_help_000740"}
+{"text":"Ｖｔ＋３／ｔｕｒｎ　ａｔ　Ｔｕｒｎ　２＋＋","translation":"Ｖｔ＋３／ｔｕｒｎ　ａｔ　Ｔｕｒｎ　２＋＋","id":"menu_help_000741"}
+{"text":"Ｖｔ＋３０\n\nＳｅｌｆ","translation":"WL＋３０\n\nＳｅｌｆ","id":"menu_help_000742"}
+{"text":"Ｖｔ＋５　ｔｏ　ａｄｊａｃｅｎｔ　ａｌｌｉｅｓ\n\nＡｄｊ．Ａｌｌｉｅｓ","translation":"WL＋５　ｔｏ　ａｄｊａｃｅｎｔ　ａｌｌｉｅｓ\n\nＡｄｊ．Ａｌｌｉｅｓ","id":"menu_help_000743"}
+{"text":"Ｖｔ－１０\n\nＥｎｅｍｙ","translation":"WL－１０\n\nＥｎｅｍｙ","id":"menu_help_000744"}
+{"text":"Ｖｔ－３　ｏｎ　ｆｏｕｇｈｔ　ｅｎｅｍｉｅｓ．\nＮｏ　ｒｅｐａｉｒ　ｃｏｓｔ\nｉｆ　Ｎｅｇｏ．　ｓｕｒｖｉｖｅｓ","translation":"WL－３　ｏｎ　ｆｏｕｇｈｔ　ｅｎｅｍｉｅｓ．\nＮｏ　ｒｅｐａｉｒ　ｃｏｓｔ\nｉｆ　Ｎｅｇｏ．　ｓｕｒｖｉｖｅｓ","id":"menu_help_000745"}
+{"text":"Ｗ＋","translation":"Ｗ＋","id":"menu_help_000746"}
+{"text":"Ｗ－Ｕｐｇ","translation":"Ｗ－Ｕｐｇ","id":"menu_help_000747"}
+{"text":"ＷＥＡＰ","translation":"ＷＥＡＰ","id":"menu_help_000748"}
+{"text":"ＷＥＡＰＯＮ","translation":"ＷＥＡＰＯＮ","id":"menu_help_000749"}
+{"text":"Ｗｅａｐ","translation":"Ｗｅａｐ","id":"menu_help_000750"}
+{"text":"Ｗｅａｐｏｎ　ＥＮ　ｃｏｓｔ　－２０％","translation":"Ｗｅａｐｏｎ　ＥＮ　ｃｏｓｔ　－２０％","id":"menu_help_000751"}
+{"text":"ＷｅａｐｏｎＡｍｍｏ　ｘ１．５","translation":"ＷｅａｐｏｎＡｍｍｏ　ｘ１．５","id":"menu_help_000752"}
+{"text":"Ｗｈｅｎ　ＨＰ　ｉｓ　ｂｅｌｏｗ　１０％、\nＨｉｔ＆Ｅｖａ　＋３０％\nＭｌ／Ｒｎ／Ｓｋ／Ｄｆ　＋２０％","translation":"Ｗｈｅｎ　ＨＰ　ｉｓ　ｂｅｌｏｗ　１０％、\nＨｉｔ＆Ｅｖａ　＋３０％\nＭｌ／Ｒｎ／Ｓｋ／Ｄｆ　＋２０％","id":"menu_help_000753"}
+{"text":"Ｗｉｎ　\nＬｏｓｅ\nＳＲＰｏｉｎｔＲｅｑ","translation":"Ｗｉｎ　\nＬｏｓｅ\nＳＲＰｏｉｎｔＲｅｑ","id":"menu_help_000754"}
+{"text":"Ｗｐ","translation":"Ｗｐ","id":"menu_help_000755"}
+{"text":"Ｙ・","translation":"Ｙ・","id":"menu_help_000756"}
+{"text":"Ｙｅｌｌ","translation":"Ｙｅｌｌ","id":"menu_help_000757"}
+{"text":"Ｚｅａｌ","translation":"Ｚｅａｌ","id":"menu_help_000758"}
+{"text":"＿","translation":"＿","id":"menu_help_000759"}
+{"text":"ａｎｄ","translation":"","id":"menu_help_000760"}
+{"text":"ｅａｒ","translation":"ｅａｒ","id":"menu_help_000761"}
+{"text":"ｅｎｃｅ","translation":"ｅｎｃｅ","id":"menu_help_000762"}
+{"text":"ｇｒａｄｅ","translation":"","id":"menu_help_000763"}
+{"text":"ｉｃａ","translation":"","id":"menu_help_000764"}
+{"text":"ｉｏｎ","translation":"","id":"menu_help_000765"}
+{"text":"ｌｐ","translation":"ｌｐ","id":"menu_help_000766"}
+{"text":"ｍｍ","translation":"","id":"menu_help_000767"}
+{"text":"ｒｍａ","translation":"","id":"menu_help_000768"}
+{"text":"ｒｓ","translation":"","id":"menu_help_000769"}
+{"text":"ｔ！","translation":"ｔ！","id":"menu_help_000770"}
+{"text":"ｔｅｄ","translation":"","id":"menu_help_000771"}
+{"text":"ｔｕａｔ","translation":"","id":"menu_help_000772"}
+{"text":"ｔｕｒｎ","translation":"ｔｕｒｎ","id":"menu_help_000773"}
+{"text":"ｘｘ","translation":"ｘｘ","id":"menu_help_000774"}
+{"text":"～","translation":"～","id":"menu_help_000775"}
+{"text":"Ｄ","translation":"Defense","id":"menu_help_000776"}
+{"text":"ｅｆ","translation":"","id":"menu_help_000777"}
+{"text":"ｒｄ","translation":"","id":"menu_help_000778"}
+{"text":"ｌ","translation":"","id":"menu_help_000779"}
+{"text":"ｆｆ","translation":"","id":"menu_help_000780"}
+{"text":"Ｏ","translation":"Offense","id":"menu_help_000781"}
+{"text":"ｃｅ","translation":"","id":"menu_help_000782"}
+{"text":"－","translation":"","id":"menu_help_000783"}
+{"text":"ｅ","translation":"","id":"menu_help_000784"}
+{"text":"ｅｎ","translation":"","id":"menu_help_000785"}
+{"text":"竜馬\nジュン\nボス\nビッグボルフォッグ\nみちる","translation":"竜馬\nジュン\nボス\nビッグボルフォッグ\nみちる","id":"menu_help_000786"}
+{"text":"（）\n（）\n（）\n（）\n（）\n（）","translation":"　　\n　　\n　　\n　　\n　　\n　　","id":"menu_help_000787"}
+{"text":"（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）","translation":"（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）\n（　　）","id":"menu_help_000788"}
+{"text":"ｌ","translation":"ｌ","id":"menu_help_000789"}
+{"text":"ｉ","translation":"ｉ","id":"menu_help_000790"}
+{"text":"ｔｓ","translation":"ｔｓ","id":"menu_help_000791"}
+{"text":"ｔ","translation":"ｔ","id":"menu_help_000792"}
+{"text":"ｔ","translation":"","id":"menu_help_000793"}
+{"text":"ｔ","translation":"","id":"menu_help_000794"}
+{"text":"ｉ","translation":"","id":"menu_help_000795"}
+{"text":"ｌ","translation":"","id":"menu_help_000796"}
+{"text":"Ｓ","translation":"","id":"menu_help_000797"}
+{"text":"%s","translation":"%s","id":"menu_help_000798"}
+{"text":"%s　ｄａｍａｇｅ　ｔａｋｅｎ","translation":"%s　ｄａｍａｇｅ　ｔａｋｅｎ","id":"menu_help_000799"}
+{"text":"%sｓ、","translation":"%sｓ、","id":"menu_help_000800"}
+{"text":"、１ｘ／ｍｉｓｓｉｏｎ、","translation":"、１ｘ／ｍｉｓｓｉｏｎ、","id":"menu_help_000801"}
+{"text":"『%s』","translation":"『%s』　","id":"menu_help_000802"}
+{"text":"『ＡＩＲ』Ｒａｔｉｎｇ","translation":"『ＡＩＲ』Ｒａｔｉｎｇ　","id":"menu_help_000803"}
+{"text":"『ＭｏｏｎＡｔｔａｃｋ』","translation":"『ＭｏｏｎＡｔｔａｃｋ』","id":"menu_help_000804"}
+{"text":"『Ｏｖｅｒｓｋｉｌｌ』　ｓｔｒｅｎｇｔｈｅｎｅｄ","translation":"『Ｏｖｅｒｓｋｉｌｌ』　ｓｔｒｅｎｇｔｈｅｎｅｄ","id":"menu_help_000805"}
+{"text":"『ＳｈｉｎＧｅｔｔｅｒＶｉｓｉｏｎ』’ｓ","translation":"『ＳｈｉｎＧｅｔｔｅｒＶｉｓｉｏｎ』’ｓ","id":"menu_help_000806"}
+{"text":"『ＴｗｉｎＳａｔｅｌｌｉｔｅＣａｎｎｏｎ』　ｃｈａｒｇｉｎｇ","translation":"『ＴｗｉｎＳａｔｅｌｌｉｔｅＣａｎｎｏｎ』　ｃｈａｒｇｉｎｇ　","id":"menu_help_000807"}
+{"text":"『ＷＡＴＥＲ、ＬＡＮＤ、ＡＩＲ』　Ｒａｔｉｎｇ","translation":"『ＷＡＴＥＲ、ＬＡＮＤ、ＡＩＲ』　Ｒａｔｉｎｇ　","id":"menu_help_000808"}
+{"text":"＆　『%s』ｇａｉｎｅｄ","translation":"＆　『%s』ｇａｉｎｅｄ","id":"menu_help_000809"}
+{"text":"（Ａｄｊ．　ｔｏ　ｆｅｍａｌｅ　ｐｉｌｏｔ）","translation":"（Ａｄｊ．　ｔｏ　ｆｅｍａｌｅ　ｐｉｌｏｔ）","id":"menu_help_000810"}
+{"text":"（ＭｏｏｎＯｕｔ）","translation":"（ＭｏｏｎＯｕｔ）","id":"menu_help_000811"}
+{"text":"１ｘ、","translation":"１ｘ、","id":"menu_help_000812"}
+{"text":"ＡｃｔｉｖａｔｉｏｎＲａｔｅ%s％","translation":"\nＡｃｔｉｖａｔｉｏｎＲａｔｅ%s％","id":"menu_help_000813"}
+{"text":"Ａｄｊａｃｅｎｔ『%s』、","translation":"Ａｄｊａｃｅｎｔ『%s』、","id":"menu_help_000814"}
+{"text":"Ａｆｔｅｒ　Ｓｕｐｐｏｒｔ　Ａｔｋ／Ｄｅｆ","translation":"Ａｆｔｅｒ　Ｓｕｐｐｏｒｔ　Ａｔｋ／Ｄｅｆ\n","id":"menu_help_000815"}
+{"text":"Ａｌｌ　Ｋｎｏｔ－ｔｙｐｅ　ｗｅａｐｏｎｓ’","translation":"Ａｌｌ　Ｋｎｏｔ－ｔｙｐｅ　ｗｅａｐｏｎｓ’　","id":"menu_help_000816"}
+{"text":"Ａｌｌ　ＳｏｌＧｒａｖｉｏｎ　ｐｉｌｏｔｓ","translation":"Ａｌｌ　ＳｏｌＧｒａｖｉｏｎ　ｐｉｌｏｔｓ\n","id":"menu_help_000817"}
+{"text":"Ａｍｍｏ%s","translation":"Ａｍｍｏ%s","id":"menu_help_000818"}
+{"text":"Ａｔ　%s％ＨＰ","translation":"Ａｔ　%s％ＨＰ","id":"menu_help_000819"}
+{"text":"Ａｔ　%sＶｔ","translation":"Ａｔ　%sWL","id":"menu_help_000820"}
+{"text":"Ａｔ　０ＨＰ","translation":"Ａｔ　０ＨＰ","id":"menu_help_000821"}
+{"text":"Ａｔ　ＳｕｐｐｏｒｔＤｅｆ、","translation":"Ａｔ　ＳｕｐｐｏｒｔＤｅｆ、\n","id":"menu_help_000822"}
+{"text":"Ａｔ　ｓｔａｇｅ　ｃｌｅａｒ","translation":"Ａｔ　ｓｔａｇｅ　ｃｌｅａｒ","id":"menu_help_000823"}
+{"text":"Ａｔ　ｓｔａｇｅ　ｃｌｅａｒ、ｒｅｃｅｉｖｅ","translation":"Ａｔ　ｓｔａｇｅ　ｃｌｅａｒ、ｒｅｃｅｉｖｅ","id":"menu_help_000824"}
+{"text":"ＢｕｓｔｅｒＲｉｆｌｅＭＡＰ","translation":"ＢｕｓｔｅｒＲｉｆｌｅＭＡＰ","id":"menu_help_000825"}
+{"text":"ＣＲＴ%s","translation":"ＣＲＴ%s","id":"menu_help_000826"}
+{"text":"ＣｒｉｔｉｃａｌＲａｔｅ%s％","translation":"ＣｒｉｔｉｃａｌＲａｔｅ%s％","id":"menu_help_000827"}
+{"text":"Ｄｅｆｅｎｓｅ%s","translation":"Ｄｅｆｅｎｓｅ%s","id":"menu_help_000828"}
+{"text":"Ｅａｒｎ　ｍｏｎｅｙ　%s％","translation":"Ｅａｒｎ　ｍｏｎｅｙ　%s％","id":"menu_help_000829"}
+{"text":"ＥｖａＲａｔｅ","translation":"ＥｖａＲａｔｅ","id":"menu_help_000830"}
+{"text":"ＥｖａＲａｔｅ%s％","translation":"ＥｖａＲａｔｅ%s％","id":"menu_help_000831"}
+{"text":"Ｅｖａｓｉｏｎ%s","translation":"Ｅｖａｓｉｏｎ%s","id":"menu_help_000832"}
+{"text":"Ｆｕｎｄｓ%s","translation":"\nＦｕｎｄｓ%s","id":"menu_help_000833"}
+{"text":"Ｈｉｔ%s","translation":"Ｈｉｔ%s","id":"menu_help_000834"}
+{"text":"ＨｉｔＲａｔｅ","translation":"ＨｉｔＲａｔｅ","id":"menu_help_000835"}
+{"text":"ＨｉｔＲａｔｅ%s％","translation":"ＨｉｔＲａｔｅ%s％","id":"menu_help_000836"}
+{"text":"Ｉｎ　１ｔｕｒｎ、ｄｏｃｋｅｄ　ｕｎｉｔｓ’　ＨＰ","translation":"Ｉｎ　１ｔｕｒｎ、ｄｏｃｋｅｄ　ｕｎｉｔｓ’　ＨＰ　","id":"menu_help_000837"}
+{"text":"Ｉｔｅｍ『%s』","translation":"Ｉｔｅｍ『%s』　","id":"menu_help_000838"}
+{"text":"ＭａｘＥＮ%s","translation":"ＭａｘＥＮ%s","id":"menu_help_000839"}
+{"text":"ＭａｘＨＰ%s","translation":"ＭａｘＨＰ%s","id":"menu_help_000840"}
+{"text":"ＭａｘＳＰ%s","translation":"ＭａｘＳＰ%s","id":"menu_help_000841"}
+{"text":"ＭａｘＶｔ%s","translation":"ＭａｘWL%s","id":"menu_help_000842"}
+{"text":"ＭｅｇａＢｚｋａＬａｕｎｃｈｅｒＭＡＰ","translation":"ＭｅｇａＢｚｋａＬａｕｎｃｈｅｒＭＡＰ","id":"menu_help_000843"}
+{"text":"Ｍｅｌｅｅ　Ｓｔａｔ　%s","translation":"Ｍｅｌｅｅ　Ｓｔａｔ　%s","id":"menu_help_000844"}
+{"text":"Ｍｅｌｅｅ　ｗｅａｐｏｎｓ","translation":"Ｍｅｌｅｅ　ｗｅａｐｏｎｓ　","id":"menu_help_000845"}
+{"text":"Ｍｅｌｅｅ　ｗｅａｐｏｎｓ’","translation":"Ｍｅｌｅｅ　ｗｅａｐｏｎｓ’　","id":"menu_help_000846"}
+{"text":"Ｍｏｂｉｌｉｔｙ%s","translation":"Ｍｏｂｉｌｉｔｙ%s","id":"menu_help_000847"}
+{"text":"Ｍｏｖｅｍｅｎｔ%s","translation":"Ｍｏｖｅｍｅｎｔ%s","id":"menu_help_000848"}
+{"text":"Ｎｏ　Ｖｔ　ｌｏｓｓ　ｏｎ　ｒｅｓｕｐｐｌｉｅｄ　ｕｎｉｔｓ","translation":"Ｎｏ　WL　ｌｏｓｓ　ｏｎ　ｒｅｓｕｐｐｌｉｅｄ　ｕｎｉｔｓ","id":"menu_help_000849"}
+{"text":"Ｎｏｎ（ＭＡＰ／１Ｒａｎｇｅ）","translation":"Ｎｏｎ（ＭＡＰ／１Ｒａｎｇｅ）","id":"menu_help_000850"}
+{"text":"Ｎｏｎ－ＭＡＰ　＆　ｎｏｎ－１Ｒａｎｇｅ　ｗｅａｐｏｎｓ、","translation":"Ｎｏｎ－ＭＡＰ　＆　ｎｏｎ－１Ｒａｎｇｅ　ｗｅａｐｏｎｓ、","id":"menu_help_000851"}
+{"text":"ＰＰ　ｉｎｃｒｅａｓｅ　ｘ%s","translation":"\nＰＰ　ｉｎｃｒｅａｓｅ　ｘ%s","id":"menu_help_000852"}
+{"text":"Ｐｅｒ　Ｐｈａｓｅ　ｓｔａｒｔ","translation":"Ｐｅｒ　Ｐｈａｓｅ　ｓｔａｒｔ","id":"menu_help_000853"}
+{"text":"Ｐｉｌｏｔ『%s』　ｉｓ　ｏｎ　ｍａｐ","translation":"Ｐｉｌｏｔ『%s』　ｉｓ　ｏｎ　ｍａｐ","id":"menu_help_000854"}
+{"text":"ＰｌａｓｍａＧｉｍｍｉｃｋＭＡＰ","translation":"ＰｌａｓｍａＧｉｍｍｉｃｋＭＡＰ","id":"menu_help_000855"}
+{"text":"ＰｏｓｔＭｏｖｅ　ｍｏｒｐｈｉｎｇ","translation":"ＰｏｓｔＭｏｖｅ　ｍｏｒｐｈｉｎｇ","id":"menu_help_000856"}
+{"text":"Ｐｏｗｅｒ%s","translation":"Ｐｏｗｅｒ%s","id":"menu_help_000857"}
+{"text":"Ｒａｎｇｅ%s","translation":"Ｒａｎｇｅ%s","id":"menu_help_000858"}
+{"text":"Ｒａｎｇｅｄ　Ｓｔａｔ　%s","translation":"Ｒａｎｇｅｄ　Ｓｔａｔ　%s","id":"menu_help_000859"}
+{"text":"Ｒａｎｇｅｄ　ｗｅａｐｏｎｓ’","translation":"Ｒａｎｇｅｄ　ｗｅａｐｏｎｓ’\n","id":"menu_help_000860"}
+{"text":"Ｒｅｐａｉｒｅｄ　ＨＰ　ａｍｏｕｎｔ","translation":"Ｒｅｐａｉｒｅｄ　ＨＰ　ａｍｏｕｎｔ","id":"menu_help_000861"}
+{"text":"ＳＭＳ　ｕｎｉｔｓ","translation":"ＳＭＳ　ｕｎｉｔｓ","id":"menu_help_000862"}
+{"text":"Ｓｋｉｌｌ%s","translation":"Ｓｋｉｌｌ%s","id":"menu_help_000863"}
+{"text":"Ｓｋｉｌｌ『%s』","translation":"Ｓｋｉｌｌ『%s』","id":"menu_help_000864"}
+{"text":"Ｓｐｉｒｉｔ『%s』","translation":"Ｓｐｉｒｉｔ『%s』","id":"menu_help_000865"}
+{"text":"ＴａｃｔｉｃａｌＣｏｍｍａｎｄｓ’\nａｒｅａ","translation":"ＴａｃｔｉｃａｌＣｏｍｍａｎｄｓ’\nａｒｅａ　","id":"menu_help_000866"}
+{"text":"Ｔｅｃｈ『%s』","translation":"Ｔｅｃｈ『%s』　","id":"menu_help_000867"}
+{"text":"Ｔｅｃｈ『%s』　ａｃｑｕｉｒｅｄ","translation":"Ｔｅｃｈ『%s』　ａｃｑｕｉｒｅｄ","id":"menu_help_000868"}
+{"text":"Ｕｐｏｎ　ｓｏｒｔｉｅ","translation":"Ｕｐｏｎ　ｓｏｒｔｉｅ","id":"menu_help_000869"}
+{"text":"Ｕｐｏｎ『%s』ａｃｔｉｖａｔｉｏｎ","translation":"Ｕｐｏｎ『%s』ａｃｔｉｖａｔｉｏｎ","id":"menu_help_000870"}
+{"text":"Ｖｔ%s","translation":"WL%s","id":"menu_help_000871"}
+{"text":"Ｖｔ　ｒｅｑｕｉｒｅｍｅｎｔ　ｒｅｍｏｖｅｄ","translation":"WL　ｒｅｑｕｉｒｅｍｅｎｔ　ｒｅｍｏｖｅｄ","id":"menu_help_000872"}
+{"text":"Ｗｅａｐｏｎ　Ａｍｍｏ　ｘ１．５","translation":"Ｗｅａｐｏｎ　Ａｍｍｏ　ｘ１．５","id":"menu_help_000873"}
+{"text":"Ｗｅａｐｏｎｓ","translation":"Ｗｅａｐｏｎｓ　","id":"menu_help_000874"}
+{"text":"Ｗｅａｐｏｎｓ’","translation":"Ｗｅａｐｏｎｓ’　","id":"menu_help_000875"}
+{"text":"Ｗｅａｐｏｎｓ’　Ａｍｍｏ　ｘ１．５","translation":"Ｗｅａｐｏｎｓ’　Ａｍｍｏ　ｘ１．５","id":"menu_help_000876"}
+{"text":"Ｗｈｅｎ　ｆｉｇｈｔｉｎｇ　Ｇｕｎｄａｍ","translation":"Ｗｈｅｎ　ｆｉｇｈｔｉｎｇ　Ｇｕｎｄａｍ","id":"menu_help_000877"}
+{"text":"ａｄｊａｃｅｎｔ　ｕｎｉｔｓ","translation":"ａｄｊａｃｅｎｔ　ｕｎｉｔｓ　","id":"menu_help_000878"}
+{"text":"ａｌｗａｙｓ　ｃｒｉｔｉｃａｌ","translation":"ａｌｗａｙｓ　ｃｒｉｔｉｃａｌ","id":"menu_help_000879"}
+{"text":"ａｒｅａ　ｏｆ　ｅｆｆｅｃｔ　%s","translation":"ａｒｅａ　ｏｆ　ｅｆｆｅｃｔ　%s","id":"menu_help_000880"}
+{"text":"ａｕｔｏｃａｓｔｓ　Ｓｐｉｒｉｔ『%s』","translation":"ａｕｔｏｃａｓｔｓ　Ｓｐｉｒｉｔ『%s』","id":"menu_help_000881"}
+{"text":"ｂｅｃｏｍｅｓ　%s％","translation":"ｂｅｃｏｍｅｓ　%s％","id":"menu_help_000882"}
+{"text":"ｂｅｃｏｍｅｓ　『%s』","translation":"ｂｅｃｏｍｅｓ　『%s』","id":"menu_help_000883"}
+{"text":"ｂｅｃｏｍｅｓ『%s』","translation":"ｂｅｃｏｍｅｓ『%s』","id":"menu_help_000884"}
+{"text":"ｃｏｓｔｓ　%sＳＰ／ｃａｓｔ","translation":"ｃｏｓｔｓ　%sＳＰ／ｃａｓｔ","id":"menu_help_000885"}
+{"text":"ｄａｍａｇｅ　ｘ%s","translation":"ｄａｍａｇｅ　ｘ%s","id":"menu_help_000886"}
+{"text":"ｅｆｆｅｃｔ　ｂｅｃｏｍｅｓ　%sＶｔ","translation":"\nｅｆｆｅｃｔ　ｂｅｃｏｍｅｓ　%sWL","id":"menu_help_000887"}
+{"text":"ｅｆｆｅｃｔ　ｘ%s","translation":"\nｅｆｆｅｃｔ　ｘ%s","id":"menu_help_000888"}
+{"text":"ｇａｉｎ　%s％ＨＰ","translation":"ｇａｉｎ　%s％ＨＰ","id":"menu_help_000889"}
+{"text":"ｇａｉｎ　『Ｐｉｅｒｃｅ』　ａｔｔｒｉｂｕｔｅ","translation":"ｇａｉｎ　『Ｐｉｅｒｃｅ』　ａｔｔｒｉｂｕｔｅ","id":"menu_help_000890"}
+{"text":"ｇａｉｎ　『ＰｏｓｔＭｏｖｅ』　ａｔｔｒｉｂｕｔｅ","translation":"ｇａｉｎ　『ＰｏｓｔＭｏｖｅ』　ａｔｔｒｉｂｕｔｅ","id":"menu_help_000891"}
+{"text":"ｐｅｒ　Ｐｈａｓｅ、","translation":"ｐｅｒ　Ｐｈａｓｅ、","id":"menu_help_000892"}
+{"text":"ｓｕｒｖｉｖｅ　ｗｉｔｈ　%sＨＰ","translation":"ｓｕｒｖｉｖｅ　ｗｉｔｈ　%sＨＰ","id":"menu_help_000893"}
+{"text":"ｔｕｒｎｓ　%s","translation":"ｔｕｒｎｓ　%s","id":"menu_help_000894"}
+{"text":"ｗｅａｐｏｎ","translation":"　ｗｅａｐｏｎ","id":"menu_help_000895"}
+{"text":"ｘ%s","translation":"ｘ%s","id":"menu_help_000896"}
+{"text":"ｘ１","translation":"ｘ１","id":"menu_help_000897"}
+{"text":"＋１０％　ＥＮ　Ｒｅｇｅｎ","translation":"＋１０％　ＥＮ　Ｒｅｇｅｎ","id":"menu_help_000898"}
+{"text":"＋１０％　ＨＰ　Ｒｅｇｅｎ","translation":"＋１０％　ＨＰ　Ｒｅｇｅｎ","id":"menu_help_000899"}
+{"text":"＋１０００ＤｍｇＢａｒｒｉｅｒ、\n５ＥＮ／ｕｓｅ","translation":"＋１０００ＤｍｇＢａｒｒｉｅｒ、\n５ＥＮ／ｕｓｅ","id":"menu_help_000900"}
+{"text":"＋２０ＳＰ／ｕｓｅ","translation":"＋２０ＳＰ／ｕｓｅ","id":"menu_help_000901"}
+{"text":"＋４０ＳＰ／ｕｓｅ","translation":"＋４０ＳＰ／ｕｓｅ","id":"menu_help_000902"}
+{"text":"＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ａｌｌ\nｔｅｒｒａｉｎｓ","translation":"＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ａｌｌ\nｔｅｒｒａｉｎｓ","id":"menu_help_000903"}
+{"text":"＋ＭａｘＡｍｍｏ／ｕｓｅ","translation":"＋ＭａｘＡｍｍｏ／ｕｓｅ","id":"menu_help_000904"}
+{"text":"＋ＭａｘＥＮ／ｕｓｅ","translation":"＋ＭａｘＥＮ／ｕｓｅ","id":"menu_help_000905"}
+{"text":"＋ＭａｘＨＰ／ＥＮ／Ａｍｍｏ\nｐｅｒ　ｕｓｅ","translation":"＋ＭａｘＨＰ／ＥＮ／Ａｍｍｏ\nｐｅｒ　ｕｓｅ","id":"menu_help_000906"}
+{"text":"＋ＭａｘＨＰ／Ｕｓｅ","translation":"＋ＭａｘＨＰ／Ｕｓｅ","id":"menu_help_000907"}
+{"text":"＋ＭａｘＳＰ／ｕｓｅ","translation":"＋ＭａｘＳＰ／ｕｓｅ","id":"menu_help_000908"}
+{"text":"＋Ｓ－Ｒａｔｉｎｇ　ｏｎ　ＳＰＡ","translation":"＋Ｓ－Ｒａｔｉｎｇ　ｏｎ　ＳＰＡ","id":"menu_help_000909"}
+{"text":"＋Ｓ－Ｒａｔｉｎｇ　ｏｎ　ａｌｌ\nｔｅｒｒａｉｎｓ","translation":"＋Ｓ－Ｒａｔｉｎｇ　ｏｎ　ａｌｌ\nｔｅｒｒａｉｎｓ","id":"menu_help_000910"}
+{"text":"Ａ－Ａｄｐｔｒ","translation":"Ａ－Ａｄｐｔｒ","id":"menu_help_000911"}
+{"text":"ＡＲ－Ｍａｃｈ","translation":"ＡＲ－Ｍａｃｈ","id":"menu_help_000912"}
+{"text":"Ａｄｒｅｎ．Ａ","translation":"Ａｄｒｅｎ．Ａ","id":"menu_help_000913"}
+{"text":"Ａｔ　Ｖｔ１３０＋＋、\n＋３０％ＤｏｕｂｌｅＩｍａｇｅ","translation":"Ａｔ　WL１３０＋＋、\n＋３０％ＤｏｕｂｌｅＩｍａｇｅ","id":"menu_help_000914"}
+{"text":"Ａｕｘ．ＩＳＣ","translation":"Ａｕｘ．ＩＳＣ","id":"menu_help_000915"}
+{"text":"Ｂａｒ．Ｆｌｄ","translation":"Ｂａｒ．Ｆｌｄ","id":"menu_help_000916"}
+{"text":"Ｃａｒｔｒｄｇ","translation":"Ｃａｒｔｒｄｇ","id":"menu_help_000917"}
+{"text":"ＣｒｉｔｉｃａｌＲａｔｅ＋２０","translation":"ＣｒｉｔｉｃａｌＲａｔｅ＋２０","id":"menu_help_000918"}
+{"text":"ＣｒｉｔｉｃａｌＲａｔｅ＋２０、\nＷｅａｐ．Ｒａｎｇｅ＋１","translation":"ＣｒｉｔｉｃａｌＲａｔｅ＋２０、\nＷｅａｐ．Ｒａｎｇｅ＋１","id":"menu_help_000919"}
+{"text":"ＤＭＡｄｐ．Ｓ","translation":"ＤＭＡｄｐ．Ｓ","id":"menu_help_000920"}
+{"text":"ＤＭＡｄｐｔｒ","translation":"ＤＭＡｄｐｔｒ","id":"menu_help_000921"}
+{"text":"ＤＭＡｒｍｏｒ","translation":"ＤＭＡｒｍｏｒ","id":"menu_help_000922"}
+{"text":"ＤＭＲａｄａｒ","translation":"ＤＭＲａｄａｒ","id":"menu_help_000923"}
+{"text":"ＤＭＵｎｉｔ","translation":"ＤＭＵｎｉｔ","id":"menu_help_000924"}
+{"text":"Ｄｅｆ＋１００、\n＋１０％　ＥＮ　Ｒｅｇｅｎ　ｏｎ\nＰｌａｙｅｒ　Ｐｈａｓｅ","translation":"Ｄｅｆ＋１００、\n＋１０％　ＥＮ　Ｒｅｇｅｎ　ｏｎ\nＰｌａｙｅｒ　Ｐｈａｓｅ","id":"menu_help_000925"}
+{"text":"ＥＣＡｒｍｏｒ","translation":"ＥＣＡｒｍｏｒ","id":"menu_help_000926"}
+{"text":"ＥＲ－Ａｎｔ．","translation":"ＥＲ－Ａｎｔ．","id":"menu_help_000927"}
+{"text":"Ｅｎａｂｌｅｓ　ｆｌｉｇｈｔ、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＡＩＲ","translation":"Ｅｎａｂｌｅｓ　ｆｌｉｇｈｔ、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＡＩＲ","id":"menu_help_000928"}
+{"text":"Ｆ．Ｂ．ＣＤ","translation":"Ｆ．Ｂ．ＣＤ","id":"menu_help_000929"}
+{"text":"ＦｌｉｇｈｔＭ","translation":"ＦｌｉｇｈｔＭ","id":"menu_help_000930"}
+{"text":"ＧｕｎｄａｍＡ","translation":"ＧｕｎｄａｍＡ","id":"menu_help_000931"}
+{"text":"Ｈ－Ｖｅｒｎ．","translation":"Ｈ－Ｖｅｒｎ．","id":"menu_help_000932"}
+{"text":"ＨＪａｍｍｅｒ","translation":"ＨＪａｍｍｅｒ","id":"menu_help_000933"}
+{"text":"ＨＰ＋１０００、\nＤｅｆ＋１５０","translation":"ＨＰ＋１０００、\nＤｅｆ＋１５０","id":"menu_help_000934"}
+{"text":"ＨＰ＋１２００、\nＤｅｆ＋２５０、\n＋１０％　ＥＮ　Ｒｅｇｅｎ","translation":"ＨＰ＋１２００、\nＤｅｆ＋２５０、\n＋１０％　ＥＮ　Ｒｅｇｅｎ","id":"menu_help_000935"}
+{"text":"ＨＰ＋５００、\nＤｅｆ＋１００","translation":"ＨＰ＋５００、\nＤｅｆ＋１００","id":"menu_help_000936"}
+{"text":"ＨＳＲａｄａｒ","translation":"ＨＳＲａｄａｒ","id":"menu_help_000937"}
+{"text":"Ｈａｒｏ","translation":"Ｈａｒｏ","id":"menu_help_000938"}
+{"text":"Ｈｉｔ＋１０、\nＭｏｂ＋１０","translation":"Ｈｉｔ＋１０、\nＭｏｂ＋１０","id":"menu_help_000939"}
+{"text":"Ｉｋｕｅ’ｓ","translation":"Ｉｋｕｅ’ｓ","id":"menu_help_000940"}
+{"text":"Ｊｉ．Ｃｈｉｐ","translation":"Ｊｉ．Ｃｈｉｐ","id":"menu_help_000941"}
+{"text":"Ｋ－Ｇｌａｓｓ","translation":"Ｋ－Ｇｌａｓｓ","id":"menu_help_000942"}
+{"text":"ＬａｎｄＭ","translation":"ＬａｎｄＭ","id":"menu_help_000943"}
+{"text":"ＬａｎｄＭｏｖｅｍｅｎｔ↑、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＬＮＤ","translation":"ＬａｎｄＭｏｖｅｍｅｎｔ↑、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＬＮＤ","id":"menu_help_000944"}
+{"text":"Ｍ．Ｂｒａｖｅ","translation":"Ｍ．Ｂｒａｖｅ","id":"menu_help_000945"}
+{"text":"Ｍａｘ　ＥＮ　＋１５０","translation":"Ｍａｘ　ＥＮ　＋１５０","id":"menu_help_000946"}
+{"text":"Ｍｏｂ＋１０","translation":"Ｍｏｂ＋１０","id":"menu_help_000947"}
+{"text":"Ｍｏｂ＋２０","translation":"Ｍｏｂ＋２０","id":"menu_help_000948"}
+{"text":"Ｍｏｂ＋２５、Ｄｅｆ＋２００、\nＷｅａｐ．ＨｉｔＲａｔｅ＋２５、\nＣｒｉｔｉｃａｌＲａｔｅ＋２５","translation":"Ｍｏｂ＋２５、Ｄｅｆ＋２００、\nＷｅａｐ．ＨｉｔＲａｔｅ＋２５、\nＣｒｉｔｉｃａｌＲａｔｅ＋２５","id":"menu_help_000949"}
+{"text":"Ｍｏｂ＋３０、Ｄｅｆ＋２５０、\nＷｅａｐ．ＨｉｔＲａｔｅ＋３０、\nＣｒｉｔｉｃａｌＲａｔｅ＋３０","translation":"Ｍｏｂ＋３０、Ｄｅｆ＋２５０、\nＷｅａｐ．ＨｉｔＲａｔｅ＋３０、\nＣｒｉｔｉｃａｌＲａｔｅ＋３０","id":"menu_help_000950"}
+{"text":"Ｍｏｖ＋１","translation":"Ｍｏｖ＋１","id":"menu_help_000951"}
+{"text":"Ｍｏｖ＋１\n＋Ａ－Ｒａｔｉｎｇ　ｔｏ　ａｌｌ\nｗｅａｐｏｎｓ","translation":"Ｍｏｖ＋１\n＋Ａ－Ｒａｔｉｎｇ　ｔｏ　ａｌｌ\nｗｅａｐｏｎｓ","id":"menu_help_000952"}
+{"text":"Ｍｏｖ＋１、\nＭｏｂ＋１０","translation":"Ｍｏｖ＋１、\nＭｏｂ＋１０","id":"menu_help_000953"}
+{"text":"Ｍｏｖ＋２","translation":"Ｍｏｖ＋２","id":"menu_help_000954"}
+{"text":"Ｍｏｖ＋２\n＋Ｓ－Ｒａｔｉｎｇ　ｔｏ　ａｌｌ\nｗｅａｐｏｎｓ","translation":"Ｍｏｖ＋２\n＋Ｓ－Ｒａｔｉｎｇ　ｔｏ　ａｌｌ\nｗｅａｐｏｎｓ","id":"menu_help_000955"}
+{"text":"Ｍｏｖ＋２、Ｍｏｂ＋２５、\nＷｅａｐ．ＨｉｔＲａｔｅ＋２５、\nＷｅａｐ．Ｒａｎｇｅ＋１","translation":"Ｍｏｖ＋２、Ｍｏｂ＋２５、\nＷｅａｐ．ＨｉｔＲａｔｅ＋２５、\nＷｅａｐ．Ｒａｎｇｅ＋１","id":"menu_help_000956"}
+{"text":"ＭｕｓｃｌｅＣ","translation":"ＭｕｓｃｌｅＣ","id":"menu_help_000957"}
+{"text":"Ｎｙａｎ’ｓ","translation":"Ｎｙａｎ’ｓ","id":"menu_help_000958"}
+{"text":"Ｐ－Ｓｔｅａｋ","translation":"Ｐ－Ｓｔｅａｋ","id":"menu_help_000959"}
+{"text":"Ｐ－Ｔａｎｋ","translation":"Ｐ－Ｔａｎｋ","id":"menu_help_000960"}
+{"text":"ＰＦ－Ｌｅｎｓ","translation":"ＰＦ－Ｌｅｎｓ","id":"menu_help_000961"}
+{"text":"Ｐｓｙｃｈ．Ｒ","translation":"Ｐｓｙｃｈ．Ｒ","id":"menu_help_000962"}
+{"text":"ＱＳｅｎｓｏｒ","translation":"ＱＳｅｎｓｏｒ","id":"menu_help_000963"}
+{"text":"Ｒｅｐ．Ｋｉｔ","translation":"Ｒｅｐ．Ｋｉｔ","id":"menu_help_000964"}
+{"text":"Ｓ－Ａｄｐｔｒ","translation":"Ｓ－Ａｄｐｔｒ","id":"menu_help_000965"}
+{"text":"Ｓ．Ｓｔｅｅｌ","translation":"Ｓ．Ｓｔｅｅｌ","id":"menu_help_000966"}
+{"text":"ＳＡｌｌｏｙＺ","translation":"ＳＡｌｌｏｙＺ","id":"menu_help_000967"}
+{"text":"ＳＣＣａｂｌｅ","translation":"ＳＣＣａｂｌｅ","id":"menu_help_000968"}
+{"text":"ＳＲｅｐＫｉｔ","translation":"ＳＲｅｐＫｉｔ","id":"menu_help_000969"}
+{"text":"ＳｃｒｅｗＭ","translation":"ＳｃｒｅｗＭ","id":"menu_help_000970"}
+{"text":"ＳｎｉｐｅｒＫ","translation":"ＳｎｉｐｅｒＫ","id":"menu_help_000971"}
+{"text":"Ｓｔａｒｔｉｎｇ　Ｖｔ　＋１０","translation":"Ｓｔａｒｔｉｎｇ　WL　＋１０","id":"menu_help_000972"}
+{"text":"Ｓｔａｒｔｉｎｇ　Ｖｔ　＋２０","translation":"Ｓｔａｒｔｉｎｇ　WL　＋２０","id":"menu_help_000973"}
+{"text":"Ｓｔａｒｔｉｎｇ　Ｖｔ　＋５","translation":"Ｓｔａｒｔｉｎｇ　WL　＋５","id":"menu_help_000974"}
+{"text":"ＴｈｒｕｓｔＭ","translation":"ＴｈｒｕｓｔＭ","id":"menu_help_000975"}
+{"text":"Ｖｅｒｎｉｅｒ","translation":"Ｖｅｒｎｉｅｒ","id":"menu_help_000976"}
+{"text":"Ｖｔ＋３\nｐｅｒ　Ｐｌａｙｅｒ　Ｐｈａｓｅ","translation":"WL＋３\nｐｅｒ　Ｐｌａｙｅｒ　Ｐｈａｓｅ","id":"menu_help_000977"}
+{"text":"ＷａｔｅｒＭｏｖｅｍｅｎｔ↑、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＷＴＲ","translation":"ＷａｔｅｒＭｏｖｅｍｅｎｔ↑、\n＋Ａ－Ｒａｔｉｎｇ　ｏｎ　ＷＴＲ","id":"menu_help_000978"}
+{"text":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋１０","translation":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋１０","id":"menu_help_000979"}
+{"text":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋２０","translation":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋２０","id":"menu_help_000980"}
+{"text":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋２０、\nＷｅａｐ．Ｒａｎｇｅ＋１","translation":"Ｗｅａｐ．ＨｉｔＲａｔｅ＋２０、\nＷｅａｐ．Ｒａｎｇｅ＋１","id":"menu_help_000981"}
+{"text":"Ｗｅａｐ．Ｒａｎｇｅ＋１","translation":"Ｗｅａｐ．Ｒａｎｇｅ＋１","id":"menu_help_000982"}
+{"text":"Ｙｇｇ．Ｄｒｖ","translation":"Ｙｇｇ．Ｄｒｖ","id":"menu_help_000983"}

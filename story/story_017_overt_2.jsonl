@@ -1,0 +1,507 @@
+{"text":"敵の全滅。","translation":"All enemies defeated.","id":"000580"}
+{"text":"ダイ・ガード登場から５ターン以内に\n　　ヘテロダインをダイ・ガードのノットパニッシャーで撃墜する。","translation":"Defeat Heterodyne with Dai-Guard's \nKnot Punisher in 5 turns.","id":"000590"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is destroyed.","id":"000600"}
+{"text":"飯塚の撃墜。","translation":"Iizuka is shot down.","id":"000618"}
+{"text":"赤木の撃墜。","translation":"Akagi is shot down.","id":"000628"}
+{"text":"ダイ・ガード登場から５ターンが経過した。","translation":"5 turns have passed since Dai-Guard appeared.","id":"000638"}
+{"text":"ダイ・ガード登場から３ターン以内に他の敵を全滅させ、\n最後にヘテロダインをノットパニッシャーで撃墜する。","translation":"Defeat all in 3 turns, then defeat\nHeterodyne with Knot Punisher.","id":"000680"}
+{"text":"「…緊急出動をしてきたものの、\n　界震発生から既に３日…」","translation":"...We were mobilized for an emergency sortie, but it's already been three days since the seismic disturbance...","id":"000B98"}
+{"text":"「現れたヘテロダインは\n　これまでにない巨大なものだったけど、\n　ピクリとも動かず…」","translation":"The Heterodyne that appeared was bigger than any we'd seen before, but it hasn't moved an inch...","id":"000BD8"}
+{"text":"「とりあえず、害無しという事で\n　市民の暮らしは平常通りに戻りました」","translation":"For now, it's been deemed harmless, so civilian life has returned to normal.","id":"000CF8"}
+{"text":"「で、いつまで$cは\n　こうして監視役をやってればいいんスか？」","translation":"So, how long does $c have to keep standing watch like this?","id":"000D48"}
+{"text":"「現在、技術部がヘテロダインを解析し、\n　フラクタル・ノットの位置を特定しています」","translation":"At present, the technical division is analyzing the Heterodyne and pinpointing the location of its Fractal Knot.","id":"000D90"}
+{"text":"「コアさえわかれば、そこを破壊して、\n　あのヘテロダインを崩壊させる事が\n　出来るでしょう」","translation":"Once we know where the core is, we should be able to destroy it and cause that Heterodyne to collapse.","id":"000DF0"}
+{"text":"「それまでは俺達、\n　ここであいつが動き出さないか\n　見張ってるってわけね」","translation":"So until then, we're stuck here keeping watch in case that thing starts moving, huh?","id":"000E50"}
+{"text":"「でも、コアの位置がわかっても、\n　どうやってそれを破壊するんスか？」","translation":"But even if we find out where the core is, how are we supposed to destroy it?","id":"000EA8"}
+{"text":"「ダイ・ガードはこの間の模擬戦の後から\n　ずっとメンテ中だし…」","translation":"Dai-Guard's been in maintenance ever since that mock battle the other day...","id":"000EF8"}
+{"text":"「赤木ちゃんが、あの軍のおっさんに\n　やられちゃったからだよ」","translation":"That's because Akagi-chan got taken out by that army guy.","id":"000F40"}
+{"text":"「あ、あれは…その…」","translation":"Th-That was... uh...","id":"000F88"}
+{"text":"「確かにその時のダメージもあるけど、\n　技術部の主任さんが一度、ダイ・ガードを\n　ちゃんとメンテすべきだって言ったのよ」","translation":"Sure, there's that damage too, but the head of technical said Dai-Guard needs proper maintenance.","id":"000FA8"}
+{"text":"「ハリボテの広告塔だったのを\n　装甲を張り直して、そのまま実戦に\n　投入したからな」","translation":"It was just a hollow advertising tower, and we slapped armor on it and threw it straight into combat.","id":"001028"}
+{"text":"「パーツをバラしてメンテをするのは\n　俺も賛成だ」","translation":"I agree that we should take it apart and give it a full maintenance overhaul.","id":"001080"}
+{"text":"「って言うけど、\n　じゃあ、誰があのヘテロダインのコアを\n　破壊するんだよ」","translation":"You say that, but then who's going to destroy that Heterodyne's core?","id":"0010B8"}
+{"text":"「コアを一点でぶちぬく精密攻撃は\n　ダイ・ガードのノットバスターじゃなきゃ\n　無理だぞ」","translation":"A precision strike that can pierce the core in one shot can only be done with Dai-Guard's Knot Buster.","id":"001108"}
+{"text":"「心配は要りません。\n　その時が来たら、コクボウガーに\n　出動してもらうそうですから」","translation":"Don't worry. When the time comes, Kokubogar will be deployed.","id":"001168"}
+{"text":"「あれにもノットバスターは\n　装備されていますからね」","translation":"It has a Knot Buster equipped too.","id":"0011C8"}
+{"text":"「ますますダイ・ガードの必要性が\n　薄くなってきました」","translation":"That just makes Dai-Guard seem less and less necessary.","id":"001208"}
+{"text":"「ちょ、ちょっと、入江ちゃん！」","translation":"W-Wait a second, Irie-chan!","id":"001248"}
+{"text":"「だけど、入江ちゃんの言う通りかもな」","translation":"But maybe Irie-chan's right.","id":"001270"}
+{"text":"「青山…お前…！」","translation":"Aoyama... you...!","id":"0012A0"}
+{"text":"「いたいた！　お兄ちゃ～ん！」","translation":"There you are! Big bro~!","id":"0015B8"}
+{"text":"「お弁当、持ってきたよ！」","translation":"I brought lunch!","id":"0015E0"}
+{"text":"「お！　サチ子にしげる！\n　それに母ちゃんも！」","translation":"Oh! Sachiko and Shigeru! And Mom too!","id":"001608"}
+{"text":"「皆さんもお疲れ様です。\n　うちのワッ太がいつもお世話になってます」","translation":"Thank you all for your hard work. Thank you for always looking after my Watta.","id":"001640"}
+{"text":"「いえいえ、そんな！\n　ワッ太社長には、こっちこそ\n　毎日助けられてますよ！」","translation":"No, no, not at all! We're the ones being helped by President Watta every single day!","id":"001690"}
+{"text":"「何だよ、赤木さん。\n　こんな時だけ、社長って呼んじゃってさ」","translation":"Oh, come on, Akagi-san. You only call me \"President\" at times like this.","id":"0016E8"}
+{"text":"「母さんか…」","translation":"Mom, huh...","id":"001730"}
+{"text":"「どこ行くんだよ、青山？」","translation":"Where are you going, Aoyama?","id":"001748"}
+{"text":"「ワッ太の母さんの手作り弁当を見たら、\n　腹が減ってきたんだよ」","translation":"Seeing Watta's mom's homemade lunch made me hungry.","id":"001768"}
+{"text":"「そろそろスカル小隊の連中と交代の時間だ。\n　俺は飯に行かせてもらうぜ」","translation":"It's about time to switch with the Skull Squadron guys. I'm gonna go grab something to eat.","id":"0017B0"}
+{"text":"「行っちゃうの、イケメンさん？\n　一緒にお弁当、食べようよ」","translation":"You're leaving already, handsome? Come eat lunch with us.","id":"001800"}
+{"text":"「ありがとな、サチ子ちゃん。\n　でも、ごめんよ…。\n　お兄さん、ちょっと用事があるんだ」","translation":"Thanks, Sachiko-chan. But sorry... I've got something to take care of.","id":"001848"}
+{"text":"「女性への電話？」","translation":"Calling a lady?","id":"0018A8"}
+{"text":"「ま…そんなところだ。\n　じゃあ、ちょっと抜けさせてもらうぜ」","translation":"Well... something like that. Anyway, I'll excuse myself for a bit.","id":"0018C0"}
+{"text":"「青山さん…この間の退社の話から\n　ちょっと様子がおかしい…」","translation":"Aoyama-san... ever since that talk about leaving the company, he's seemed a little off...","id":"001B48"}
+{"text":"「個人の問題だもの…。\n　ちょっと聞きづらいわね…」","translation":"It's a personal matter... Kind of hard to ask about it...","id":"001B90"}
+{"text":"「そうそう！\n　そんな事より、あたし達もご飯にしようよ」","translation":"Yeah, yeah! More importantly, let's eat too!","id":"001BD0"}
+{"text":"「では、皆さん…\n　郁絵君がトン汁を作ってくれましたので、\n　一緒に食べましょう」","translation":"Well then, everyone... Ikue-kun made some pork miso soup, so let's eat together.","id":"001C10"}
+{"text":"「やった！\n　母ちゃんの弁当もあるし、\n　こりゃたっぷり食べられそうだ！」","translation":"All right! With Mom's lunch too, looks like I can really stuff myself!","id":"001C68"}
+{"text":"「あんまりがっつくんじゃないよ。\n　この後、仕事になるかも知れないんだから」","translation":"Don't gorge yourself. We might have to get back to work after this.","id":"001CB8"}
+{"text":"「………」","translation":".........","id":"001D10"}
+{"text":"「どうしたんスか、いぶきさん…。\n　もう、みんな…行っちゃいましたけど…」","translation":"What's wrong, Ibuki...? Everyone's already gone...","id":"001D28"}
+{"text":"「ちょっとね…。\n　ワッ太のお母さんを見てたら、\n　色々と考えちゃって…」","translation":"Just a little... Seeing Watta's mother got me thinking about a lot of things...","id":"001D78"}
+{"text":"「色々って…」","translation":"A lot of things...?","id":"001DC8"}
+{"text":"「…ワッ太のお父さんって\n　亡くなられてるのよね…」","translation":"...Watta's father passed away, didn't he...?","id":"001DE0"}
+{"text":"「うちも父を１２年前に亡くしてるから…」","translation":"I lost my father 12 years ago too...","id":"001E20"}
+{"text":"「１２年前って…」","translation":"Twelve years ago...?","id":"001E50"}
+{"text":"「そう…初めての界震の時、\n　ヘテロダインに殺されたの…」","translation":"That's right... He was killed by a Heterodyne during the first Dimensional Quake...","id":"001E68"}
+{"text":"「いぶきさん…」","translation":"Ibuki...","id":"001EB0"}
+{"text":"「父は界震の研究者だった…。\n　それで現場のすぐ近くにいて…」","translation":"My father was a researcher studying Dimensional Quakes... He was right near the site...","id":"001EC8"}
+{"text":"「まさか、あんなバケモノが出てくるなんて\n　思わなかったんじゃないかな…」","translation":"He probably never imagined a monster like that would appear...","id":"001F10"}
+{"text":"「父が亡くなった後、母は再婚して、\n　私も名字が変わっちゃったけど、\n　私の中では父の思い出は消えなかった」","translation":"After my father died, my mother remarried, and my surname changed too... But I never lost my memories of him.","id":"001F68"}
+{"text":"「２１世紀警備保障に入ったのも、\n　ダイ・ガードに乗れれば、仇を討てるかもって\n　思ったから…」","translation":"I joined 21st Century Security because I thought if I could pilot Dai-Guard, maybe I could avenge him...","id":"001FE0"}
+{"text":"「初めて聞いた…」","translation":"This is the first I've heard of it...","id":"002048"}
+{"text":"「言えるわけないじゃない。\n　浪花節じゃあるまいし、仇討ちなんて…」","translation":"It's not like I could tell anyone. This isn't some old-fashioned revenge drama...","id":"002060"}
+{"text":"「あ…この話…他の人には内緒よ」","translation":"Oh... keep this between us, okay?","id":"0020B0"}
+{"text":"「は、はい！\n　…でも、どうして俺に…」","translation":"Y-Yes! ...But why tell me...?","id":"0020D8"}
+{"text":"「あんたが知りたがっていたからよ。\n　どうして、私がヘテロダインに\n　こだわるかって…」","translation":"Because you wanted to know... why I'm so fixated on Heterodynes.","id":"002108"}
+{"text":"「そっか…。\n　やっぱり、理由があったんですね」","translation":"I see... So there was a reason after all.","id":"002168"}
+{"text":"「当たり前よ。\n　私がダイ・ガードに乗る事も、\n　青山君が辞めるかも知れない事もね…」","translation":"Of course there is. Just like there's a reason I pilot Dai-Guard, and a reason Aoyama-kun might quit...","id":"0021A0"}
+{"text":"「ここにいたのか、赤木」","translation":"There you are, Akagi.","id":"0025C0"}
+{"text":"「城田さん…」","translation":"Mr. Shirota...","id":"0025E0"}
+{"text":"「君も食事の時間のはずだ。\n　行くぞ」","translation":"It should be mealtime for you too. Come on.","id":"0025F8"}
+{"text":"「行くって…城田さんと？」","translation":"Go? You mean with you, Mr. Shirota?","id":"002628"}
+{"text":"「こういう状況下だ。\n　なるべく集団で行動した方が効率的だ」","translation":"Given the situation, it's more efficient to move in groups whenever possible.","id":"002648"}
+{"text":"「行ってきなよ、赤木君。\n　私はコンビニで買ってきたサンドイッチが\n　あるから」","translation":"Go on, Akagi-kun. I've got a sandwich I bought at the convenience store.","id":"002690"}
+{"text":"「はあ…」","translation":"Uh... okay...","id":"0026E8"}
+{"text":"「次元境界線の歪曲を確認！\n　次元震が発生します！」","translation":"Distortion in the dimensional boundary confirmed! A Dimensional Quake is about to occur!","id":"002858"}
+{"text":"「次元獣が来たか…！」","translation":"So the Dimensional Beasts are here...!","id":"002938"}
+{"text":"「機動部隊の発進準備、完了しました」","translation":"The mobile unit is ready for launch.","id":"002960"}
+{"text":"「よし…！\n　各機は発進を！」","translation":"All right...! All units, launch!","id":"002990"}
+{"text":"（あのアイムとかいう野郎…\n　本当に次元震を起こしやがったのか…？）","translation":"That guy Aim... did he really cause a Dimensional Quake...?","id":"002AA0"}
+{"text":"「何してるんだ、$n。\n　お前の大好物の次元獣が目の前に\n　いるんだぞ」","translation":"What are you doing, $n? Your favorite Dimensional Beasts are right in front of you.","id":"002AE8"}
+{"text":"「ああ、わかってる。\n　ちょいと金の勘定をしてただけだ」","translation":"Yeah, I know. I was just counting up the money.","id":"002B38"}
+{"text":"（あいつの言葉を信じてたら、\n　精神が参っちまう…。\n　今は奴の言葉は忘れる）","translation":"If I believed what that guy said, it'd drive me crazy... For now, I'll put his words out of my mind.","id":"002B78"}
+{"text":"「安全保障軍のコクボウガーも来ました」","translation":"The Security Forces' Kokubogar has arrived as well.","id":"002BC8"}
+{"text":"「万一の事を考えて、待機していたが、\n　次元獣の相手をする事になるとはな」","translation":"We were standing by just in case, but I didn't expect we'd end up fighting Dimensional Beasts.","id":"002D18"}
+{"text":"「おっちゃんも俺達と一緒に戦うのかよ？」","translation":"Old man, you're fighting alongside us too?","id":"002D68"}
+{"text":"「おうよ。\n　アカテンの宝物を壊しちまった分、\n　コクボウガーが頑張らんとな」","translation":"You bet. Since we smashed Akaten's treasure, Kokubogar's gotta pull its weight.","id":"002D98"}
+{"text":"「しっかりやれよ、無免に仮免。\n　次元獣は、俺よりも手強いぞ」","translation":"Do your job right, unlicensed and learner's permit. Dimensional Beasts are tougher than I am.","id":"002DF0"}
+{"text":"「わかってるって！\n　相手が次元獣なら手加減無しだ！」","translation":"I know that! If we're up against Dimensional Beasts, I'm not holding back!","id":"002E38"}
+{"text":"「あいつらを放っておいたら、\n　新宿が滅茶苦茶にされちまう…！\n　絶対に食い止めるぞ！」","translation":"If we leave them alone, Shinjuku will be torn to pieces...! We'll stop them no matter what!","id":"002E78"}
+{"text":"「ほう…」","translation":"Hoh...","id":"002ED8"}
+{"text":"「なお、周辺住民の避難は\n　城田さんの指揮の下、２１世紀警備保障が\n　動いています」","translation":"Also, under Mr. Shirota's command, 21st Century Security is handling the evacuation of local residents.","id":"002EE8"}
+{"text":"「ここは市街地だ。\n　被害を出さないためにも、\n　可能な限り、迅速に敵を殲滅する」","translation":"This is an urban area. To prevent casualties and damage, we will eliminate the enemy as swiftly as possible.","id":"002F48"}
+{"text":"「スカルリーダーより各機へ。\n　聞いての通りだ。\n　ぐずぐずしている時間はないぞ！」","translation":"This is Skull Leader to all units. You heard him. We don't have time to waste!","id":"002FA8"}
+{"text":"（青山…こっちは任せとけ。\n　お前はお袋さんの側についててやんな）","translation":"Aoyama... Leave this to us. Stay by your mother's side.","id":"003008"}
+{"text":"（$F…。\n　どうやら、私の言葉に少なからず\n　動揺しているようですね）","translation":"$F... It seems my words have shaken you more than a little.","id":"003230"}
+{"text":"（いい反応です。\n　ついでと言うのも何ですが、\n　一つ実験をしてみましょう）","translation":"That's a good reaction. And while we're at it, let's try an experiment.","id":"003280"}
+{"text":"（量子的存在として感知される空間と\n　複素数次元との共震…）","translation":"(A resonance between space perceived as a quantum existence and the complex-number dimension...)","id":"0032D8"}
+{"text":"（私の力を使えば、擬似的に同様の現象を\n　発生させる事も出来ます。\n　さて、何が出てくるのでしょうね…）","translation":"(With my power, I can artificially produce a similar phenomenon. Now then, what will appear, I wonder...)","id":"003320"}
+{"text":"（$F…。\n　出ていない所を見ると、私の言葉に\n　少なからず動揺を受けたようですね）","translation":"($F... Since you haven't appeared, it seems my words rattled you more than a little.)","id":"003490"}
+{"text":"「次元境界線の歪曲を確認！」","translation":"We've confirmed a distortion in the dimensional boundary line!","id":"0035E8"}
+{"text":"「また次元震が起きるのか！？」","translation":"Is another dimensional quake happening!?","id":"003610"}
+{"text":"「違います！\n　これは…界震です！」","translation":"No! This is... a boundary quake!","id":"003638"}
+{"text":"「ヘテロダインが出た！！」","translation":"A Heterodyne has appeared!!","id":"003748"}
+{"text":"「くそっ！\n　赤木さん達もいないってのに！」","translation":"Damn it! And Akagi and the others aren't even here!","id":"003770"}
+{"text":"「飯塚、あのヘテロダインは\n　何としてもコクボウガーで倒せ！」","translation":"Iizuka, take that Heterodyne down with Kokubogar no matter what!","id":"003868"}
+{"text":"「了解です」","translation":"Understood.","id":"0038B0"}
+{"text":"「突貫だ！\n　国連の特殊部隊に先を越されるような事は\n　あってはならんぞ！」","translation":"Charge! We can't let the UN special forces beat us to it!","id":"0038C8"}
+{"text":"（やれやれ…。\n　同じ突撃でも、アカテンとは随分と\n　事情が違うな…）","translation":"(Good grief... Even though it's the same kind of charge, the circumstances are quite different from Akaten...)","id":"003918"}
+{"text":"（つまらん見栄と体裁…。\n　アカテン…こんなんじゃ、お前に\n　説教は出来んな…）","translation":"(Such pointless pride and saving face... Akaten... like this, I can't very well lecture you... )","id":"003968"}
+{"text":"「ちょっと待ちなよ、おっちゃん！」","translation":"Hold it, old man!","id":"003AE0"}
+{"text":"「単機で特攻だと…！\n　無茶だ！」","translation":"A solo suicide charge...!? That's insane!","id":"003B10"}
+{"text":"「無茶でも何でも命令だ…！\n　やるしか…」","translation":"Reckless or not, it's an order...! I have no choice but to do it...","id":"003B40"}
+{"text":"「飯塚さん！　後退してくれ！！」","translation":"Iizuka! Fall back!!","id":"003C50"}
+{"text":"「くっ…！　こいつ…コクボウガーを…」","translation":"Damn...! This thing... it's got Kokubogar...","id":"003C78"}
+{"text":"「ヘテロダインがコクボウガーを\n　飲み込んだ！？」","translation":"The Heterodyne swallowed Kokubogar!?","id":"003D68"}
+{"text":"「食われちまったってのか！？」","translation":"You mean it got eaten!?","id":"003DA8"}
+{"text":"「ヘテロダインを透視してみた！\n　奴はコクボウガーを包み込み、\n　一体化しようとしている！」","translation":"I used my clairvoyance on the Heterodyne! It's enveloping Kokubogar and trying to merge with it!","id":"003DD0"}
+{"text":"「どうなるんだよ！？」","translation":"What's gonna happen!?","id":"003E38"}
+{"text":"「おそらく、あいつは\n　コクボウガーの機能を取り込むつもりだ！」","translation":"It probably intends to absorb Kokubogar's functions!","id":"003E58"}
+{"text":"「あのヘテロダイン、\n　コクボウガーと合体したのかよ！」","translation":"That Heterodyne fused with Kokubogar!?","id":"003EA0"}
+{"text":"「バケモノごときが合体とはしゃらくせえ！\n　だったら、このカミナ様が重ねて\n　真っ二つにしてやるぜ！」","translation":"Like hell I'd let some lousy monster combine! If that's how it is, then Kamina-sama will split them both clean in half!","id":"003EE0"}
+{"text":"「駄目だよ、アニキ！\n　そんな事したら、中にいる人まで\n　やられちまうよ！」","translation":"No, Bro! If you do that, you'll hurt the person inside too!","id":"003F50"}
+{"text":"「じゃあ、どうしろってんだよ！」","translation":"Then what the hell are we supposed to do!?","id":"003FA8"}
+{"text":"「それは…」","translation":"Well...","id":"003FD0"}
+{"text":"「まずいぜ…。\n　ノロノロしてたら、コクボウガーは\n　完全にヘテロダインに飲まれちまう…！」","translation":"This is bad... If we keep dawdling, Kokubogar will be completely swallowed by the Heterodyne...!","id":"003FE8"}
+{"text":"「奴を倒せば、飯塚のおっさんは死ぬ…。\n　だが、奴を倒さなければ、街が…」","translation":"If we destroy it, old man Iizuka dies... But if we don't, the city...","id":"004228"}
+{"text":"（フフ…面白い展開になってきましたね。\n　さあ、どうします、\n　$F…）","translation":"Heh... this is getting interesting. Now then, what will you do, $F...?","id":"004278"}
+{"text":"「お待たせ、みんな！\n　ダイ・ガード、只今、復帰しました！」","translation":"Sorry to keep you waiting, everyone! Dai-Guard is back in action!","id":"004388"}
+{"text":"「やっと来たよ！」","translation":"You finally made it!","id":"0043D0"}
+{"text":"「遅いぜ、赤木さん！\n　待ちくたびれたよ！」","translation":"You're late, Akagi! We were getting tired of waiting!","id":"0043F0"}
+{"text":"「能書きはいいから、\n　とっととヘテロダインを倒してくれ！」","translation":"Enough talking already! Hurry up and take down that Heterodyne!","id":"004428"}
+{"text":"「あの中には飯塚さんがいるんです！\n　頼みますよ！」","translation":"Mr. Iizuka is in there! Please, we're counting on you!","id":"004470"}
+{"text":"「おう！　任せてくれ！」","translation":"Yeah! Leave it to me!","id":"0044B0"}
+{"text":"「赤木君、あのヘテロダインの\n　オリジナルノットの座標データは\n　さっき送った通りだ」","translation":"Akagi, the coordinate data for that Heterodyne's original knot is exactly as I sent you earlier.","id":"0044D0"}
+{"text":"「そこを正確に貫くためには\n　より精度を高めた新兵器で…」","translation":"To pierce that point accurately, you'll need the new weapon with higher precision...","id":"004530"}
+{"text":"「わかってますって！\n　ノットパニッシャーを使えばいいんスよね！」","translation":"I know, I know! I just have to use the Knot Punisher, right!?","id":"004570"}
+{"text":"「本当にわかってるの…？」","translation":"Do you really understand...?","id":"0045B8"}
+{"text":"「いつものノリですよ。\n　いつも通りのね」","translation":"He's just being his usual self. Just like always.","id":"0045E0"}
+{"text":"「その通り！\n　そして、いつも通りに必ず勝つぞ！」","translation":"Exactly! And like always, we'll definitely win!","id":"004610"}
+{"text":"「頼むぜ、正義の味方。\n　俺はお前に賭ける」","translation":"I'm counting on you, hero of justice. I'm betting on you.","id":"004648"}
+{"text":"「ヘマすんじゃねえぞ！\n　一発で決めろよ！」","translation":"Don't screw this up! Finish it in one shot!","id":"004678"}
+{"text":"「各機はダイ・ガードをフォロー！\n　作戦を確実に成功させるために、\n　ヘテロダインの動きを止めろ！」","translation":"All units, support Dai-Guard! To ensure the operation succeeds, stop the Heterodyne's movements!","id":"0046B0"}
+{"text":"「なお、パイロットの安全を考え、\n　５分以内で勝負をつけるぞ！」","translation":"Also, for the pilot's safety, we'll settle this within five minutes!","id":"004720"}
+{"text":"「待ってて下さいよ、先生！\n　不肖アカテン、必ずやってみせます！」","translation":"Wait for me, Sensei! This humble Akaten will see it through!","id":"004770"}
+{"text":"「フラクタル・ノットの破壊を確認！」","translation":"Fractal Knot destruction confirmed!","id":"004A58"}
+{"text":"「やったか！？」","translation":"Did we get it!?","id":"004A88"}
+{"text":"「やった、コクボウガーだ！」","translation":"We did it, it's Kokubogar!","id":"004B60"}
+{"text":"「さすが、赤木さん！\n　俺の師匠だ！！」","translation":"Just what I'd expect from you, Akagi-san! You're my mentor!!","id":"004B88"}
+{"text":"（ここまでですか…。\n　不安という種を蒔く事が出来ただけで\n　よしとしましょう）","translation":"So this is as far as I go... I suppose it'll have to do that I managed to sow the seeds of unease.","id":"004C78"}
+{"text":"「次元獣も退いたか…」","translation":"So the Dimensional Beasts have pulled back too...","id":"004D70"}
+{"text":"（アイム・ライアード…。\n　これまでの次元震も奴が起こしたのか…）","translation":"Aim Liard... Did he cause all the past dimension quakes too...?","id":"004D90"}
+{"text":"「次元獣も全部倒したし、一件落着だね」","translation":"We took down all the Dimensional Beasts, so I guess that settles everything.","id":"004E98"}
+{"text":"「ふ…まさかアカテンに助けられるとはな…。\n　まあ、さすがは俺の教え子だ」","translation":"Heh... to think I'd be saved by Akaten... Well, that's my student for you.","id":"004F88"}
+{"text":"「色んな人と約束しましたからね。\n　必ずヘテロダインを倒すって」","translation":"I made promises to a lot of people. That I'd definitely defeat the Heterodyne.","id":"004FD8"}
+{"text":"「その気合があれば、\n　日本代表の看板も背負えるだろう」","translation":"With that kind of spirit, you could carry the banner of Team Japan too.","id":"005020"}
+{"text":"「それじゃ…」","translation":"Well then...","id":"005060"}
+{"text":"「上の方はどう言うかわからんが、\n　お前なら$cでやっていける。\n　俺が保証してやる」","translation":"I don't know what the higher-ups will say, but you can make it at $c. I'll personally vouch for you.","id":"005078"}
+{"text":"「ありがとうございます！」","translation":"Thank you very much!","id":"0050D0"}
+{"text":"「ついでに無免に仮免。\n　お前等もよくやった」","translation":"And while I'm at it, I'll issue provisional licenses to the unlicensed ones. You all did well too.","id":"0050F0"}
+{"text":"「無免の方は俺の責任で仮免を発行してやる」","translation":"I'll issue provisional licenses to the unlicensed ones on my authority.","id":"005128"}
+{"text":"「本当ですか！？」","translation":"Really!?","id":"005158"}
+{"text":"「お前等も気合は恥ずかしくない日本代表だ。\n　頑張ってこいよ」","translation":"You all have the fighting spirit of a Team Japan member no one would be ashamed of. Go out there and give it your all.","id":"005170"}
+{"text":"「へへ…ありがとな！\n　おっちゃんの分まで戦ってくるぜ！」","translation":"Heh... thanks! I'll fight hard enough for your share too, old man!","id":"0051B8"}
+{"text":"「さて…それじゃ、最後の仕上げといきますか」","translation":"All right... let's put the finishing touches on this.","id":"005200"}
+{"text":"「技術部から、こっちの巨大ヘテロダインの\n　コアの位置情報も来ているわ」","translation":"We've also received the core location data for this giant Heterodyne from the technical department.","id":"005438"}
+{"text":"「ヘマするなよ、赤木。\n　市民の皆さんが正義の味方を注目してるからな」","translation":"Don't mess this up, Akagi. The citizens are all watching their heroes of justice, you know.","id":"005488"}
+{"text":"「わかってるって。\n　青山！　タイミング合わせて、\n　フライホイール全開だ！」","translation":"I know that! Aoyama, match my timing! Full throttle on the flywheel!","id":"0054D8"}
+{"text":"「了解！」","translation":"Roger!","id":"005530"}
+{"text":"「目標ロックオン！」","translation":"Target locked on!","id":"005540"}
+{"text":"「いっけぇぇぇっ！\n　ノットパニッシャー、シュート！」","translation":"Goooo! Knot Punisher, fire!","id":"005560"}
+{"text":"「駄目です！\n　コアを破壊しない限り、\n　ヘテロダインは復活します！」","translation":"No good! Unless we destroy the core, the Heterodyne will revive!","id":"0056E0"}
+{"text":"「それが出来るのは、\n　ダイ・ガードだけか！」","translation":"So only Dai-Guard can do that!","id":"005730"}
+{"text":"「急いで、赤木君！\n　ノットパニッシャーでコアを破壊するのよ！」","translation":"Hurry, Akagi! Destroy the core with the Knot Punisher!","id":"005768"}
+{"text":"「わかってますって！\n　約束した以上、必ずやってみせます！」","translation":"I know that! I made a promise, and I'm going to keep it no matter what!","id":"0057B0"}
+{"text":"「作戦時間は後１分です！」","translation":"We have one minute left in the operation!","id":"0058F8"}
+{"text":"「急いで下さい、赤木さん！\n　もう飯塚さんは限界です！」","translation":"Please hurry, Akagi! Iizuka's already at his limit!","id":"005918"}
+{"text":"「待ってて下さいよ、先生！\n　この１分で必ずヘテロダインを\n　倒しますから！」","translation":"Just hold on, Sensei! I'll definitely take down the Heterodyne within this minute!","id":"005958"}
+{"text":"「駄目だ…。\n　コクボウガーは完全にヘテロダインと\n　一体化した…」","translation":"It's no use... Kokubogar has completely fused with the Heterodyne...","id":"005A90"}
+{"text":"「じゃあ、飯塚のおっちゃんは…」","translation":"Then old man Iizuka is...","id":"005AE0"}
+{"text":"「………」","translation":".........","id":"005B08"}
+{"text":"「そんな…」","translation":"No way...","id":"005B20"}
+{"text":"「先生…先生ーっ！！」","translation":"Sensei... Sensei!!","id":"005B38"}
+{"text":"「飯塚さん！\n　借りを返すためにも、あんたには\n　こんな所で死なれちゃ困るんだよ！」","translation":"Iizuka! I still owe you one, so I can't let you die in a place like this!","id":"005C78"}
+{"text":"「待っててくれよ！\n　こんなスジコはバラバラにして、\n　すぐにイクラにしてやるからな！」","translation":"Just hang on! I'll tear this sujiko freak apart and turn it into ikura in no time!","id":"005CD0"}
+{"text":"「コンニャロー！\n　おっちゃんを人質にとるなんて\n　やり方が汚いぞ！」","translation":"You bastard! Taking the old man hostage like that is a dirty trick!","id":"005DF0"}
+{"text":"「頼むぜ、赤木さん！\n　こんな奴は新兵器でさっさと\n　やっつけちゃってくれよな！」","translation":"I'm counting on you, Akagi! Take this guy out fast with that new weapon!","id":"005E40"}
+{"text":"「飯塚さんの反応が弱くなっている…！\n　急がなくては！」","translation":"Iizuka's reactions are weakening...! We have to hurry!","id":"005F58"}
+{"text":"「しっかりして下さい、飯塚さん！\n　今、赤木さんがあなたを助けますから！」","translation":"Hang in there, Iizuka! Akagi's going to save you right now!","id":"005F98"}
+{"text":"「行くぞ、スジコダイン！\n　覚悟しろよ！」","translation":"Here I come, Sujikodyne! Brace yourself!","id":"0060B0"}
+{"text":"「ちょっと、赤木君！\n　飯塚さんがいるのを忘れてないでしょうね！」","translation":"Hey, Akagi! You haven't forgotten Iizuka's in there, have you?!","id":"0060E0"}
+{"text":"「もちろん！\n　でも、あの人の事だから、\n　少し位のダメージなら大丈夫！」","translation":"Of course not! But knowing him, he can handle a little damage!","id":"006130"}
+{"text":"「毎度の根拠のない自信か…」","translation":"That baseless confidence of yours again, huh...","id":"006180"}
+{"text":"「根拠なんかなくたって\n　やるしかないんだ！」","translation":"Even without any basis, we have to do it!","id":"0061A8"}
+{"text":"「ＯＫだ。\n　俺達しかコクボウガーを救えない以上、\n　四の五の言ってる場合じゃない」","translation":"All right. If we're the only ones who can save Kokubogar, then this is no time to argue.","id":"0061E0"}
+{"text":"「結局、赤木君に引っ張られちゃうのよね…」","translation":"In the end, I always get dragged along by Akagi-kun...","id":"006238"}
+{"text":"「付き合ってもらいますよ、いぶきさんも！\n　俺達三人が揃わなきゃ、ダイ・ガードは\n　力を発揮できないんですからね！」","translation":"You're coming with us too, Ibuki-san! Dai-Guard can't show its true power unless the three of us are together!","id":"006270"}
+{"text":"「こっちの地球には\n　こんな怪物までいるのかよ…！」","translation":"This Earth has monsters like this too...!?","id":"006468"}
+{"text":"「くそっ！\n　気分は怪獣映画の主人公だ！」","translation":"Damn it! I feel like the star of a kaiju movie!","id":"0064A8"}
+{"text":"「やいやいやい！\n　いきなり現れて、人様を飲み込むとは\n　ふてえ野郎だ！」","translation":"Hey, hey, hey! Showing up out of nowhere and swallowing people whole? What a rotten bastard!","id":"0065A0"}
+{"text":"「無駄だよ、アニキ！\n　相手は人間じゃないんだから！」","translation":"It's useless, Bro! That's not human!","id":"0065F0"}
+{"text":"「そういう問題じゃねえのよ、シモン！\n　こいつは気合を入れるための\n　儀式みたいなもんよ！」","translation":"That's not the point, Simon! This is like a ritual to get myself fired up!","id":"006630"}
+{"text":"「ついでに食われちまったおっさんに\n　俺がいるって事を教えてやりゃあ、\n　気力ももつってもんよ！」","translation":"And if I let that old guy who got eaten know I'm here, it'll help keep his spirits up too!","id":"006698"}
+{"text":"「アニキ…ちゃんと考えてるんだね」","translation":"Bro... You really think things through.","id":"006700"}
+{"text":"「あたぼうよ！\n　さあいくぜ、シモン！\n　ドリルで奴をぶち抜いてやるぞ！」","translation":"Damn right! Now let's go, Simon! We're gonna drill right through that thing!","id":"006730"}
+{"text":"「それじゃ駄目なんだって！\n　やっぱり、何も考えてないんだ！」","translation":"That won't work! You really haven't thought this through at all!","id":"006780"}
+{"text":"「次元獣といい、こいつらといい、\n　別の次元からは厄介な奴ばかり\n　やってきやがる…」","translation":"First the Dimensional Beasts, now these things too... nothing but trouble ever comes crawling in from other dimensions...","id":"006928"}
+{"text":"「俺にとっちゃ飯の種だが、\n　街の皆さんにとっちゃ大迷惑だ。\n　出るんなら、人のいない所に出やがれ…！」","translation":"It's how I make my living, but to the people here it's a huge nuisance. If you're gonna show up, do it where nobody is...!","id":"006980"}
+{"text":"「さっきの次元震がアイムの仕業だとしたら、\n　次元獣は奴が呼んだ事になるのか…」","translation":"If that dimensional quake from earlier was Aim's doing, does that mean he summoned the Dimensional Beasts too...?","id":"006AB0"}
+{"text":"「いったい奴は何者だ…？\n　本当に時空震動を起こす力を\n　持っているのか…」","translation":"Who is he...? Does he really have the power to cause space-time quakes...?","id":"006B08"}
+{"text":"「あ！」","translation":"Ah!","id":"006C18"}
+{"text":"夜空","translation":"Night sky","id":"006E08"}
+{"text":"「…ああ、それはわかったよ、母さん。\n　何て言ってるの、医者は？」","translation":"...Yeah, I get it, Mom. What did the doctor say?","id":"006E10"}
+{"text":"「だから、医者は何て言ってるの！？\n　いつもそれじゃないか！」","translation":"I'm asking what the doctor said!? It's always the same with you!","id":"006E58"}
+{"text":"「ああ、わかってる…！\n　こっちはちゃんとやってるから…！」","translation":"Yeah, I know...! I'm handling things here...!","id":"006EA0"}
+{"text":"「無理なんかしてないって…！\n　そっちの方こそ…！\n　…じゃあ、切るよ」","translation":"I'm not overdoing it...! You should be more worried about yourself...! ...All right, I'm hanging up.","id":"006EE8"}
+{"text":"「ったく…。\n　自分の身体の事、わかってるのかよ…」","translation":"Jeez... Does she even know what's going on with her own body...?","id":"006F38"}
+{"text":"「…荒れてんな」","translation":"...You're pretty worked up.","id":"006F78"}
+{"text":"「$n…。\n　…聞いてたのか、さっきの電話？」","translation":"$n... ...You heard that phone call just now?","id":"006F90"}
+{"text":"「悪い…。\n　盗み聞きするつもりはなかったんだが、\n　偶然、通りかかっちまってな…」","translation":"Sorry... I wasn't trying to eavesdrop, but I just happened to be passing by...","id":"006FC8"}
+{"text":"「相手…お袋さんか？」","translation":"Was that... your mom?","id":"007020"}
+{"text":"「ああ…」","translation":"Yeah...","id":"007040"}
+{"text":"「この前の模擬戦の時に甲児も言ってたが、\n　お袋さん…具合悪いのか？」","translation":"Koji mentioned it during that mock battle the other day, but... is your mom not feeling well?","id":"007050"}
+{"text":"「まあな…。\n　心臓が弱いんだよ」","translation":"Yeah... She has a weak heart.","id":"0070A0"}
+{"text":"「そのくせ、自分は大丈夫だって言い張って、\n　いつも無理して…」","translation":"And yet she keeps insisting she's fine and always pushes herself too hard...","id":"0070C8"}
+{"text":"「お前が会社を辞めるかもって\n　言ってるのは、お袋さんのためか？」","translation":"Is the reason you've been talking about quitting the company because of your mom?","id":"007110"}
+{"text":"「…ああ…」","translation":"...Yeah...","id":"007158"}
+{"text":"「笑っちまうだろ？\n　とんだマザコン野郎だって…」","translation":"Pretty laughable, right? Like I'm some pathetic mama's boy...","id":"007170"}
+{"text":"「バ～カ。\n　息子がお袋さんの心配をするのは\n　当たり前だろうが」","translation":"Don't be an idiot. It's only natural for a son to worry about his mother.","id":"0071A8"}
+{"text":"「$n…」","translation":"$n...","id":"0071F0"}
+{"text":"「お前が臆病風や無責任でダイ・ガードを\n　降りるんじゃないってのは、わかった。\n　責める気にはなれねえよ」","translation":"I know you're not quitting Dai-Guard out of cowardice or irresponsibility. I can't bring myself to blame you.","id":"007200"}
+{"text":"「ありがとうな…。\n　ついでに頼みがあるんだが…」","translation":"Thanks... And while I'm at it, I have a favor to ask...","id":"007270"}
+{"text":"「わかってるって。\n　今夜の話はオフレコだ」","translation":"I know. What we talked about tonight stays between us.","id":"0072A8"}
+{"text":"「ついでにもう一つだ。\n　俺…今からお袋の病院に行ってこようと\n　思うんだ」","translation":"And one more thing. I'm thinking of heading to the hospital to see my mom now.","id":"0072D8"}
+{"text":"「いいぜ。\n　どうせダイ・ガードは出られないんだ。\n　お前の穴ぐらい埋めてやるよ」","translation":"Go ahead. Dai-Guard can't be deployed anyway. I'll cover for you.","id":"007328"}
+{"text":"「すまないな。\n　借金の返済は手伝えないが、\n　今度、おごらせてくれ」","translation":"Sorry. I can't help you pay off your debts, but let me treat you next time.","id":"007380"}
+{"text":"「おお、気長に待ってるぜ」","translation":"Oh, I'll be waiting patiently for that.","id":"0073D0"}
+{"text":"「とりあえずってわけじゃないが、\n　今、クォーターに戻れば、郁絵ちゃんお手製の\n　トン汁があるぜ」","translation":"Not that it's just a consolation, but if you head back to the Quarter now, Ikue-chan's got homemade pork soup.","id":"0073F0"}
+{"text":"「そいつはありがたい。\n　立ち食いソバだけじゃ、さすがに\n　腹が減るしな」","translation":"I'd appreciate that. Stand-up soba alone isn't enough to fill me up.","id":"007458"}
+{"text":"「じゃあな、青山。\n　城田の旦那に見つからないのを祈ってるぜ」","translation":"See you, Aoyama. Let's hope Boss Shirota doesn't catch you.","id":"0074A8"}
+{"text":"「ああ…。\n　何かあったら、すぐに戻る」","translation":"Yeah... If anything happens, I'll come right back.","id":"0074F0"}
+{"text":"「…お袋さんか…。\n　やばいな…夜風が目にしみるぜ」","translation":"...His mom, huh... Damn, the night wind's stinging my eyes.","id":"007520"}
+{"text":"「…彼の選択は正解です。\n　一刻も早くお母様の所へ向かうべきです」","translation":"...His choice is the right one. He should go to his mother's side as soon as possible.","id":"007558"}
+{"text":"「何だ、あんた…」","translation":"Who the hell are you...?","id":"0075A8"}
+{"text":"「彼のお母様の主治医です。\n　…お母様の病状…今夜が峠でしょう」","translation":"I'm his mother's attending physician. ...Her condition... tonight may be the critical point.","id":"0075C0"}
+{"text":"「何っ！？」","translation":"What!?","id":"007608"}
+{"text":"「もしかしたら、彼は母親の死に目に\n　会えないかも知れませんね…」","translation":"He may not even make it in time to see his mother's final moments...","id":"007618"}
+{"text":"「青山の奴…！\n　そんな大事な事を何故黙ってやがった…！？」","translation":"That idiot Aoyama...! Why the hell did he keep something that important to himself...!?","id":"007668"}
+{"text":"「ク…クク…ククク…」","translation":"Heh... heh heh... heh heh heh...","id":"0076A8"}
+{"text":"「ハハハハハハ！\n　ハハハハハハハハ、いい反応です！」","translation":"Hahahahaha! Hahahahahahaha, what a great reaction!","id":"0076C8"}
+{"text":"「嘘ですよ。\n　私が医者である事も、危篤の話も」","translation":"I was lying. About being a doctor, and about her being in critical condition.","id":"007708"}
+{"text":"「…よかった…。\n　そいつはグッドニュースだぜ…」","translation":"...That's a relief... That's good news...","id":"007740"}
+{"text":"「だが、そんな笑えない冗談を言う奴は\n　気に入らねえな」","translation":"But I don't like guys who tell jokes that aren't funny.","id":"007778"}
+{"text":"「残念ですよ。\n　あなたとは友好的な関係を\n　築きたかったのですがね…」","translation":"That's a shame. I had hoped to build a friendly relationship with you...","id":"0077B8"}
+{"text":"「その声…！\n　お前…リモネシアの…！」","translation":"That voice...! You... you're from Limonesia...!","id":"007808"}
+{"text":"「そうです。\n　私の名前はアイム・ライアード。\n　以後、お見知りおきを」","translation":"Correct. I'm Aim Liard. Pleased to meet you.","id":"007838"}
+{"text":"「俺に何の用だ？\n　次元獣にまぎれて仕掛けてきただけじゃ\n　飽き足らず、わざわざ顔を見に来たのか？」","translation":"What do you want from me? Not enough to sneak in with the Dimensional Beasts? You came to gloat in person?","id":"007888"}
+{"text":"「その通りです。\n　あなたは私にとって、前世で永遠を誓い合った\n　恋人なのですから」","translation":"Exactly. To me, you are my lover, the one with whom I vowed eternity in a past life.","id":"0078F0"}
+{"text":"「な…！？」","translation":"W-What!?","id":"007950"}
+{"text":"「いい反応です。\n　あなたは一見するとスレた人間のようですが、\n　心根は随分と素直なようですね」","translation":"What a great reaction. At first glance, you seem like a jaded man, but deep down you're surprisingly straightforward.","id":"007960"}
+{"text":"「…そうやって、\n　俺の心を揺さぶって楽しいか？」","translation":"...Is it fun to shake me up like that?","id":"0079C8"}
+{"text":"「あなたを惑わせる事が私の使命ですから」","translation":"Because it is my mission to lead you astray.","id":"007A00"}
+{"text":"「俺の質問に答えろ。\n　お前は何のために俺を狙う？\n　あの金持ちの差し金か？」","translation":"Answer my question. Why are you targeting me? Did that rich bastard put you up to this?","id":"007A30"}
+{"text":"「金持ち…？\n　カルロス・アクシオン・Ｊｒ．は\n　私の大切な友人ですよ」","translation":"Rich guy...? Carlos Axion Jr. is a dear friend of mine.","id":"007A80"}
+{"text":"「その言葉が本当かどうかすらも怪しいな」","translation":"I doubt even that is true.","id":"007AD0"}
+{"text":"「だとしたら、どうするんです？」","translation":"And if that's true, what will you do?","id":"007B00"}
+{"text":"「あまり褒められた方法じゃないが、\n　力ずくで本音を引き出す」","translation":"It's not exactly a noble method, but I'll force the truth out of you.","id":"007B28"}
+{"text":"「いい反応です。\n　内心では私の言葉に揺れながらも\n　支点はぶれていませんか」","translation":"What a great reaction. Even as my words shake you deep down, your footing hasn't wavered.","id":"007B70"}
+{"text":"「ですが、まだまだです。\n　あなたにはもっともっと迷い苦しんで\n　もらわねば、なりません」","translation":"But it's still not enough. I need you to become even more lost and suffer even more.","id":"007BC8"}
+{"text":"「あいにくだが、俺の人生は迷いだらけでな。\n　今さら、そんなものを増やされるのは\n　ノーサンキューだ」","translation":"Sorry, but my life's already full of doubts. So if you're offering to pile on more, no thanks.","id":"007C28"}
+{"text":"「先程、あなたは力ずくでと言いましたが、\n　私もそれ位の事は辞さないつもりです」","translation":"You said you'd force it out of me just now, but I'm prepared to go that far as well.","id":"007C90"}
+{"text":"「俺と殴り合いでもして、\n　悩みを増やすつもりか？」","translation":"You planning to add to my worries by trading punches with me?","id":"007CE8"}
+{"text":"「そういう泥臭いやり方は好きではありません。\n　私の武器はこれです…」","translation":"I don't care for such crude methods. My weapon is this...","id":"007D20"}
+{"text":"「この耳鳴りみたいな音は…！」","translation":"This ringing in my ears...!","id":"007D70"}
+{"text":"「そう…。\n　私の武器…それは次元震です」","translation":"Yes... My weapon is the Dimensional Quake.","id":"007D98"}
+{"text":"新宿（夜）","translation":"Shinjuku (Night)","id":"007DD0"}
+{"text":"「………」","translation":".........","id":"007DE0"}
+{"text":"「どうした？\n　私の案内した店が不満だったか？」","translation":"What's wrong? Didn't you like the place I took you to?","id":"007DF0"}
+{"text":"「いや…そんな事はないです」","translation":"No... that's not it.","id":"007E28"}
+{"text":"「美味かったろ。\n　あそこの店のお茶漬けは絶品だ」","translation":"It was good, wasn't it? The ochazuke there is excellent.","id":"007E50"}
+{"text":"「常連なんスか？」","translation":"Are you a regular there?","id":"007E88"}
+{"text":"「このところは$cの活動で\n　ご無沙汰だったがな…」","translation":"I haven't been there much lately because of $c activities...","id":"007EA0"}
+{"text":"「俺達が$cを辞めれば、\n　城田さんもあそこの店に通えるんスか？」","translation":"If we quit $c, would you be able to start going there again, Shirota-san?","id":"007ED8"}
+{"text":"「不満顔の原因は、それか…。\n　ヘテロダインの出現で、その話も\n　うやむやになってしまっていたな」","translation":"So that's why you look so unhappy... The Heterodyne showing up left that whole matter hanging, too.","id":"007F20"}
+{"text":"「だが、今は目の前の事に集中しろ。\n　余計な事に神経を使うな」","translation":"But for now, focus on what's in front of you. Don't waste your energy on unnecessary things.","id":"007F88"}
+{"text":"「余計な事？\n　$cで戦おうとする事が\n　そうだって言うんスか？」","translation":"Unnecessary things? Are you saying trying to fight with $c is one of them?","id":"007FD0"}
+{"text":"「あれは民間人の協力の範囲を逸脱している」","translation":"That goes beyond the scope of civilian cooperation.","id":"008018"}
+{"text":"「甲児やワッ太だって戦ってます」","translation":"Even Koji and Watta are fighting.","id":"008048"}
+{"text":"「彼等は自己の判断で動ける立場だ。\n　君は与えられた仕事を…」","translation":"They're in positions where they can act on their own judgment. You should just do the job you've been given...","id":"008070"}
+{"text":"「君は与えられた仕事をやってればいいんです！\n　まったく…半人前がわかった風な口を！」","translation":"You should just do the job you've been given! Honestly... don't go talking like you know it all when you're still half-baked!","id":"0080B8"}
+{"text":"「すいません…」","translation":"I'm sorry...","id":"008118"}
+{"text":"「柿小路専務と木下さん…。\n　あの人達も食事に出てたんだ…」","translation":"Executive Director Kakikoji and Mr. Kinoshita... So they were out eating too...","id":"008130"}
+{"text":"「あ、ああ…！\n　いいか、仕事というのはな…」","translation":"A-ah, yeah...! Listen, work is...","id":"008178"}
+{"text":"「仕事っていうのはですねえ！\n　どんなに頑張ったところで一人の力で\n　どうにか出来るようなものじゃないんです！」","translation":"Work, you see! No matter how hard you try, it's not something one person can just handle alone!","id":"0081B0"}
+{"text":"「…おっしゃる通りです、はい…」","translation":"...You're absolutely right, yes...","id":"008228"}
+{"text":"「と、とにかくだ…」","translation":"A-anyway...","id":"008250"}
+{"text":"「君のように独りよがりじゃ\n　仕事は回らないんですよ！」","translation":"If you're as self-centered as that, work won't get done!","id":"008270"}
+{"text":"「はい…反省しております」","translation":"Yes... I am reflecting on that.","id":"0082B0"}
+{"text":"「………」","translation":".........","id":"0082D0"}
+{"text":"「ぜーんぶ言われちゃいましたね」","translation":"You said it all for me.","id":"0082E0"}
+{"text":"「赤木…仕事のやり方については\n　それぞれ個人で考えがあるだろうが、\n　一つだけ言わせてくれ」","translation":"Akagi... we may each have our own ideas about how to do the job, but let me say one thing.","id":"008308"}
+{"text":"「民間人の安全を守る事は軍人としての義務だ。\n　私はこれ以上、君達を危険にさらすわけには\n　いかないと考えている」","translation":"Protecting civilians is a soldier's duty. I can't keep putting you in danger any longer.","id":"008370"}
+{"text":"「だから、俺達にダイ・ガードから降りろと？」","translation":"So you're telling us to get out of Dai-Guard?","id":"0083E8"}
+{"text":"「そう…」","translation":"Yes...","id":"008420"}
+{"text":"「耳鳴り…！？\n　違う、これは…！」","translation":"Ringing in my ears...!? No, this is...!","id":"008430"}
+{"text":"「次元震が起きるのか…！」","translation":"A dimensional quake is about to happen...!","id":"008460"}
+{"text":"「大丈夫です、皆さん！\n　次元獣は国連の$cが\n　必ず倒してくれますから！」","translation":"It's okay, everyone! The UN's $c will definitely take down the Dimensional Beasts!","id":"009460"}
+{"text":"「本当に大丈夫なの…？\n　ヘテロダインまで出てきたみたいだけど…」","translation":"Are you sure it's okay...? It looks like Heterodyne showed up too...","id":"0094B0"}
+{"text":"「大丈夫っス！\n　$cは必ずやってくれます！」","translation":"It's okay! $c will definitely come through!","id":"0094F8"}
+{"text":"「何やってんですか、城田さん！？\n　ぼーっと見てないで、あっちの人達を\n　誘導して下さいよ！」","translation":"What are you doing, Mr. Shirota!? Don't just stand there staring—go direct those people over there!","id":"009530"}
+{"text":"「ここにいる人は、あっちの病院の\n　入院患者さんなんスからね。\n　避難は最優先っスよ！」","translation":"The people here are patients from the hospital over there. Getting them evacuated comes first!","id":"009598"}
+{"text":"「あ、ああ…」","translation":"R-right...","id":"0095F8"}
+{"text":"「意外でしたか、赤木のこういう姿を見るのは」","translation":"Were you surprised to see Akagi like this?","id":"009610"}
+{"text":"「はい…。\n　ダイ・ガードに乗っている彼しか\n　見ていませんでしたから…」","translation":"Yes... I'd only ever seen him when he was piloting Dai-Guard...","id":"009648"}
+{"text":"「…もしかすると、彼にとって\n　ダイ・ガードに乗る事は\n　それ程、重要な事ではないかも知れません」","translation":"...Maybe, for him, piloting Dai-Guard isn't actually that important.","id":"009698"}
+{"text":"「え…」","translation":"Huh...?","id":"009700"}
+{"text":"「だって、そうでしょう。\n　$cにはダイ・ガードの他にも\n　多くのロボットがあるのですから」","translation":"Because, you see, $c has many robots besides Dai-Guard.","id":"009710"}
+{"text":"「しかし、彼は$cで\n　戦う事に固執していましたが…」","translation":"But he was so fixated on fighting with $c...","id":"009770"}
+{"text":"「それとダイ・ガードに乗る事は\n　イコールではありませんよ」","translation":"That isn't the same thing as piloting Dai-Guard.","id":"0097B0"}
+{"text":"「大事な事は困っている人を助ける事であり、\n　その方法として$cで\n　戦う事が一番だと赤木は考えてるのでしょう」","translation":"What matters is helping people in trouble, and Akagi probably thinks fighting with $c is the best way to do that.","id":"0097F8"}
+{"text":"「だから、きっと彼はダイ・ガードを\n　降ろされても、クビになっても、\n　$cに参加し続けると思います」","translation":"So even if he's taken off Dai-Guard, or even if he's fired, I think he'll keep taking part in the $c.","id":"009870"}
+{"text":"「あなたは…他の広報２課の課員達は\n　どうなんです？」","translation":"And you... what about the other members of Public Relations Section 2?","id":"0098D8"}
+{"text":"「私も彼等もサラリーマンですからね。\n　そりゃ、生命は大事ですし、\n　会社の決定は第一と考えますよ」","translation":"We're salaried workers too, you know. Of course our lives matter, and company decisions come first.","id":"009918"}
+{"text":"「でもね…赤木に影響されたせいか、\n　みんな、嫌いじゃないんですよ。\n　正義の味方をやる事が」","translation":"But... maybe because Akagi rubbed off on us, none of us really hate it. Playing hero, I mean.","id":"009980"}
+{"text":"「さあ、城田さん…次はどうします？」","translation":"So then, Mr. Shirota... what will you do next?","id":"0099E8"}
+{"text":"「早く指示を下さいよ。\n　皆さん、不安になってますから」","translation":"Please give us your orders quickly. Everyone's getting anxious.","id":"009A18"}
+{"text":"「みんな～！　大丈夫だからね～！\n　$cは必ず勝つから！」","translation":"Everyone~! It's going to be okay~! $c will definitely win!","id":"009A58"}
+{"text":"「押し合わず、落ち着いて行動して下さい！\n　みんなで安全な所へ避難しましょう！」","translation":"Please don't push! Stay calm and move carefully! Let's all evacuate somewhere safe!","id":"009A98"}
+{"text":"「正義の味方か…」","translation":"A hero of justice, huh...","id":"009AF0"}
+{"text":"「怖い…怖いよ…」","translation":"I'm scared... I'm so scared...","id":"009B08"}
+{"text":"「大丈夫だ。\n　必ず$cが\n　みんなを助けてくれるから」","translation":"It's okay. $c will definitely save everyone.","id":"009B20"}
+{"text":"「でも…」","translation":"But...","id":"009B60"}
+{"text":"「坊や、男の子が泣いちゃいけないよ。\n　このお兄ちゃんみたいに、みんなを\n　守ってあげなきゃ」","translation":"Now, now, little boy, boys shouldn't cry. You've got to protect everyone too, just like this big brother here.","id":"009B70"}
+{"text":"「ほら、涙をふいて。\n　男の子だろ？\n　しゃっきりおし！」","translation":"Come on, wipe your tears. You're a boy, aren't you? Chin up!","id":"009BD8"}
+{"text":"「う、うん…」","translation":"O-Okay...","id":"009C18"}
+{"text":"「いいかい、坊や。\n　このお兄ちゃんはダイ・ガードの\n　運転手さんなんだ」","translation":"Listen, kid. This big brother here is Dai-Guard's driver.","id":"009C30"}
+{"text":"「え…！　本当！？」","translation":"Huh...!? Really!?","id":"009C80"}
+{"text":"「みんなを守る正義の味方なんだよ。\n　これから悪い怪獣をやっつけに行くんだよ」","translation":"He's a hero of justice who protects everyone. He's about to go beat up the bad monsters.","id":"009CA0"}
+{"text":"「あ…うん！　その通り！\n　みんなが無事に避難したら、\n　すぐに出撃するんだ！」","translation":"Ah... yeah! That's right! Once everyone's safely evacuated, I'll launch immediately!","id":"009CF8"}
+{"text":"「僕…もう泣かない。\n　ちゃんと逃げるから、\n　お兄ちゃんも頑張ってね」","translation":"I... won't cry anymore. I'll evacuate properly, so you do your best too, big brother.","id":"009D50"}
+{"text":"「任せとけ！\n　絶対にみんなを守ってみせるぞ！」","translation":"Leave it to me! I'll protect everyone, no matter what!","id":"009DA0"}
+{"text":"「熱血正義一直線！\n　圭一郎が言ってた通り、私好みのいい男だ！」","translation":"Straight-ahead, hot-blooded justice! Just like Keiichiro said, he's exactly my type of man!","id":"009DD8"}
+{"text":"「え…圭一郎って…！\n　それに俺の事を知ってるって事は…」","translation":"Huh... Keiichiro...!? And if you know about me, then...","id":"009E20"}
+{"text":"「青山の母です。\n　初めまして、赤木君」","translation":"I'm Aoyama's mother. Nice to meet you, Akagi-kun.","id":"009E60"}
+{"text":"「え…あ…マジっスか？\n　あ、こりゃどうも…」","translation":"Huh... ah... seriously? O-Oh, nice to meet you too...","id":"009E90"}
+{"text":"「え…でも、お母さん…入院してたなんて…。\n　青山の奴…一言もそんな事…」","translation":"Huh... but, ma'am... you were hospitalized...? Aoyama never said a word about that...","id":"009EC8"}
+{"text":"「あの子、ええカッコしいだからね。\n　友達に気を遣わせたくなかったんだろ」","translation":"That boy likes to act cool. He probably didn't want his friends to worry about him.","id":"009F18"}
+{"text":"「はは…さすがはお母さん、\n　よくわかってらっしゃる」","translation":"Haha... as expected of his mother, you know him well.","id":"009F70"}
+{"text":"「じゃあ、私は行くよ。\n　圭一郎に会ったら、頑張るように伝えておくれ」","translation":"Well then, I'll be off. If you see Keiichiro, tell him to keep doing his best.","id":"009FB0"}
+{"text":"「あの…青山に会ってかなくて、\n　いいんスか？」","translation":"Um... are you sure it's okay not to go see Aoyama?","id":"00A000"}
+{"text":"「今は仕事中なんだろ、あの子も。\n　せっかく、今の仕事が好きになり始めたって\n　言ってたのに、邪魔は出来ないよ」","translation":"He's at work right now too, isn't he? He said he'd finally started to like his job, so I can't go getting in the way.","id":"00A038"}
+{"text":"「それじゃあ、赤木君も気をつけてね」","translation":"Well then, take care too, Akagi-kun.","id":"00A0B0"}
+{"text":"「はい！　頑張ります！」","translation":"Yes! I'll do my best!","id":"00A0E0"}
+{"text":"「…もしかして、青山君が\n　仕事を辞めるとか言ってたのって…」","translation":"...Could it be that what Aoyama-kun said about quitting his job was...?","id":"00A100"}
+{"text":"「今はその話はやめましょう。\n　俺達もやる事をやらなくちゃ」","translation":"Let's not talk about that now. We have to do what we have to do too.","id":"00A148"}
+{"text":"「そうね。\n　あの男の子や青山君のお母さんとも\n　約束したもんね」","translation":"You're right. We made a promise to that boy and to Aoyama-kun's mother too.","id":"00A190"}
+{"text":"「そうですよ！\n　俺達は正義の味方なんですから！」","translation":"That's right! We're heroes of justice!","id":"00A1D8"}
+{"text":"「正義の味方が、そんな所で油売ってる場合か」","translation":"Is this really the time for a hero of justice to be loafing around in a place like this?","id":"00A210"}
+{"text":"「お、青山！」","translation":"A-Aoyama!","id":"00A248"}
+{"text":"「病院の入院患者の避難は終わったようだな」","translation":"Looks like the hospital patients have all been evacuated.","id":"00A260"}
+{"text":"「おう！　ばっちりだ！\n　ついでに息子自慢のおばさんに\n　激励してもらったぜ！」","translation":"Yeah! Went off without a hitch! And on top of that, that proud mama of yours gave me a nice pep talk!","id":"00A290"}
+{"text":"「…まさか、お前…！　会ったのか！？」","translation":"...Don't tell me... you met her!?","id":"00A2E8"}
+{"text":"「お前の事、心配してたぞ」","translation":"She was worried about you, you know.","id":"00A318"}
+{"text":"「わ！　余計な事、言うな！」","translation":"Hey! Don't say that!","id":"00A338"}
+{"text":"「そこまで！\n　遊んでいる暇はないわよ！」","translation":"That's enough! We don't have time to fool around!","id":"00A360"}
+{"text":"「その通りです。\n　今、横沢君から連絡が入りました。\n　ダイ・ガードの修理が完了したと」","translation":"That's right. I just got a call from Yokozawa-kun. The repairs to Dai-Guard are complete.","id":"00A398"}
+{"text":"「本当ですか！？」","translation":"Really!?","id":"00A3F8"}
+{"text":"「ついでに新兵器も用意したとの事です」","translation":"He also said they've prepared a new weapon.","id":"00A410"}
+{"text":"「よっしゃ！」","translation":"All right!","id":"00A440"}
+{"text":"「呆れた…。\n　$cでさえ苦戦してるってのに、\n　出撃できるのが嬉しいの？」","translation":"Unbelievable... Even $c is having trouble, and you're happy just to be able to sortie?","id":"00A458"}
+{"text":"「言っても無駄ですよ。\n　こいつは熱血だけで何とかなるって\n　思ってるから」","translation":"It's no use telling him. He thinks sheer hot-bloodedness can solve anything.","id":"00A4A8"}
+{"text":"「そうね」","translation":"That's true.","id":"00A4F8"}
+{"text":"「そこが赤木君のいい所よ」","translation":"That's what makes Akagi-kun great.","id":"00A510"}
+{"text":"「関係ないんです、彼には！」","translation":"That doesn't matter to him!","id":"00A530"}
+{"text":"「予算なんて気にしないし！\n　もう少し気ぃ遣って欲しかったな…」","translation":"He doesn't even care about the budget! I just wish he'd be a little more considerate...","id":"00A558"}
+{"text":"「ほんとにヒーローになれるとシンキン！」","translation":"He really thinks he can become a hero!","id":"00A5A0"}
+{"text":"「僕もそういう事はわかるんだけど…」","translation":"I understand that too, but...","id":"00A5D0"}
+{"text":"「動いちゃうんだ！　先に体が！」","translation":"His body just moves before he can think!","id":"00A600"}
+{"text":"「落ち着きのない単なる正義バカって\n　気がしますけど…」","translation":"Seems to me he's just a restless, justice-obsessed idiot...","id":"00A628"}
+{"text":"「何言ってるんだよ！\n　俺は真の正義を貫いてるだけだ！」","translation":"What are you talking about! I'm just upholding true justice!","id":"00A668"}
+{"text":"「みんなだって、そうだろ？」","translation":"You all feel the same way, don't you?","id":"00A6A8"}
+{"text":"「そういう事にしておこうか」","translation":"Let's just go with that.","id":"00A6D0"}
+{"text":"「よし！　行くぞ、いぶきさん、青山！」","translation":"All right! Let's go, Ibuki-san, Aoyama!","id":"00A6F8"}
+{"text":"「赤木…」","translation":"Akagi...","id":"00A728"}
+{"text":"「何です、城田さん？\n　ダイ・ガードから降ろす話なら、\n　この戦いが終わってからにして下さいよ」","translation":"What is it, Shirota-san? If you're going to talk about taking me off Dai-Guard, please wait until after this battle is over.","id":"00A738"}
+{"text":"「出現したヘテロダインにコクボウガーの\n　パイロットが生存したまま取り込まれている。\n　必ず助けてやってくれ」","translation":"The pilot of Kokubogar has been absorbed alive into the Heterodyne that appeared. You have to save him.","id":"00A7A0"}
+{"text":"「了解です！\n　先生に受けた恩は忘れてませんから！」","translation":"Understood! I haven't forgotten what I owe you, sir!","id":"00A818"}
+{"text":"「頼むぞ」","translation":"I'm counting on you.","id":"00A858"}
+{"text":"広報２課","translation":"Public Relations Section 2","id":"00B488"}
+{"text":"　\n　\n　　　　～２１世紀警備保障　広報２課～","translation":"~ 21st Century Security Public Relations Section 2 ~","id":"00B498"}
+{"text":"「すごかったですね、赤木さん。\n　あんな巨大なヘテロダインが\n　一瞬で消滅しちまうなんて」","translation":"That was incredible, Akagi-san. I can't believe a Heterodyne that huge vanished in an instant.","id":"00B4C8"}
+{"text":"「コアさえ破壊すれば、\n　ヘテロダインなんて、あんなものだ」","translation":"Once you destroy the core, a Heterodyne is nothing special.","id":"00B528"}
+{"text":"「よくやったもんだな、赤木。\n　ぶっつけ本番で新しい装備を\n　使いこなすとはよ」","translation":"You did well, Akagi. To handle the new equipment like that on your first try.","id":"00B570"}
+{"text":"「あれ位、軽い軽い。\n　伊達に$cの一員じゃないぜ」","translation":"That was easy. I'm not a member of $c for nothing.","id":"00B5C8"}
+{"text":"「でもよ…お前はともかく、\n　他の二人はダイ・ガードを降りるかも\n　知れないんだろ」","translation":"But still... aside from you, the other two might end up leaving Dai-Guard, right?","id":"00B600"}
+{"text":"「それは…」","translation":"Well...","id":"00B658"}
+{"text":"「私は続けるわよ」","translation":"I'm staying on.","id":"00B670"}
+{"text":"「でも、いぶきさん…\n　$cにいたんじゃ\n　ヘテロダインとは…」","translation":"But, Ibuki-san... if you stay with $c, then you'll be dealing with Heterodynes...","id":"00B690"}
+{"text":"「誰かさんの正義バカにあてられたのかもね」","translation":"Maybe a certain justice-loving idiot rubbed off on me.","id":"00B6D8"}
+{"text":"「正義バカってなんスか！？\n　正義バカって！」","translation":"What's a \"justice idiot\" supposed to mean!? \"Justice idiot\"!?","id":"00B710"}
+{"text":"「イヤだったら、正義マニア。\n　正義オタクでもいいわよ」","translation":"If you don't like that, then how about \"justice maniac\"? Or \"justice otaku.\"","id":"00B748"}
+{"text":"「いいじゃないの、赤木さん。\n　正義をやるのは変わんないんだからさ」","translation":"Come on, Akagi-san. You're still fighting for justice either way.","id":"00B788"}
+{"text":"「そうそう。\n　名前にこだわるなんて、らしくないですよ」","translation":"Exactly. It's not like you to get hung up on a name.","id":"00B7D8"}
+{"text":"「そうは言うけどよ…\n　２５歳にもなって、そんな風に言われると…」","translation":"You say that, but... when you're 25 and people call you that...","id":"00B818"}
+{"text":"「そうね。\n　そんなんじゃ彼女も出来ないでしょうね」","translation":"True. At this rate, you'll never get a girlfriend.","id":"00B860"}
+{"text":"「大きなお世話っス！」","translation":"That's none of your business!","id":"00B8A0"}
+{"text":"「だらしないなぁ。\n　正義の味方なら、それらしくピシっとしなよ」","translation":"You're so sloppy. If you're a hero of justice, act like it and straighten up.","id":"00B8C0"}
+{"text":"「そうだな。\n　俺の恋人はダイ・ガード！　…ってな」","translation":"Yeah, yeah. My girlfriend is Dai-Guard! ...or something like that.","id":"00B908"}
+{"text":"「それはちょっと…」","translation":"That's a little...","id":"00B948"}
+{"text":"「正義マニアではなく、\n　ロボットマニア…いや、ロボットフェチ…」","translation":"Not a justice maniac, but a robot maniac... no, a robot fetishist...","id":"00B968"}
+{"text":"「赤木さん…\n　俺…そこまではついていけないです」","translation":"Akagi-san... I... I can't follow you that far.","id":"00B9B0"}
+{"text":"「ま、待てよ！\n　さっきのは冗談に決まってるだろ！」","translation":"W-wait! That was obviously a joke!","id":"00B9E8"}
+{"text":"「赤木君の場合、そう聞こえないのよね…」","translation":"With you, Akagi-kun, it doesn't really sound like a joke...","id":"00BA28"}
+{"text":"「いぶきさん…！」","translation":"Ibuki-san...!","id":"00BA58"}
+{"text":"（でも、感謝してるよ…。\n　赤木君を見てたら、少しだけ自分の事が\n　恥ずかしくなったから…）","translation":"But I'm grateful... Watching you, Akagi-kun, made me feel a little ashamed of myself...","id":"00BA70"}
+{"text":"（あの日の私みたいな子を作らないためにも、\n　私もやってみるよ、正義の味方をね）","translation":"So there won't be any more girls like I was back then, I'm going to try it too... being a hero of justice.","id":"00BAD8"}
+{"text":"「青山はどうすんだよ？\n　結局、辞表を出したのか？」","translation":"What about you, Aoyama? Did you end up turning in your resignation?","id":"00BB30"}
+{"text":"「そうもいかないさ。\n　この不景気なご時勢じゃ、\n　再就職もままならないしな」","translation":"It's not that simple. In this economy, finding a new job is no easy task.","id":"00BB70"}
+{"text":"「じゃあ、青山さん…辞めないんですね？」","translation":"Then, Aoyama-san... you're not quitting?","id":"00BBC8"}
+{"text":"「まあね。\n　お騒がせして申し訳ない」","translation":"Well, yeah. Sorry for all the trouble.","id":"00BBF8"}
+{"text":"「いいのか？」","translation":"You sure about that?","id":"00BC28"}
+{"text":"「ああ…。\n　子供が好きな事をやるのも\n　親孝行なんだとさ」","translation":"Yeah... They say a child doing what they love is also a way of repaying their parents.","id":"00BC40"}
+{"text":"「フ…いい台詞だぜ。\n　母親ってのは俺の女嫌いから外しとくか」","translation":"Heh... that's a good line. Guess I can take mothers off my list of women I hate.","id":"00BC80"}
+{"text":"「何の話？」","translation":"What are you talking about?","id":"00BCC8"}
+{"text":"「ちょっとだけ大人の話だ。\n　ワッ太…お袋さんを大切にな」","translation":"Just a little grown-up talk. Watta... take good care of your mom.","id":"00BCE0"}
+{"text":"「何を当たり前の事、言ってんのさ？」","translation":"Why are you saying something so obvious?","id":"00BD20"}
+{"text":"「そうだな。\n　当たり前の話だな…」","translation":"Yeah. It is obvious...","id":"00BD50"}
+{"text":"「青山…」","translation":"Aoyama...","id":"00BD80"}
+{"text":"「これで一安心だ。\n　青山がいなくなったら、表部隊で\n　貧乏クジを引く役は俺だけになっちまうからな」","translation":"Well, that's a relief. If Aoyama were gone, I'd be the only one left drawing the short straw in the front-line unit.","id":"00BD90"}
+{"text":"「いつの間にか、お仲間認定とはな」","translation":"So before I knew it, I'd been counted as one of your buddies, huh.","id":"00BDF8"}
+{"text":"「赤木の相棒をやってるんだ。\n　否定はさせねえぜ」","translation":"You've been acting as Akagi's partner. I won't let you deny it.","id":"00BE20"}
+{"text":"「確かにな」","translation":"Fair enough.","id":"00BE58"}
+{"text":"「何だよ、それ！\n　青山も$nも！」","translation":"What the heck is that supposed to mean!? You too, Aoyama! And you too, $n!","id":"00BE70"}
+{"text":"「盛り上がっているところに水を注して悪いが、\n　上の方はどう言ってるんだ？」","translation":"Sorry to pour cold water on things when you're all fired up, but what are the higher-ups saying?","id":"00BE98"}
+{"text":"「赤木さん達は企業の人間ですから、\n　会社の決定には逆らえないと思いますが…」","translation":"Mr. Akagi and the others work for a company, so I don't think they can go against the company's decision, but...","id":"00BEF0"}
+{"text":"「その時はその時だ。\n　ダイ・ガードを降ろされる事になったら、\n　身一つで$cに参加するさ」","translation":"If it comes to that, it comes to that. If I get taken off Dai-Guard, I'll join $c on my own.","id":"00BF48"}
+{"text":"「その心配は要らない」","translation":"You don't need to worry about that.","id":"00BFA8"}
+{"text":"「どういう事っスか、城田さん？」","translation":"What do you mean, Mr. Shirota?","id":"00BFC8"}
+{"text":"「先程、安全保障軍と２１世紀警備保障で\n　今後のダイ・ガードの運用方法に関する\n　会議が終わった」","translation":"A little while ago, the Security Forces and 21st Century Security finished their meeting on Dai-Guard's future operation.","id":"00BFF0"}
+{"text":"「その結果、日本のヘテロダイン対策は\n　コクボウガーが担当し…」","translation":"As a result, Kokubogar will be in charge of Japan's Heterodyne countermeasures...","id":"00C058"}
+{"text":"「$cへは、引き続き\n　２１世紀警備保障広報２課が出向する事と\n　なった」","translation":"And 21st Century Security's Public Relations Section 2 will continue to be dispatched to $c.","id":"00C0A0"}
+{"text":"「じゃあ…」","translation":"Then...","id":"00C0F0"}
+{"text":"「全て今まで通りってわけか」","translation":"So everything stays the same, then.","id":"00C108"}
+{"text":"「よっしゃ！！\n　サラリーマンだって平和を守れるんだ！」","translation":"All right!! Even salarymen can protect the peace!","id":"00C130"}
+{"text":"「この決定はコクボウガーのパイロットからの\n　上申書が決め手となった」","translation":"The deciding factor in this decision was a written recommendation from Kokubogar's pilot.","id":"00C170"}
+{"text":"「現時点で安全保障軍内で\n　君達以上にダイ・ガードを効率的に運用出来る\n　人員はいないという事でな」","translation":"At present, there is no one in the Security Forces who can operate Dai-Guard more efficiently than you all.","id":"00C1C0"}
+{"text":"「飯塚のおっちゃん、やってくれるぜ！」","translation":"Old man Iizuka really came through for us!","id":"00C228"}
+{"text":"「へへ…先生、\n　俺の事をちゃんと認めてくれたんだな」","translation":"Heh... So Sensei really did acknowledge me.","id":"00C258"}
+{"text":"「ただし、現時点では、との注釈付きだ。\n　上申書の最後にはトライダーとマジンガーの\n　運用についても述べられていた」","translation":"However, that came with the note \"for now.\" The recommendation also mentioned Tryder and Mazinger's operation.","id":"00C298"}
+{"text":"「各機のパイロット共、\n　操縦技術向上の必要性あり、とな」","translation":"It says the pilots of every unit need to improve their piloting skills.","id":"00C310"}
+{"text":"「何だよ！\n　免許皆伝じゃなかったのかよ！」","translation":"What?! I thought we were fully licensed!","id":"00C350"}
+{"text":"「あくまで仮免って事だ。\n　これからは赤木に代わって、\n　俺が戦闘のイロハを叩き込んでやる」","translation":"You're only provisionally licensed, that's all. From here on, I'll be taking Akagi's place and drilling the basics of combat into you.","id":"00C388"}
+{"text":"「もしかして、俺や赤木さんも\n　オズマ隊長にしごかれるの？」","translation":"Wait, does that mean Mr. Akagi and I are gonna get put through the wringer by Captain Ozma too?","id":"00C3F0"}
+{"text":"「うちのアルトの訓練のついでだ。\n　まとめて面倒みてやる」","translation":"I'll be training our Alto anyway, so I might as well take care of all of you at once.","id":"00C438"}
+{"text":"「よろしく頼むぜ、オズマ隊長。\n　次に会う時には先生を見返してやりたいしな」","translation":"I'm counting on you, Captain Ozma. Next time we meet, I want to show Teach what I can really do.","id":"00C480"}
+{"text":"「気楽なもんだ…。\n　Ｓ．Ｍ．Ｓの訓練の厳しさを知ったら、\n　きっと逃げ出したくなるぜ」","translation":"Must be nice... Once you learn how brutal S.M.S. training is, you'll want to run away.","id":"00C4D8"}
+{"text":"「でも、お前も逃げ出してない…。\n　ちゃんとやるべき事がわかってる人間は\n　簡単に投げ出すような事はしないのさ」","translation":"But you haven't run away either... People who know what they need to do don't just give up so easily.","id":"00C538"}
+{"text":"「さすがですな、$nさん。\n　あれだけの借金を返済してる方の言葉は\n　重みがあります」","translation":"As expected of you, $n-san. Those words carry weight coming from someone who's paid off that much debt.","id":"00C5B0"}
+{"text":"「…俺はいつでも投げ出したいと思ってるぜ…」","translation":"...I always feel like giving up myself...","id":"00C610"}
+{"text":"「何はともあれ、広報２課一同、\n　今後も$cでやっていくんで\n　よろしくお願いします！」","translation":"In any case, all of Public Relations Section 2 will keep doing our best at $c, so thank you for your support!","id":"00C640"}
+{"text":"「いいんですか、城田さん？\n　赤木達の起用については、\n　あなたの推薦があった事を言わなくて」","translation":"Is that all right, Mr. Shirota? You don't have to mention that you were the one who recommended Akagi and the others?","id":"00C6A0"}
+{"text":"「私は客観的な判断を下したまでです。\n　情に流されたわけではありません」","translation":"I merely made an objective judgment. I wasn't swayed by sentiment.","id":"00C708"}
+{"text":"「情ね…」","translation":"Sentiment, huh...","id":"00C758"}
+{"text":"「だが、戦うのに一番大切なのは\n　本人の気持ちだってのがわかったから、\n　あなたも赤木を推したんでしょう？」","translation":"But you realized the most important thing in a fight is the person's own will, so you recommended Akagi too, didn't you?","id":"00C770"}
+{"text":"「もう一度言う。\n　私は客観的な判断を下したまでだ」","translation":"I'll say it again. I merely made an objective judgment.","id":"00C7E8"}
+{"text":"「はい。\n　それで正解だと私も思います」","translation":"Yes. I think that was the right call as well.","id":"00C828"}
+{"text":"「同感ですよ。\n　では、あなたにも戦術アドバイザーとして\n　訓練プログラムには協力してもらいますか」","translation":"I agree. Then as tactical advisor, could we count on you to help with the training program too?","id":"00C858"}
+{"text":"「了解だ。\n　こちらからもよろしく頼む」","translation":"Understood. I'll be counting on you as well.","id":"00C8C8"}
+{"text":"「よし、墨田…！\n　いい機会だ、ダイ・ガードのパワーアップも\n　頼むぜ」","translation":"All right, Sumida...! Since we've got the chance, see if you can power up Dai-Guard too.","id":"00C8F8"}
+{"text":"「無茶言うなって。\n　俺は技術部で上がってきたプラン通りに\n　組み立てや整備をするだけだからな」","translation":"Don't ask for the impossible. I just assemble and maintain it according to the plans the tech department comes up with.","id":"00C948"}
+{"text":"「今回のノットパニッシャーも\n　技術部の設計だと聞いたが、大したものだ」","translation":"I heard this Knot Punisher was designed by your tech department too. That's impressive.","id":"00C9B0"}
+{"text":"「うちの技術部主任の百目鬼は\n　天才って言われてますからね」","translation":"Our tech department chief, Hyakume, is said to be a genius.","id":"00CA00"}
+{"text":"「…って言っても、俺もあった事は\n　ないっスけどね」","translation":"...Though I've never actually met her myself.","id":"00CA48"}
+{"text":"「あんたが整備班の墨田？\n　ノットパニッシャーの稼動レポート、\n　早く出してよね」","translation":"You're Sumida from the maintenance crew, right? Hurry up and send me the operational report on the Knot Punisher.","id":"00CA88"}
+{"text":"「って…お前、誰よ？」","translation":"Wait... who are you?","id":"00CAE0"}
+{"text":"「百目鬼理香。\n　技術部の主任よ」","translation":"Rika Hyakume. I'm the chief of the tech department.","id":"00CB00"}
+{"text":"「ええっ！？」","translation":"What!?","id":"00CB30"}
+{"text":"「じゃあ、この子が噂の天才博士…」","translation":"So this is the genius doctor everyone's been talking about...","id":"00CB48"}
+{"text":"「ちょっと待ってよ！\n　まだ子供じゃない！」","translation":"Hold on a second! She's still just a kid!","id":"00CB70"}
+{"text":"「こう見えても、あなた達より頭いいですから、\n　安心して下さい」","translation":"I may look like this, but I'm smarter than all of you, so don't worry.","id":"00CBA8"}
+{"text":"「な…！？」","translation":"Wha...!?","id":"00CBF0"}
+{"text":"「………」","translation":".........","id":"00CC08"}
+{"text":"「おい、墨田…！\n　何なんだよ、あの子は！？」","translation":"Hey, Sumida...! What the heck is with that girl!?","id":"00CC18"}
+{"text":"「か、可愛い…」","translation":"S-she's cute...","id":"00CC50"}
+{"text":"「はぁ！？」","translation":"Huh!?","id":"00CC68"}
+{"text":"「どうやら、こっちの兄さんは\n　ちょいと変わった趣味の持ち主のようだ」","translation":"Looks like this guy's got some pretty unusual tastes.","id":"00CC80"}
+{"text":"「あんた…」","translation":"You...","id":"00CCD0"}
+{"text":"「な、何だ？\n　俺はメガネの女とコンタクトレンズの女と\n　裸眼の女は苦手なんだよ」","translation":"W-What? I can't stand women with glasses, women with contacts, or women who don't wear either.","id":"00CCE8"}
+{"text":"「データベースで見たわ。\n　あんた、アクシオン財団のＤＭバスターの\n　パイロットね」","translation":"I checked the database. You're the pilot of Axion Foundation's DM Buster, right?","id":"00CD40"}
+{"text":"「今日の次元震のデータ持っていたら、\n　こっちに回してよ」","translation":"If you have today's dimensional quake data, send it my way.","id":"00CDA0"}
+{"text":"「それは構わないが、タダってわけには…」","translation":"I don't mind, but it won't be free...","id":"00CDE8"}
+{"text":"「出たな、守銭奴」","translation":"There he is, the money-grubber.","id":"00CE18"}
+{"text":"「請求は大河内ちゃんに回しといてよ。\n　言い値で払ってくれるから」","translation":"Just send the bill to Okochi-chan. She'll pay whatever price you name.","id":"00CE30"}
+{"text":"「大河内ちゃんって…」","translation":"Okochi-chan... ?","id":"00CE80"}
+{"text":"「社長じゃない！」","translation":"You mean the president, right!?","id":"00CEA0"}
+{"text":"「次元震と界震の発生構造はよく似てる…。\n　データを比較すれば、多元世界の構造が\n　もっとはっきりするはず」","translation":"Dimensional quakes and boundary quakes are similar... Compare the data, and the multiverse should become clearer.","id":"00CEC0"}
+{"text":"「桜田栄二郎の『時空共震研究序説』の\n　検証も出来るかもしんない」","translation":"I might even be able to verify Eijiro Sakurada's \"Introduction to Spacetime Resonance Research.\"","id":"00CF38"}
+{"text":"「え…」","translation":"Huh...?","id":"00CF88"}
+{"text":"「じゃあ、アクシオンのパイロットさん…\n　データ、よろしく～」","translation":"Well then, Mr. Axion Pilot... I'm counting on you for that data~","id":"00CF98"}
+{"text":"「何だったんだ、ありゃ…」","translation":"What the hell was that...?","id":"00CFE0"}
+{"text":"「さあな…。\n　天才と何とかは紙一重ってやつだろ」","translation":"Who knows... I guess they say there's a fine line between genius and madness.","id":"00D000"}
+{"text":"（時空共震研究序説…。\n　あの子、お父さんの本を持っている…）","translation":"Introduction to Spacetime Resonance Research... That girl has my father's book...","id":"00D038"}
+{"text":"「次元震と界震ね…」","translation":"Dimensional quakes and boundary quakes, huh...","id":"00D080"}
+{"text":"（もし、あのアイムの言っていた事が\n　本当だとしたら、次元獣もヘテロダインも\n　あいつが呼び寄せたのか…）","translation":"If what that Aim said is true... did he summon the Dimensional Beasts and the Heterodynes too...?","id":"00D098"}
+{"text":"（いったい奴は何だ…？\n　俺を狙うのは、金持ちと関係があるのか…？）","translation":"Just what is that guy...? Is him targeting me tied to my family's wealth...?","id":"00D108"}
+{"text":"（もし、本当に次元震を発生させたとしたら、\n　あいつは何者なんだ…）","translation":"If he really did cause a dimensional quake, then just who is he...?","id":"00D150"}

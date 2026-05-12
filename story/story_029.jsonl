@@ -1,0 +1,622 @@
+{"text":"敵の全滅（グレート・アクシオンを除く）。","translation":"Defeat all enemies (except Great Axion).","id":"000800"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"000838"}
+{"text":"クロウＡの撃墜。","translation":"Crow A is shot down.","id":"000850"}
+{"text":"５ターン以内にグレート・アクシオン以外の敵を全滅させる。","translation":"Defeat all enemies (except Great Axion)\nin 5 turns.","id":"000870"}
+{"text":"「やっぱり、誰もいないみたいだね。\n　攻撃宣言は逆効果だったんじゃない？」","translation":"Looks like nobody's here after all. Wasn't declaring an attack counterproductive?","id":"000F88"}
+{"text":"「それならば、この国の全てを\n　焼き払うまでです…！\n　我々の力を世界中に知らしめるために！」","translation":"Then we shall simply burn this entire country to the ground...! To make our power known throughout the world!","id":"000FE0"}
+{"text":"「待て」","translation":"Wait.","id":"001048"}
+{"text":"「$c…\n　異界の戦士を加えましたか」","translation":"$c... So you've brought in warriors from another world.","id":"001140"}
+{"text":"「いいぜ。\n　あのエルガンとかいう野郎が\n　動かした兵か」","translation":"Fine by me. So these are the troops that bastard Elgan set in motion, huh?","id":"001170"}
+{"text":"「リモネシアで捻ってやったのに\n　また向かってくるとは、\n　嬉しくなってくるじゃねえかよ」","translation":"I twisted you up in Limonesia, and yet you're coming at me again? Now that's got me excited.","id":"0011B8"}
+{"text":"「では、彼等の蛮勇に報いましょう」","translation":"Then let us reward their reckless bravery.","id":"001220"}
+{"text":"「次元獣が出てきたぞ…！」","translation":"Dimensional Beasts have appeared...!","id":"001350"}
+{"text":"「ディノダモン級を確認、\n　ライノダモン級も複数いる」","translation":"Confirmed a Dino DAMON-class unit, and multiple Rhino DAMON-class units as well.","id":"001370"}
+{"text":"「聞け、$cの兵達よ。\n　私はシオニー・レジス。\n　新帝国インペリウムの筆頭政務官だ」","translation":"Hear me, soldiers of $c. I am Shiony Regis, Chief Administrative Officer of the New Empire Imperium.","id":"0013B0"}
+{"text":"「全世界にインペリウムのわがまま宣言を\n　ぶちあげた女か」","translation":"So you're the woman who blasted Imperium's selfish declaration across the whole world.","id":"001410"}
+{"text":"「エルガン・ローディックの子飼いである\n　お前達に改めて問う」","translation":"I ask you once again, you underlings of Elgan Roddick.","id":"001458"}
+{"text":"「お前達はインペリウムの力を知りながらも、\n　それに歯向かうつもりか？」","translation":"Knowing the power of Imperium, do you still intend to defy us?","id":"0014A0"}
+{"text":"「何だよ、あの人…！\n　偉そうにさ！」","translation":"What's with that woman...!? Acting all high and mighty!","id":"0014F8"}
+{"text":"「以前にリモネシアで会った時の彼女は\n　ちょっとヒステリックだったけど、\n　ああまで高圧的ではなかったがな」","translation":"When we met her in Limonesia before, she was a bit hysterical, but she wasn't nearly this overbearing.","id":"001528"}
+{"text":"「権力は人を変えるってやつだ。\n　見ていて気持ちのいいもんじゃねえな」","translation":"Power changes people. It's not a pretty sight.","id":"001598"}
+{"text":"「さあ答えろ、$c！\n　お前達は我々と戦うつもりか！」","translation":"Now answer me, $c! Do you intend to fight us?!","id":"0015F0"}
+{"text":"「愚問だな、インペリウム。\n　我々はハイキングに来たのではないのだ」","translation":"A foolish question, Imperium. We did not come here for a hike.","id":"001630"}
+{"text":"「何だと？」","translation":"What did you say?","id":"001680"}
+{"text":"「もっとはっきり言ってやらなきゃ\n　わからないのかよ！\n　俺達は戦いに来たんだ！」","translation":"Do I have to spell it out for you to understand?! We came here to fight!","id":"001698"}
+{"text":"「お前達のメチャクチャなやり方を\n　いつまでも黙って見てると思うなよ！」","translation":"Don't think we're just going to stand by forever and watch your insane methods in silence!","id":"0016F0"}
+{"text":"「好き勝手をやるのも今日までだ、\n　インペリウム！」","translation":"Your days of doing as you please end today, Imperium!","id":"001740"}
+{"text":"「ほう…」","translation":"Oh...?","id":"001780"}
+{"text":"「破界の王…ガイオウ…！\n　お前は戦いを楽しんでるようだな！」","translation":"King of Ruin... Gaioh...! You seem to enjoy fighting!","id":"001798"}
+{"text":"「だったら、俺達が遊んでやるぜ！\n　嫌って程な！」","translation":"Then we'll play with you! Till you're sick of it!","id":"0017E0"}
+{"text":"「愚か者め…！\n　これだけの次元獣を相手にして\n　勝てると思っているのか！」","translation":"Fools...! Do you really think you can win against this many Dimensional Beasts?!","id":"001820"}
+{"text":"「いい機会だ！\n　お前達を潰して、エルガン・ローディックに\n　借りを返すとしよう！」","translation":"A perfect opportunity! I'll crush you all and settle the score with Elgan Roddick!","id":"001878"}
+{"text":"（悔しいが、あの女の言う通りだ…。\n　現時点の戦力では…）","translation":"Much as it pains me, that woman is right... With our current strength...","id":"0018D8"}
+{"text":"「自信がないようだな」","translation":"You don't sound very confident.","id":"001918"}
+{"text":"「だとしても退くわけにはいかない。\n　あの手の輩に弱みを見せれば、\n　そこにつけ込んで来る…！」","translation":"Even so, we cannot retreat. If we show weakness to the likes of them, they'll exploit it...!","id":"001938"}
+{"text":"「スカルリーダーより、各機へ！\n　敵の巨大要塞を叩くには\n　次元獣軍団を落とすしかない！」","translation":"Skull Leader to all units! To strike their massive fortress, we have no choice but to take down the Dimensional Beast army!","id":"0019A0"}
+{"text":"「準備はいいか、ＺＥＵＴＨ！」","translation":"Are you ready, ZEUTH?!","id":"001A00"}
+{"text":"「おう！　いつでもいいぜ！」","translation":"Yeah! Anytime!","id":"001A28"}
+{"text":"「こんな無法をする者を\n　放っておくわけにはいかない…！」","translation":"We can't just let people like that commit such lawless acts...!","id":"001A50"}
+{"text":"「俺達が帰るためだけじゃない…！\n　あいつらは戦いを生む存在だから！」","translation":"It's not just so we can go home...! They're the kind of people who bring about war!","id":"001A98"}
+{"text":"「気合入ってるじゃないの、彼等」","translation":"They're pretty fired up, aren't they?","id":"001AE8"}
+{"text":"「俺達も行こう！\n　ここから反撃開始だ！」","translation":"Let's go too! Our counterattack starts here!","id":"001B10"}
+{"text":"「各機、攻撃開始！\n　サンクキングダムを守り、\n　インペリウムを討つ！」","translation":"All units, begin the attack! Protect the Sankt Kingdom, and strike down Imperium!","id":"001B48"}
+{"text":"（アイム…\n　お前がどういうつもりだか知らないが、\n　俺は次元獣を…そして、お前を狩る）","translation":"Aim... I don't know what you're planning, but I'll hunt down the Dimensional Beasts... and you.","id":"001B98"}
+{"text":"（リモネシアでの…いや、それより前からの\n　借りを返すぜ…！）","translation":"I'll settle the score for what happened in Limonesia... no, from even before that...!","id":"001BF8"}
+{"text":"「なかなかやるじゃねえかよ。\n　少しは喰いでが出てきたか？」","translation":"Not bad at all. Maybe you're finally worth sinking my teeth into?","id":"0020E0"}
+{"text":"「お出になられますか？」","translation":"Will you be going out there yourself?","id":"002128"}
+{"text":"「そう言うお前はどうなんだ？」","translation":"And what about you?","id":"002148"}
+{"text":"「興味がわきませんので…」","translation":"It doesn't interest me...","id":"002170"}
+{"text":"「俺の真逆ってわけかよ。\n　だったら、奴等を使え」","translation":"So you're my exact opposite, huh? In that case, use them.","id":"002198"}
+{"text":"「かしこまりました」","translation":"As you wish.","id":"0021D8"}
+{"text":"「気をつけて下さい！\n　敵要塞から何か出てきます！」","translation":"Be careful! Something's coming out of the enemy fortress!","id":"0021F8"}
+{"text":"「あいつは、この前の…！」","translation":"That's the one from before...!","id":"002398"}
+{"text":"「参るぞ、マルグリット！」","translation":"I'm going in, Marguerite!","id":"0023B8"}
+{"text":"「は…！」","translation":"Y-Yes...!","id":"0023E0"}
+{"text":"「聞けぇい、雑兵共！\n　貴様達が調子に乗るのも、ここまでだっ！」","translation":"Listen up, you rabble! Your little run of good luck ends here!","id":"0024D8"}
+{"text":"「我が名はシュバル・レプテール！\n　インペリウムの王の騎士！」","translation":"My name is Cheval Reptail! Knight to the King of Imperium!","id":"002528"}
+{"text":"「あのマルグリットってのと同じく\n　騎士様か！」","translation":"So he's a knight too, just like that Marguerite girl?!","id":"002570"}
+{"text":"「わざわざ名前を名乗って、\n　正々堂々の勝負ってわけかよ！」","translation":"He even announced his name, and now he wants an honorable duel, huh!","id":"0025A8"}
+{"text":"「いい度胸じゃねえの！\n　だったら、相手をしてやるぜ！」","translation":"You've got guts! All right then, I'll take you on!","id":"0025F0"}
+{"text":"「マルグリット…\n　あなたの役割はわかっていますね？」","translation":"Marguerite... You do understand your role, don't you?","id":"002630"}
+{"text":"「………」","translation":".........","id":"002670"}
+{"text":"「マルグリット・ピステール」","translation":"Marguerite Pistail.","id":"002688"}
+{"text":"「アイム殿！\n　このような腑抜けにあなた様の課す命は\n　分不相応！」","translation":"Lord Aim! Such a spineless weakling is unworthy of a command from you!","id":"0026B0"}
+{"text":"「ここは、このシュバルめにお任せを！」","translation":"Leave this to me, Cheval!","id":"002700"}
+{"text":"「何っ！？」","translation":"What!?","id":"0028F0"}
+{"text":"「我がエメラルダンの剣、受けるがいい！」","translation":"Now face the blade of my Emeraldan!","id":"002900"}
+{"text":"「くそっ！」","translation":"Damn it!","id":"0029F8"}
+{"text":"「$n！」","translation":"$n!","id":"002AA8"}
+{"text":"「あの男…この前の女以上か」","translation":"That man... he's even stronger than the woman from before.","id":"002AB8"}
+{"text":"「マァァルグリィィットォォォォッ！！\n　自らの使命も果たせぬ腑抜けめが！」","translation":"Maaargueriiite!! You spineless fool, unable even to fulfill your own mission!","id":"002AE0"}
+{"text":"「ご覧になられましたか、アイム殿！\n　このシュバルこそが真の騎士！\n　御身を守る剣に相応しくございますぅぅ！」","translation":"Did you see that, Lord Aim!? I, Cheval, am the true knight! The very sword worthy of defending your person!","id":"002B38"}
+{"text":"「見事です、シュバル。\n　フフ…さすがという言葉を送りましょう」","translation":"Splendid, Cheval. Heh... \"as expected\" is the phrase that comes to mind.","id":"002BB0"}
+{"text":"「全てがうまくいくと思ったら、\n　大間違いだ、アイム・ライアード…！」","translation":"If you think everything's going to go your way, you're dead wrong, Aim Laiard...!","id":"002BF8"}
+{"text":"「…！」","translation":"...!","id":"002C48"}
+{"text":"「ビッグオー、ショータイム！！」","translation":"Big O, showtime!!","id":"002C58"}
+{"text":"「ビッグオー！」","translation":"Big O!","id":"002E28"}
+{"text":"「ロジャーか！」","translation":"Roger!?","id":"002E48"}
+{"text":"「その通り。\n　久しぶりだな、諸君」","translation":"That's right. It's been a while, everyone.","id":"002E60"}
+{"text":"「ベックも一緒みたいだけど\n　いつの間に仲良くなったんだ？」","translation":"Looks like Beck's with you too. When did you two get so friendly?","id":"002E90"}
+{"text":"「そのようなつもりはない。\n　だが、今回に限っては旅は道連れというやつだ」","translation":"That is not my intention. But just this once, we're fellow travelers on the same road.","id":"002ED8"}
+{"text":"「どうでもいいがよ、ロジャー・スミス。\n　あのアイムってのが信じられないっていう\n　根拠を聞かせろよ」","translation":"Whatever, Roger Smith. Just tell me what makes you so sure that this Aim guy can't be trusted.","id":"002F30"}
+{"text":"「アニキの言う通りだぜ！」","translation":"The boss is right!","id":"002FA0"}
+{"text":"「そうよ！\n　あいつ…嘘をついているようには\n　見えなかったわよ！」","translation":"That's right! He... didn't look like he was lying at all!","id":"002FC8"}
+{"text":"「世の中には息をするように…\n　そう、あまりにも自然に嘘をつく人間と\n　いうものがいる」","translation":"There are people in this world who lie as naturally as they breathe... yes, almost too naturally.","id":"003010"}
+{"text":"「………」","translation":".........","id":"003070"}
+{"text":"「それは方便や交渉術といったものとは別だ。\n　言い換えれば、人の形を成した悪意と\n　言ってもいい」","translation":"That is different from mere expediency or negotiation tactics. Put another way, it is malice in human form.","id":"003088"}
+{"text":"「誠意を以ってなどという言葉を\n　自然に吐ける人間など、その最たる例だ」","translation":"Anyone who can casually utter words like \"with all sincerity\" is a prime example of that.","id":"0030F8"}
+{"text":"「ロジャー…あなたも、その言葉を\n　使ってなかったかしら？」","translation":"Roger... haven't you used those words yourself too?","id":"003150"}
+{"text":"「私は別格だよ、ドロシー」","translation":"I'm in a class of my own, Dorothy.","id":"003198"}
+{"text":"「都合のいい事ね」","translation":"How convenient for you.","id":"0031C0"}
+{"text":"「残念ですよ、ロジャー・スミス。\n　そちらのヒゲの男はともかく、\n　あなたとそのメガデウスには価値があったのに」","translation":"What a shame, Roger Smith. That bearded man aside, you and your Megadeus had value.","id":"0031E0"}
+{"text":"「相手を利用しようと考える者が\n　交渉など、おこがましいのだよ」","translation":"For someone who only seeks to use the other party, to speak of negotiation is sheer arrogance.","id":"003258"}
+{"text":"「それはネゴシエイターである私への\n　冒涜に等しい」","translation":"That is tantamount to an insult to me, a negotiator.","id":"0032A8"}
+{"text":"「ひえ～…言い切りましたなぁ」","translation":"Yikes~... He really said it flat out.","id":"0032E8"}
+{"text":"「力強いですね。\n　意志に満ちた言葉は交渉のテーブルにおいて\n　最大の武器です」","translation":"Strong words indeed. At the negotiating table, words filled with conviction are the greatest weapon of all.","id":"003310"}
+{"text":"「相変わらずだな、ロジャー。\n　嬉しくなってくる！」","translation":"Still the same as ever, Roger. It's enough to make me happy!","id":"003368"}
+{"text":"「ご清聴に感謝する」","translation":"Thank you for your attention.","id":"0033A0"}
+{"text":"「ロジャー・スミス…」","translation":"Roger Smith...","id":"0033C0"}
+{"text":"「交渉に負けた悪党の次の行動は決まっている。\n　それは、力ずくで私の意志を\n　曲げようとする事だ」","translation":"When a villain loses at negotiation, there's only one thing left for him to do: try to bend my will by force.","id":"0033E0"}
+{"text":"「それに対して私も不本意ながら\n　最後の手段を使わせてもらう！」","translation":"In that case, much as I regret it, I'll have to use my last resort!","id":"003450"}
+{"text":"「よく言うぜ！\n　いつもの事だろうが！」","translation":"You talk big! That's your usual routine, isn't it?!","id":"0034A0"}
+{"text":"「ベック、それはお前も\n　あのアイムと同じく悪党だからだ」","translation":"Beck, that's because you're a villain too, just like that Aim.","id":"0034D0"}
+{"text":"「だが、今日は付き合ってもらうぞ」","translation":"But today, you'll have to play along.","id":"003518"}
+{"text":"「巻き込まれた時空震動だ…！\n　仕方ねえ！」","translation":"I got dragged into this by a space-time quake...! Damn it, no choice!","id":"003548"}
+{"text":"「いいでしょう、ロジャー・スミス。\n　そして、ＺＥＵＴＨの方々…」","translation":"Very well, Roger Smith. And all of you in ZEUTH...","id":"003580"}
+{"text":"「あなた方は既に運命から逃れられない。\n　彼等の烙印（スティグマ）がある限り」","translation":"You can no longer escape your fate, so long as you bear their Stigma.","id":"0035D0"}
+{"text":"「スティグマ？」","translation":"Stigma?","id":"003628"}
+{"text":"「あなた方はあのアサキム・ドーウィンと同じく\n　呪われし放浪者となったのです」","translation":"Like Asakim Dowin, you have become cursed wanderers.","id":"003648"}
+{"text":"「その弄ばれる運命に待つのは\n　果てのない旅路だけなのです。\n　ここで引導を渡される事に感謝なさい」","translation":"All that awaits you in that toyed-with fate is an endless journey. Be grateful that you will be given your last rites here.","id":"0036A0"}
+{"text":"「世迷い事なら、またにしてもらおう、\n　アイム・ライアード。\n　私達も暇ではないのだ」","translation":"If you're going to spout nonsense, save it for another time, Aim Liard. We don't have time to waste.","id":"003710"}
+{"text":"「スメラギさん！\n　$nとブラスタを回収しました！」","translation":"Ms. Sumeragi! We've recovered $n and the Brasta!","id":"003770"}
+{"text":"「危険な状態です！\n　$nはすぐに治療に\n　とりかかるそうです！」","translation":"They're in critical condition! $n says treatment will begin immediately!","id":"0037B0"}
+{"text":"「危険なのは私達も同じよ！\n　各機はあの黒いロボットに協力して、\n　敵の騎士を叩いて！」","translation":"We're in danger too! All units, support that black robot and take down the enemy knights!","id":"0037F8"}
+{"text":"「やるぞ、野郎共！\n　$nの仇討ちだ！！」","translation":"Let's do this, guys! We're avenging $n!!","id":"003858"}
+{"text":"「おう！　狙うはあの騎士達だ！」","translation":"Yeah! Target those knights!","id":"003888"}
+{"text":"「ロジャーさん！\n　この$cの方達は\n　信用出来る方達です！」","translation":"Roger! These people from $c are trustworthy!","id":"0038B0"}
+{"text":"「私の信頼する人間がそう思っているのだ。\n　疑う気はない」","translation":"If someone I trust says so, then I have no reason to doubt them.","id":"0038F8"}
+{"text":"「では、行こうか、ビッグオー。\n　ドロシー…君にはサポートを頼む」","translation":"Then let's go, Big O. Dorothy... I leave support to you.","id":"003940"}
+{"text":"「わかったわ。\n　あなたの好きにすればいい」","translation":"Understood. Do as you please.","id":"003990"}
+{"text":"「悪党に対する返礼は、ここがどこだろうと\n　変わる事はない！」","translation":"How I deal with villains doesn't change, no matter where we are!","id":"0039C8"}
+{"text":"「ビッグオー！　アァァクション！！」","translation":"Big O! Aaaaction!!","id":"003A10"}
+{"text":"「何だよ、このデタラメな強さはよ！\n　俺達、マジやべえぞ！」","translation":"What the hell is with that ridiculous strength?! We're seriously screwed!","id":"004080"}
+{"text":"「手が足りん…。\n　このままでは…」","translation":"We're short-handed... At this rate...","id":"0040C8"}
+{"text":"「ブリタニアの白兜！！」","translation":"Britannia's White Knight!!","id":"0041B8"}
+{"text":"（スザクか！）","translation":"Suzaku!?","id":"0041D8"}
+{"text":"「ゼクス特尉…誘導ありがとうございました。\n　ここからは…」","translation":"Lieutenant Zechs... thank you for guiding me here. From here on...","id":"0041F0"}
+{"text":"「気にしないでいただこう。\n　私もこのサンクキングダムとは縁のある男だ」","translation":"Think nothing of it. I, too, have ties to the Sanc Kingdom.","id":"004238"}
+{"text":"「え…」","translation":"Huh...?","id":"004288"}
+{"text":"「今だけは私も彼等と戦おう。\n　この国を奴等の好きにさせないためにも」","translation":"For now, I will fight alongside them as well. I won't let them have their way with this country.","id":"004298"}
+{"text":"「はい…！」","translation":"Yes...!","id":"0042E8"}
+{"text":"「枢木スザク、どういうつもりだ？」","translation":"Kururugi Suzaku, what are you planning?","id":"004300"}
+{"text":"「枢木スザク…。\n　旧日本の最後の首相である枢木ゲンブの遺児」","translation":"Kururugi Suzaku... the son of Kururugi Genbu, the last Prime Minister of old Japan.","id":"004328"}
+{"text":"「現在は名誉ブリタニア人として\n　ブリタニア・ユニオン軍に参加…」","translation":"He now serves in the Britannia Union Army as an honorary Britannian...","id":"004378"}
+{"text":"「先日、エリア１１副総督である\n　ユーフェミア・リ・ブリタニアの騎士に\n　任命されたはずだ」","translation":"He was recently appointed as Knight of Euphemia li Britannia, the Sub-Viceroy of Area 11.","id":"0043C8"}
+{"text":"「あの白いモビルスーツ、ＯＺの新型か…」","translation":"That white mobile suit... is it OZ's new model?","id":"004430"}
+{"text":"「連合軍も、この戦闘に参加するのか？」","translation":"Are the Alliance forces joining this battle too?","id":"004460"}
+{"text":"「こちらブリタニア・ユニオン軍所属、\n　枢木スザク」","translation":"This is Suzaku Kururugi of the Britannia Union Army.","id":"004490"}
+{"text":"「ブリタニア・ユニオンを代表し、\n　これより$cに参加します」","translation":"On behalf of the Britannia Union, I will now join $c.","id":"0044D0"}
+{"text":"「何っ…！？」","translation":"What...!?","id":"004518"}
+{"text":"「詳しい事情は後で説明します。\n　まずはインペリウムを迎撃します！」","translation":"I'll explain the details later. First, we intercept Imperium!","id":"004530"}
+{"text":"「ゼロ…君の判断は？」","translation":"Zero... what's your decision?","id":"004580"}
+{"text":"「…インペリウムは全ての人間の敵だ。\n　彼の申し出を受けよう」","translation":"...Imperium is the enemy of all mankind. We'll accept his offer.","id":"0045A8"}
+{"text":"「こちらはＡＥＵ軍のＯＺ所属、\n　ゼクス・マーキス特尉だ。\n　私も君達を援護する」","translation":"This is Second Lieutenant Zechs Merquise of OZ in the AEU Army. I will support you as well.","id":"0045F0"}
+{"text":"「ゼクス・マーキス…。\n　ＯＺのライトニングバロンか」","translation":"Zechs Merquise... the Lightning Baron of OZ.","id":"004648"}
+{"text":"「二人には機動力を活かして\n　敵部隊のかく乱を任せる！」","translation":"You two will use your mobility to disrupt the enemy forces!","id":"004688"}
+{"text":"「インペリウムを世界の敵と認識するなら、\n　その力を貸してもらうぞ！」","translation":"If you recognize Imperium as the enemy of the world, then lend us your power!","id":"0046C8"}
+{"text":"「了解…！」","translation":"Understood...!","id":"004718"}
+{"text":"「帰るぞ」","translation":"We're leaving.","id":"004AB0"}
+{"text":"「しかし、ガイオウ様…！」","translation":"But, Lord Gaioh...!","id":"004AC8"}
+{"text":"「俺が帰ると言ってんだよ」","translation":"I said we're leaving.","id":"004AF0"}
+{"text":"「は、はい…」","translation":"Y-Yes...","id":"004B18"}
+{"text":"「そうしょげるな、女。\n　これで連中は少しは希望というものを持つ」","translation":"Don't look so down, girl. This at least gives them a little hope.","id":"004B30"}
+{"text":"「その勢いで俺達に仕掛けてもくる。\n　それを片っ端から叩き潰せば、\n　お前の望むような結果になる」","translation":"And with that momentum, they'll come after us too. If we crush them one by one, it'll turn out the way you want.","id":"004B80"}
+{"text":"「ありがとうございます、ガイオウ様…！」","translation":"Thank you, Lord Gaioh...!","id":"004BF0"}
+{"text":"「やるもんじゃねえか、奴等」","translation":"Not bad, those guys.","id":"004D88"}
+{"text":"「彼等は$c。\n　僕が見る限り、この世界最強の部隊の\n　一つだろうね」","translation":"They are $c. As far as I can tell, they're one of the strongest units in this world.","id":"004DB0"}
+{"text":"「$cか…。\n　フフ…今日は帰るか」","translation":"$c, huh... Heh... Let's head back for today.","id":"004E00"}
+{"text":"「ですが、私を愚弄した者には\n　罰を与えねばなりません」","translation":"However, those who mocked me must be punished.","id":"004FD0"}
+{"text":"「ぬが！？」","translation":"Gah!?","id":"005010"}
+{"text":"「ヒゲ野郎の合体ロボがやられた！」","translation":"The bearded guy's combining robot got taken out!","id":"0050E8"}
+{"text":"「惜しい人を亡くしたわね」","translation":"What a shame to lose such a man.","id":"005118"}
+{"text":"「そう決め付けるのは早いぞ、ドロシー。\n　事実、ベック達は脱出している」","translation":"Don't jump to conclusions, Dorothy. In fact, Beck and the others escaped.","id":"005140"}
+{"text":"「あの男の事だ。\n　この世界でも強く生きていくだろう」","translation":"Knowing him, he'll keep on living strong even in this world.","id":"005198"}
+{"text":"「じゃあな、$c。\n　また会おうぜ」","translation":"See ya, $c. We'll meet again.","id":"0052D8"}
+{"text":"「退いたか…」","translation":"They've retreated...","id":"0053A8"}
+{"text":"「ですが、これは…」","translation":"But this is...","id":"0053C8"}
+{"text":"「我々の勝利と言ってもいいだろう」","translation":"I think we can call this our victory.","id":"0053E8"}
+{"text":"「やった！　やったぞ！！」","translation":"We did it! We did it!!","id":"005410"}
+{"text":"「俺達…勝ったんだ！」","translation":"We... we won!","id":"005438"}
+{"text":"「喜ぶのは早いぜ。\n　何せ、奴等は破界の王を出しちゃいない」","translation":"Don't celebrate just yet. After all, they still haven't brought out the King of Ruin.","id":"005458"}
+{"text":"「それに$nもやられたからな」","translation":"And $n got taken out too.","id":"0054A0"}
+{"text":"「だが、この一歩は大きな前進だ。\n　インペリウムの打倒に向けて\n　世界は偉大な一歩を踏み出したのだ」","translation":"But this is still a major step forward. The world has taken a great stride toward defeating the Imperium.","id":"0054C8"}
+{"text":"「先はまだ長そうだがな…」","translation":"Though the road ahead still seems long...","id":"005530"}
+{"text":"「では、私は行こう…」","translation":"Then I shall take my leave...","id":"0056F8"}
+{"text":"「ありがとうございました、ゼクス特尉」","translation":"Thank you very much, Lieutenant Zechs.","id":"005718"}
+{"text":"「スザク君…君のこれからの武運を祈る」","translation":"Suzaku... I wish you good fortune in the battles to come.","id":"005748"}
+{"text":"（そして、さらばだ、我が祖国よ…。\n　もし再び、この地に立つ日が来るなら…）","translation":"And farewell, my homeland... If the day ever comes when I stand on this land again...","id":"005778"}
+{"text":"（その時は名乗ろう。\n　私の真の名…ピースクラフトを）","translation":"Then I shall reveal my true name... Peacecraft.","id":"0057D0"}
+{"text":"「この国にはＡＥＵ軍が入る。\n　余計なトラブルを避けるためにも\n　我々は離脱するぞ」","translation":"The AEU military will be entering this country. To avoid any unnecessary trouble, we will withdraw.","id":"005930"}
+{"text":"「枢木スザク…\n　$cに参加するのならば、\n　お前もついて来い」","translation":"Kururugi Suzaku... If you're joining $c, then come with us.","id":"005990"}
+{"text":"「…了解だ。\n　それが僕に課せられた任務なのだから」","translation":"...Understood. That is the mission I have been assigned.","id":"0059D8"}
+{"text":"「くっ…！\n　私は…まだ果てるわけにはいかない！」","translation":"Damn...! I... cannot fall here yet!","id":"005AF8"}
+{"text":"「情けない…！\n　情けないぞ、マルグリット！\n　アークセイバーの面汚しめが！」","translation":"Pathetic...! How pathetic, Marguerite! You disgrace the name of Ark Saber!","id":"005BD8"}
+{"text":"「だが、拙者は違う…！\n　破界の王に捧げた我が血と剣が\n　眼前の敵全てを討ち砕くのだぁぁぁっ！」","translation":"But I am different...! My blood and sword, offered to the King of Ruin, shall shatter every enemy before me!","id":"005C30"}
+{"text":"「お、お許しを、アイム殿！\n　お許しを、破界の王ぅぅぅっ！」","translation":"P-please forgive me, Lord Aim! Forgive me, O King of Ruin!","id":"005D58"}
+{"text":"「この度の失態、必ずや次の機会にて\n　取り戻してみせましょうぞ！」","translation":"I shall surely make up for this blunder at the next opportunity!","id":"005DA0"}
+{"text":"「シュバル卿…あなたは…」","translation":"Lord Cheval... you...","id":"005EB0"}
+{"text":"「いや…今は言うまい！\n　私達は最早失うものなど何もないのだから！」","translation":"No... I shall say nothing now! We have nothing left to lose!","id":"005ED8"}
+{"text":"「くっ…！　ここまでか！」","translation":"Damn...! Is this as far as I go!?","id":"006190"}
+{"text":"（さらばだ、我が祖国よ…。\n　もし再び、この地に立つ日が来るなら…）","translation":"Farewell, my homeland... If the day ever comes when I stand on this land again...","id":"0061B8"}
+{"text":"「こ、このままでは！」","translation":"I-If this keeps up...!","id":"0062E8"}
+{"text":"「心配する事ないって、シオニーちゃん。\n　グレート・アクシオンは\n　そう簡単には落ちはしないよ」","translation":"There's nothing to worry about, Shiony-chan. The Great Axion isn't going down that easily.","id":"006308"}
+{"text":"「これで大丈夫。\n　さ…引き続きショーを楽しもうじゃない」","translation":"Everything's fine now. Come... let's continue enjoying the show.","id":"006430"}
+{"text":"「わざわざ宣言してから仕掛けてくるとは\n　なめ腐った野郎だぜ」","translation":"Going out of his way to announce it before attacking... what a damn arrogant bastard.","id":"006518"}
+{"text":"「行くぜ、インペリウム…！\n　全世界に赤っ恥をかかせてやる！」","translation":"Let's go, Imperium...! I'll make you the laughingstock of the whole world!","id":"006560"}
+{"text":"「このグレート・アクシオンは\n　ガイオウ様の居城にして、\n　新帝国インペリウムそのもの…！」","translation":"This Great Axion is Lord Gaioh's castle, and the New Empire Imperium itself...!","id":"006668"}
+{"text":"「お前達ごときが幾ら攻め込もうとも\n　落ちると思うな！」","translation":"Don't think the likes of you can bring it down, no matter how much you attack!","id":"0066D0"}
+{"text":"（シオニーちゃん…キャラ変わり過ぎ…）","translation":"Shiony-chan... your personality's changed way too much...","id":"006718"}
+{"text":"「パワー勝負なら望むところだ！\n　光子力とマジンガーＺの力を見せてやる！」","translation":"If it's a contest of raw power, then bring it on! I'll show you the power of Photon Power and Mazinger Z!","id":"006828"}
+{"text":"「拙者とエメラルダンに\n　接近戦を挑むとは愚か！　そして、非力！\n　蛮勇の報いを、その身で受けるがいいぃぃっ！」","translation":"Foolish to challenge me and Emeraldan in close combat! And weak! Now suffer the price of your reckless bravado!","id":"006878"}
+{"text":"「黙れ！\n　そんな台詞は俺を倒してから言ってみろ！」","translation":"Shut up! Try saying that after you've beaten me!","id":"0068F0"}
+{"text":"「騎士だか何だか知らないけど、\n　インペリウムの一員には\n　手加減なしでいくぞ！」","translation":"I don't know if you're a knight or what, but I won't go easy on anyone in the Imperium!","id":"006A10"}
+{"text":"「ぬうぅぅ…！\n　子供がこのシュバル・レプテールに\n　挑むというのか！」","translation":"Grrr...! A child dares challenge me, Cheval Reptail!?","id":"006A68"}
+{"text":"「俺は確かに小学生だけど、\n　こんな事をする奴等を許しちゃいけないってのは\n　わかるぜ！」","translation":"I may be an elementary school kid, but I know we can't forgive guys who do things like this!","id":"006AB8"}
+{"text":"「気に入ったぞ、小童！\n　戦士の気概を持つ者ならば、\n　このシュバル、全力で相手をしてやろう！」","translation":"I like you, brat! If you've got the spirit of a warrior, then I, Cheval, will face you with everything I've got!","id":"006B18"}
+{"text":"「騎士だって悪事を行なうなら、\n　サラリーマンだって平和を守れるんだ！」","translation":"If knights can commit evil, then even a salaryman can protect the peace!","id":"006C80"}
+{"text":"「まったく理屈になってないぞ！」","translation":"That doesn't make any sense at all!","id":"006CD0"}
+{"text":"「気に入ったぞ、サラリーマン！\n　どうやらお前は戦士と見た！」","translation":"I like you, salaryman! It seems you're a warrior after all!","id":"006CF8"}
+{"text":"「戦士は戦士でも、企業戦士ってやつ？」","translation":"A warrior, huh? More like a corporate warrior?","id":"006D40"}
+{"text":"「それなら、それらしく\n　平和を守るために戦うぞっ！」","translation":"Then I'll fight to protect the peace like one!","id":"006D70"}
+{"text":"「インペリウムの目的は何だ！？\n　何のために、このサンクキングダムを\n　標的にする！？」","translation":"What is the Imperium's goal!? Why are you targeting the Sanc Kingdom!?","id":"006ED0"}
+{"text":"「戦いの意味はガイオウ様が決める事！\n　我等はその命のままに、ただ破壊するのみ！」","translation":"The meaning of battle is for Lord Gaioh to decide! We merely destroy as he commands!","id":"006F30"}
+{"text":"「善悪の判断もなく、命令に従うだけとは…！\n　そんな戦いに何の意味がある！」","translation":"You just follow orders without even judging right from wrong...! What meaning is there in a battle like that!?","id":"006F90"}
+{"text":"「黙れ、小僧！\n　拙者は破界の王ガイオウ様の騎士だ！」","translation":"Silence, boy! I am a knight of Lord Gaioh, the King of Ruin!","id":"006FE8"}
+{"text":"「その命とあらば、相手が誰であろうと\n　何であろうと破壊するのみよ！」","translation":"If that is his command, then no matter who or what it is, I shall destroy it!","id":"007028"}
+{"text":"「ほう…貴様も剣を使うか…！\n　ならば、このエメラルダンと尋常に勝負！」","translation":"Oh... So you use a sword too...! Then let this Emeraldan settle things in a fair duel!","id":"007198"}
+{"text":"「お前の遊びに付き合う気はない」","translation":"I have no intention of playing your game.","id":"0071F0"}
+{"text":"「このシュバル・レプテールの戦いを\n　遊びだと！？」","translation":"You call this battle of Cheval Reptail's a game!?","id":"007218"}
+{"text":"「エクシア、ミッション遂行の障害を\n　速やかに排除する」","translation":"Exia will swiftly eliminate anything obstructing the mission.","id":"007258"}
+{"text":"「かつて平和を謳った国も\n　我等の力の前に灰塵に帰す事になるか！」","translation":"So even a nation that once preached peace will be reduced to ashes before our might!","id":"007398"}
+{"text":"「………」","translation":".........","id":"0073E8"}
+{"text":"「どうした？\n　恐怖と絶望で声も出ないか？」","translation":"What's wrong? Has fear and despair left you speechless?","id":"007400"}
+{"text":"「かつての平和などに興味はない。\n　俺の任務はお前という障害を排除する事だ」","translation":"I have no interest in peace from the past. My mission is to eliminate you as an obstacle.","id":"007438"}
+{"text":"「これ以上、好き放題はやらせない…！\n　あたし達がいる限り！」","translation":"We won't let you do as you please any longer...! Not while we're here!","id":"007590"}
+{"text":"「愚か者め！\n　インペリウムと拙者に正面から\n　戦いを挑むかぁぁっ！」","translation":"You fools! You dare challenge the Imperium and me head-on!?","id":"0075D8"}
+{"text":"「最初っから勝った気のオッサンは\n　お呼びじゃないのよ！」","translation":"We don't need some old guy who thinks he's already won!","id":"007628"}
+{"text":"「あたしも久々に頭に来てる…！\n　あんた達、覚悟しなよ！」","translation":"I'm really mad for the first time in a while...! You'd better be ready!","id":"007668"}
+{"text":"「ハハハハハハ！\n　来るがいい、雑魚共！\n　拙者が相手をしてくれる！」","translation":"Hahahahahaha! Come then, you rabble! I shall be your opponent!","id":"0077A8"}
+{"text":"「いい気になってるのも、そこまでだ！\n　俺達はこれまでお前等が相手にしてきた奴とは\n　一味も二味も違うぜ！」","translation":"That's as far as your cockiness goes! We're nothing like the guys you've been fighting up to now!","id":"0077F8"}
+{"text":"「ほう…！\n　貴様の殺気…なかなかのものだな！」","translation":"Hoh...! Your killing intent... is quite something!","id":"007868"}
+{"text":"「余裕かましやがってよ！\n　騎士だか何だか知らねえが、\n　その自信を粉微塵にしてやるぜ！」","translation":"Quit acting so smug! I don't care if you're a knight or whatever, I'll smash that confidence of yours to pieces!","id":"0078A8"}
+{"text":"「周囲に指揮を出している貴様を潰せば、\n　貴様達の勢いも止まる！」","translation":"If I crush you, the one giving orders to those around you, your momentum will stop too!","id":"007A08"}
+{"text":"「ほう…少しは戦況が見えているようだな」","translation":"Hoh... it seems you can read the battlefield, at least a little.","id":"007A58"}
+{"text":"「当然の事を！\n　このシュバル・レプテール、\n　騎士としての名声を欲しいままにした男よ！」","translation":"Naturally! I am Cheval Reptail, a man who has won renown as a knight!","id":"007A88"}
+{"text":"「だが、俺にとっては\n　目的の障害となる石ころに過ぎん！」","translation":"But to me, you're nothing more than a pebble obstructing my goal!","id":"007AF0"}
+{"text":"「騎士を名乗る破壊者よ！\n　貴様は目障りだ！」","translation":"Destroyer who calls himself a knight! You are an eyesore!","id":"007B30"}
+{"text":"「小兵め！\n　そのような機体で我がエメラルダンの\n　相手になると思うか！」","translation":"You little runt! Do you think a machine like that can stand up to my Emeraldan!?","id":"007C88"}
+{"text":"「………」","translation":".........","id":"007CE0"}
+{"text":"「ぬう！　この男、微塵の動揺もせぬとは！\n　なかなかの剛の者と見た！」","translation":"Ngh! This man doesn't show the slightest trace of agitation! He must be quite formidable!","id":"007CF8"}
+{"text":"「そのような男を倒してこそ\n　我が忠誠も示せるというもの！\n　我が主のため死んでもらうぞ！！」","translation":"Only by defeating a man like you can I prove my loyalty! You will die for my lord!!","id":"007D48"}
+{"text":"「ア、アニキ！\n　あいつ、強いよ！」","translation":"B-Bro! That guy's strong!","id":"007EB0"}
+{"text":"「その通りだ、シモン！\n　相手の強さを肌で感じられるようになってこそ\n　半人前だ！」","translation":"That's right, Simon! You're only half-baked once you can feel your opponent's strength in your bones!","id":"007EE0"}
+{"text":"「は、半人前って…」","translation":"H-Half-baked...?","id":"007F40"}
+{"text":"「一人前になりたきゃ、\n　そのつええ奴をぶっ倒さなきゃならねえ！」","translation":"If you wanna be the real deal, you've gotta take down that tough guy!","id":"007F60"}
+{"text":"「ほう！　貴様、男の機微というものが\n　わかっているようだな！」","translation":"Hoh! You seem to understand what makes a man tick!","id":"007FB0"}
+{"text":"「てめえのような無法者に褒められても\n　嬉しくも何ともねえぜ！」","translation":"Getting praised by a lawless thug like you doesn't make me happy in the slightest!","id":"008000"}
+{"text":"「覚悟しやがれよ、悪党！\n　この俺とグレン団がある限り、\n　お前等の好き放題もここまでだぜ！」","translation":"Get ready, villain! As long as I've got Team Gurren with me, you bastards are done doing whatever you want!","id":"008048"}
+{"text":"「あのパワー…！\n　一撃でもくらったら、終わりだ！」","translation":"That power...! If I take even one hit, it's over!","id":"008210"}
+{"text":"「ハハハ、カトンボめ！\n　我がエメラルダンの周辺を飛び回るだけか！」","translation":"Hahaha, you little gnat! All you can do is flutter around my Emeraldan!","id":"008250"}
+{"text":"「言ってろ、筋肉ダルマ…！\n　一瞬でも隙を見せれば、そこに全弾、\n　叩き込んでやる！」","translation":"Keep talking, musclehead...! The instant you show an opening, I'll unload every last round into it!","id":"0082A0"}
+{"text":"「その前に我が剣が\n　貴様を地表に叩き落としてくれる！」","translation":"Before that, my blade will smash you down to the surface!","id":"008300"}
+{"text":"「駄目だ…！\n　下手に近寄ったら、叩き落とされる！」","translation":"No good...! If I get too close, he'll knock me out of the sky!","id":"008448"}
+{"text":"「気付くのが遅いわ！\n　もう貴様は逃がさん！」","translation":"Too late to notice that! I won't let you get away now!","id":"008488"}
+{"text":"「レントン…」","translation":"Renton...","id":"0084C0"}
+{"text":"「大丈夫だ、エウレカ！\n　退けないのなら、前に出るだけだ！\n　それも思い切り！」","translation":"I'm okay, Eureka! If I can't retreat, then I'll just push forward! With everything I've got!","id":"0084D8"}
+{"text":"「君を守るためにも\n　俺はこんな所では死ねないんだ！！」","translation":"I can't die in a place like this... not when I have to protect you!!","id":"008530"}
+{"text":"「行くぜ、インペリウム！\n　お前達を倒して、元の世界に\n　帰らせてもらうぞ！」","translation":"Let's go, Imperium! I'll take you down and make you send us back to our own world!","id":"008698"}
+{"text":"「威勢がいいな、小僧！\n　だが、このシュバル・レプテールがいる限り、\n　貴様の望みはかなう事はないぃぃっ！」","translation":"You've got spirit, kid! But as long as I, Cheval Reptail, am here, your wish will never come true!","id":"0086F0"}
+{"text":"「人の話を聞けよ、おっさん！\n　まず俺のやる事はお前達を倒す事だぜ！」","translation":"Listen when people talk, old man! First thing I'm gonna do is take you guys down!","id":"008768"}
+{"text":"「かかってきやがれ！\n　ここがどこだろうと自分勝手な悪党は\n　俺とザンボット３が片付けてやる！」","translation":"Bring it on! I don't care where we are—me and Zambot 3 will take down selfish villains like you!","id":"0087B8"}
+{"text":"「人の迷惑も考えずに暴れまくるような奴は\n　俺達が相手になってやる！」","translation":"Anyone who runs wild without a care for the trouble they cause is going to answer to us!","id":"008920"}
+{"text":"「いい度胸をしている！\n　だが、気合だけで勝てる程、\n　このシュバル・レプテール、安くはないぞ！」","translation":"You've got guts! But don't think you can win just with fighting spirit. Cheval Reptail isn't that cheap!","id":"008970"}
+{"text":"「黙れ！\n　そういう風に自分を偉いと思ってるから、\n　こんなひどい事が出来るんだ！」","translation":"Shut up! It's because you think you're so high and mighty that you can do something this horrible!","id":"0089E0"}
+{"text":"「ジロン・アモスは男の子！\n　そんな奴に負けてたまるかーっ！！」","translation":"Jiron Amos is a boy! No way I'm gonna lose to the likes of you!!","id":"008A40"}
+{"text":"「ええい！　すばしっこい奴め！\n　うろちょろうろちょろと！」","translation":"Damn you! You're a slippery one! Darting around all over the place!","id":"008B88"}
+{"text":"「正面からのパワーでは負ける…！\n　ならば、スピードと小回りで勝負だ！」","translation":"I can't beat him in a head-on contest of power...! Then I'll take him on with speed and maneuverability!","id":"008BD0"}
+{"text":"「ぬうう！\n　このシュバル・レプテールが\n　このような小兵に翻弄されるとは！」","translation":"Nngh! To think I, Cheval Reptail, would be toyed with by such a little runt!","id":"008C28"}
+{"text":"「戦いを決めるのは機体の大きさじゃない！\n　それをキングがナイトに教えてやる！」","translation":"A battle isn't decided by the size of the machine! I'll have King teach that Knight a lesson!","id":"008C80"}
+{"text":"「やめて下さい！\n　こんな無差別な攻撃は、戦いに関係ない人も\n　巻き込むものです！」","translation":"Please stop! This kind of indiscriminate attack will drag in people who have nothing to do with this fight!","id":"008DE0"}
+{"text":"「戦いとは全てか無かのどちらかだ！\n　それは兵も民も変わりない！」","translation":"War is all or nothing! That goes for soldiers and civilians alike!","id":"008E40"}
+{"text":"「あなたはそれを認めるというんですか！」","translation":"Are you saying you condone that?!","id":"008E90"}
+{"text":"「無論！\n　なぜなら、拙者はガイオウ様の忠実な\n　下僕だからだぁぁぁっ！！」","translation":"Of course! For I am Lord Gaioh's loyal servant!!","id":"008EC0"}
+{"text":"「でしたら、僕はあなたを止めます！\n　こんな戦いを僕は見過ごすつもりは\n　ありません！」","translation":"Then I'll stop you! I won't stand by and watch a battle like this!","id":"008F18"}
+{"text":"「こうやって自分の目で見ると\n　インペリウムってのが、\n　とんでもない奴等だってのが、よくわかるぜ！」","translation":"Seeing it with my own eyes like this, it's clear the Imperium are complete monsters!","id":"009098"}
+{"text":"「そうよ！\n　インペリウム…いや、ガイオウ様の力は超ド級！\n　全ての世界において無比の存在よ！」","translation":"That's right! The Imperium... no, Lord Gaioh's power is off the charts! There is none to compare in any world!","id":"009108"}
+{"text":"「俺が言いたいのは、お前達の悪党ぶりだ！」","translation":"What I'm talking about is what a bunch of villains you are!","id":"009170"}
+{"text":"「こんな戦いをする奴等を放っておけるかよ！\n　元の世界に帰るよりも、\n　まずはお前達を止める事が先だ！！」","translation":"Like hell I can ignore people who fight like this! Before going back to my world, stopping you comes first!!","id":"0091A8"}
+{"text":"「ハハハハハ！\n　そのような小兵では我がエメラルダンの隙を\n　突く事しか出来まい！」","translation":"Hahahahaha! With such a small machine, all you can do is exploit openings in my Emeraldan!","id":"009320"}
+{"text":"「大男、総身に知恵が何とやら…だな」","translation":"Big body, little brains... sounds about right.","id":"009380"}
+{"text":"「何っ！？」","translation":"What!?","id":"0093A8"}
+{"text":"「そうやって自分の力を過信してると\n　足元をすくわれるぜ！」","translation":"Keep overestimating your own strength like that, and you'll get tripped up!","id":"0093C0"}
+{"text":"「あんたも！\n　そして、インペリウムもな！」","translation":"You too! And the Imperium as well!","id":"009400"}
+{"text":"「いい動きをしているな、貴様！\n　相当の修羅場をくぐってきたと見た！」","translation":"You've got some good moves! I can see you've been through quite a few battlefields!","id":"009550"}
+{"text":"「この男…戦い慣れている！」","translation":"This man... he's used to fighting!","id":"0095A0"}
+{"text":"「当然よ！\n　このエメラルダンは百戦錬磨！\n　ガイオウ様以外に負ける気はないわ！」","translation":"Of course! This Emeraldan is a veteran of a hundred battles! I have no intention of losing to anyone but Lord Gaioh!","id":"0095C8"}
+{"text":"「その力を無差別攻撃に使うなんて…！」","translation":"To use that power for indiscriminate attacks...!","id":"009628"}
+{"text":"「この男はいったい何者だ…！？\n　次元獣と何か関係があるのか！」","translation":"Just who is this man...!? Does he have some connection to the Dimensional Beasts?","id":"009658"}
+{"text":"「お前達の目的は何だ！？\n　この世界を征服する気か！」","translation":"What are you after!? Are you trying to conquer this world!?","id":"0097C8"}
+{"text":"「インペリウムの存在は\n　ガイオウ様の御力を世界に示すため！\n　そのためだけに存在する！」","translation":"The Imperium exists for one reason only: to show Lord Gaioh's power to the world! That alone is why we exist!","id":"009808"}
+{"text":"「ふざけるな！\n　そのために戦いを広げているのか！」","translation":"Don't be ridiculous! You're spreading war for nothing more than that!?","id":"009870"}
+{"text":"「こんな奴等を許しておけるか！\n　元の世界に戻る前に俺がお前達を\n　止めてみせるぞ！」","translation":"I can't let people like you get away with this! Before I return to my own world, I'll stop you myself!","id":"0098B0"}
+{"text":"「どうした、貴様…！\n　戦う気があるのか！？」","translation":"What's wrong with you...!? Do you even intend to fight!?","id":"009A10"}
+{"text":"「その前に聞きたい事があります…！\n　あなた達は、いったい何のために\n　こんな戦いをしているのです！？」","translation":"Before that, there's something I want to ask...! Just what are you fighting for, waging a battle like this!?","id":"009A48"}
+{"text":"「知れた事を！\n　ガイオウ様の御力を世界の隅々まで\n　知らしめるためよぉぉっ！」","translation":"Isn't it obvious!? To make Lord Gaioh's power known to every corner of the world!","id":"009AB8"}
+{"text":"「そのためにこんな破壊をするなんて…」","translation":"To cause this much destruction just for that...","id":"009B10"}
+{"text":"「怖気づいたか、小僧！\n　ならば、去るがいい！」","translation":"Lost your nerve, boy!? Then begone!","id":"009B40"}
+{"text":"「僕は…逃げない。\n　平和のため…僕が望む未来のために\n　戦うと決めたから」","translation":"I... won't run. Because I've decided to fight for peace... and for the future I want.","id":"009B80"}
+{"text":"「それはどこの世界だろうと同じだ！\n　僕は平和を破壊する者と戦うんだ！」","translation":"It doesn't matter what world I'm in! I'll fight those who destroy peace!","id":"009BD0"}
+{"text":"「わかる…わかるぞ！\n　貴様も戦いを生業とするものだな！」","translation":"I see... I see now! You're one who lives by battle as well!","id":"009D80"}
+{"text":"「！」","translation":"!","id":"009DC8"}
+{"text":"「言い返してやれ、斗牙！\n　俺達はお前のように戦いを広げる悪党とは\n　違うとな！」","translation":"Say it back to him, Toga! Tell him we're nothing like scum like him who spread war!","id":"009DD8"}
+{"text":"「笑止！\n　我が戦いの全てはガイオウ様のものよ！」","translation":"Absurd! Every battle I fight is for Lord Gaioh!","id":"009E30"}
+{"text":"「ならば、僕達の戦いは平和と\n　牙無き人達のためのものだ！」","translation":"Then our battle is for peace, and for the defenseless!","id":"009E70"}
+{"text":"「インペリウム！\n　お前達の野望は僕達、グランナイツが\n　止めてみせる！」","translation":"Imperium! We, the Gran Knights, will stop your ambitions!","id":"009EB8"}
+{"text":"「気に入らねえな！\n　力で何でも押し通すようなやり方はよ！」","translation":"I don't like it! The way you force everything through with power!","id":"00A048"}
+{"text":"「力こそ正義！\n　パワー　イズ　ジャスティス！\n　そして、ガイオウ様こそが世界のルールよ！」","translation":"Might makes right! Power is justice! And Lord Gaioh is the law of this world!","id":"00A090"}
+{"text":"「うるせえよ！\n　そんなに力のある奴を偉いって言うんなら、\n　力ずくでも文句を言うなよ！」","translation":"Shut up! If you think anyone with power is great, then don't complain when I use force!","id":"00A0F8"}
+{"text":"「てめえを地べたに這いつくばらせて、\n　たっぷり詫びを入れさせてやる！」","translation":"I'll make you crawl on the ground and apologize until you're sick of it!","id":"00A158"}
+{"text":"「貴様ぁぁぁっ！\n　アイム殿に拾われた恩義を忘れ、\n　我等に牙をむくか！」","translation":"You bastard! Have you forgotten the debt you owe Lord Aim for taking you in, and now you bare your fangs at us?!","id":"00A2A8"}
+{"text":"「私を懐柔しようとした事で\n　それも相殺された」","translation":"That debt was canceled out the moment you tried to win me over.","id":"00A300"}
+{"text":"「ここからは私は私の主義主張の下に\n　君達と戦おう！」","translation":"From here on, I will fight you under my own beliefs and principles!","id":"00A340"}
+{"text":"「ガイオウ様の敵は拙者の敵！\n　アイム殿の敵は拙者の敵！\n　貴様は拙者の敵だああああっ！！」","translation":"Lord Gaioh's enemy is my enemy! Lord Aim's enemy is my enemy! You are my enemy!","id":"00A380"}
+{"text":"「転移した我々を保護してくれた恩義はともかく、\n　このように暴力で他者を蹂躙するような\n　やり方を私は認めるわけにはいかない」","translation":"Setting aside the debt I owe for protecting us after our transfer, I cannot condone trampling others through violence.","id":"00A4E8"}
+{"text":"「ましてや、この私を懐柔し、\n　己の目的に利用しようとした事は\n　断固として抗議するに値する！」","translation":"Furthermore, your attempt to win me over and use me for your own ends is something I must strongly protest!","id":"00A570"}
+{"text":"「残念ながら、ネゴシエイターとしてのあなたは\n　既に出る幕ではないようだけどね」","translation":"Unfortunately, it seems your time as a negotiator is already over.","id":"00A5D8"}
+{"text":"「ならば、いささか不本意ながら、\n　ビッグオーの力に頼らざるを得ない」","translation":"Then, though I do so with some reluctance, I have no choice but to rely on Big O's power.","id":"00A638"}
+{"text":"「今回は仕方ないわね」","translation":"I guess there's no helping it this time.","id":"00A688"}
+{"text":"「では、君の理解を得られた以上、\n　全力でやらせてもらおう」","translation":"Then, now that I have your understanding, I'll go all out.","id":"00A6A8"}
+{"text":"「ビッグオー！\n　アァァクション！！」","translation":"Big O! Action!!","id":"00A6F0"}
+{"text":"「この俺様を利用しようなんてのは\n　百年早いんだよ！」","translation":"Trying to use me like that? You're a hundred years too early!","id":"00A880"}
+{"text":"「でも、アニキ…」","translation":"But, boss...","id":"00A8C0"}
+{"text":"「カラス野郎に言われなきゃ、\n　アタシ達、あのまま…」","translation":"If that crow bastard hadn't told us, we'd have stayed like that...","id":"00A8E0"}
+{"text":"「うるせえ！\n　結果がよけりゃ、途中はどうでもいいのよ！」","translation":"Shut up! If the result's good, who cares how we got there?!","id":"00A920"}
+{"text":"「そういうわけだ！\n　俺をハメようとした奴には\n　たぁっぷりお返ししてやらねえとな！」","translation":"That's how it is! Anybody who tried to set me up is gonna get paid back in full!","id":"00A968"}
+{"text":"（ユーフェミア皇女殿下は\n　命令違反を犯した僕を$cへと\n　送られた…）","translation":"Princess Euphemia sent me to $c for disobeying orders...","id":"00AAE8"}
+{"text":"（ブリタニア・ユニオンが参加している戦線は\n　他にもあるのに何故、国連への参加を\n　選ばれたのだろう…）","translation":"There are other fronts where the Britannia Union is involved, so why did she choose to join the UN one...?","id":"00AB38"}
+{"text":"「考えるのは後だ…！\n　今は新帝国インペリウムと戦うんだ！」","translation":"Thinking can wait...! Right now, I have to fight the New Empire Imperium!","id":"00ABA8"}
+{"text":"「この世界のために\n　戦乱を広げる者を僕は討つ！」","translation":"For the sake of this world, I will strike down those who spread war!","id":"00ABF0"}
+{"text":"（サンクキングダム…我が祖国…）","translation":"Sanc Kingdom... my homeland...","id":"00AD30"}
+{"text":"（だが、今の私はＯＺのゼクス・マーキス…。\n　ピースクラフトの名を名乗る覚悟は…）","translation":"But right now, I am Zechs Merquise of OZ... I still lack the resolve to take up the Peacecraft name...","id":"00AD58"}
+{"text":"「だが、だからといって、\n　インペリウムの無法を見過ごすわけには\n　いかない！」","translation":"But even so, I cannot overlook Imperium's lawlessness!","id":"00ADB8"}
+{"text":"「サンクキングダムよ！\n　これが今の私の出来る精一杯だ！」","translation":"Sanc Kingdom! This is the very best I can do right now!","id":"00AE10"}
+{"text":"「あ！」","translation":"Ah!","id":"00AF58"}
+{"text":"執務室","translation":"Office","id":"00B200"}
+{"text":"　\n　　\n　　　　　　　～国連本部　会議室～","translation":"~UN Headquarters Conference Room~","id":"00B208"}
+{"text":"「…では、インペリウムは現在の無法を\n　止めるつもりはないのだな？」","translation":"...So, Imperium has no intention of stopping its current lawlessness?","id":"00B238"}
+{"text":"「世界中に宣言した通りです。\n　我々は一国家として主権を主張し、\n　同時に自由という権利を行使しているだけです」","translation":"As we declared to the world, we are simply asserting our sovereignty as a nation while exercising our right to freedom.","id":"00B288"}
+{"text":"「ミス・レジス…国連は現在、\n　インペリウムを国家として承認していません」","translation":"Miss Regis... the UN does not currently recognize Imperium as a nation.","id":"00B300"}
+{"text":"「ドーリアン外務調停次官、\n　国際紛争の調停役であるあなたにしては\n　無礼ではありませんか？」","translation":"Deputy Foreign Minister Dorian, isn't that rather rude for someone whose job is to mediate international disputes?","id":"00B358"}
+{"text":"「え…？」","translation":"Huh...?","id":"00B3C0"}
+{"text":"「私はシオニー・レジス筆頭政務官です。\n　こういった場では役職で互いを呼ぶのが\n　マナーです」","translation":"I am Chief Political Officer Shiony Regis. In a setting like this, it's proper etiquette to address each other by title.","id":"00B3D8"}
+{"text":"「国家として認めていない組織の役職など、\n　国際社会では何の意味も持たん」","translation":"Titles from an organization not recognized as a nation mean nothing in the international community.","id":"00B440"}
+{"text":"「他者の自由を踏みにじり、\n　自己の欲望だけを押し通そうとする者に\n　権利を主張する資格などない」","translation":"Those who trample on the freedom of others and try to force through only their own desires have no right to claim rights.","id":"00B498"}
+{"text":"「…わかりました。\n　やはり、あなた方との会談は時間の無駄でした」","translation":"...Understood. As expected, meeting with you was a waste of time.","id":"00B508"}
+{"text":"「次元獣に、この国連本部を襲撃させるか？」","translation":"Shall I have the Dimensional Beasts attack this UN headquarters?","id":"00B558"}
+{"text":"「我々は新帝国インペリウム…。\n　そして、私はその筆頭政務官です」","translation":"We are the New Empire Imperium... And I am its Chief Political Officer.","id":"00B590"}
+{"text":"「その私の怒りを国連本部程度で\n　収められるとでも思っているのですか？」","translation":"Do you really think my anger can be contained by something as small as UN Headquarters?","id":"00B5E0"}
+{"text":"「………」","translation":".........","id":"00B638"}
+{"text":"「ブリタニア・ユニオンも慌しいようですしね。\n　いい機会ですから、この大陸の１０％程は\n　灰になってもらいましょうか？」","translation":"The Britannia Union seems to be in a hurry as well. Since this is a good chance, shall we turn 10% of this continent to ash?","id":"00B650"}
+{"text":"「三大国家と正面から\n　戦うつもりなのですか…！？」","translation":"Are you planning to fight the Three Great Powers head-on...!?","id":"00B6D0"}
+{"text":"「言ったはずです。\n　我々の自由を侵害するものは\n　武力を以って排除すると」","translation":"I told you already. Those who infringe upon our freedom will be eliminated by force.","id":"00B710"}
+{"text":"「会談の相手は私だ。\n　ブリタニア・ユニオンではないぞ」","translation":"I am the one you're negotiating with, not the Britannia Union.","id":"00B768"}
+{"text":"「エルガン・ローディック、\n　あなたは世界各国の平和を平等に\n　願っているのでしょう？」","translation":"Elgan Roddick, you wish equally for peace among all the nations of the world, do you not?","id":"00B7B0"}
+{"text":"「ならば、その失態を償うのは\n　世界のどの国でもいいと判断します」","translation":"Then I judge that any nation in the world will do to pay for that blunder.","id":"00B810"}
+{"text":"「そんな理屈が…」","translation":"What kind of logic is that...?","id":"00B860"}
+{"text":"「無法者に理を説いても無駄だ。\n　インペリウムとは、そういった人間の\n　集まりなのだ」","translation":"Reasoning with outlaws is pointless. The Imperium is made up of people like that.","id":"00B880"}
+{"text":"「エルガン・ローディック、\n　私の命令を止めたければ…」","translation":"Elgan Roddick, if you wish to stop my orders...","id":"00B8E0"}
+{"text":"「この場で土下座なさい」","translation":"Then get on your knees and bow here and now.","id":"00B928"}
+{"text":"「あなたは以前、私を恫喝しましたしね」","translation":"You did threaten me before, after all.","id":"00B950"}
+{"text":"「会談を受けたのは、\n　その意趣返しをするためか…」","translation":"So you accepted this meeting just to get back at me...?","id":"00B980"}
+{"text":"「さあ、どうするのです？\n　お前の土下座でブリタニア・ユニオンが\n　戦場となるのは避けられるのですよ」","translation":"Now then, what will you do? If you bow down, the Britannia Union can avoid becoming a battlefield.","id":"00B9C0"}
+{"text":"「代表…」","translation":"Representative...","id":"00BA30"}
+{"text":"「さあ！」","translation":"Well?","id":"00BA48"}
+{"text":"「シオニー・レジス…先の無礼を詫びよう」","translation":"Shiony Regis... I apologize for my earlier rudeness.","id":"00BA60"}
+{"text":"「エルガン・ローディックが\n　私にはいつくばり、許しを請うている…！」","translation":"Elgan Roddick is groveling before me, begging for forgiveness...!","id":"00BA98"}
+{"text":"「あの三大国家にも退かぬ\n　平和維持理事会のエルガンが！！」","translation":"Elgan of the Peacekeeping Council, who would not yield even to the Three Great Powers!!","id":"00BAE8"}
+{"text":"「では、次は…！」","translation":"Now then, next is...!","id":"00BB30"}
+{"text":"「つまらねえ事をやってるな、女」","translation":"You're doing something pretty stupid, lady.","id":"00BB50"}
+{"text":"「ガイオウ様…！」","translation":"Lord Gaioh...!","id":"00BB80"}
+{"text":"「あなたは何です！？\n　この会談は厳重な警護の下で\n　行なわれているはずなのに！」","translation":"Who are you!? This meeting was supposed to be held under heavy security!","id":"00BBA0"}
+{"text":"「警護ぉ…？\n　あれが守りのつもりだぁ？」","translation":"Security...? You call that protection?","id":"00BC00"}
+{"text":"「だったら、とんだお笑い草だ。\n　銃弾程度で俺を止められると思ってるならな」","translation":"Then that's a joke. If you think mere bullets can stop me, that is.","id":"00BC38"}
+{"text":"「あなたは…」","translation":"You are...","id":"00BC90"}
+{"text":"「ひ、控えなさい！\n　この方は新帝国インペリウムの統治者、\n　破界の王であるぞ！」","translation":"H-Hold your tongue! This man is the ruler of the New Imperium, the King of Ruin!","id":"00BCB0"}
+{"text":"「今はガイオウと名乗ってるがな」","translation":"I go by Gaioh now.","id":"00BD10"}
+{"text":"「破界の王…ガイオウ…」","translation":"The King of Ruin... Gaioh...","id":"00BD40"}
+{"text":"「お前…何だ？\n　嫌な臭いがしやがるな…」","translation":"You... what are you? You stink of something nasty...","id":"00BD68"}
+{"text":"「ミスター・ガイオウ…。\n　あなたはインペリウムの指揮官として、\n　この会談に出席したのですか？」","translation":"Mr. Gaioh... Did you attend this meeting as a Commander of the Imperium?","id":"00BDA0"}
+{"text":"「そんなところだ。\n　そっちの女が、あんまりにも\n　ノロクサしてやがるんでな」","translation":"Something like that. That woman over there was taking far too damn long.","id":"00BE10"}
+{"text":"「ガイオウ様…！\n　私は筆頭政務官として…」","translation":"Lord Gaioh...! As Chief Administrative Officer, I...","id":"00BE68"}
+{"text":"「黙ってろ」","translation":"Shut up.","id":"00BEA0"}
+{"text":"「ひ…」","translation":"Eek...","id":"00BEB8"}
+{"text":"「アイムの奴がお前を使うって決めた以上、\n　俺に文句はねえ」","translation":"As long as Aim decided to use you, I've got no complaints.","id":"00BED0"}
+{"text":"「だが、俺の邪魔になるんだったら、殺すぞ」","translation":"But if you get in my way, I'll kill you.","id":"00BF18"}
+{"text":"「は、はい…！」","translation":"Y-Yes...!","id":"00BF50"}
+{"text":"「では、ガイオウ…\n　そちらの望みは何だ？」","translation":"Then, Gaioh... what is it you want?","id":"00BF70"}
+{"text":"「政治だ、外交だ、なんていう面倒な事は\n　やめようって話だ」","translation":"I'm saying we should drop all this troublesome politics and diplomacy.","id":"00BFA8"}
+{"text":"「俺は闘うために、この世界に来た。\n　つまらん懐柔策なんざ考えるな」","translation":"I came to this world to fight. Don't bother with any petty appeasement schemes.","id":"00BFF0"}
+{"text":"「何…？」","translation":"What...?","id":"00C040"}
+{"text":"「俺は気の向くままに闘う。\n　俺を止めたきゃ、奇襲でも暗殺でも\n　好きにやりゃあいい」","translation":"I'll fight as I please. If you want to stop me, go ahead and try an ambush or assassination or whatever you like.","id":"00C058"}
+{"text":"「そっちの女みたいなやり方はしねえ。\n　向かってきた奴は、その場で殺って終わりだ。\n　その背後の連中にお礼参りなんてのは無しでな」","translation":"I won't do things her way. If you come at me, I'll kill you then and there. No revenge on the ones behind you.","id":"00C0B8"}
+{"text":"「事実上の宣戦布告というわけか」","translation":"So this is effectively a declaration of war.","id":"00C148"}
+{"text":"「そういう事だ。\n　話が早いな、お前はよ」","translation":"That's right. You catch on quick.","id":"00C178"}
+{"text":"「ならば…！」","translation":"Then...!","id":"00C1B0"}
+{"text":"「エ、エルガン代表！\n　会談の場で何という事を！」","translation":"R-Representative Elgan! What are you saying at a meeting like this?!","id":"00C1C8"}
+{"text":"「これでインペリウムを倒せるなら、\n　全ての責は私が負う」","translation":"If this can bring down the Imperium, I alone will bear all responsibility.","id":"00C208"}
+{"text":"「いい覚悟だ。\n　おまけに思い切りがいい」","translation":"Good resolve. And you're decisive, too.","id":"00C250"}
+{"text":"「な…！　銃弾をつまんで…！」","translation":"W-What...! He caught the bullet...!","id":"00C288"}
+{"text":"「言ったろ。\n　こんなもんじゃ俺はとれんってな」","translation":"I told you. Something like that won't take me down.","id":"00C2B8"}
+{"text":"「奇襲、暗殺…。\n　そんなものではお前は倒せんようだな…」","translation":"Ambushes, assassinations... It seems such things won't be enough to defeat you...","id":"00C2F8"}
+{"text":"「宣言通りに私をこの場で潰すか？」","translation":"Will you crush me here, just as you declared?","id":"00C340"}
+{"text":"「そんな気はねえな。\n　お前は銃を撃つより、兵を動かすのが\n　本職らしい」","translation":"No, I don't intend to. You seem better suited to moving troops than firing a gun.","id":"00C370"}
+{"text":"「だったら、お前の得意のやり方で来い。\n　それを潰す方が、ずっと意味がある」","translation":"Then come at me your way. Crushing that would mean a lot more.","id":"00C3C8"}
+{"text":"「承知した」","translation":"Understood.","id":"00C420"}
+{"text":"「言いたい事はそれだけだ。\n　じゃあな」","translation":"That's all I had to say. See you around.","id":"00C438"}
+{"text":"「破界の王ガイオウ…。\n　越えるべき存在…」","translation":"Gaioh, the King of Ruin... The one I must surpass...","id":"00C470"}
+{"text":"「………」","translation":".........","id":"00C4A8"}
+{"text":"「王は帰ったぞ。\n　まだ話があるのか？」","translation":"The king has left. Do you still have something to say?","id":"00C4C0"}
+{"text":"「エルガン・ローディック…！\n　この屈辱は忘れません！」","translation":"Elgan Roddick...! I will never forget this humiliation!","id":"00C4F8"}
+{"text":"「インペリウムはお前個人では動かせんぞ。\n　どうするつもりだ？」","translation":"You can't move Imperium on your own. What do you intend to do?","id":"00C540"}
+{"text":"「王に戦いの場を用意します！\n　そして、お前の望む世界平和などというものは\n　粉々に叩き潰してやります！」","translation":"I will prepare a battlefield for the king! And I will smash your so-called world peace to pieces!","id":"00C590"}
+{"text":"「その最初の標的は…\n　サンクキングダムです！」","translation":"And the first target... will be the Sanc Kingdom!","id":"00C608"}
+{"text":"「何と…！？」","translation":"What...!?","id":"00C648"}
+{"text":"「かつて完全平和主義を謳い、\n　世界のあるべき姿を模索した国…」","translation":"A nation that once championed complete pacifism, and sought the world as it ought to be...","id":"00C668"}
+{"text":"「だが、世界の現実はそれを封殺し、\n　あまつさえサンクキングダムを滅ぼした…！」","translation":"But the reality of this world silenced that ideal, and even went so far as to destroy the Sanc Kingdom...!","id":"00C6B8"}
+{"text":"「………」","translation":".........","id":"00C718"}
+{"text":"「現在、ＡＥＵの一国家に堕した\n　あの国を焦土とする事で、世界中の人間に\n　自らの愚かしさを見せ付けてやります！」","translation":"By burning that nation, now reduced to an AEU state, to the ground, I'll show the people of the world their own foolishness!","id":"00C730"}
+{"text":"「いいだろう、インペリウム。\n　お前達の挑戦、受けて立つぞ」","translation":"Very well, Imperium. I accept your challenge.","id":"00C7B0"}
+{"text":"「世界の…人類の未来を闇に包ませはしない。\n　それに抗する力は必ず存在するのだ」","translation":"I will not allow the future of this world... of humanity... to be shrouded in darkness. The power to resist it surely exists.","id":"00C7F8"}
+{"text":"黒ベタ","translation":"Black screen","id":"00C858"}
+{"text":"豪華な執務室","translation":"Luxurious office","id":"00C860"}
+{"text":"　\n　　\n　　　　　　　～ＯＺ総裁　執務室～","translation":"~OZ President's Office~","id":"00C870"}
+{"text":"「…インペリウムのサンクキングダム攻撃に\n　ＡＥＵはどう動く？」","translation":"...How will the AEU respond to Imperium's attack on the Sanc Kingdom?","id":"00C8A0"}
+{"text":"「あの国はＡＥＵにとっては外様扱いだ。\n　ＡＥＵ総会は遺憾ながら、\n　サンクキングダム首都の放棄を決定したよ」","translation":"That nation is an outsider to the AEU. Regrettably, the General Assembly decided to abandon the Sanc Kingdom's capital.","id":"00C8F0"}
+{"text":"「あなたの部下のライトニングバロンは、\n　それを良しとするかな？」","translation":"Will your subordinate, the Lightning Baron, accept that?","id":"00C968"}
+{"text":"「それについては彼に一任しているよ。\n　…だが、彼にとってピースクラフトの名は\n　まだ重過ぎるらしい」","translation":"I've left that to his discretion. ...But it seems the name Peacecraft is still too heavy a burden for him.","id":"00C9B8"}
+{"text":"「それでも、軍人として…戦士として\n　思うところがあるようだがね」","translation":"Even so, as a soldier... as a warrior, he seems to have his own thoughts on the matter.","id":"00CA28"}
+{"text":"「では、彼に道案内をお願いしたいのだが、\n　頼めるかな？」","translation":"Then I'd like to ask him to serve as our guide. Can you arrange that?","id":"00CA78"}
+{"text":"「了解した。\n　いい兵を送ってくれる事を期待している」","translation":"Understood. I expect you'll send some fine troops.","id":"00CAC0"}
+{"text":"「すまないな、閣下。\n　詳細は後ほど、連絡する」","translation":"My apologies, Your Excellency. I'll contact you with the details later.","id":"00CB00"}
+{"text":"「…彼がシュナイゼル・エル・ブリタニア殿下。\n　ブリタニア・ユニオンの第二皇子にして\n　皇帝付政務官の地位にいる」","translation":"...That is His Highness Schneizel el Britannia, second prince of the Britannia Union and the Emperor's adviser.","id":"00CB40"}
+{"text":"「あなたの同志か…」","translation":"An ally of yours...?","id":"00CBC0"}
+{"text":"「私はそのつもりだ。\n　…この関係がいつまで続くかはわからないがね」","translation":"That is how I see it. ...Though I don't know how long this relationship will last.","id":"00CBE0"}
+{"text":"「先ほどの話だが、ＡＥＵは\n　そのサンクキングダムを見捨てるのか？」","translation":"About what you said earlier... is the AEU really going to abandon the Sanc Kingdom?","id":"00CC30"}
+{"text":"「そう思ってもらっても構わない」","translation":"You may think of it that way if you wish.","id":"00CC80"}
+{"text":"「ＡＥＵの全軍を挙げれば、\n　インペリウムとも互角に戦えるだろうが、\n　それは他国に対して隙を作る事になる…」","translation":"If the AEU committed its full strength, it could likely fight the Imperium evenly, but that would leave it open to other nations...","id":"00CCB0"}
+{"text":"「それが総会での判断だよ」","translation":"That is the General Assembly's decision.","id":"00CD28"}
+{"text":"「あなた自身の考えは？」","translation":"And what do you yourself think?","id":"00CD50"}
+{"text":"「肯定せざるを得ないよ。\n　真に遺憾ではあるがね」","translation":"I have no choice but to agree. Though I find it truly regrettable.","id":"00CD78"}
+{"text":"「だが、望みはある」","translation":"But there is still hope.","id":"00CDB8"}
+{"text":"「国連平和維持理事会の$cか…」","translation":"The UN Peacekeeping Council's $c... ?","id":"00CDD8"}
+{"text":"「ＺＥＵＴＨのメンバーの多くは、\n　彼等に協力する事を決めたらしい。\n　あなた方も望むならば、合流するといい」","translation":"It seems many of the ZEUTH members have decided to cooperate with them. If you wish, you should join them as well.","id":"00CE00"}
+{"text":"「彼等の判断を否定するつもりはない。\n　だが…」","translation":"I have no intention of denying their judgment. But...","id":"00CE78"}
+{"text":"「我々はまだこの世界について学びたい。\n　トレーズ・クシュリナーダ…あなたと共に」","translation":"We still want to learn more about this world. With you, Treize Khushrenada...","id":"00CEB0"}
+{"text":"「すまない…。\n　もう少しだけ私に付き合ってくれ」","translation":"I'm sorry... Please bear with me a little longer.","id":"00CF10"}
+{"text":"「$c…\n　そして、インペリウムという存在を\n　無駄にしないためにも」","translation":"$c... And also so that the existence of the Imperium will not be wasted.","id":"00CF50"}
+{"text":"グレート・アクシオンブリッジ","translation":"Great Axion Bridge","id":"00CFA0"}
+{"text":"　\n　\n　　　～グレート・アクシオン　ブリッジ～","translation":"~Great Axion Bridge~","id":"00CFC0"}
+{"text":"「ガイオウ様…\n　間もなく本艦はサンクキングダムに\n　到着します」","translation":"Lord Gaioh... This ship will arrive at the Sanc Kingdom shortly.","id":"00CFF0"}
+{"text":"「お前は戦う場所と相手を用意すりゃいい。\n　戦い方は俺が決める」","translation":"You just need to prepare the battlefield and the opponent. I'll decide how the battle is fought.","id":"00D040"}
+{"text":"「承知致しました」","translation":"Understood.","id":"00D090"}
+{"text":"「しかし、いい趣味してるよね。\n　平和を謳って滅ぼされた王国を\n　また戦場にするなんてさ」","translation":"You really have terrible taste, don't you? Turning a kingdom that preached peace and was destroyed into a battlefield again.","id":"00D0B0"}
+{"text":"「シオニーちゃん…\n　ちょっと屈折し過ぎじゃない？」","translation":"Shiony-chan... Aren't you a little too twisted?","id":"00D118"}
+{"text":"「黙りなさい、カルロス。\n　あなたは後方の補給線の維持をやっていれば\n　いいんです…！」","translation":"Be quiet, Carlos. You should just focus on maintaining the supply lines in the rear...!","id":"00D158"}
+{"text":"「おお、怖…。\n　アイムが構ってくれないからって、\n　ヒスを起こさないでよ」","translation":"Oh, scary... Don't go throwing a fit just because Aim won't pay attention to you.","id":"00D1B8"}
+{"text":"「あなたという人は\n　いつもいつもいつもいつもいつもいつも…！」","translation":"You...! Always, always, always, always, always, always...!","id":"00D210"}
+{"text":"「まあまあ、押さえて、押さえて。\n　君のストレスはサンクキングダムに\n　ぶつけなよ」","translation":"Now, now, calm down. Why don't you take your stress out on the Sanc Kingdom instead?","id":"00D260"}
+{"text":"「…これから我々は作戦行動に入ります」","translation":"...We will now commence the operation.","id":"00D2C0"}
+{"text":"「あなた方には客室を用意しました。\n　そこで我々インペリウムの力をご覧下さい」","translation":"We have prepared guest quarters for you. There, you will witness the power of the Imperium.","id":"00D2F0"}
+{"text":"「それは何か？\n　自分の力を見せ付ける事で俺達を\n　飼いならそうって魂胆か？」","translation":"What is this? You think you can tame us by showing off your power?","id":"00D348"}
+{"text":"「そのような気はございません。\n　…我々はこの世界を正すために\n　敢えて破壊という行為を行なっているのです」","translation":"That is not our intention. ...We are deliberately carrying out acts of destruction in order to set this world right.","id":"00D3A0"}
+{"text":"「その趣旨をご理解していただいた上で\n　あなた方の力を借りたいのです」","translation":"Once you understand that purpose, we would like to ask for your cooperation.","id":"00D418"}
+{"text":"「と言って、俺達が断ったら、\n　問答無用で潰す算段だろ？」","translation":"And if we refuse, you're planning to crush us without a second thought, right?","id":"00D468"}
+{"text":"「誓って、そのような気はございません。\n　その場合は速やかにあなた方を\n　解放するつもりです」","translation":"I swear that is not our intention. In that case, we will promptly release you.","id":"00D4B0"}
+{"text":"「ただし、その場合、あなた方は\n　元の世界に帰る方法を失う事になりますが」","translation":"However, in that case, you will lose the means to return to your original world.","id":"00D518"}
+{"text":"「けっ…リスクを天秤に乗っけて交渉ってか？\n　胸クソ悪いぜ」","translation":"Tch... so you're negotiating by weighing the risks? Makes me sick.","id":"00D570"}
+{"text":"「立場というものもあります故…。\n　ですが、私は誠意を以って、あなた方と\n　接するつもりです」","translation":"I do have my position to consider... But I intend to treat you with sincerity.","id":"00D5B8"}
+{"text":"「いいぜ、アイム・ライアード。\n　あんたの目はマジだからな」","translation":"Fine, Aim Liard. I can tell you're dead serious.","id":"00D620"}
+{"text":"「ありがとうございます、ミスター・ベック。\n　あなたの聡明さにも感謝します」","translation":"Thank you, Mr. Beck. I appreciate your intelligence as well.","id":"00D668"}
+{"text":"「ロジャー・スミス…\n　あなたもそれでよろしいですかな？」","translation":"Roger Smith... would that be acceptable to you as well?","id":"00D6C0"}
+{"text":"「………」","translation":".........","id":"00D708"}
+{"text":"グレート・アクシオン　ブリッジ","translation":"Great Axion Bridge","id":"00EF40"}
+{"text":"「あれ、ガイオウは？」","translation":"Huh, where's Gaioh?","id":"00EF60"}
+{"text":"「お出かけになられました」","translation":"He has gone out.","id":"00EF80"}
+{"text":"「ふうん…記憶喪失に加えて\n　徘徊癖まであるとは、厄介な王様だよ」","translation":"Hmm... so on top of amnesia, he's got a habit of wandering around too? What a troublesome king.","id":"00EFA8"}
+{"text":"「不敬であるぞ、貴公！」","translation":"How dare you show such disrespect, sir!","id":"00EFF8"}
+{"text":"「怒んないでよ、シュバル卿。\n　冗談なんだからさ」","translation":"Don't get mad, Lord Cheval. It was just a joke.","id":"00F020"}
+{"text":"「王の忠実な飼い犬だからって、\n　ガイオウへの告げ口も勘弁ね」","translation":"And don't go tattling to Gaioh just because you're the king's faithful lapdog.","id":"00F060"}
+{"text":"「ガイオウ様に仕える事は我が至上の喜び…」","translation":"Serving Lord Gaioh is my greatest joy...","id":"00F0A8"}
+{"text":"「全てを失った、この哀れな犬めに\n　新たな目的を与えて下さった王こそが\n　我が真の君ぃぃぃっ…！」","translation":"The king who gave this pitiful dog, who had lost everything, a new purpose is my true lord...!","id":"00F0E0"}
+{"text":"「はいはい…。\n　その真の君に滅ぼされたあなたの前の君が\n　聞いたら、死んでも死にきれないだろうね」","translation":"Yeah, yeah... If your former lord heard you say that about the one who destroyed him, he'd never be able to rest in peace.","id":"00F150"}
+{"text":"「ま…僕としては\n　この世界が君達のいたインサラウムのように\n　なるのは、ご勘弁だよ」","translation":"Well... as for me, I'd rather this world not end up like the Insaraum you came from.","id":"00F1C0"}
+{"text":"「何かご不満、マルグリットちゃん？\n　君にはアイムがお冠だよ」","translation":"Something bothering you, Marguerite? Aim is pretty angry with you.","id":"00F220"}
+{"text":"「マルグリット…何故、あなたは\n　私の命令にためらったのです？」","translation":"Marguerite... why did you hesitate to carry out my order?","id":"00F268"}
+{"text":"「私はあなたの私的な命令を聞く事は…」","translation":"I cannot obey your personal orders...","id":"00F2B0"}
+{"text":"「マァァルグリィィットォォォォッ！！」","translation":"Maaargueriiite!!","id":"00F2E8"}
+{"text":"「…！」","translation":"...!","id":"00F318"}
+{"text":"「我等は破界の王に仕える身！\n　その忠臣であるアイム殿の言葉は\n　王の言葉そのものだと知れ！」","translation":"We serve the King of Ruin! Know that the words of Aim, his loyal retainer, are the king's very words!","id":"00F330"}
+{"text":"「…申し訳ありません、シュバル卿」","translation":"...I apologize, Lord Cheval.","id":"00F398"}
+{"text":"「その目…！\n　まだ自分の立場がわからんか！」","translation":"That look...! Do you still not understand your place?","id":"00F3C8"}
+{"text":"「勘弁してよ、シュバル卿。\n　まさか、騎士様が女性に暴力を振るうつもり？」","translation":"Come on, Lord Cheval. Surely a knight isn't about to lay a hand on a woman?","id":"00F400"}
+{"text":"「これは我々の問題ぃぃぃっ！\n　貴公は口出し無用ぅぅぅっ！」","translation":"This is our affair! You have no right to interfere!","id":"00F458"}
+{"text":"「そうはいかないよ。\n　シオニーちゃんも怯えちゃってるしね」","translation":"No can do. Shiony's getting scared too, you know.","id":"00F4A0"}
+{"text":"「あ、あああ…」","translation":"A-ahhh...","id":"00F4E8"}
+{"text":"「ああ、嘆かわしいぃぃぃっ…！」","translation":"Ah, how lamentable...!","id":"00F508"}
+{"text":"「インサラウムの守護騎士たる我々\n　アークセイバーが、このような惰弱な世界の\n　人間と手を組まねばならないとはぁぁっ…！」","translation":"To think we, the Ark Sabers, guardian knights of Insaraum, must join forces with the people of such a weak world...!","id":"00F538"}
+{"text":"「そこまでです、シュバル。\n　マルグリットには別命を与えます」","translation":"That's enough, Cheval. I'll give Marguerite another order.","id":"00F5C0"}
+{"text":"「$Fの生命、\n　私はそれを所望します」","translation":"I desire $F's life.","id":"00F608"}
+{"text":"「あれ…それって君が自分でやるって\n　言ってなかった？」","translation":"Huh...? Didn't you say you were going to do that yourself?","id":"00F638"}
+{"text":"「残念ながら、彼にはその価値がなかったのです。\n　ですから、その役目は誰でもいいのです」","translation":"Unfortunately, he was not worthy of that. Therefore, it does not matter who carries out the task.","id":"00F680"}
+{"text":"「あなたが本気で戦えるように、\n　その戦線には『彼』も投入しましょう」","translation":"So that you can fight in earnest, we'll deploy \"him\" to that front as well.","id":"00F6E0"}
+{"text":"「！」","translation":"!","id":"00F730"}
+{"text":"「$Fは\n　『彼』を標的にしていますからね。\n　ご注意を」","translation":"$F is targeting \"him,\" after all. Be careful.","id":"00F748"}
+{"text":"「了解しました…」","translation":"Understood...","id":"00F788"}
+{"text":"「では、シュバル、マルグリット…\n　君達は下がりなさい」","translation":"Now then, Cheval, Marguerite... you two are to withdraw.","id":"00F7A8"}
+{"text":"「はい…」","translation":"Yes...","id":"00F7E8"}
+{"text":"「アイム殿…ご機嫌よう」","translation":"Lord Aim... good day to you.","id":"00F800"}
+{"text":"（これで揺れる天秤は終わりですね…）","translation":"With this, the wavering scales are at an end...","id":"00F828"}
+{"text":"「ねえ、アイム…\n　どうして君が彼とＶＸに執着するか教えてよ」","translation":"Hey, Aim... tell me why you're so obsessed with him and VX.","id":"00F858"}
+{"text":"「それは個人的な事情です。\n　あなたにお話する事ではありません」","translation":"That is a personal matter. It is not something I need discuss with you.","id":"00F8A0"}
+{"text":"「君ってインサラウムの人間でもないし、\n　かなり特殊なポジションだね」","translation":"You're not even one of the people of Insaraum, and yet you hold quite a special position, don't you?","id":"00F8E8"}
+{"text":"「そういえば、あのロジャー・スミスって男にも\n　興味ありありだったみたいだけど…」","translation":"Come to think of it, you seemed awfully interested in that fellow Roger Smith too...","id":"00F938"}
+{"text":"「私も特殊な立場ですが、\n　彼もかなりのものなのですよ」","translation":"I may be in a special position myself, but he is quite extraordinary as well.","id":"00F998"}
+{"text":"「いいのかい、逃げられちゃったけど？」","translation":"Is that okay? He got away, you know.","id":"00F9D8"}
+{"text":"「構いませんよ。\n　特異点達と接触してくれた方が\n　彼の存在は際立ちます」","translation":"I don't mind. If he makes contact with the singularities, his existence will stand out all the more.","id":"00FA08"}
+{"text":"（そして、その全てはいずれ私のものに…。\n　アサキム…あなたには渡しません）","translation":"And in time, all of it shall be mine... Asakim... I will not hand it over to you.","id":"00FA58"}
+{"text":"（私の生命…即ちスフィアの力は…）","translation":"My life... that is, the power of the Sphere...","id":"00FAB0"}
+{"text":"マクロス・クォーター格納庫","translation":"Macross Quarter Hangar","id":"00FAE0"}
+{"text":"　\n　　\n　　　　～マクロス・クォーター　格納庫～","translation":"~Macross Quarter Hangar~","id":"00FB00"}
+{"text":"「………」","translation":".........","id":"00FB38"}
+{"text":"「向こうの彼って、\n　ブリタニア・ユニオンの人間なのよね」","translation":"That guy over there is from the Britannia Union, right?","id":"00FB50"}
+{"text":"「名前は枢木スザク。\n　あのランスロットってＫＭＦで\n　何度も黒の騎士団と戦ってる」","translation":"His name is Suzaku Kururugi. He's fought the Black Knights many times in that KMF, the Lancelot.","id":"00FB90"}
+{"text":"「おまけにゼロは何度も奴に撃墜されてるのさ。\n　いわば奴の天敵ってところだ」","translation":"On top of that, Zero's been shot down by him more than once. You could call him Zero's natural enemy.","id":"00FBF0"}
+{"text":"「それがどうして、$cに？」","translation":"Then why is he with $c?","id":"00FC48"}
+{"text":"「黒の騎士団を追ってのようには\n　見えないけれど…」","translation":"It doesn't look like he's here pursuing the Black Knights, though...","id":"00FC70"}
+{"text":"「枢木スザク…」","translation":"Suzaku Kururugi...","id":"00FCB0"}
+{"text":"「ゼロ…」","translation":"Zero...","id":"00FCC8"}
+{"text":"「では、語ってもらおうか？\n　$cに参加する目的を」","translation":"Then perhaps you'll explain? Your reason for joining $c.","id":"00FCE0"}
+{"text":"「それは…」","translation":"That's...","id":"00FD18"}
+{"text":"「君の口からは言いづらいだろうからね。\n　それは僕が説明しようじゃない」","translation":"It'd be hard for you to say it yourself, so I'll explain instead.","id":"00FD30"}
+{"text":"「何者！？」","translation":"Who are you!?","id":"00FD80"}
+{"text":"「そう警戒しないでよ。\n　僕は、ちゃ～んと手続きを踏んで、\n　この艦に乗せてもらったんだから」","translation":"Don't be so wary. I went through all the proper channels to get aboard this ship.","id":"00FD98"}
+{"text":"「こちらは特別派遣嚮導技術部の\n　ロイド・アスプルンド主任。\n　私は同技術部のセシル・クルーミーです」","translation":"This is Chief Lloyd Asplund of the Special Dispatch Guidance Technology Division. I am Cecile Croomy, of the same division.","id":"00FE00"}
+{"text":"「通称、特派…。\n　枢木スザクのランスロットを開発したチームか」","translation":"Commonly known as Special Dispatch... The team that developed Suzaku Kururugi's Lancelot, then.","id":"00FE70"}
+{"text":"「よくご存知で。\n　さすがと言っておこうか、ゼロ」","translation":"Well informed. As expected of you, Zero.","id":"00FEB8"}
+{"text":"「その特派が、何故$cに？」","translation":"Why is this Special Dispatch unit with $c?","id":"00FEF8"}
+{"text":"「ずばり、懲罰なのよ、これって。\n　それもゼロ…君がらみの」","translation":"To put it bluntly, this is punishment. And it's connected to you too, Zero.","id":"00FF18"}
+{"text":"「何…？」","translation":"What...?","id":"00FF60"}
+{"text":"「ほら…式根島でスザク君が君を拘束したでしょ。\n　ところが、彼は迫り来るミサイルを前に\n　職務を放棄して、回避行動を取った」","translation":"Remember? On Shikine Island, Suzaku restrained you. But when missiles came at him, he ditched his duty and dodged.","id":"00FF70"}
+{"text":"「自らの生命を守るための当然の行為では？」","translation":"Wasn't that the natural thing to do to protect his own life?","id":"00FFF8"}
+{"text":"「残念でした～。\n　それは正論だけど、軍人である彼には\n　通用しないのよね」","translation":"Too bad~. That's a logical argument, but it doesn't fly for a soldier like him.","id":"010028"}
+{"text":"「彼は生命惜しさに命令を拒否したって事で\n　最前線送りとなったってわけ」","translation":"He was sent to the front lines for refusing orders out of fear for his life.","id":"010080"}
+{"text":"「ちなみに$cに参加しろってのは\n　彼の姫であるユーフェミア副総督の決定だよ」","translation":"Incidentally, the order for him to join $c came from his princess, Vice-Governor Euphemia.","id":"0100D0"}
+{"text":"（…全ては、ゼロの正体が\n　俺である事を知ったユフィの無邪気な\n　善意か…）","translation":"...So this was all Euphie's innocent goodwill, after learning that I am Zero...","id":"010128"}
+{"text":"（旧友であるスザクと俺を接近させるべく、\n　この$cに送り込むとはな…。\n　彼女らしいやり方だ）","translation":"To send him to this $c in order to bring my old friend Suzaku and me closer together... That's just like her.","id":"010178"}
+{"text":"「あ…一応言っておくけど、\n　ここはエリア１１外って事で\n　黒の騎士団に手出しする気はないから」","translation":"Ah... just so you know, we're outside Area 11 here, so we have no intention of laying a hand on the Black Knights.","id":"0101E0"}
+{"text":"「無論、君のプライバシーを暴くなんて事も\n　しないよ」","translation":"Naturally, we won't go prying into your privacy either.","id":"010248"}
+{"text":"「…いいだろう」","translation":"...Very well.","id":"010288"}
+{"text":"「黒の騎士団の総帥である私も\n　$cでは一隊員に過ぎない。\n　私個人に君達を拒絶する権利はない」","translation":"Though I lead the Black Knights, within $c I am just another member. I have no right to reject you.","id":"0102A0"}
+{"text":"「また、$cは\n　その性質上、どのような人間でも\n　受け入れる組織だ」","translation":"Also, by its very nature, $c is an organization that accepts anyone, no matter who they are.","id":"010308"}
+{"text":"「こちらに手出ししないという約束は\n　守ってもらうぞ」","translation":"You promised not to lay a hand on us. Keep that promise.","id":"010350"}
+{"text":"「…わかった。\n　ここではエリア１１での関係は忘れる」","translation":"...Understood. I'll forget our relationship in Area 11 while we're here.","id":"010390"}
+{"text":"「カレン…君もそれでいいね？」","translation":"Kallen... you're fine with that too, right?","id":"0103D0"}
+{"text":"「あんたがルールを破らない限りね」","translation":"As long as you don't break the rules.","id":"0103F8"}
+{"text":"「おめでと～！\n　これで僕達も晴れて$cの一員だ」","translation":"Congratulations~! Now we're officially members of $c too.","id":"010428"}
+{"text":"「新装備のエアキャバルリーも試せるし、\n　スザク君の命令違反に感謝しないと」","translation":"And we get to test the new Air Cavalry equipment too, so I should thank Suzaku for disobeying orders.","id":"010460"}
+{"text":"「ロイドさん…少し場をわきまえて下さい」","translation":"Mr. Lloyd... please be a little more mindful of the situation.","id":"0104B8"}
+{"text":"「気にしない、気にしない。\n　ここはブリタニアじゃないんだからさ」","translation":"Don't worry about it, don't worry about it. This isn't Britannia, after all.","id":"0104E8"}
+{"text":"「何なのよ、こいつ…」","translation":"What's with this guy...?","id":"010538"}
+{"text":"「ねえねえ、黒の騎士団の君…\n　あの赤いＫＭＦを見せてよ。\n　あれってラクシャータが造ったんでしょ？」","translation":"Hey, hey, you from the Black Knights... Show me that red KMF. Rakshata made it, didn't she?","id":"010558"}
+{"text":"「どうして、それを！？」","translation":"How do you know about that!?","id":"0105C8"}
+{"text":"「ふふん…彼女とは色々と因縁があるのさ。\n　あまり思い出したくないけどね」","translation":"Heh... I have quite a history with her. Though I'd rather not think about it.","id":"0105E8"}
+{"text":"「枢木スザク…せっかくの機会だ。\n　この$cで見識を広げるがいい」","translation":"Kururugi Suzaku... this is a rare opportunity. Broaden your horizons in $c.","id":"010640"}
+{"text":"「式根島で君を黒の騎士団に誘った気持ちは\n　今も変わっていない」","translation":"My feelings haven't changed since I invited you to join the Black Knights on Shikine Island.","id":"010688"}
+{"text":"「気が変わったら、いつでも言うがいい。\n　私は君を歓迎するぞ」","translation":"If you ever change your mind, just say the word. I will welcome you.","id":"0106D0"}
+{"text":"「そうなる事はないと思うよ」","translation":"I don't think that'll ever happen.","id":"010718"}
+{"text":"「そうか…。\n　では、生命を大切にな」","translation":"I see... Then cherish your life.","id":"010740"}
+{"text":"（…すまない、スザク…。\n　俺は式根島でお前にギアスを使った…）","translation":"...I'm sorry, Suzaku... I used Geass on you on Shikine Island...","id":"010770"}
+{"text":"（『生きろ』という願い…。\n　それは死を望むお前を縛る事になり、\n　このような事態を招いてしまった…）","translation":"My wish for you to \"live\"... It bound you, who wished for death, and led to this situation...","id":"0107B8"}
+{"text":"（この力…お前にだけは使いたくなかったのに…。\n　許せ…）","translation":"This power... I never wanted to use it on you of all people... Forgive me...","id":"010828"}
+{"text":"「…それでも何とかインペリウムを\n　退ける事が出来たか…」","translation":"...Still, we somehow managed to drive off the Imperium...","id":"010868"}
+{"text":"「と言っても、向こうの本気度は\n　５０％以下だけどな」","translation":"Though they were fighting at less than 50% strength.","id":"0108B0"}
+{"text":"「でも、今日の戦いで改めてわかりました。\n　あの人達を放っておいてはいけない事が」","translation":"But today's battle made it clear to me again. We can't just leave those people alone.","id":"0108F8"}
+{"text":"「俺も同感だ。\n　あいつらは絶対に止めなきゃならない」","translation":"I agree. We absolutely have to stop them.","id":"010950"}
+{"text":"「お前等…」","translation":"You guys...","id":"010990"}
+{"text":"「俺達は自分達の世界の様々な敵と\n　戦ってきましたが…」","translation":"We've fought all kinds of enemies in our own worlds, but...","id":"0109A8"}
+{"text":"「その中には、あのインペリウムと\n　同じような人間もいました」","translation":"Among them were people just like the Imperium.","id":"0109F0"}
+{"text":"「自らの欲望のままに\n　世界に戦いを広げる存在か…」","translation":"Beings who spread war across the world to satisfy their own desires...","id":"010A38"}
+{"text":"「その男は、世界そのものを自らの遊び場とし、\n　混乱を起こし、それに人々が翻弄される様を\n　楽しんでいたのです」","translation":"That man made the world itself his playground, stirred up chaos, and delighted in watching people get swept up in it.","id":"010A78"}
+{"text":"「インペリウムは、そいつと同じだと\n　言いたいんだね」","translation":"You're saying the Imperium is just like him.","id":"010AF0"}
+{"text":"「奴と戦った時、俺達は決めたんです。\n　誰かの都合で平和や幸せが奪われるのを\n　許しちゃいけないって」","translation":"When we fought him, we made a decision. We can't allow peace and happiness to be stolen for someone else's convenience.","id":"010B30"}
+{"text":"「同時に、そういった人間に\n　僕達の理屈や常識は通用しない事も\n　知りました」","translation":"At the same time, we learned that our logic and common sense don't work on people like that.","id":"010BA0"}
+{"text":"「その感覚は俺達も実感している。\n　あのインペリウムの連中に正論を説いても\n　意味はないって事はな」","translation":"We've felt that ourselves too. There's no point in trying to reason with those Imperium people.","id":"010BF8"}
+{"text":"「ならば、どうする？」","translation":"Then what will you do?","id":"010C68"}
+{"text":"「僕達も戦います。\n　自分達の世界に帰るためという理由以上に\n　彼等を放置する事は出来ませんから」","translation":"We'll fight too. More than just for the sake of returning to our own world, we can't just leave them alone.","id":"010C88"}
+{"text":"「了解だ。\n　改めて頼らせてもらう」","translation":"Understood. We'll be counting on you again.","id":"010CF0"}
+{"text":"「しかし、君達の世界の戦いも\n　随分と激しかったようだね」","translation":"But it seems the fighting in your world was pretty fierce too.","id":"010D20"}
+{"text":"「僕達は、そこで色々な事を学びました」","translation":"We learned a lot there.","id":"010D68"}
+{"text":"「騙され、裏切られ、疑い、いがみ合い…。\n　笑えない思い出もあるがな」","translation":"We were deceived, betrayed, doubted, and set against each other... We have some memories we can't even laugh about.","id":"010D98"}
+{"text":"「だからこそ僕は、この世界の人達に\n　そんな目に遭って欲しくないんです」","translation":"That's why I don't want the people of this world to go through the same thing.","id":"010DE8"}
+{"text":"「そのためにも俺達も全力で戦うぞ。\n　あのインペリウムの奴等を放っておいたら、\n　この世界はきっとメチャクチャにされちまう」","translation":"For that reason, we'll fight with everything we've got too. If we leave the Imperium alone, this world will surely be torn apart.","id":"010E40"}
+{"text":"「ああ…！\n　向こうがそんなに戦いたいってんなら、\n　俺達が相手をしてやるさ」","translation":"Yeah...! If they want a fight that badly, we'll give them one.","id":"010EC8"}
+{"text":"「転移の時の衝撃で\n　本調子でない機体も幾つかあるが、\n　そんな事を言っている場合じゃないな」","translation":"Several of our units still aren't in top condition after the shock of the transfer, but this isn't the time to be saying that.","id":"010F20"}
+{"text":"「修理は出来ないんですか？」","translation":"Can't they be repaired?","id":"010F88"}
+{"text":"「こちらでは入手できないパーツもある。\n　そう簡単にはいかないだろう」","translation":"There are parts we can't get here. It won't be that easy.","id":"010FB0"}
+{"text":"「それでもやるんだ。\n　インペリウム…。\n　あれは存在していちゃ、いけないんだ」","translation":"Even so, we'll do it. The Imperium... They shouldn't exist.","id":"011000"}
+{"text":"「…この世界と$c…。\n　なかなかに危機的状況にあるようだな」","translation":"...This world and $c... seem to be in quite a critical situation.","id":"011058"}
+{"text":"「まあね。\n　そんな世界に跳ばされちまった俺達の不幸も\n　並大抵じゃないけどな」","translation":"Yeah. Our bad luck in getting thrown into a world like this is no joke either.","id":"0110A0"}
+{"text":"「不幸か…。\n　桂…君はＺＥＵＴＨの転移を\n　偶然の産物だと思うのかな？」","translation":"Bad luck... Kei... do you think ZEUTH's transfer was just a coincidence?","id":"0110F8"}
+{"text":"「どういう事だ？」","translation":"What do you mean by that?","id":"011150"}
+{"text":"「確かにあまりに不自然だとは思いますが…」","translation":"I admit it does seem far too unnatural, but...","id":"011168"}
+{"text":"「誰かが狙って、俺達を時空震動に\n　巻き込んだというのですか？」","translation":"Are you saying someone deliberately targeted us and dragged us into the space-time shocks?","id":"011198"}
+{"text":"「そんな事をいったい誰が…？」","translation":"Who on earth would do such a thing...?","id":"0111E8"}
+{"text":"「まさか、あのアサキムが…！」","translation":"Don't tell me... that Asakim...!","id":"011210"}
+{"text":"「彼の関与は否定できないが、\n　その前に私達は自らの特異性を\n　認識すべきだろう」","translation":"His involvement cannot be denied, but before that, we should recognize our own singularity.","id":"011238"}
+{"text":"「特異性？」","translation":"Singularity?","id":"011298"}
+{"text":"「そうだ。\n　あのアイム・ライアードの言葉を借りれば、\n　それは刻み込まれた印…」","translation":"Yes. To borrow the words of that Aim Liard, it is an imprint carved into us...","id":"0112A8"}
+{"text":"「いや…その呪われた宿命から\n　烙印と呼ぶべきものだろう」","translation":"No... given that cursed fate, it should perhaps be called a brand.","id":"011308"}
+{"text":"「俺達がアサキムと同じような存在になったって\n　言ってた事か」","translation":"You mean what he said about us becoming the same kind of beings as Asakim?","id":"011350"}
+{"text":"「私の推測では、我々ＺＥＵＴＨは\n　それによって一連の時空震動に\n　巻き込まれたのだろう」","translation":"My theory is that we ZEUTH were drawn into this series of space-time shocks because of it.","id":"011398"}
+{"text":"「こちらの世界に同一人物のいるレントン達や\n　地球圏を離れているマリン達など\n　例外もあるだろうけどね」","translation":"There are exceptions, like Renton and the others with counterparts here, and Marin and the others away from Earth.","id":"011400"}
+{"text":"「じれってえな！\n　その烙印ってのは何だよ！？」","translation":"Quit dragging this out! What the hell is this \"brand\" supposed to be!?","id":"011470"}
+{"text":"「セカンド・ブレイク…時空修復…\n　巨大な時空震動の現場に常に私達はいた」","translation":"The Second Break... space-time restoration... we were always there when those massive space-time shocks struck.","id":"0114A8"}
+{"text":"「まさか…！？」","translation":"No way...!?","id":"011500"}
+{"text":"「そう…そのまさかだ。\n　私達は、この並行世界間において\n　特異点となったのだろう」","translation":"Yes... exactly. We likely became singularities between these parallel worlds.","id":"011520"}
+{"text":"「俺達全員が特異点…」","translation":"All of us are singularities...","id":"011580"}
+{"text":"「あれって…時空修復で終わりじゃ\n　なかったのか…！」","translation":"So... space-time restoration wasn't the end of it...!?","id":"0115A0"}
+{"text":"「それが俺達だけが跳ばされた理由かよ！」","translation":"So that's why only we got sent flying!","id":"0115E0"}
+{"text":"「ベックのように、その余波で巻き込まれた者は\n　別として、ＺＥＵＴＨ以外の人間が\n　跳ばされていないのは、その証拠だろう」","translation":"Aside from those like Beck caught in the aftermath, the fact that no one outside ZEUTH was sent over is proof enough.","id":"011610"}
+{"text":"「我々の転移は、特異点としての因子が\n　この世界のカラミティ・バースに反応し、\n　引き寄せられた結果だと見る」","translation":"I believe our transfer was the result of our singular-point factor reacting to this world's Calamity Birth and drawing us in.","id":"011698"}
+{"text":"「俺達は特異点…。\n　時空震動に引き寄せられる存在…」","translation":"We're singularities... beings drawn to space-time shocks...","id":"011710"}
+{"text":"「参ったね、こりゃ…。\n　今後も苦労する事になりそうだよ…」","translation":"This is bad... Looks like we're in for more trouble from here on out...","id":"011750"}

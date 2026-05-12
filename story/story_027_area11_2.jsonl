@@ -1,0 +1,224 @@
+{"text":"敵の全滅。","translation":"All enemies destroyed.","id":"000600"}
+{"text":"パールネイルの撃墜。","translation":"Pearl Nail shot down.","id":"000610"}
+{"text":"いずれかの味方ユニットの撃墜。","translation":"Any allied unit shot down.","id":"000630"}
+{"text":"アサキム、ゼロ、スザク、クロウＡ、いずれかの撃墜。","translation":"Asakim, Zero, Suzaku, or Crow A shot down.","id":"000650"}
+{"text":"アサキム、ゼロ、スザク、いずれかの撃墜。","translation":"Asakim, Zero, or Suzaku shot down.","id":"000688"}
+{"text":"次元獣ライノダモンＭＤを撃墜する。\nなお、次元獣ライノダモンＭＤは４ターン目を迎えると撤退する。","translation":"Destroy Dimensional Beast Rhino DAMON MD. Note: Rhino DAMON MD will retreat on turn 4.","id":"0006C8"}
+{"text":"なし。","translation":"None.","id":"000728"}
+{"text":"「黒き魔神シュロウガ…。\n　ならば、私も手駒を呼びましょう」","translation":"The black demon god, Shurouga... Then I shall summon my own pieces as well.","id":"001978"}
+{"text":"「アサキム・ドーウィン、\n　あなたの相手は、この次元獣が務めます」","translation":"Asakim Dowin, this Dimensional Beast shall be your opponent.","id":"001A60"}
+{"text":"「哀れな亡者達では、僕を止める事は出来ない」","translation":"Those pitiful wraiths can't stop me.","id":"001AB0"}
+{"text":"「偽りの黒羊…\n　僕が欲するのは君の魂だ」","translation":"False black sheep... It is your soul that I desire.","id":"001AE8"}
+{"text":"「では、私はあなたを無限獄に\n　再び落としてさしあげましょう」","translation":"Then I shall cast you back into the Infinite Prison once again.","id":"001B20"}
+{"text":"「そして、太極に近づこうとする\n　身の程知らず達も…」","translation":"And those fools who would dare approach the Taikyoku as well...","id":"001B68"}
+{"text":"「飛行可能なＫＭＦ…。\n　そして、このシステム…」","translation":"A flying KMF... And this system...","id":"001CC8"}
+{"text":"「フフ…俺はついている！\n　このＫＭＦは、まさに俺のために\n　用意されたようなものだ！」","translation":"Heh... I'm lucky! This KMF is practically made for me!","id":"001D00"}
+{"text":"「だが、こいつを使いこなすためには…」","translation":"But to master this machine...","id":"001D60"}
+{"text":"「新しいオモチャを手に入れて、\n　ご機嫌のようだな」","translation":"Looks like you're in a good mood now that you've got yourself a new toy.","id":"001D90"}
+{"text":"「Ｃ．Ｃ．…！　何故、お前がここに！？」","translation":"C.C....! Why are you here!?","id":"001DD0"}
+{"text":"「呼ばれたのさ」","translation":"I was called.","id":"001E00"}
+{"text":"「誰にだ！？」","translation":"By whom!?","id":"001E20"}
+{"text":"「頭でっかちな男は、これだから嫌だ。\n　理屈をどうこう言う前に\n　目の前の事実を受け止めろ」","translation":"This is why I can't stand thick-headed men. Before you talk logic, accept the facts in front of you.","id":"001E38"}
+{"text":"「お前の戯言に付き合っている余裕はない…！」","translation":"I don't have time to indulge your nonsense...!","id":"001EA0"}
+{"text":"「俺は火器管制に専念するから、\n　操縦は任せる！\n　出来ないなどと言うなよ！」","translation":"I'll focus on fire control, so I'll leave the piloting to you! And don't tell me you can't do it!","id":"002078"}
+{"text":"「二人乗りか。\n　ますます共犯者らしくなってきたな」","translation":"A two-seater, huh? We're becoming more and more like accomplices.","id":"0020D0"}
+{"text":"「無限獄を彷徨う罪人…。\n　君に会えて嬉しいよ」","translation":"A sinner wandering the Infinite Prison... I'm glad to see you.","id":"002110"}
+{"text":"「………」","translation":".........","id":"002150"}
+{"text":"「ゼロ！　無事ですね！」","translation":"Zero! You're safe!","id":"002268"}
+{"text":"「こちらは問題ない。\n　次元獣は、あの洞窟とアサキム・ドーウィンを\n　狙っているようだ」","translation":"We're fine. It looks like the Dimensional Beast is targeting that cave and Asakim Dowin.","id":"002288"}
+{"text":"「逃がさんぞ、ゼロ！」","translation":"I won't let you escape, Zero!","id":"0023A8"}
+{"text":"「状況を見ろ、枢木スザク！\n　次元獣はユーフェミアのいる\n　あの洞窟に攻撃を仕掛ける気だぞ！」","translation":"Look at the situation, Kururugi Suzaku! The Dimensional Beast is about to attack that cave where Euphemia is!","id":"0023C8"}
+{"text":"「何っ！？」","translation":"What!?","id":"002430"}
+{"text":"「一時休戦だ。\n　アサキム・ドーウィンと協力して\n　次元獣を迎撃する」","translation":"A temporary truce. We'll cooperate with Asakim Dowin to intercept the Dimensional Beast.","id":"002448"}
+{"text":"「…わかった」","translation":"...Understood.","id":"002498"}
+{"text":"「カレンもいいな？」","translation":"Kallen, you're fine with this too, right?","id":"0024B0"}
+{"text":"「了解！\n　あのアサキムにはリモネシアで\n　助けてもらった恩もあります！」","translation":"Roger! Besides, we owe Asakim a debt for helping us in Limonesia!","id":"0024D0"}
+{"text":"「何より、あたし達をはめた\n　あのアイム・ライアードは許せない！」","translation":"More than that, I can't forgive Aim Liard for setting us up like that!","id":"002520"}
+{"text":"「各機は私の指示で動け！\n　攻撃開始！」","translation":"All units, follow my orders! Commence attack!","id":"002570"}
+{"text":"「カレン、無事か！」","translation":"Kallen, are you all right!?","id":"002740"}
+{"text":"「あたしは大丈夫です！\n　あっちのＫＭＦはゼロが乗っています！」","translation":"I'm fine! Zero is piloting that KMF over there!","id":"002758"}
+{"text":"「ブリタニアの新型を奪ったのかよ…。\n　転んでも只じゃ起きない奴だぜ」","translation":"So he stole Britannia's new model... That guy never stays down for long.","id":"0027A0"}
+{"text":"「スザク君…ゼロに協力しているのか？」","translation":"Suzaku... are you cooperating with Zero?","id":"0027F0"}
+{"text":"「今は仕方なくです」","translation":"For now, I have no choice.","id":"002820"}
+{"text":"「ブリキ野郎の手先が何言ってやがる！」","translation":"What the hell are you saying, you tin-plated bastard's lapdog!?","id":"002840"}
+{"text":"「そんな事を言っている場合ではありません！\n　相手はインペリウムです！」","translation":"This is no time for that! The enemy is the Imperium!","id":"002870"}
+{"text":"「アサキム…\n　またあんたが手を貸してくれてるようだな」","translation":"Asakim... looks like you're lending us a hand again.","id":"0028C0"}
+{"text":"「$Fか…」","translation":"$F, huh...","id":"002900"}
+{"text":"「あんたには色々と聞きたい事があるが、\n　後回しだ」","translation":"I've got a lot of questions for you, but that'll have to wait.","id":"002918"}
+{"text":"「俺の獲物が目の前にいるんでな…！」","translation":"My prey is right in front of me...!","id":"002950"}
+{"text":"「見つけたぜ、ＭＤ…！\n　ここで決着をつけてやる！」","translation":"Found you, MD...! I'll settle this here and now!","id":"002B58"}
+{"text":"「ちんたらやってたら、こっちが不利だ…！\n　無茶は承知で仕掛ける！」","translation":"If we drag this out, we'll be at a disadvantage...! I know it's reckless, but I'm going in!","id":"002C30"}
+{"text":"「いいぞ、$n！\n　そのままやっちまえ！」","translation":"Nice one, $n! Keep it up and finish him!","id":"002D18"}
+{"text":"「動きは止めた！\n　とどめだ！！」","translation":"I've stopped its movement! Now for the finishing blow!!","id":"002D48"}
+{"text":"「奴の動きが止まった…！\n　とどめを刺す！」","translation":"Its movement has stopped...! I'll finish it off!","id":"002E30"}
+{"text":"「何っ！？」","translation":"What!?","id":"002F00"}
+{"text":"「やらせないんだから！」","translation":"I won't let you!","id":"002F10"}
+{"text":"「ぐうっ！」","translation":"Guh!","id":"002FF8"}
+{"text":"「$nさん！」","translation":"$n!","id":"003008"}
+{"text":"「大丈夫だ…！\n　直撃は何とか避けた！」","translation":"I'm fine...! I managed to avoid a direct hit!","id":"003020"}
+{"text":"「マルグリット…あなたが来てくれましたか」","translation":"Marguerite... so you came after all.","id":"003050"}
+{"text":"「アイム殿…彼を下がらせていただきたい」","translation":"Lord Aim... I ask that you have him withdraw.","id":"003088"}
+{"text":"「では、あなたが代わりを務めてくれると？」","translation":"Then, you'll take his place?","id":"0030C0"}
+{"text":"「………」","translation":".........","id":"0030F8"}
+{"text":"「我が名はインサラウムの騎士、\n　アークセイバーのナンバー７！\n　マルグリット・ピステール！」","translation":"I am Marguerite Pistail, knight of Insaraum and Ark Saber Number 7!","id":"003270"}
+{"text":"「いざ尋常に勝負！」","translation":"Face me in a fair fight!","id":"0032E0"}
+{"text":"「あの機体…カラミティ・バースで\n　やってきたものか」","translation":"That machine... did it come here through Calamity Birth?","id":"003308"}
+{"text":"「人間が乗っている。\n　次元獣ではないようだ」","translation":"There's a human piloting it. It doesn't seem to be a Dimensional Beast.","id":"003348"}
+{"text":"「いいでしょう、マルグリット。\n　では、あなたの望みを叶えましょう」","translation":"Very well, Marguerite. Then I shall grant your wish.","id":"003380"}
+{"text":"「アイム…てめえ…！」","translation":"Aim... you bastard...!","id":"0034F0"}
+{"text":"「まだ生きていたのですか、\n　$F。\n　ですが、もうあなたには用はないのです」","translation":"So you're still alive, $F. But I have no more use for you.","id":"003510"}
+{"text":"「何だと！？」","translation":"What did you say!?","id":"003568"}
+{"text":"「マルグリット・ピステール。\n　インサラウムの守護者の一人である\n　あなたの力、期待させてもらいましょう」","translation":"Marguerite Pistail. As one of Insaraum's guardians, let me see if your power lives up to my expectations.","id":"003580"}
+{"text":"「…承知いたしました」","translation":"...Understood.","id":"0035F0"}
+{"text":"「くっ…！\n　この世界の者の力、侮れん！」","translation":"Tch...! The power of the people of this world is not to be underestimated!","id":"003738"}
+{"text":"「今日のところは邪魔も入りましたし、\n　ここまでとしましょう」","translation":"We've been interrupted today, so let's end this here.","id":"003810"}
+{"text":"「待ちやがれ、アイム！」","translation":"Hold it right there, Aim!","id":"003858"}
+{"text":"「もうあなたに用はありませんよ、\n　$n」","translation":"I have no more use for you, $n.","id":"003878"}
+{"text":"「散々人を追い回しておいて\n　それかよ！」","translation":"After chasing us around all this time, that's all you've got to say!?","id":"0038A8"}
+{"text":"「私も自分の身を守るのに忙しいのですよ。\n　それだけの敵なのです、彼は」","translation":"I'm busy protecting myself too. He is that formidable an enemy.","id":"0038D8"}
+{"text":"「………」","translation":".........","id":"003928"}
+{"text":"「アサキム・ドーウィン。\n　私はあなたの思い通りにはなりませんよ」","translation":"Asakim Dowin. I won't do as you wish.","id":"003940"}
+{"text":"「アイム・ライアード。\n　どこに逃げようと僕は君を追う」","translation":"Aim Liard. No matter where you run, I'll pursue you.","id":"003AF0"}
+{"text":"「なあ、あんたもＺＥＵＴＨの人間なのか？」","translation":"Hey, are you a member of ZEUTH, too?","id":"003B38"}
+{"text":"「そうか…。\n　彼等もこの世界に来ていたのだったな」","translation":"I see... So they came to this world as well.","id":"003B70"}
+{"text":"「彼等は僕を見つけたら、\n　放っておきはしないだろう」","translation":"If they find me, they won't just leave me be.","id":"003BB0"}
+{"text":"「何…？」","translation":"What...?","id":"003BF0"}
+{"text":"「彼等にとって僕は許されない存在だからね」","translation":"Because to them, I am an unforgivable existence.","id":"003C00"}
+{"text":"「待て、アサキム！\n　あんたには、まだ聞きたい事がある…！」","translation":"Wait, Asakim! There are still things I need to ask you...!","id":"003D78"}
+{"text":"「自分の中の恐怖と後悔に揺れながらか？」","translation":"While you're wavering with the fear and regret inside you?","id":"003DB8"}
+{"text":"「…！」","translation":"...!","id":"003DF0"}
+{"text":"「揺れる天秤…。\n　僕は君の目覚めを待とう」","translation":"A wavering balance... I'll wait for your awakening.","id":"003E00"}
+{"text":"「僕は行く…。\n　偽りの黒羊は僕の獲物だ」","translation":"I'm going... The false black sheep is my prey.","id":"003E38"}
+{"text":"「何なのよ、あの男は…」","translation":"Just who is that man...?","id":"003F90"}
+{"text":"「偽りの黒羊…。\n　それはアイムの事なのか…」","translation":"The false black sheep... Was he talking about Aim...?","id":"003FB0"}
+{"text":"「アイム・ライアード…\n　それにアサキム・ドーウィン…。\n　いったい何なんだ、あいつらは…」","translation":"Aim Liard... and Asakim Dowin... Just what are those two...?","id":"003FE8"}
+{"text":"「各機、撤退だ。\n　いずれブリタニア・ユニオンが来る」","translation":"All units, retreat. The Britannia Union will be here before long.","id":"004048"}
+{"text":"「ゼロ…」","translation":"Zero...","id":"004088"}
+{"text":"「枢木スザク…ユーフェミアに伝えるがいい」","translation":"Suzaku Kururugi... Tell Euphemia this:","id":"0040A0"}
+{"text":"「え…」","translation":"Huh...?","id":"0040D0"}
+{"text":"「お前を信じよう…とな」","translation":"That I believe in you...","id":"0040E0"}
+{"text":"「ゼロがユーフェミア様を信じる…。\n　どういう事だ…」","translation":"Zero believes in Princess Euphemia...? What does that mean...?","id":"004280"}
+{"text":"「スザク、ご苦労でした」","translation":"Suzaku, you've done well.","id":"0042C0"}
+{"text":"「ありがとうございます、ユーフェミア様。\n　お怪我もなくて何よりです」","translation":"Thank you, Princess Euphemia. I'm just glad you're unharmed.","id":"0042E8"}
+{"text":"「枢木スザク…君の働きを賞賛しよう。\n　だが…」","translation":"Suzaku Kururugi... I commend your efforts. However...","id":"004338"}
+{"text":"「枢木スザク少佐、\n　第二級軍規違反の容疑で逮捕する！」","translation":"Major Suzaku Kururugi, you're under arrest on suspicion of a second-degree military code violation!","id":"004378"}
+{"text":"「お兄様…！\n　これはどういう事なのです！？」","translation":"Brother...! What is the meaning of this?!","id":"0043C0"}
+{"text":"「………」","translation":".........","id":"004400"}
+{"text":"「そして、また果て無き放浪が始まる…」","translation":"And so, my endless wandering begins again...","id":"004598"}
+{"text":"「呪われし放浪者…。\n　だが、その無限獄を破る鍵は存在する」","translation":"A cursed wanderer... But there is a key to breaking that infinite prison.","id":"004668"}
+{"text":"「そして、この世界には\n　全ての元凶…太極の手がかりがある」","translation":"And in this world, there is a clue to the source of it all... Taikyoku.","id":"0046B0"}
+{"text":"「僕は求める…。\n　因果の鎖を引き千切る力を…！」","translation":"I seek it... the power to tear apart the chains of causality...!","id":"0046F8"}
+{"text":"「ガウェイン…。\n　このＫＭＦの真価は驚異的な演算能力にある」","translation":"Gawain... The true value of this KMF lies in its astonishing computational power.","id":"004818"}
+{"text":"「このドルイドシステムを使いこなせるのは\n　世界広しと言えど、俺ぐらいのものだろう」","translation":"In all the world, I'm probably the only one who can truly master this Druid System.","id":"004860"}
+{"text":"「能書きはいい。\n　操縦はやってやるから、\n　さっさとそのシステムの力を見せろ」","translation":"Enough talk. I'll handle the piloting, so show me what that system can do.","id":"0048C0"}
+{"text":"「ならば、敵部隊を正面に捉えろ！\n　ドルイドシステムとハドロン砲があれば、\n　まさに一網打尽だ！」","translation":"Then bring the enemy into your sights! With the Druid System and the Hadron Cannon, we can wipe them out at once!","id":"004918"}
+{"text":"「今はユーフェミア様の騎士としての\n　務めを果たす…！」","translation":"For now, I will fulfill my duty as Princess Euphemia's knight...!","id":"004A80"}
+{"text":"「ゼロ…！\n　これがお前との最初で最後の共闘だ！」","translation":"Zero...! This will be the first and last time I fight alongside you!","id":"004AC0"}
+{"text":"「よう、ＭＤ。\n　待たせ過ぎて、白髪になっちまったか？」","translation":"Yo, MD. Did I keep you waiting so long your hair turned white?","id":"004BC0"}
+{"text":"「お前が破界の王の手先だろうと、\n　アイムが呼び寄せたんだろうと、\n　そんな事はどうでもいい…」","translation":"Whether you're a pawn of the King of Ruin or someone Aim summoned, it doesn't matter to me...","id":"004C00"}
+{"text":"「決着をつけるぞ、ＭＤ！\n　エスターとの約束と俺自身のためにな！」","translation":"Let's settle this, MD! For the promise I made to Esther, and for myself!","id":"004C68"}
+{"text":"「さっきはよくもやってくれたな…！」","translation":"You really did a number on me earlier...!","id":"004D90"}
+{"text":"「しぶとい男だ…！\n　まだ生きていたか！」","translation":"You're a tenacious man...! So you're still alive!","id":"004DB8"}
+{"text":"「悪いな…！\n　金のためにも死ぬわけにはいかねえのさ！」","translation":"Sorry...! I can't afford to die, not with money on the line!","id":"004DF0"}
+{"text":"「金だと…！？\n　そんなもののために貴様は戦っているのか！」","translation":"Money...!? You're fighting for something like that!?","id":"004E30"}
+{"text":"「ああ、そうさ。\n　胸を張って言う事じゃねえけどな」","translation":"Yeah, that's right. Not exactly something to brag about, though.","id":"004E80"}
+{"text":"「こんな奴のために…！\n　こんな奴に！」","translation":"For someone like this...! For someone like this...!","id":"004EB8"}
+{"text":"「何を怒ってるか知らねえが、ここは戦場だ！\n　俺は女が相手でも容赦はしねえぞ！」","translation":"I don't know what you're so angry about, but this is a battlefield! I won't hold back, even if you're a woman!","id":"004EF0"}
+{"text":"「黙れ！\n　お前のような男にアークセイバーの私が\n　後れを取るものか！！」","translation":"Silence! Do you really think I, an Ark Saber, would ever be outdone by a man like you?!","id":"004F48"}
+{"text":"（この世界が私の新たな戦場…）","translation":"This world is my new battlefield...","id":"005120"}
+{"text":"（守るべき者と誇りを失った私には\n　もう失くすものなど何も無い…！\n　ただ修羅の道を進むだけだ！）","translation":"I've lost those I swore to protect, and my pride...! I have nothing left to lose...! I can only walk the path of carnage!","id":"005150"}
+{"text":"「あ！」","translation":"Ah!","id":"005280"}
+{"text":"倉庫","translation":"Warehouse","id":"005428"}
+{"text":"　\n　　\n　　　　　　　～黒の騎士団アジト～","translation":"~Black Knights' Hideout~","id":"005430"}
+{"text":"「…俺達も$cに参加するのか？」","translation":"...So we're joining $c too?","id":"005460"}
+{"text":"「先日の戦闘でインペリウムの危険性を\n　再認識した」","translation":"The recent battle has reaffirmed the danger posed by the Imperium.","id":"005488"}
+{"text":"「黒の騎士団は日本の代表として\n　$cに参加し、人類の脅威と\n　戦う事とする」","translation":"As Japan's representatives, the Black Knights will join $c and fight against this threat to humanity.","id":"0054C8"}
+{"text":"「じゃあ、日本解放はどうすんだよ！\n　コーネリアは地方のレジスタンスを\n　次々と潰してるんだぜ！」","translation":"Then what about liberating Japan?! Cornelia's crushing local resistance groups one after another!","id":"005518"}
+{"text":"「この日本も世界の一部だ。\n　世界の平和なくして、日本の平和も\n　あり得ない」","translation":"Japan is also part of the world. Without peace in the world, there can be no peace in Japan either.","id":"005580"}
+{"text":"「今一度、黒の騎士団の正義を示し、\n　日本人の心を一つに集める」","translation":"Once again, we will show the Black Knights' justice and unite the hearts of the Japanese people.","id":"0055D8"}
+{"text":"「僕もゼロに賛成です。\n　インペリウムを放置しておく事は\n　全世界の危機ですから」","translation":"I agree with Zero as well. Leaving the Imperium unchecked would put the entire world in danger.","id":"005620"}
+{"text":"「奴等だけじゃない。\n　インベーダーや獣人もいるしな」","translation":"And they're not the only threat. We've got Invaders and beastmen too.","id":"005678"}
+{"text":"「世界の平和と日本の平和…」","translation":"World peace and Japan's peace...","id":"0056B8"}
+{"text":"「正論だな。\n　それに世界に日本人の存在を示すのにも\n　意義のある事だ」","translation":"That is sound logic. Besides, it is also significant to show the world that Japan still exists.","id":"0056E0"}
+{"text":"「ガンダムのパイロット達…\n　それに$nも異論はないな？」","translation":"Gundam pilots... And you as well, $n—you have no objections, I trust?","id":"005730"}
+{"text":"「任務了解だ」","translation":"Mission acknowledged.","id":"005770"}
+{"text":"「安心したぜ、ゼロ。\n　お前さんが視野狭窄を起こしてないのが\n　わかったからな」","translation":"That's a relief, Zero. Glad to see you haven't lost sight of the bigger picture.","id":"005788"}
+{"text":"「私は常に未来を見据えている。\n　今回の決定も日本解放にとってプラスとなると\n　判断したまでだ」","translation":"I always keep my eyes on the future. I judged that this decision would also benefit Japan's liberation.","id":"0057E0"}
+{"text":"「各員は出国の準備を整えろ。\n　ディートハルト、留守は任せるぞ」","translation":"Everyone, prepare to leave the country. Diethard, I'm leaving things here in your hands.","id":"005848"}
+{"text":"「了解しました。\n　あなたの次の一手を楽しみにさせて\n　いただきます」","translation":"Understood. I shall look forward to your next move.","id":"005890"}
+{"text":"「出発は２日後の１８：００、\n　輸送機はエルガンに手配させる。\n　では、解散！」","translation":"We depart in two days at 18:00. I'll have Elgan arrange the transport plane. Dismissed!","id":"0058E8"}
+{"text":"（また留学という事になるな…）","translation":"So, we're going on another \"study abroad\" trip...","id":"005940"}
+{"text":"（Ｃ．Ｃ．…お前もガウェインの\n　パイロットとして来てもらうぞ）","translation":"C.C.... I'm having you come along as Gawain's pilot, too.","id":"005968"}
+{"text":"（ナナリーはいいのか？）","translation":"What about Nunnally?","id":"0059B0"}
+{"text":"（ユーフェミアがいる限り、\n　ナナリーは安全だ）","translation":"As long as Euphemia is there, Nunnally will be safe.","id":"0059D8"}
+{"text":"（あの女を信じるか…。\n　なるほど…ブリタニアを変えるといった言葉に\n　賭けるわけか）","translation":"You trust that woman...? I see... So you're betting on her promise to change Britannia.","id":"005A10"}
+{"text":"（…聞いていたのか？）","translation":"...You heard that?","id":"005A70"}
+{"text":"（まあな…。\n　おかげでお前の弱点を知る事が出来た）","translation":"Something like that... Thanks to that, I was able to learn your weakness.","id":"005A90"}
+{"text":"（何とでも言うがいい。\n　ナナリーが安全に暮らすためには\n　世界全体の平和が必要なのは事実だ）","translation":"Say what you will. The fact is, for Nunnally to live safely, the whole world needs peace.","id":"005AD0"}
+{"text":"（少しの間、ユーフェミアにチャンスを与える。\n　だが、事態が変わらないようなら…）","translation":"I'll give Euphemia a little time. But if things don't change...","id":"005B38"}
+{"text":"（その時は…？）","translation":"Then what...?","id":"005B90"}
+{"text":"（決まっている。\n　俺がブリタニアを破壊するまでだ）","translation":"Isn't it obvious? Until I destroy Britannia myself.","id":"005BB0"}
+{"text":"「………」","translation":".........","id":"005BF0"}
+{"text":"「どうしたの、$n？\n　ＭＤを逃がしたのが、\n　そんなに悔しかった？」","translation":"What's wrong, $n? Were you that upset about letting the MD get away?","id":"005C00"}
+{"text":"「いや…あのマルグリットとかいう女の事を\n　考えていてよ…」","translation":"No... I was just thinking about that woman called Marguerite...","id":"005C50"}
+{"text":"「女嫌いのお前がか…！？」","translation":"You, a woman-hater, were thinking about her...!?","id":"005C90"}
+{"text":"「そんなんじゃねえさ…。\n　あの女がＭＤをかばっていたように\n　見えたんで気になってよ…」","translation":"It's not like that... She seemed to be shielding the MD, so it caught my attention...","id":"005CB0"}
+{"text":"「あたしにも、そう見えた」","translation":"It looked that way to me too.","id":"005D10"}
+{"text":"「あいつが言っていたインサラウムや\n　アークセイバーってのは何なんだ？」","translation":"What are those Insaraum and Ark Saber things she was talking about?","id":"005D38"}
+{"text":"「わからねえ…。\n　だが、あの機体…\n　どう見ても俺達の世界のものじゃねえな」","translation":"I don't know... But that machine... there's no way it's from our world.","id":"005D88"}
+{"text":"「破界の王と一緒に来たと考えるのが\n　妥当だろうな」","translation":"It's reasonable to assume she came with the King of Ruin.","id":"005DD8"}
+{"text":"「あのインサラウムというのは\n　連中のいた世界…または国の名前かも\n　知れないな」","translation":"That Insaraum may be the name of their world... or their country.","id":"005E18"}
+{"text":"「それもインペリウムとの戦いの中で\n　はっきりするさ」","translation":"We'll know for sure in the fight against the Imperium.","id":"005E70"}
+{"text":"「色々とすっきりしねえが、\n　全ての糸は奴等につながってるんだ。\n　それをたどってやるまでだ」","translation":"A lot still doesn't add up, but all the threads lead back to them. We'll just have to follow them.","id":"005EB0"}
+{"text":"（そういうこった、チーフ、エスター…。\n　次元獣と戦うって事は、とんでもない大物を\n　相手にしなきゃならないようだ）","translation":"That's how it is, Chief, Esther... Fighting the Dimensional Beasts means taking on some serious heavy hitters.","id":"005F10"}
+{"text":"（奴等を倒したら、\n　特別ボーナスが出るのを祈るぜ…）","translation":"Let's hope beating them gets us a special bonus...","id":"005F88"}
+{"text":"黒ベタ","translation":"Black screen","id":"005FC8"}
+{"text":"ブリタニア政庁","translation":"Britannia Government Office","id":"005FD0"}
+{"text":"　\n　　\n　　　　　～ブリタニア・ユニオン政庁～","translation":"~Britannia Union Government Office~","id":"005FE0"}
+{"text":"「…仕方がないのだよ、ユフィ。\n　枢木スザクが命令違反を犯したのは事実だ」","translation":"...It can't be helped, Euphie. The fact is that Kururugi Suzaku disobeyed orders.","id":"006010"}
+{"text":"「………」","translation":".........","id":"006068"}
+{"text":"「枢木スザクに命令を下した式根島基地の司令は、\n　ミサイルが着弾する寸前に彼が\n　自分の指示を拒否したと証言している」","translation":"The commander at Shikinejima base testified that Kururugi Suzaku refused his orders just before the missile struck.","id":"006080"}
+{"text":"「残念ながら、枢木少佐の音声も\n　記録に残っています」","translation":"Unfortunately, Major Kururugi's voice was recorded as well.","id":"006108"}
+{"text":"「…うるさい、知った事かそんなもの！\n　俺は生きなきゃいけないんだ！\n　…だそうです」","translation":"\"...Shut up, who cares about that! I have to live!\" ...or so he said.","id":"006148"}
+{"text":"「あのスザクが、そんな事を言うなんて…」","translation":"I can't believe Suzaku would say something like that...","id":"0061A8"}
+{"text":"「ユフィ…コーネリアが留守である以上、\n　副総督である君が、彼の処分を\n　決めなければならない」","translation":"Euphie... with Cornelia away, you, as Vice-Viceroy, must decide his punishment.","id":"0061E0"}
+{"text":"「処分…」","translation":"Punishment...","id":"006250"}
+{"text":"「過去の判例によれば、\n　危険な最前線に送られるってのが\n　妥当な線でしょうね」","translation":"Based on precedent, the appropriate course would be to send him to a dangerous front line.","id":"006268"}
+{"text":"「もっとも、このご時勢じゃ\n　どこでも同じ位、危険ですが」","translation":"Though these days, just about anywhere is equally dangerous.","id":"0062C0"}
+{"text":"「ロイドさん…\n　皇女殿下のお気持ちを考えて\n　発言なさって下さい」","translation":"Lloyd... Please consider Her Highness's feelings when you speak.","id":"006308"}
+{"text":"「あ…そんな目で僕をにらまないでおくれよ。\n　僕だって彼の後見人として\n　責任を感じているんだから」","translation":"Ah... don't glare at me like that. I do feel responsible as his guardian, you know.","id":"006358"}
+{"text":"「というわけで、ユーフェミア様…\n　枢木スザクの派遣された先に\n　僕達、特派もついていくつもりですから」","translation":"So, Princess Euphemia... we in the Special Division intend to accompany Suzaku wherever he's sent.","id":"0063C8"}
+{"text":"「ロイド卿…」","translation":"Lord Lloyd...","id":"006438"}
+{"text":"「幸いな事に黒の騎士団の主力が、\n　エリア１１から出国したとの情報が入った」","translation":"Fortunately, we've received intelligence that the Black Knights' main force has left Area 11.","id":"006458"}
+{"text":"「え…」","translation":"What...?","id":"0064B8"}
+{"text":"「これは私個人の情報源からだ。\n　信頼できるものだよ」","translation":"This comes from a personal source of mine. It's reliable.","id":"0064D0"}
+{"text":"「おそらく彼等は再び、$cに\n　参加するのだろう」","translation":"They'll probably join $c again.","id":"006518"}
+{"text":"「平和維持理事会直属の特別救助隊…」","translation":"A special rescue team directly under the Peacekeeping Council...","id":"006558"}
+{"text":"「そこに黒の騎士団やソレスタルビーイングが\n　協力しているのは、一部では\n　公然の秘密となっていますね」","translation":"In some circles, it's an open secret that the Black Knights and Celestial Being are cooperating with them.","id":"006588"}
+{"text":"「$c…。\n　そこに黒の騎士団が…ゼロがいる…」","translation":"$c... The Black Knights are there... Zero is there...","id":"0065F8"}
+{"text":"「シュナイゼルお兄様…\n　私、枢木スザクの処分を決めました」","translation":"Brother Schneizel... I've decided on Kururugi Suzaku's punishment.","id":"006638"}
+{"text":"執務室","translation":"Office","id":"006688"}
+{"text":"　\n　\n　　　～国連本部　平和維持理事会執務室～","translation":"~United Nations Headquarters, Peacekeeping Council Office~","id":"006690"}
+{"text":"「…黒の騎士団は合流地点となるヨーロッパへ\n　向かっている」","translation":"...The Black Knights are heading for Europe, their rendezvous point.","id":"0066C0"}
+{"text":"「よろしいのですか？\n　インペリウムは北米大陸の東海岸沖にいると\n　聞いていますが」","translation":"Are you sure? I heard the Imperium is off the east coast of North America.","id":"006708"}
+{"text":"「彼等は私の会談要請に応じたが、\n　その際の脅しのために来ているのだろう」","translation":"They accepted my request for talks, but I suspect they're really here to threaten us.","id":"006760"}
+{"text":"「下手に$cを動かせば、\n　連中を必要以上に刺激する事になる」","translation":"If we move $c carelessly, we'll only provoke them more than necessary.","id":"0067B8"}
+{"text":"「会談の間にクラッシャー隊、\n　ソレスタルビーイング、Ｓ．Ｍ．Ｓ、\n　黒の騎士団を合流させ…」","translation":"During the talks, have the Crusher Squad, Celestial Being, S.M.S., and the Black Knights link up...","id":"006800"}
+{"text":"「$cを再編してくれ」","translation":"...and reorganize $c.","id":"006868"}
+{"text":"「各地で保護したＺＥＵＴＨのメンバーは\n　いかがします？」","translation":"What should we do with the ZEUTH members we've protected in various places?","id":"006888"}
+{"text":"「それを決めるのは我々ではない。\n　あくまで彼等の意思を尊重してくれ」","translation":"That isn't for us to decide. Respect their wishes above all else.","id":"0068C8"}
+{"text":"「私としては、彼等が$cに\n　協力してくれる事を希望しますが…」","translation":"Personally, I hope they'll cooperate with $c, but...","id":"006918"}
+{"text":"「それは言ってはならない。\n　誰かが誰かの自由を奪う事は許されないのだ」","translation":"You mustn't say that. No one has the right to take away another's freedom.","id":"006960"}
+{"text":"「了解です。\n　$cとＺＥＵＴＨの件、\n　お任せ下さい」","translation":"Understood. Leave the matter of $c and ZEUTH to me.","id":"0069B8"}
+{"text":"「頼むぞ、大塚長官。\n　インペリウムの暴挙を許す事は\n　秩序の崩壊を意味する」","translation":"I'm counting on you, Director Otsuka. Allowing the Imperium's outrages to continue would mean the collapse of order.","id":"0069F8"}
+{"text":"「$cは\n　この世界を守るために戦ってもらう」","translation":"$c will fight to protect this world.","id":"006A50"}
+{"text":"「では、インペリウムとの会談…\n　少しでも良い方向に進む事を祈っています」","translation":"Then... I pray the talks with the Imperium lead things in a better direction, even if only a little.","id":"006A88"}
+{"text":"「………」","translation":".........","id":"006AD8"}
+{"text":"「…ＺＥＵＴＨの転移は、\n　やはり、あの力の作用という事か…」","translation":"...So ZEUTH's transfer really was the effect of that power...","id":"006AF0"}
+{"text":"「そして、あの男が来る…」","translation":"And now that man is coming...","id":"006B38"}
+{"text":"「お前がエルガン・ローディックか」","translation":"So you're Elgan Roddick.","id":"006B60"}
+{"text":"「待っていたぞ、アサキム・ドーウィン。\n　君の事は既に聞いていた」","translation":"I've been waiting for you, Asakim Dowin. I've already heard about you.","id":"006B90"}
+{"text":"「お前も呪われし放浪者の一人か…」","translation":"So you're one of the cursed wanderers too...","id":"006BE0"}
+{"text":"「呪いか…。\n　確かに君の言う通りかも知れんな…」","translation":"A curse... Yes, perhaps you're right...","id":"006C10"}
+{"text":"「エルガンだ。\n　…何っ！？」","translation":"I'm Elgan. ...What!?","id":"006C50"}
+{"text":"「ブリタニア・ユニオンの\n　オーバーフラッグス基地が\n　ガンダムの襲撃を受けているだと！」","translation":"What do you mean the Britannia Union's Over Flag base is under attack by a Gundam!?","id":"006C78"}

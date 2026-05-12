@@ -1,0 +1,439 @@
+{"text":"アルトの目的地点到達。","translation":"Alto has reached the target point.","id":"000580"}
+{"text":"バジュラ（ビショップ級）の撃墜。","translation":"Shoot down the Vajra (Bishop-class).","id":"000598"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"0005C8"}
+{"text":"アルトの撃墜。","translation":"Alto is shot down.","id":"0005E0"}
+{"text":"アルト、またはブレラの撃墜。","translation":"Alto or Brera is shot down.","id":"0005F0"}
+{"text":"５ターン以内に敵を全滅させて、マップをクリアする。","translation":"Eliminate all enemies within 5 turns and clear the map.","id":"000620"}
+{"text":"５ターン以内に他の敵を全滅させて、\n最後にバジュラ（ビショップ級）を撃墜する。","translation":"Defeat all but Vajra (Bishop-class) in 5 turns,\nthen finish it.","id":"000658"}
+{"text":"「あれがバジュラの巣と目される小惑星だ」","translation":"That asteroid is believed to be the Vajra nest.","id":"000D80"}
+{"text":"「あそこに奴等の女王がいるのか」","translation":"So their queen is in there?","id":"000E50"}
+{"text":"「そして、ランカちゃんとシェリルも…」","translation":"And Ranka and Sheryl too...","id":"000E78"}
+{"text":"「周辺に反応多数！\n　バジュラが来ます！」","translation":"Multiple contacts nearby! The Vajra are coming!","id":"000EA8"}
+{"text":"「出てきやがったか！」","translation":"So they finally showed up!","id":"000FB8"}
+{"text":"「何て数なの…！\n　月での戦いとは比べ物にならないじゃない！」","translation":"There are so many...! This is nothing like the battle on the Moon!","id":"000FD8"}
+{"text":"「おまけに空母タイプまで出てきている！」","translation":"And even carrier-types are showing up!","id":"001028"}
+{"text":"「どうやらあそこに女王がいるってのは\n　本当らしいぜ！」","translation":"Looks like it's true that their queen is in there!","id":"001058"}
+{"text":"「スカルリーダーより各機へ！\n　スカル４、アルト機の突入を援護しろ！」","translation":"Skull Leader to all units! Skull 4, cover Alto's entry!","id":"001098"}
+{"text":"「準備はいいな、アルト！」","translation":"You ready, Alto?","id":"0010E8"}
+{"text":"「ああ！」","translation":"Yeah!","id":"001110"}
+{"text":"「突入ポイントはあそこだ！」","translation":"That's the entry point!","id":"001128"}
+{"text":"（ランカ…。\n　隊長も命懸けでお前を助けようとしている）","translation":"Ranka... Even the captain is risking his life to save you.","id":"0012D0"}
+{"text":"（シェリル…。\n　お前に借りた幸運のイヤリングに懸けて、\n　俺はやる…！）","translation":"Sheryl... I'll stake everything on the lucky earring you lent me, and I'll do this...!","id":"001310"}
+{"text":"「アルトさん！\n　ランカを必ず助け出して下さい！」","translation":"Alto! Please, save Ranka no matter what!","id":"001360"}
+{"text":"「突入ルートは俺達が確保する！」","translation":"We'll secure the entry route!","id":"0013A0"}
+{"text":"「お前は雑魚は無視して、一直線で飛ぶんだ！」","translation":"Ignore the grunts and fly straight through!","id":"0013D0"}
+{"text":"「来やがれ、蟲共！\n　アルトに近づく奴は片っ端から\n　叩き落としてやる！」","translation":"Come on, you bugs! Anyone who gets near Alto is getting shot down!","id":"001408"}
+{"text":"「ランカ、シェリル…！\n　今、行くぞ！！」","translation":"Ranka, Sheryl...! I'm coming for you!!","id":"001458"}
+{"text":"「各機、突撃！\n　これよりバジュラ攻略作戦を開始する！」","translation":"All units, charge! Commencing the Vajra assault operation now!","id":"001490"}
+{"text":"「うおおおおおおっ！！」","translation":"Uoooooooh!!","id":"0014D8"}
+{"text":"「くそっ！　突入ポイントに！！」","translation":"Damn it! To the entry point!!","id":"001698"}
+{"text":"「気をつけろ、アルト！\n　あいつはお前を狙ってるぞ！」","translation":"Watch out, Alto! That one's targeting you!","id":"0016C0"}
+{"text":"「くっ！！」","translation":"Guh!!","id":"0017C0"}
+{"text":"「アルト先輩！！」","translation":"Alto-senpai!!","id":"0017D8"}
+{"text":"「こんな所で…！\n　やられてたまるかよ！」","translation":"Not here...! I'm not going down like this!","id":"0017F0"}
+{"text":"「まただ…！\n　イヤリングから歌が聞こえる…！」","translation":"Again...! I can hear singing from the earring...!","id":"001908"}
+{"text":"「これはランカの歌…！\n　ランカは生きているんだ！！」","translation":"It's Ranka's song...! Ranka is alive!!","id":"001940"}
+{"text":"「よけろ、アルト！\n　次が来るぞ！！」","translation":"Dodge, Alto! Another one's coming!!","id":"001980"}
+{"text":"「！」","translation":"!","id":"0019B0"}
+{"text":"「援護射撃だと…！\n　あれは…！？」","translation":"Cover fire...? That's...!?","id":"001AC0"}
+{"text":"「態勢を立て直せ」","translation":"Get back into formation.","id":"001B90"}
+{"text":"「お前は映画のロケの時の…！」","translation":"You're the one from the movie shoot...!","id":"001BB0"}
+{"text":"「話は後にしろ。\n　これよりそちらを援護する」","translation":"Save it for later. I'll cover you from here on.","id":"001BD8"}
+{"text":"「味方なのか？」","translation":"Is he an ally?","id":"001C10"}
+{"text":"「わからん…。\n　だが、あの機体は俺達の世界のものだ」","translation":"I don't know... But that machine is from our world.","id":"001C28"}
+{"text":"「援護すると言っている以上、\n　今は頼らせてもらいましょう」","translation":"If he's offering support, let's take him up on it for now.","id":"001C68"}
+{"text":"「各機は突入ポイントの敵機を排除し、\n　スカル４のルートを確保しろ！」","translation":"All units, eliminate the enemy units at the entry point and secure a route for Skull 4!","id":"001CB0"}
+{"text":"「歌え、ランカ！\n　俺はそれを頼りにお前を捜す！！」","translation":"Sing, Ranka! I'll use that to find you!!","id":"001D08"}
+{"text":"「………」","translation":".........","id":"001D48"}
+{"text":"「スカル４の目標地点到達を確認！\n　そのまま内部へ突入しました！」","translation":"Confirmed: Skull 4 has reached the target point! They've entered the interior!","id":"001FA0"}
+{"text":"「よし！　各機はスカル４が目標を救出するまで\n　戦線を維持しろ！」","translation":"Good! All units, hold the line until Skull 4 rescues the target!","id":"001FE8"}
+{"text":"「謎の助っ人も行ったか」","translation":"So the mysterious helper went in too, huh.","id":"002118"}
+{"text":"（頼む、アルト…。\n　ランカを救ってくれ…！）","translation":"Please, Alto... Save Ranka...!","id":"002140"}
+{"text":"「無事か、アルト！」","translation":"Are you all right, Alto!","id":"002238"}
+{"text":"「大丈夫だ！\n　ランカもシェリルも救出した！」","translation":"I'm fine! I rescued both Ranka and Sheryl!","id":"002258"}
+{"text":"「よくやった！\n　一度、クォーターへ帰還しろ！」","translation":"Good work! Return to the Quarter at once!","id":"002290"}
+{"text":"「了解！」","translation":"Roger!","id":"0022C8"}
+{"text":"「アルト！　後ろ！！」","translation":"Alto! Behind you!!","id":"0022E0"}
+{"text":"「何だ、あのデカブツは！」","translation":"What the hell is that huge thing?!","id":"002420"}
+{"text":"「あれがバジュラの女王なのか！！」","translation":"Is that the Vajra Queen?!!","id":"002448"}
+{"text":"「アルト！　急いで離脱しろ！！」","translation":"Alto! Get out of there now!!","id":"002478"}
+{"text":"「あいつ…！　俺を狙って！！」","translation":"That thing...! It's targeting me!!","id":"0025A0"}
+{"text":"「いや…いやぁっ…！」","translation":"No... nooo...!","id":"0025C8"}
+{"text":"「このままじゃ！」","translation":"At this rate...!","id":"0025E8"}
+{"text":"「アルト！\n　あたしの歌を聴けえっ！！」","translation":"Alto! Listen to my song!!","id":"002608"}
+{"text":"「シェリル…」","translation":"Sheryl...","id":"002740"}
+{"text":"（アルト…あんたは飛ぶんでしょ！\n　大切なものを守るために！）","translation":"Alto... you're going to fly, aren't you! To protect what matters most!","id":"002758"}
+{"text":"「シェリルさん…」","translation":"Miss Sheryl...","id":"0027A0"}
+{"text":"（ランカちゃん…あたし達はね…\n　歌しかないのよ…！）","translation":"Ranka... all we have is our songs...!","id":"0027C0"}
+{"text":"「わかった、シェリル…！\n　行くぞっ！！」","translation":"Got it, Sheryl...! Let's go!!","id":"002800"}
+{"text":"「スカル４帰還！\n　シェリル・ノームとランカ・リーも\n　収容しました！」","translation":"Skull 4 has returned! Sheryl Nome and Ranka Lee have also been brought aboard!","id":"002958"}
+{"text":"「総力戦を仕掛ける！\n　スカル４も再出撃させろ！」","translation":"We're going all-out! Deploy Skull 4 again!","id":"0029A8"}
+{"text":"「トルネードパックの使用を許可する！」","translation":"Permission granted to use the Tornado Pack!","id":"0029E8"}
+{"text":"「トルネードパック…？」","translation":"Tornado Pack...?","id":"002B00"}
+{"text":"「アルト准尉！\n　そのパックはスーパーパック以上の\n　機動性と火力を与えてくれるはずだ！」","translation":"Second Lieutenant Alto! That pack should give you mobility and firepower beyond even the Super Pack!","id":"002B20"}
+{"text":"「試作があがったばかりの新品だ！\n　浮ついた気持ちじゃ、そのジャジャ馬は\n　乗りこなせんぞ！」","translation":"It's a brand-new prototype! If your head's not in the game, you won't be able to handle that wild horse!","id":"002B88"}
+{"text":"「アルト君！」","translation":"Alto!","id":"002BF0"}
+{"text":"「絶対無事に帰ってくるのよ！\n　死なないって約束しなさい！」","translation":"You absolutely have to come back safe! Promise me you won't die!","id":"002C08"}
+{"text":"「大丈夫だ！\n　俺は必ず帰ってくる！」","translation":"Don't worry! I'll definitely come back!","id":"002C50"}
+{"text":"「各員へ！\n　我々の攻撃目標は巨大バジュラだ！」","translation":"All units! Our target is the giant Vajra!","id":"002C80"}
+{"text":"「あのデカブツを落として\n　この戦いを終わらせるぞ！」","translation":"Bring down that monster and end this battle!","id":"002CC0"}
+{"text":"「ランカ、シェリル！\n　行ってくる！！」","translation":"Ranka, Sheryl! I'm off!!","id":"002D00"}
+{"text":"「俺は…お前達を守るために飛ぶ！！」","translation":"I'm flying... to protect you both!!","id":"002D30"}
+{"text":"「アーマードパックの使用を許可する！」","translation":"Permission granted to use the Armored Pack!","id":"002F40"}
+{"text":"「アーマードパック…！」","translation":"Armored Pack...!","id":"003058"}
+{"text":"「そいつはエースの証みたいなもんだ！\n　今のお前なら使いこなせると信じるぞ！」","translation":"That's practically a badge of an ace! I believe you can handle it now!","id":"003078"}
+{"text":"「動きが止まった！」","translation":"It stopped moving!","id":"003290"}
+{"text":"「各機、一斉攻撃！\n　とどめだ！！」","translation":"All units, attack at once! Finish it off!!","id":"0032A8"}
+{"text":"「この化け物め！」","translation":"You monster!","id":"0032D8"}
+{"text":"「！」","translation":"!","id":"0032F8"}
+{"text":"「だめぇぇぇぇぇぇっ！！」","translation":"Nooooooo!!","id":"003308"}
+{"text":"「くらえぇぇぇぇぇっ！！！」","translation":"Take thiiiiis!!!","id":"003330"}
+{"text":"「巨大バジュラ撃破を確認」","translation":"Confirmed: giant Vajra destroyed.","id":"003498"}
+{"text":"「あれがバジュラの女王だったのかしら…」","translation":"So that was the Vajra Queen...?","id":"0034C0"}
+{"text":"「わからん…。\n　だが、少なくとも、あの巣の中では\n　あれが最高位の存在だったのだろう」","translation":"I don't know... But at the very least, that was probably the highest-ranking life-form in that nest.","id":"0034F0"}
+{"text":"「これでバジュラの侵攻も止まるんですね」","translation":"So this should stop the Vajra invasion, right?","id":"003558"}
+{"text":"「恐らくはな…」","translation":"Most likely...","id":"003590"}
+{"text":"「あ…ああ…」","translation":"Ah... ah...","id":"0035B0"}
+{"text":"「ランカちゃん…」","translation":"Ranka...","id":"0035C8"}
+{"text":"（何なの、この感じ…。\n　あの巨大なバジュラがやられる時…\n　私…私…）","translation":"(What is this feeling...? When that giant Vajra was destroyed... I... I...)","id":"0035E8"}
+{"text":"「援護に感謝する」","translation":"Thanks for the backup.","id":"0037D8"}
+{"text":"「マクロスギャラクシー船団、\n　アンタレス小隊所属、\n　ブレラ・スターン少佐だ」","translation":"Macross Galaxy Fleet, Antares Squadron, Major Brera Sterne.","id":"0037F8"}
+{"text":"「ギャラクシー船団…！\n　やっぱり、あの人も時空震動で\n　この世界に跳ばされてきたんですね…！」","translation":"The Galaxy Fleet...! So just like I thought, he was sent to this world by the space-time shock too...!","id":"003850"}
+{"text":"「フロンティア船団とは別の\n　超長距離移民船団か…」","translation":"So it's a super-long-range emigrant fleet separate from the Frontier Fleet...","id":"0038B8"}
+{"text":"「今はフロンティア船団にいるのか？」","translation":"Are you with the Frontier Fleet now?","id":"0038F0"}
+{"text":"「貴様はあの子に…ランカ・リーに\n　相応しくない」","translation":"You are not worthy of that girl... of Ranka Lee.","id":"003920"}
+{"text":"「帰還する」","translation":"I'm returning.","id":"003960"}
+{"text":"「ブレラ・スターン…\n　いったい何者なんだ、奴は…」","translation":"Brera Sterne... just who is he, anyway...?","id":"003AF8"}
+{"text":"（頑張りなさい、アルト…。\n　あなたに届くようにあたしは歌うから）","translation":"(Do your best, Alto... I'll sing so my song reaches you.)","id":"003BD8"}
+{"text":"「シェリルの歌が聴こえる…」","translation":"I can hear Sheryl's song...","id":"003C28"}
+{"text":"「幸運のお守りを借りてるのに\n　やられたら、格好つかないな…！」","translation":"If I get taken out after borrowing a lucky charm, that'll be pretty lame...!","id":"003C50"}
+{"text":"（アルト君…。\n　私の歌も聴いて）","translation":"(Alto... Please listen to my song too.)","id":"003D78"}
+{"text":"「今度はランカか」","translation":"Now it's Ranka, huh.","id":"003DA8"}
+{"text":"「待ってろ…！\n　俺は約束を果たす！\n　必ず生きて帰るぞ！」","translation":"Wait for me...! I'll keep my promise! I'll definitely come back alive!","id":"003DC8"}
+{"text":"「女王を倒さなきゃ止まらないのは\n　アリやハチも同じだ！」","translation":"Ants and bees are the same—they won't stop unless you take down the queen!","id":"003EF0"}
+{"text":"「やるか、やられるかなら容赦しない！\n　奴を倒して、この戦いを終わらせる！」","translation":"If it's kill or be killed, I won't hold back! I'll take it down and end this fight!","id":"003F30"}
+{"text":"「害虫駆除も警備会社の業務の一つ！\n　やるぞ！」","translation":"Pest control is part of a security company's job too! Let's do this!","id":"004048"}
+{"text":"「ちょっと！　スズメバチの巣の撤去とは\n　わけが違うのよ！」","translation":"Hey! This is nothing like removing a hornet's nest!","id":"004080"}
+{"text":"「言っても無駄ですよ、いぶきさん。\n　こいつの中では人の迷惑になってるって事じゃ\n　バジュラもスズメバチも同じですから」","translation":"It's no use, Ibuki. To him, if it's causing trouble for people, Vajra and hornets are all the same.","id":"0040C8"}
+{"text":"「その通りだ、青山！\n　バジュラに恨みはないが、\n　こうなった以上、やるしかないんだ！」","translation":"That's right, Aoyama! I have no grudge against the Vajra, but now that it's come to this, we have no choice but to do it!","id":"004148"}
+{"text":"「丁度いい！\n　学校を休んでいる間の自由課題は\n　昆虫採集に決定だ！」","translation":"Perfect! I've decided my independent study project while I'm out of school will be insect collecting!","id":"0042A8"}
+{"text":"「いっくぞ、女王！\n　ジャベリンで串刺しにして\n　標本にしてやる！」","translation":"Here I come, Queen! I'll skewer you with my Javelin and turn you into a specimen!","id":"0042F8"}
+{"text":"「この巨大なバジュラから周辺に対して\n　命令が発せられているのは確かなんだが…」","translation":"It's certain that this giant Vajra is issuing commands to the others around it, but...","id":"004408"}
+{"text":"「よくわからないが、何かが違う…。\n　バジュラのコミュニケーションは\n　俺達と根本的に概念が異なるのか…！」","translation":"I don't really get it, but something's different... Maybe Vajra communication is fundamentally different from ours...!","id":"004460"}
+{"text":"「相手が何であろうと、\n　人類に害となる存在であるならば、\n　俺達が相手になる…！」","translation":"No matter what the enemy is, if it's a threat to humanity, then we'll take it on...!","id":"004598"}
+{"text":"「エクシア、敵女王を駆逐する！」","translation":"Exia, eliminate the enemy queen!","id":"0045F0"}
+{"text":"「巨大な群れも頭を潰せば、止まる」","translation":"Even a massive swarm will stop if you crush its head.","id":"0046D8"}
+{"text":"「ターゲット確認、\n　攻撃目標、バジュラ女王…！」","translation":"Target confirmed. Attack objective: the Vajra Queen...!","id":"004708"}
+{"text":"「蟲を見て、キャーキャー泣くほど\n　こっちはヤワじゃないのよね！」","translation":"We're not so soft we'd scream and cry at the sight of bugs!","id":"004808"}
+{"text":"「襲ってくる相手には容赦なし！\n　相手に悪意がなくてもね！」","translation":"No mercy for anything that attacks us! Even if it doesn't mean any harm!","id":"004850"}
+{"text":"「この手の相手はインベーダーで\n　慣れっこだぜ！」","translation":"I'm used to dealing with this kind of opponent from fighting the Invaders!","id":"004950"}
+{"text":"「行くぜ、女王！\n　頭を叩き潰してやる！」","translation":"I'm coming, Queen! I'm gonna smash your head in!","id":"004988"}
+{"text":"「指揮官を叩くのは戦いの常道…！\n　狙うは女王だ！」","translation":"Striking the commander is standard battle doctrine...! Target the queen!","id":"004A78"}
+{"text":"「速やかにお前を叩き、\n　地球圏よりバジュラを駆除する！」","translation":"I'll take you down quickly and wipe the Vajra out of the Earth Sphere!","id":"004AB8"}
+{"text":"「そっちも生きるために必死なら、\n　こっちも同じなんだよ！」","translation":"If you're desperate to survive, then so are we!","id":"004BB8"}
+{"text":"「そっちが人を襲うんなら\n　俺達は全力で戦うぞ！」","translation":"If you attack people, we'll fight with everything we've got!","id":"004C00"}
+{"text":"「俺達の勝利を信じて、待ってる奴がいるんだ！」","translation":"There are people waiting for us, believing in our victory!","id":"004D00"}
+{"text":"「行くぞ、バジュラ！\n　人間はお前達に負けはしない！」","translation":"Here we go, Vajra! Humans won't lose to you!","id":"004D38"}
+{"text":"「この蟲と俺達も\n　どっちかが滅ぶまで戦うんだったら、\n　俺はためらわない！」","translation":"If it's a fight to the death between us and these bugs, I won't hesitate!","id":"004E38"}
+{"text":"「俺はこの世界と大事な人を守るために\n　戦うんだ！」","translation":"I'm fighting to protect this world and the people I care about!","id":"004E90"}
+{"text":"「虫退治なら、母ちゃんに言われて\n　よくやってたからな！」","translation":"When it comes to bug extermination, my mom used to make me do it all the time!","id":"004F90"}
+{"text":"「覚悟しろよ、バジュラの女王！\n　ザンボット３が殺虫剤の代わりだ！」","translation":"Get ready, Vajra Queen! Zambot 3 is your insecticide!","id":"004FD0"}
+{"text":"「何て巨大な虫なんだ！\n　これじゃキングゲイナーの方が\n　まとわりつく羽虫のようだ！」","translation":"What a gigantic bug! Next to that, even King Gainer looks like a tiny gnat buzzing around it!","id":"0050E0"}
+{"text":"「だけど、気持ちでは負けない！\n　相手が女王なら、僕はキングなんだ！」","translation":"But I won't lose in spirit! If you're the queen, then I'm the king!","id":"005140"}
+{"text":"「向こうから見れば、\n　こっちがハエみたいなもんだろうけど！」","translation":"Though from their point of view, we're probably just flies!","id":"005250"}
+{"text":"「小さな虫にも意地がある！\n　ジロン・アモスの男意地、見せてやるぞ！」","translation":"Even a tiny bug has its pride! I'll show you the manly pride of Jiron Amos!","id":"005298"}
+{"text":"「もしかしたら、僕達の方が\n　このバジュラにとっては害虫かも\n　知れないけど…」","translation":"Maybe, from this Vajra's point of view, we're the pests...","id":"0053A8"}
+{"text":"「この戦いを終わらせるために僕は戦います！\n　悪いけど、覚悟して下さい！」","translation":"I'll fight to end this battle! Sorry, but prepare yourself!","id":"005400"}
+{"text":"「こいつを放っておいたら、\n　次元の向こうからバジュラが\n　どんどんやってくるんだ！」","translation":"If we leave this thing alone, more and more Vajra will keep coming from beyond the dimension!","id":"005518"}
+{"text":"「やるぜ！\n　女王を叩き落として、バジュラの被害を\n　止めるんだ！」","translation":"Let's do this! We'll bring down the Queen and stop the Vajra damage!","id":"005578"}
+{"text":"「女王と言っても、相手が虫じゃ、\n　さすがの俺もときめくわけにはいかないな」","translation":"Even if you call it a queen, if it's a bug, I can't exactly get excited over it.","id":"005688"}
+{"text":"「普段は悪い虫と言われる俺だが、\n　今日は害虫退治といきますか！」","translation":"I'm usually the one people call a bad bug, but today I guess I'll do some pest control!","id":"0056D8"}
+{"text":"「進化するバジュラに\n　いつか人類は対抗する術を失う…！」","translation":"If the Vajra keep evolving, humanity will one day lose the means to fight back...!","id":"0057E0"}
+{"text":"「その前に何としてでも\n　女王を倒して、バジュラを駆逐しなくては！」","translation":"Before that happens, we have to defeat the Queen and wipe out the Vajra no matter what!","id":"005828"}
+{"text":"「戦いを広げるのが人だろうと、虫だろうと\n　見逃すわけにはいかない！」","translation":"Whether it's humans or bugs spreading this war, I can't let it slide!","id":"005938"}
+{"text":"「行くぞ、女王！\n　お前を倒して、俺がバジュラを止める！」","translation":"Here I come, Queen! I'll take you down and stop the Vajra myself!","id":"005988"}
+{"text":"「バジュラと人間が出会ってしまった事で\n　戦いが起きたのなら、それはとても悲しい事だ」","translation":"If war broke out because the Vajra and humans happened to encounter each other, that's a truly sad thing.","id":"005A88"}
+{"text":"「だけど、今は戦うしかないんだ！\n　人間を…世界を守るために！」","translation":"But right now, we have no choice but to fight! To protect humanity... and the world!","id":"005AE8"}
+{"text":"「グランナイツは人類を守るための牙だ！\n　相手が何であろうと戦う！」","translation":"The Gran Knights are humanity's fangs! No matter what the enemy is, we'll fight!","id":"005BF0"}
+{"text":"「バジュラ女王！\n　お前の相手は、このソルグラヴィオンがする！」","translation":"Vajra Queen! Your opponent is this Sol Gravion!","id":"005C40"}
+{"text":"「くっ…何だ、この感じは…。\n　俺は…いや、アクエリオンは\n　バジュラの事を知ってるのかよ…！」","translation":"Damn... what is this feeling...? Do I... no, does Aquarion know about the Vajra...?!","id":"005D48"}
+{"text":"「だけど、今はそんな事は関係ねえ！\n　こいつらが人を襲う限り、\n　俺達は戦うだけだ！！」","translation":"But that doesn't matter right now! As long as these things keep attacking people, we'll keep fighting!!","id":"005DB0"}
+{"text":"「残念だよ、バジュラ。\n　君達と言葉を交わす事が出来たなら、\n　この戦いを回避する事が出来たかも知れない」","translation":"It's a shame, Vajra. If we could have exchanged words with you, we might have been able to avoid this battle.","id":"005ED0"}
+{"text":"「だが、その術がない以上、\n　私もネゴシエイターとしての役割は\n　果たせない」","translation":"But since that's impossible, I can't fulfill my role as a negotiator.","id":"005F48"}
+{"text":"「よって、女王…！\n　あなたとは力で接する事をお許し願おう！」","translation":"Therefore, Queen...! Please forgive me for dealing with you by force!","id":"005FA0"}
+{"text":"「宇宙は広いもんだぜ！\n　こんな奴までいるとはな！」","translation":"The universe sure is vast! To think there'd be something like this out here!","id":"0060C8"}
+{"text":"「だが、珍しがってる場合じゃねえ！\n　人を襲うってんなら、俺達が相手になって\n　やるぜ！」","translation":"But now's not the time to be amazed! If you're going to attack people, then we'll take you on!","id":"006108"}
+{"text":"「人類とこいつらが出会った事が\n　不幸の始まりだったのかもな…」","translation":"Maybe the misfortune began the moment humanity and these things met...","id":"006228"}
+{"text":"「だったら、なるべく早く\n　この戦いを終わらせるまでだ！\n　ここで女王を倒す！」","translation":"If that's the case, then all we can do is end this battle as quickly as possible! We'll defeat the Queen here!","id":"006270"}
+{"text":"「バジュラ女王…！\n　お前を倒す事で戦いが終わるのならば、\n　僕達に迷いはない！」","translation":"Vajra Queen...! If defeating you will end this war, then we have no hesitation!","id":"006388"}
+{"text":"「この僕とダイターン３が\n　人類を守るために相手になろう！」","translation":"Daitarn 3 and I will stand against you to protect humanity!","id":"0063E0"}
+{"text":"「俺達の野性とお前達の本能の\n　ぶつかり合いだ！」","translation":"It's a clash between our wild instincts and your instincts!","id":"0064E8"}
+{"text":"「行くぜ、女王！\n　バジュラと人間の生存競争なら\n　退くわけにはいかねえんだ！」","translation":"Let's go, Queen! If this is a struggle for survival between the Vajra and humanity, we can't back down!","id":"006520"}
+{"text":"「やるか、やられるかならば、\n　ためらっている場合ではない…！」","translation":"If it's kill or be killed, this is no time to hesitate...!","id":"006638"}
+{"text":"「ここで女王を討ち、\n　バジュラの地球侵攻を止める！」","translation":"We'll strike down the Queen here and stop the Vajra's invasion of Earth!","id":"006680"}
+{"text":"「ここで女王を倒せば、\n　バジュラとの戦いも終わる。\n　このデータも活用先はないかもな」","translation":"If we defeat the Queen here, the war with the Vajra will be over. This data may not have any use after all.","id":"006780"}
+{"text":"「だが、それでもいいさ…！\n　この大スペクタクル映像なら、\n　きっとどこかに買い手も見つかるだろうしな！」","translation":"But that's fine too...! With footage of this grand spectacle, I'm sure I'll find a buyer somewhere!","id":"0067E0"}
+{"text":"「あ！」","translation":"Ah!","id":"006910"}
+{"text":"執務室","translation":"Office","id":"006B98"}
+{"text":"　\n　\n　　　～アレハンドロ・コーナー　執務室～","translation":"~Alejandro Corner's Office~","id":"006BA0"}
+{"text":"「…ミス・グレイスの依頼は何だったんだい、\n　リボンズ？」","translation":"...What was Miss Grace's request, Ribbons?","id":"006BD0"}
+{"text":"「スキャンダルの自作自演の手伝いですよ。\n　あの業界もなかなかに大変なようです」","translation":"Helping her stage a scandal. That industry seems to have its own share of troubles.","id":"006C18"}
+{"text":"「フフ…新世界のリーダー達の\n　橋渡し役を務めた彼女でさえ、\n　大衆の心理を操るのは苦労するか」","translation":"Heh... Even she, who served as go-between for the new world's leaders, has trouble manipulating the public mind, huh?","id":"006C78"}
+{"text":"「それが出来るのは選ばれた人間だけです、\n　アレハンドロ様」","translation":"Only the chosen can do that, Lord Alejandro.","id":"006CE8"}
+{"text":"「私には、その資格があると？」","translation":"So you're saying I have that qualification?","id":"006D30"}
+{"text":"「コーナー家の悲願達成のために\n　長い時間をかけて綿密な計画を練り、\n　それを実現させてきたアレハンドロ様ならば」","translation":"If anyone can, it's you, Lord Alejandro, after all the years you spent planning and realizing the Corner family's ambition.","id":"006D60"}
+{"text":"「その通りだ。\n　国連の要職に就く事で協力者を集め、\n　それを最大限に活用して、ここまで来たのだ」","translation":"Exactly. By taking a key position in the UN, I gathered allies and made the most of them to get this far.","id":"006DE0"}
+{"text":"「だが、何よりの力は、リボンズ…\n　君がいてくれる事だよ」","translation":"But above all else, Ribbons... having you with me is my greatest strength.","id":"006E50"}
+{"text":"「お褒めにあずかり、光栄です」","translation":"I'm honored by your praise.","id":"006E98"}
+{"text":"「ヴェーダを掌握する事で\n　ソレスタルビーイングを無力化し、\n　太陽炉の複製に成功しただけでなく…」","translation":"By seizing control of Veda, we not only neutralized Celestial Being and succeeded in replicating the Solar Furnace...","id":"006EC0"}
+{"text":"「政治、経済、軍事を始めとする\n　この世界のあらゆる事象について\n　他に先んじる事が出来た」","translation":"...we were able to stay ahead of everyone else in every aspect of this world, from politics and economics to the military.","id":"006F30"}
+{"text":"「それが量子型演算処理システム、ヴェーダの\n　役目ですから」","translation":"That is the role of Veda, the quantum computational processing system.","id":"006F98"}
+{"text":"「今や世界を動かしてきた人間達は全て\n　私の指示を待つ身となった」","translation":"Now all the people who once moved the world are waiting for my orders.","id":"006FE0"}
+{"text":"「トレーズ・クシュリナーダも\n　シュナイゼル・エル・ブリタニアも\n　レオン・三島もエルガン・ローディックもだ」","translation":"Treize Khushrenada, Schneizel el Britannia, Leon Mishima, and Elgan Roddick as well.","id":"007030"}
+{"text":"「これで宇宙のバジュラの巣と\n　ギシン星人を片付ければ、\n　全ての憂いはなくなりますね」","translation":"Once we clean up the Vajra nest in space and the Gishin aliens, all our worries will be gone.","id":"0070B0"}
+{"text":"「その通りだ。\n　インペリウムはシオニー・レジスを丸め込めば、\n　どうにでもなるだろう」","translation":"Exactly. As for the Imperium, once we win over Shiony Regis, it can be handled however we like.","id":"007110"}
+{"text":"「確かに次元獣は強力だが、\n　数的な限界がある以上、最終的には\n　量の戦力の前に屈するさ」","translation":"The Dimensional Beasts are certainly powerful, but their numbers have limits. In the end, they'll fall before sheer numbers.","id":"007178"}
+{"text":"「勝負を急ぐのならば、\n　局地攻撃用の戦略兵器を使ってもいい」","translation":"If we want to settle things quickly, we can always use a strategic weapon for localized strikes.","id":"0071E0"}
+{"text":"「トレーズ閣下とシュナイゼル殿下が\n　用意している例のあれですね」","translation":"You mean that thing Lord Treize and Prince Schneizel have prepared, don't you?","id":"007230"}
+{"text":"「そうだ。\n　あれを使えば、私の構想に反対する勢力も\n　沈黙せざるを得ない」","translation":"That's right. If we use that, even the forces opposed to my vision will have no choice but to fall silent.","id":"007280"}
+{"text":"「となると、最も危険なのは…」","translation":"Then the most dangerous one is...","id":"0072D8"}
+{"text":"「そう…ソレスタルビーイングを擁する\n　$cだ。\n　だが、そのために国連軍がある」","translation":"Yes... $c, which has Celestial Being on its side. But that's why the UN Forces exist.","id":"007300"}
+{"text":"「そして、それを指揮するのは、\n　他ならぬ私自身だ」","translation":"And the one commanding it will be none other than myself.","id":"007360"}
+{"text":"「例のもの…既に完成しております」","translation":"The item in question... is already complete.","id":"0073A8"}
+{"text":"「フフ…ソレスタルビーイング、\n　そして、$c…。\n　頑張ってくれたまえ」","translation":"Heh... Celestial Being, and $c... Do your best, won't you?","id":"0073D8"}
+{"text":"「君達の勝利を私と国連軍が迎えよう。\n　そして、そこからが新世界の幕開けだ」","translation":"The UN Forces and I shall welcome your victory. And from there, the curtain will rise on a new world.","id":"007430"}
+{"text":"（フフ…）","translation":"Heh...","id":"007490"}
+{"text":"黒ベタ","translation":"Black screen","id":"0074A8"}
+{"text":"クォーター　格納庫","translation":"Quarter Hangar","id":"0074B0"}
+{"text":"　\n　　\n　　　　～マクロス・クォーター　格納庫～","translation":"~Macross Quarter Hangar~","id":"0074C8"}
+{"text":"「宇宙の番人、ムーンＷＩＬＬ…」","translation":"The guardian of space, the Moon WILL...","id":"007500"}
+{"text":"「あのアンノウンの背後に\n　そんなとんでもないのがいたのか」","translation":"So there was something that outrageous behind those Unknowns?","id":"007528"}
+{"text":"「そいつはドラゴンズハイヴのＷＩＬＬの\n　兄弟みたいなものだったのよ」","translation":"It was like a sibling to Dragon's Hive's WILL.","id":"007570"}
+{"text":"「ムーンＷＩＬＬと\n　ドラゴンズハイヴのアースＷＩＬＬは\n　ムゲ帝王ってのに捕えられてたんだとさ」","translation":"The Moon WILL and Dragon's Hive's Earth WILL were both captured by Emperor Muge.","id":"0075C0"}
+{"text":"「そのムゲ帝王って、\n　忍さん達の地球に攻めて来たんだよね？」","translation":"That Emperor Muge guy is the one who invaded your Earth, right?","id":"007628"}
+{"text":"「ああ、そうだ。\n　奴は俺達の敵…ムゲ・ゾルバドス帝国の\n　親玉だったんだ」","translation":"Yeah, that's right. He was our enemy... the boss of the Muge Zorbados Empire.","id":"007670"}
+{"text":"「あたし達はそいつとムゲの宇宙っていう\n　異次元空間で戦ったのさ」","translation":"We fought him in an other-dimensional space called the Muge Universe.","id":"0076C0"}
+{"text":"「そこで何とか奴を倒したのはいいが、\n　俺達は瀕死の重傷を負った」","translation":"We managed to defeat him there, but we were left with life-threatening injuries.","id":"007708"}
+{"text":"「その後、獣戦機隊は\n　こっちの世界に跳ばされてきたって\n　聞きましたけど…」","translation":"I heard that after that, the Beast Fighter Corps was sent to this world...","id":"007750"}
+{"text":"「実は俺達を転移させたのは\n　そのアースＷＩＬＬ達だったんだ」","translation":"Actually, it was those Earth WILLs who transferred us here.","id":"0077A8"}
+{"text":"「もっとも、転移先がこの世界になったのは\n　偶然だったらしいけどね」","translation":"Though apparently, it was just a coincidence that we ended up in this world.","id":"0077F0"}
+{"text":"「そんな事が出来るＷＩＬＬって\n　いったい何者なんだ？」","translation":"Just what kind of beings are these WILLs, if they can do that?","id":"007840"}
+{"text":"「我々が有機生命体であるのに対して、\n　ＷＩＬＬは無機生命体なのだそうです」","translation":"Whereas we are organic life-forms, it seems WILLs are inorganic life-forms.","id":"007880"}
+{"text":"「ユウキ…ムキ…？」","translation":"Organic... inorganic...?","id":"0078D8"}
+{"text":"「簡単に言えば、\n　ＷＩＬＬは生きている機械なのです」","translation":"Simply put, WILLs are living machines.","id":"0078F8"}
+{"text":"「ＷＩＬＬは遥か過去に\n　どこかの世界で生まれたそうなんだけど…」","translation":"Apparently, long ago, WILLs were born in some other world...","id":"007938"}
+{"text":"「そこは度重なる争いで\n　宇宙が崩壊してしまったそうなの」","translation":"Apparently, that universe collapsed due to repeated conflicts.","id":"007988"}
+{"text":"「宇宙の崩壊だと…？」","translation":"The collapse of a universe...?","id":"0079D0"}
+{"text":"「そこから別の世界へ逃げ延びたＷＩＬＬ達は、\n　そんな事を繰り返さないために\n　宇宙の番人になろうとしたんだとよ」","translation":"The WILLs who escaped to another world tried to become guardians of the universe so that it would never happen again.","id":"0079F0"}
+{"text":"「でも、ムーンＷＩＬＬとアースＷＩＬＬは\n　ムゲ帝王ってのに捕まっちゃったんだ」","translation":"But the Moon WILL and Earth WILL ended up getting captured by that Emperor Muge.","id":"007A68"}
+{"text":"「俺達がムゲ帝王を倒した事で\n　解放された二人は、この世界に来たんだ」","translation":"Once we defeated Emperor Muge, the two of them were freed and came to this world.","id":"007AC0"}
+{"text":"「そこでアースＷＩＬＬはＦ．Ｓ．に　\n　出会ったんだってさ」","translation":"That's where Earth WILL met F.S., apparently.","id":"007B10"}
+{"text":"「一方のムーンＷＩＬＬは\n　月にたどり着き、人類を滅ぼす事を決めた」","translation":"Meanwhile, Moon WILL reached the Moon and decided to wipe out humanity.","id":"007B58"}
+{"text":"「どうしてさ！？」","translation":"Why would it do that!?","id":"007BA8"}
+{"text":"「人類は宇宙に戦いを広げる存在だというのが\n　ムーンＷＩＬＬの主張だ」","translation":"Moon WILL claimed that humanity is a species that spreads conflict into space.","id":"007BC8"}
+{"text":"「一方のアースＷＩＬＬは\n　人類が宇宙の一員としてやっていける可能性を\n　信じたかった」","translation":"Earth WILL, on the other hand, wanted to believe humanity had the potential to live on as part of the universe.","id":"007C18"}
+{"text":"「それでアースＷＩＬＬは、\n　人類を試す意味を込めてダンクーガノヴァと\n　Ｒ－ダイガンを造ったのさ」","translation":"That is why Earth WILL created Dancouga Nova and R-Daigun to test humanity.","id":"007C78"}
+{"text":"「いったい何のために？」","translation":"For what purpose?","id":"007CE0"}
+{"text":"「その２体を人類に預け、\n　競わせる事で互いの力を高めさせ、さらには\n　真の力を目覚めさせられるかを見るためにです」","translation":"To entrust those two to humanity,\nto let them compete and grow, and see\nif they could awaken their true power.","id":"007D00"}
+{"text":"「エイーダ・ロッサ…！」","translation":"Eida Rossa...!","id":"007D80"}
+{"text":"「どうして、ここにいるのさ！？」","translation":"Why are you here!?","id":"007DA0"}
+{"text":"「Ｒ－ダイガンのパイロットである私の使命も\n　地球を守る事だからです」","translation":"Because it is also my mission as the pilot of R-Daigun to protect the Earth.","id":"007DC8"}
+{"text":"「アースＷＩＬＬは、人類が\n　この宇宙で生きていく力を持っているかを\n　確かめたかったんです」","translation":"Earth WILL wanted to find out whether humanity had the strength to survive in this universe.","id":"007E18"}
+{"text":"「それは、僕達がダンクーガノヴァを真の形態…\n　マックスゴッドに合神させる事で\n　証明されました」","translation":"That was proven when we made Dancouga Nova combine into its true form... MAX GOD.","id":"007E80"}
+{"text":"「マックスゴッド…？」","translation":"MAX GOD...?","id":"007EF0"}
+{"text":"「ダンクーガノヴァとＲ－ダイガンの\n　合神した姿よ」","translation":"The combined form of Dancouga Nova and R-Daigun.","id":"007F10"}
+{"text":"「その完成を見届けたアースＷＩＬＬは\n　人類の可能性を信じ、ムーンＷＩＬＬの事を\n　あたし達に話してくれたの」","translation":"After witnessing its completion, Earth WILL believed in humanity's potential and told us about Moon WILL.","id":"007F50"}
+{"text":"「そして、月でムーンＷＩＬＬと戦い、\n　そいつを倒したのか」","translation":"And then you fought Moon WILL on the Moon and defeated it?","id":"007FC0"}
+{"text":"「奴は最後まで人類の可能性を\n　信じようとはしなかったがな」","translation":"Though it refused to believe in humanity's potential until the very end.","id":"008008"}
+{"text":"「へえ…エイーダが仲間に入ったのは\n　そんな経緯があったのか」","translation":"Huh... so that's how Eida ended up joining us.","id":"008048"}
+{"text":"「新たに$cに入ったのは\n　彼女だけじゃありません」","translation":"She's not the only one who recently joined $c.","id":"008090"}
+{"text":"「………」","translation":"...","id":"0080D0"}
+{"text":"「お前は…ギシン星人の！」","translation":"You're... one of the Gishin!","id":"0080E0"}
+{"text":"「ロゼだ…。\n　よろしく頼む」","translation":"I'm Rose... Nice to meet you.","id":"008100"}
+{"text":"「何言ってやがる！\n　お前はマーグを…」","translation":"What the hell are you saying?! You... you did that to Marg...","id":"008128"}
+{"text":"「いいんだ、甲児。\n　悪いのはロゼじゃない…。\n　ロゼの心を縛っていたズールなんだ」","translation":"It's all right, Koji. Rose isn't the one at fault... It was Zuul who bound her heart.","id":"008158"}
+{"text":"「でもよ…！」","translation":"But still...!","id":"0081B8"}
+{"text":"「俺達は憎しみを越えなければならない。\n　そうしなければ、この宇宙には\n　永遠に平和は訪れない」","translation":"We have to rise above hatred. If we don't, peace will never come to this universe.","id":"0081D0"}
+{"text":"「他人を許し、受け入れ、\n　共存と調和を図る事が出来るのも\n　人間の力…可能性なんだ」","translation":"The ability to forgive others, accept them, and seek coexistence and harmony... that too is humanity's strength... our potential.","id":"008238"}
+{"text":"「…わかったよ、タケル。\n　お前がそう言うんなら文句はない」","translation":"...All right, Takeru. If you say so, I won't argue.","id":"008298"}
+{"text":"「悪かったな、ロゼ」","translation":"Sorry about that, Rose.","id":"0082E0"}
+{"text":"「ううん…私は\n　そうされても仕方のない事をしてきたわ」","translation":"No... I've done things that made it only natural for you to treat me that way.","id":"008300"}
+{"text":"「それを償う意味も込めて\n　マーズとその仲間達と共に\n　宇宙の平和のために戦うつもりよ」","translation":"To atone for that, I intend to fight alongside Mars and his friends for the peace of the universe.","id":"008340"}
+{"text":"「って事は、俺達とも仲間なんだよな」","translation":"So that means you're one of us now too, right?","id":"0083A0"}
+{"text":"「改めてよろしく頼むぜ、ロゼ」","translation":"Once again, I'm counting on you, Rose.","id":"0083D0"}
+{"text":"「こちらこそ。\n　私もコスモクラッシャーに乗って戦うわ」","translation":"Likewise. I'll fight aboard the Cosmo Crusher too.","id":"0083F8"}
+{"text":"「ここに来て、また$cは\n　戦力アップしたんだな」","translation":"Looks like $c just got another boost in strength.","id":"008438"}
+{"text":"「俺達のＶＦ－２５もスーパーパックが\n　装備されましたしね」","translation":"Our VF-25s have been equipped with Super Packs too.","id":"008470"}
+{"text":"「スーパーパック？」","translation":"Super Packs?","id":"0084B8"}
+{"text":"「宙間戦闘用の装備です。\n　機動性と運動性の強化に加えて、\n　火力もアップしています」","translation":"They're equipment for space combat. On top of improving mobility and maneuverability, they also boost firepower.","id":"0084D8"}
+{"text":"「そして、オズマ隊長には\n　エースパイロット用のアーマードパックが\n　支給された」","translation":"And Captain Ozma was issued an Armored Pack for ace pilots.","id":"008538"}
+{"text":"「戦力もアップしましたし、\n　インペリウムを国連軍が押さえている今が、\n　地球の外の敵を討つチャンスですね」","translation":"With our strength up and the UN Forces holding the Imperium, now's our chance to strike the enemies beyond Earth.","id":"008590"}
+{"text":"「そう言えば、隊長はどこだ？」","translation":"Come to think of it, where's the captain?","id":"008600"}
+{"text":"「さっきキャシー中尉に\n　呼ばれていたようですが…」","translation":"I think Lieutenant Cathy called for him a little while ago...","id":"008628"}
+{"text":"「………」","translation":".........","id":"008668"}
+{"text":"「どうしたんです、隊長？\n　そろそろバジュラ攻略作戦のブリーフィングが\n　始まりますよ」","translation":"What's wrong, Captain? The briefing for the Vajra suppression operation is about to start.","id":"008680"}
+{"text":"「…ミス・グレイスから連絡が入った。\n　ランカとシェリルが何者かにさらわれたそうだ」","translation":"...I just got word from Miss Grace. It seems Ranka and Sheryl have been kidnapped by someone.","id":"0086E0"}
+{"text":"「何っ！？」","translation":"What!?","id":"008740"}
+{"text":"「犯人はフロンティア政府に対して\n　高額の身代金を要求している」","translation":"The kidnappers are demanding a huge ransom from the Frontier government.","id":"008758"}
+{"text":"「くそっ…！　こんな時に！」","translation":"Damn it...! At a time like this!","id":"0087A0"}
+{"text":"「聞きましたよ、赤木さん。\n　東京２３区を覆うほどの巨大なヘテロダインが\n　現れたって」","translation":"I heard about it, Akagi. A giant Heterodyne big enough to cover all 23 wards of Tokyo appeared.","id":"0087C8"}
+{"text":"「ま…あのデカブツも\n　ダイ・ガードのグレートノットパニッシャーで\n　退治してやったがな」","translation":"Well... we took care of that big bastard with Dai-Guard's Great Knot Punisher.","id":"008828"}
+{"text":"「へえ…また新しい装備が出来たんだ」","translation":"Huh... so you've got new equipment again.","id":"008888"}
+{"text":"「界震とヘテロダインは自然現象だからな。\n　ラスボスを倒して終わりってわけには\n　いかないのさ」","translation":"Kekkai-quakes and Heterodynes are natural phenomena. It's not like you can beat some final boss and be done with it.","id":"0088B0"}
+{"text":"「そういうわけだから、\n　それに対処するダイ・ガードの強化も\n　引き続き行なわれるの」","translation":"That's why we're continuing to upgrade Dai-Guard so it can deal with them.","id":"008918"}
+{"text":"「その後に暗黒大陸で\n　獣人の王様と決着をつけたのか」","translation":"And after that, you settled things with the Beastman King on the Dark Continent?","id":"008978"}
+{"text":"「王都テッペリンの防衛線は\n　螺旋王の四天王が守っていた」","translation":"The defensive line around the royal capital, Teppelin, was guarded by the Spiral King's Four Generals.","id":"0089B8"}
+{"text":"「ま…あいつらはダイグレンとグレンラガンの\n　魂の合体必殺技で軽く捻ってやったけどな」","translation":"Well... we made short work of them with Dai-Gurren and Gurren Lagann's soul-fused combination finisher.","id":"008A00"}
+{"text":"「って簡単に言うけど、\n　かなりの激戦だったのよ」","translation":"You make it sound easy, but it was a pretty fierce battle.","id":"008A60"}
+{"text":"「そして、その後の螺旋王は\n　これまで戦ったどの敵よりも強かった」","translation":"And after that, the Spiral King was stronger than any enemy we'd ever fought before.","id":"008AA0"}
+{"text":"「しかし、驚いたわよ。\n　ダイグレンやガンメンが宇宙でも\n　戦えるなんて」","translation":"Still, I was surprised. To think Dai-Gurren and the Gunmen could fight in space too.","id":"008AF0"}
+{"text":"「アタシもびっくりしたけどね。\n　どうもガンメンって宇宙での活動も\n　視野に入れて設計されてたっぽいの」","translation":"I was surprised too. It seems the Gunmen were designed with space operations in mind from the start.","id":"008B40"}
+{"text":"「だから、ちょっとした改造で\n　ばっちりＯＫってわけ」","translation":"So with just a few modifications, they're perfectly good to go.","id":"008BB0"}
+{"text":"「ふうん…。\n　獣人も宇宙に出るつもりだったのかしらね」","translation":"Hmm... I wonder if the Beastmen were planning to go into space too.","id":"008BF0"}
+{"text":"「それにしても気になるのは\n　ロージェノムの最後の言葉ね」","translation":"Even so, what really bothers me are Lordgenome's last words.","id":"008C30"}
+{"text":"「最後の言葉？」","translation":"His last words?","id":"008C78"}
+{"text":"「１００億匹の猿が、この地に満ちた時…\n　月は地獄の使者となりて螺旋の星を滅ぼす…」","translation":"When 10 billion monkeys fill this land... the moon shall become a messenger of hell and destroy the Spiral Planet...","id":"008C98"}
+{"text":"「月が地獄の使者になる…？」","translation":"The moon will become a messenger of hell...?","id":"008CF8"}
+{"text":"「ムーンＷＩＬＬの事を言ってるんでしょうか？」","translation":"Could he have been talking about Moon WILL?","id":"008D20"}
+{"text":"「だったら、心配は要らないな。\n　あいつは俺達が倒したんだから」","translation":"Then there's nothing to worry about. We took that thing down ourselves.","id":"008D58"}
+{"text":"「だといいけどね…。\n　落ち着いたら、テッペリンを\n　徹底的に調べてみようかしら…」","translation":"I hope so... Once things settle down, maybe I should thoroughly investigate Teppelin...","id":"008DA0"}
+{"text":"「その前に、まずはバジュラの相手だ。\n　あいつらがいるんじゃ、ギシン星人の\n　前線基地へも行けないしな」","translation":"Before that, we need to deal with the Vajra. As long as they're around, we can't even get to the Gishin front-line base.","id":"008E00"}
+{"text":"「インペリウムを国連軍が押さえている今が、\n　地球の外の敵を討つチャンスですね」","translation":"Now that the UN Forces have Imperium under control, this is our chance to strike the enemy beyond Earth.","id":"008E70"}
+{"text":"クォーター　ブリーフィングルーム","translation":"Quarter Briefing Room","id":"008EC8"}
+{"text":"　\n　\n～マクロス・クォーター　ブリーフィングルーム～","translation":"~Macross Quarter Briefing Room~","id":"008EF0"}
+{"text":"「各員、正面モニターを注視」","translation":"All personnel, eyes on the main monitor.","id":"008F28"}
+{"text":"「バジュラ攻略戦ミーティングに先立ち、\n　レオン・三島氏が挨拶をしたいそうだ」","translation":"Before we begin the briefing for the Vajra suppression operation, Mr. Leon Mishima would like to say a few words.","id":"008F50"}
+{"text":"「私はフロンティア船団の大統領首席補佐官、\n　レオン・三島だ」","translation":"I am Leon Mishima, Chief Aide to the President of the Frontier Fleet.","id":"008FB0"}
+{"text":"「$cの諸君…\n　君達の活躍については聞いている」","translation":"Gentlemen of $c... I've heard of your exploits.","id":"008FF8"}
+{"text":"「おかしな髪型だな、あの三島っての。\n　まるでキノコだぜ」","translation":"That Mishima guy's got a weird hairstyle. He looks like a mushroom.","id":"009030"}
+{"text":"「ア、アポロ君…声が大きいですよ」","translation":"A-Apollo... keep your voice down.","id":"009078"}
+{"text":"「聞こえたって構やしねえよ。\n　どうもあいつは気に食わねえ」","translation":"I don't care if he hears me. There's just something about that guy I don't like.","id":"0090A0"}
+{"text":"「正直言って、あたしもパス。\n　声はステキなんだけど、何か陰険な感じが\n　するのよね」","translation":"Honestly, I'm not a fan either. His voice is lovely, but there's something kind of sinister about him.","id":"0090E8"}
+{"text":"「ミーナ伍長から聞いたが、\n　彼はキャシー中尉の婚約者だそうだ」","translation":"I heard from Sergeant Mina that he's Lieutenant Cathy's fiancé.","id":"009148"}
+{"text":"「本当かよ！？」","translation":"Seriously!?","id":"009190"}
+{"text":"「あらら…。\n　オズマ隊長とヨリを戻す気配ないと思ったら、\n　そんなカラクリがあったとはね」","translation":"Oh, wow... I thought there was no sign of her getting back together with Captain Ozma, but so that's what was behind it.","id":"0091B0"}
+{"text":"「では、キャシー君…作戦指示の前に\n　現時点で判明しているバジュラの生態について\n　説明してくれ」","translation":"Now then, Cathy... before we go over the operation, please explain what we currently know about Vajra biology.","id":"009210"}
+{"text":"「…カラミティ・バース以降、\n　バジュラは自らのフォールド能力により\n　この世界へ転移をしてきています」","translation":"...Since the Calamity Birth, the Vajra have been using their own Fold abilities to transfer into this world.","id":"009280"}
+{"text":"「フロンティア船団のフォールドが\n　空間跳躍のみであるのに対して、バジュラは\n　次元の壁を越える事が可能と思われます」","translation":"Whereas the Frontier Fleet's Fold is limited to spatial jumps, the Vajra appear capable of crossing dimensional barriers.","id":"0092F0"}
+{"text":"「これはカラミティ・バースの影響により\n　太陽系内の次元境界線が不安定になっている事も\n　要因であるでしょう」","translation":"The Calamity Birth has also destabilized the dimensional boundaries within the solar system, which may be another factor.","id":"009370"}
+{"text":"「体内で武装を生産して、\n　次元の壁さえも越える生物か…」","translation":"A life-form that manufactures weapons inside its body and can even cross dimensions...","id":"0093E8"}
+{"text":"「そんなのに狙われたんじゃ、\n　たまったもんじゃねえな」","translation":"If we're being targeted by something like that, we're in big trouble.","id":"009428"}
+{"text":"「これまでのデータからバジュラは\n　昆虫に近い生態を持っていると\n　考えられています」","translation":"Based on the data we've gathered so far, the Vajra are believed to have a biology similar to that of insects.","id":"009470"}
+{"text":"「それはアリやハチと同様に\n　社会を形成し、群れの内部で役割を持ち、\n　情報を共有している事によります」","translation":"That's because, like ants or bees, they form a society, have roles within the swarm, and share information.","id":"0094D0"}
+{"text":"「見た目通りに蟲って事かよ」","translation":"So they really are bugs, just like they look.","id":"009540"}
+{"text":"「こちらに攻撃を仕掛けてくるのは\n　その中の兵隊か」","translation":"So the ones attacking us are the soldiers among them?","id":"009568"}
+{"text":"「その情報を共有するというのは\n　どういう事ですか？」","translation":"What exactly do you mean when you say they share information?","id":"0095A8"}
+{"text":"「バジュラに知能があるかという事については\n　現在も研究中ですが…」","translation":"We're still studying whether the Vajra possess intelligence, but...","id":"0095E8"}
+{"text":"「彼等は学習する力を持ち、\n　それを他の仲間に伝える術を持っているのは\n　確実視されています」","translation":"It is virtually certain that they have the ability to learn, and to pass that knowledge on to others of their kind.","id":"009638"}
+{"text":"「具体的な例として、\n　個体が経験した戦闘が、群れ全体に\n　フィードバックされている事が挙げられます」","translation":"A concrete example would be the way combat experience gained by one individual is fed back into the entire swarm.","id":"0096A0"}
+{"text":"「その結果、バジュラの群れ全体が\n　一個体が経験した攻撃への対処を知り、\n　戦闘力が強化されるのです」","translation":"As a result, the whole Vajra swarm learns how to counter attacks one individual has faced, and their combat power increases.","id":"009710"}
+{"text":"「戦えば戦うほど、\n　バジュラは強くなっていくのかよ…！」","translation":"So the more we fight them, the stronger the Vajra get...!","id":"009780"}
+{"text":"「仲間のもたらした情報によって\n　群れ全体が進化する生物…」","translation":"A life-form whose entire swarm evolves through information brought back by its members...","id":"0097C0"}
+{"text":"「我々の攻撃手段が、\n　その進化のスピードに追い抜かれた場合…」","translation":"If our means of attack are outpaced by that rate of evolution...","id":"009808"}
+{"text":"「対抗する術を失うという事か」","translation":"Then we'd lose any way to fight back.","id":"009858"}
+{"text":"「つまり、戦闘が長期化すれば、\n　人類に勝ち目はないのね」","translation":"In other words, if the battle drags on, humanity has no chance of winning.","id":"009880"}
+{"text":"「そして、連中の侵攻を止めるためには\n　その社会の頂点である女王を叩かねば\n　ならない」","translation":"And to stop their invasion, we have to strike down the queen at the top of their society.","id":"0098C8"}
+{"text":"「それが今回の作戦だ」","translation":"That's the plan for this operation.","id":"009930"}
+{"text":"「フロンティア船団の調査によって\n　奴等の巣と呼ぶべきものが地球圏の外れの\n　暗礁宙域内に発見された」","translation":"A Frontier Fleet survey found what appears to be their nest in a debris field on the edge of the Earth sphere.","id":"009950"}
+{"text":"「ギシン星人の前線基地の近くか…」","translation":"Near the Gishin aliens' forward base...","id":"0099C0"}
+{"text":"「おそらくそこにいる女王が、\n　全てのバジュラに指令を与えていると\n　推測される」","translation":"It is presumed that the queen there is issuing orders to all Vajra.","id":"0099F0"}
+{"text":"「その女王を倒せば、\n　統制を失ったバジュラを駆逐する事も\n　難しくはないというわけか」","translation":"So if we defeat that queen, it won't be difficult to wipe out the Vajra once they've lost their coordination.","id":"009A48"}
+{"text":"「その通りだ。\n　そして、太陽系はバジュラの脅威から\n　救われる事となるだろう」","translation":"Exactly. And then the solar system will be saved from the Vajra threat.","id":"009AA8"}
+{"text":"「………」","translation":".........","id":"009B00"}
+{"text":"「集中しろ、アルト。\n　今はバジュラ攻略の事だけを考えるんだ」","translation":"Focus, Alto. Right now, think only about taking down the Vajra.","id":"009B18"}
+{"text":"「だけど…！」","translation":"But...!","id":"009B60"}
+{"text":"「シェリル・ノームは\n　フロンティア船団の外交大使でもある」","translation":"Sheryl Nome is also the Frontier Fleet's ambassador.","id":"009B78"}
+{"text":"「船団は彼女の救出のために全力を尽くすはずだ。\n　一緒にいるランカも船団に任せるしかない」","translation":"The fleet will spare no effort to rescue her. As for Ranka, who's with her, we'll have to leave that to the fleet too.","id":"009BC0"}
+{"text":"「あんたはそれでいいのかよ？」","translation":"And you're okay with that?","id":"009C28"}
+{"text":"「黙れ…！\n　今は作戦行動中だ！」","translation":"Shut up...! We're in the middle of an operation!","id":"009C50"}
+{"text":"「お前もＳ．Ｍ．Ｓの一員なら、\n　自分の役割を認識しろ！」","translation":"If you're a member of S.M.S., then know your role!","id":"009C80"}
+{"text":"「オズマ…」","translation":"Ozma...","id":"009CC8"}
+{"text":"「…なお、君達には極秘でもう一つの任務を\n　指令する」","translation":"...Now then, I have one more top-secret mission for you.","id":"009CE0"}
+{"text":"「それは外交大使シェリル・ノームと\n　もう一名の救出だ」","translation":"That mission is to rescue Ambassador Sheryl Nome and one other person.","id":"009D20"}
+{"text":"「え…」","translation":"Huh...?","id":"009D60"}
+{"text":"「そちらには関係者もいる以上、彼女が\n　何者かに誘拐された事は聞いているだろう」","translation":"Since there are people involved on your side as well, I assume you've heard that she was kidnapped.","id":"009D70"}
+{"text":"「犯人は船団との身代金交渉のために\n　宇宙へと上がってきていたのだが…」","translation":"The kidnappers had come up into space to negotiate a ransom with the fleet, but...","id":"009DC8"}
+{"text":"「その一団はバジュラに襲われ、\n　シェリル・ノームともう一名は\n　バジュラに連れ去られたそうだ」","translation":"That group was attacked by the Vajra, and it seems Sheryl Nome and one other person were taken away by them.","id":"009E18"}
+{"text":"「そのもう一名とは誰だ！？」","translation":"Who is that other person!?","id":"009E80"}
+{"text":"「ランカ・リー。\n　オズマ少佐…君の妹だ」","translation":"Ranka Lee. Major Ozma... your younger sister.","id":"009EA8"}
+{"text":"「ランカが…バジュラにだと…」","translation":"Ranka... taken by the Vajra...?","id":"009ED8"}
+{"text":"「生存者の証言によれば、\n　バジュラは明らかに彼女達を捕獲しようと\n　していたという」","translation":"According to survivor testimony, the Vajra were clearly trying to capture them.","id":"009F00"}
+{"text":"「彼女達は生きたままバジュラの巣に\n　捕えられている可能性が高い。\n　君達には、その救出を命じる」","translation":"There's a strong chance they're being held alive in the Vajra nest. I order you to rescue them.","id":"009F60"}
+{"text":"「私からの指示は以上だ。\n　バジュラに関するデータは送付した資料を\n　参照してくれ」","translation":"That concludes my instructions. Please refer to the materials sent to you for data on the Vajra.","id":"009FC8"}
+{"text":"「では、健闘を祈る」","translation":"Then I wish you luck.","id":"00A020"}
+{"text":"「シェリルとランカが…バジュラに…」","translation":"Sheryl and Ranka... taken by the Vajra...","id":"00A040"}
+{"text":"「聞いての通りだ、諸君。\n　我々の任務はさらわれた両名を救出し、\n　バジュラの女王を討つ事だ」","translation":"As you heard, everyone. Our mission is to rescue the two who were abducted and destroy the Vajra Queen.","id":"00A070"}
+{"text":"「まずはバジュラの巣に突入して、\n　二人を救い出さなくてはね」","translation":"First, we have to break into the Vajra nest and get those two out.","id":"00A0D8"}
+{"text":"「巣を守る防衛部隊を突破して、\n　二人を救出する役はかなりの危険が伴うな」","translation":"Breaking through the defensive force guarding the nest and rescuing them will be extremely dangerous.","id":"00A120"}
+{"text":"「俺が行く…！」","translation":"I'll go...!","id":"00A170"}
+{"text":"「オズマ少佐…\n　あなたは前線での部隊指揮が…」","translation":"Major Ozma... you're needed to command the unit on the front lines...","id":"00A188"}
+{"text":"「しかし…！」","translation":"But...!","id":"00A1C8"}
+{"text":"「隊長…。\n　二人を救出する役は俺がやる」","translation":"Captain... I'll handle rescuing the two of them.","id":"00A1E0"}
+{"text":"「アルト…」","translation":"Alto...","id":"00A218"}
+{"text":"「危険は承知の上だ。\n　だが、必ずやってみせる」","translation":"I know the risks. But I'll do it, no matter what.","id":"00A230"}
+{"text":"「アルト…」","translation":"Alto...","id":"00A268"}
+{"text":"「ランカに万一の事があったら、\n　俺は貴様をぶっ殺す…！」","translation":"If anything happens to Ranka, I'll kill you myself...!","id":"00A280"}
+{"text":"「了解…！」","translation":"Understood...!","id":"00A2C8"}
+{"text":"準女王","translation":"Sub-Queen","id":"00C320"}
+{"text":"　\n　\n　　　　　　～バジュラの巣　内部～","translation":"~Inside the Vajra Nest~","id":"00C328"}
+{"text":"「帰りたい…。\n　みんなの所に帰りたい…」","translation":"I want to go home... I want to go back to everyone...","id":"00C358"}
+{"text":"「気持ちをしっかり持って、ランカちゃん。\n　今、外では戦闘が起きている…」","translation":"Stay strong, Ranka. There's a battle going on outside right now...","id":"00C390"}
+{"text":"「きっと助けが来ているのよ」","translation":"I'm sure help is on the way.","id":"00C3E8"}
+{"text":"「でも…」","translation":"But...","id":"00C410"}
+{"text":"「歌いなさい…！\n　今、あたし達に出来る事は歌う事だけよ！」","translation":"Sing...! Right now, the only thing we can do is sing!","id":"00C428"}
+{"text":"「バルキリー！」","translation":"Valkyrie!","id":"00C470"}
+{"text":"「あのカラー…！\n　アルト君のだ！」","translation":"That color...! It's Alto's!","id":"00C490"}
+{"text":"「ランカ、シェリル！　無事か！！」","translation":"Ranka, Sheryl! Are you all right!?","id":"00C4C0"}
+{"text":"「アルト！！」","translation":"Alto!!","id":"00C4F0"}
+{"text":"「来てくれた…。\n　アルト君が来てくれたんだ…」","translation":"He came... Alto came for us...","id":"00C508"}
+{"text":"「早く乗れ！\n　後ろのデカブツが動き出さない内に\n　ここを脱出する！」","translation":"Hurry and get in! We're getting out of here before that big thing behind you starts moving!","id":"00C540"}
+{"text":"「駄目！　あいつ、こっちに気付いた！」","translation":"No! It noticed us!","id":"00C590"}
+{"text":"「くっ！」","translation":"Tch!","id":"00C5C0"}
+{"text":"「俺が援護する。\n　早く脱出しろ」","translation":"I'll cover you. Get out of there, quick.","id":"00C5D8"}
+{"text":"「すまん…！　助かった！」","translation":"Sorry...! You saved us!","id":"00C608"}
+{"text":"「別のバルキリーが来た…！」","translation":"Another Valkyrie is coming...!","id":"00C630"}
+{"text":"「あの人…！\n　『ＢＩＲＤ－ＨＵＭＡＮ』のロケの時の…」","translation":"That person...! The one from the 'BIRD-HUMAN' shoot...","id":"00C658"}
+{"text":"「あ…！」","translation":"Ah...!","id":"00C698"}
+{"text":"「急げ」","translation":"Hurry.","id":"00C6B0"}
+{"text":"「ランカ、シェリル！　\n　早く乗れ！」","translation":"Ranka, Sheryl! Hurry and get in!","id":"00C6C0"}
+{"text":"「わかったわ！」","translation":"Got it!","id":"00C6F0"}
+{"text":"「どうした、ランカ！」","translation":"What's wrong, Ranka!?","id":"00C710"}
+{"text":"「バジュラ…歌…お…母さん…」","translation":"Vajra... song... my... mother...","id":"00C730"}
+{"text":"「お前…」","translation":"You...","id":"00C758"}
+{"text":"「あの日…私の歌…」","translation":"That day... my song...","id":"00C770"}
+{"text":"「いや…いやぁぁぁぁぁっ！！」","translation":"No... noooooo!!","id":"00C790"}
+{"text":"「まさか、お前…記憶が戻ったのか…！」","translation":"No way... did your memories come back...!?","id":"00C7B8"}
+{"text":"思考エレベーター","translation":"Thought Elevator","id":"00CDE8"}
+{"text":"「…銀河を渡る者か…」","translation":"...One who crosses the galaxy...","id":"00CE28"}
+{"text":"「羨ましいね、彼等が」","translation":"I'm jealous of them.","id":"00CE48"}
+{"text":"「嘘のない世界…。\n　もうすぐ我々もそこに行く事が出来ますよ」","translation":"A world without lies... Soon, we'll be able to go there as well.","id":"00CE68"}
+{"text":"「そうだね。\n　それが僕達の約束だから」","translation":"That's right. Because that's our promise.","id":"00CEB0"}
+{"text":"クォーター格納庫","translation":"Quarter Hangar","id":"00CEE8"}
+{"text":"「う…」","translation":"Ugh...","id":"00CF00"}
+{"text":"「大丈夫か、シェリル…！\n　病み上がりのくせに無理をするからだ！」","translation":"Are you okay, Sheryl...!? This is what happens when you push yourself right after recovering!","id":"00CF18"}
+{"text":"「無理して、あたし達を助けにきた誰かさんに\n　負けてられなかったからね」","translation":"I couldn't let myself be outdone by a certain someone who pushed himself to come save us.","id":"00CF68"}
+{"text":"「あたしは大丈夫だから、\n　ランカちゃんの側についててあげて。\n　あの子…ショックが大きかったみたいだから」","translation":"I'm fine, so stay by Ranka's side. That girl... looks like the shock hit her pretty hard.","id":"00CFC0"}
+{"text":"「わかった。\n　だけど、お前も一緒に来い」","translation":"Got it. But you're coming with me, too.","id":"00D038"}
+{"text":"「え…」","translation":"Huh...?","id":"00D070"}
+{"text":"「お前もカナリア中尉に診てもらうんだよ。\n　自分が病人だって自覚しろ」","translation":"You're getting checked by Lieutenant Canaria too. Act like you're sick.","id":"00D088"}
+{"text":"「ほら…肩を貸してやる」","translation":"Here... lean on my shoulder.","id":"00D0D8"}
+{"text":"「わかったわ。\n　今日の勝利のご褒美として、特別に\n　あたしの肩を抱く事を許してあげる」","translation":"All right. As a special reward for today's victory, I'll let you put your arm around my shoulder.","id":"00D0F8"}
+{"text":"「どこまでも高飛車な奴だな」","translation":"You're as arrogant as ever.","id":"00D158"}
+{"text":"「あたしを誰だと思ってるのよ？」","translation":"Who do you think I am?","id":"00D180"}
+{"text":"「わかってるさ。\n　銀河の妖精シェリル・ノームだろ」","translation":"I know. You're Sheryl Nome, the Galactic Fairy.","id":"00D1B0"}
+{"text":"「ふふ…その通りよ」","translation":"Heh... that's right.","id":"00D1F0"}
+{"text":"「取り込み中すまない、ミス・シェリル。\n　オズマ少佐に代わって、君に伝えなくては\n　ならない事がある」","translation":"Sorry to interrupt, Miss Sheryl. I have something I must tell you on Major Ozma's behalf.","id":"00D210"}
+{"text":"「何かしら？\n　サインだったら、後にして欲しいんだけど」","translation":"What is it? If it's for an autograph, I'd prefer you wait until later.","id":"00D280"}
+{"text":"「お前…アムロ大尉に何て口を…！」","translation":"You... how can you talk to Captain Amuro like that...?!","id":"00D2C8"}
+{"text":"「構わないさ、アルト。\n　それだけの元気があれば、\n　俺としても気が楽だ」","translation":"It's fine, Alto. If she's got that much energy, it puts my mind at ease.","id":"00D2F8"}
+{"text":"「その口ぶりだと、\n　あんまりいい知らせじゃないようね」","translation":"The way you say that, it doesn't sound like very good news.","id":"00D348"}
+{"text":"「この宙域はギシン星前線基地の近く…\n　つまり彼等の勢力圏内だ」","translation":"This sector is near the Gishin Star forward base... which means we're in their sphere of influence.","id":"00D390"}
+{"text":"「我々はこのままギシン星前線基地の\n　攻略に向かうが、残念ながら、君達を\n　フロンティア船団に送る余裕はない」","translation":"We're heading to attack the Gishin Star base, but unfortunately, we can't send you back to the Frontier fleet.","id":"00D3D8"}
+{"text":"「要するに作戦が一段落するまで\n　あたし達も$cに\n　同行しろってわけね」","translation":"So basically, until the operation settles down, you want us to accompany $c too, right?","id":"00D450"}
+{"text":"「その通りだ。\n　君達の安全は我々が全力を挙げて\n　守るつもりだ」","translation":"That's right. We intend to do everything in our power to keep you safe.","id":"00D4A0"}
+{"text":"「わかったわ。\n　よろしくね、アムロ大尉」","translation":"Understood. We're in your care, Captain Amuro.","id":"00D4E8"}
+{"text":"「いいのか…？\n　そんなにあっさり承諾して」","translation":"Are you sure...? You agreed pretty easily.","id":"00D520"}
+{"text":"「何よ…？\n　あたし達を守ってくれないの、アルト？」","translation":"What...? You're not going to protect us, Alto?","id":"00D558"}
+{"text":"「それは…」","translation":"Well...","id":"00D598"}
+{"text":"「それとも自信ない？」","translation":"Or are you not confident?","id":"00D5B0"}
+{"text":"「やるさ。\n　それが俺の飛ぶ事の意味だからな」","translation":"I will. That's what flying means to me.","id":"00D5D0"}

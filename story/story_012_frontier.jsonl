@@ -1,0 +1,596 @@
+{"text":"敵の全滅。","translation":"All enemies eliminated.","id":"000500"}
+{"text":"ナイト級バジュラの撃墜。","translation":"Shoot down the Knight-class Vajra.","id":"000510"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship has been shot down.","id":"000538"}
+{"text":"アルト、ミシェル、ルカ、いずれかの撃墜。","translation":"Alto, Michel, or Luca is shot down.","id":"000550"}
+{"text":"？？？","translation":"???","id":"000588"}
+{"text":"４ターン味方フェイズ以内に他の敵を全て撃墜した後、\nナイト級バジュラを撃墜する。","translation":"Defeat all other enemies in 4 turns,\nthen Knight Vajra.","id":"000590"}
+{"text":"なし。","translation":"None.","id":"0005E0"}
+{"text":"「反応炉、出力５分の１！\n　マクロス・クォーター、微速前進！」","translation":"Reactor output at one-fifth! Macross Quarter, slow ahead!","id":"000F58"}
+{"text":"「微速前進！」","translation":"Slow ahead!","id":"000FA8"}
+{"text":"「ようやく艤装が完了したか。\n　これでクォーターも戦えるな」","translation":"So the outfitting is finally complete. Now the Quarter can fight too.","id":"000FC0"}
+{"text":"「艦長…偵察部隊からの報告では\n　間もなくバジュラの群れが戦闘エリアに\n　侵入するそうです」","translation":"Captain... the reconnaissance unit reports that a swarm of Vajra will enter the combat area shortly.","id":"001008"}
+{"text":"「よし…各機を発進させろ」","translation":"Good... launch all units.","id":"001070"}
+{"text":"「スカル小隊、スタンバイ完了」","translation":"Skull Squadron, standing by and ready.","id":"0011B8"}
+{"text":"「了解しました、オズマ少佐」","translation":"Understood, Major Ozma.","id":"0011E0"}
+{"text":"「う…キャシー！？\n　新統合軍のお前が、何故Ｓ．Ｍ．Ｓの\n　マクロス・クォーターに…！？」","translation":"Wh-... Cathy!? Why are you, from the New U.N. Forces, on the S.M.S. Macross Quarter...!?","id":"001208"}
+{"text":"「私語は慎んで下さい、少佐」","translation":"Please refrain from personal chatter, Major.","id":"001268"}
+{"text":"「フン…だいたいの事はわかるぞ。\n　大統領は俺達の動きを監視するために\n　お目付け役を寄越したわけか」","translation":"Hmph... I can figure out the gist of it. The President sent a watchdog to keep an eye on us, huh?","id":"001290"}
+{"text":"「で、親父さんの命令で\n　またお前が貧乏クジを引かされたのか」","translation":"So your old man's orders stuck you with the short straw again, did they?","id":"001300"}
+{"text":"「大きなお世話よ、オズマ！」","translation":"That's none of your business, Ozma!","id":"001348"}
+{"text":"「グラス中尉は、うちのオズマ少佐とは\n　知り合いらしいな」","translation":"It seems Lieutenant Glass here knows our Major Ozma.","id":"001370"}
+{"text":"「え、ええ…まあ…」","translation":"Y-Yes... more or less...","id":"0013B8"}
+{"text":"（怪しいですね、これは…）","translation":"This is suspicious, isn't it...","id":"0013D8"}
+{"text":"（ふふん…これはボビー大尉が\n　黙ってないわね）","translation":"Heh... Captain Bobby won't let this slide.","id":"0013F8"}
+{"text":"「艦長、我々の任務はバジュラを迎撃し、\n　フロンティア船団を守る事です」","translation":"Captain, our mission is to intercept the Vajra and protect the Frontier fleet.","id":"001430"}
+{"text":"「ですが、それと同等…あるいはそれ以上に\n　バジュラに関するデータ収集が\n　重要である事を忘れないで下さい」","translation":"But don't forget that gathering data on the Vajra is just as important, if not more so.","id":"001488"}
+{"text":"「フン…小娘が…」","translation":"Hmph... little brat...","id":"001500"}
+{"text":"「何か言いました、ボビー大尉？」","translation":"Did you say something, Captain Bobby?","id":"001520"}
+{"text":"「別に…」","translation":"Nothing...","id":"001550"}
+{"text":"「それは新統合軍ではなく、\n　君の父上…ハワード・グラス大統領からの\n　オーダーと受け取るべきかな？」","translation":"Should I take that as an order not from the New U.N. Forces, but from your father... President Howard Glass?","id":"001568"}
+{"text":"「そう取っていただいて結構です」","translation":"You may take it that way.","id":"0015D8"}
+{"text":"「もし、最悪の予想通りに\n　バジュラの大規模な群れが\n　この世界に転移してきていたとしたら…」","translation":"If, as the worst-case scenario predicts, a massive swarm of Vajra has transferred into this world...","id":"001608"}
+{"text":"「奴等のデータの有無は\n　船団と地球の各国家の関係の上で\n　重要な意味を持つだろうな」","translation":"Whether or not we have data on them will carry serious weight in the relationship between the fleet and Earth's nations.","id":"001670"}
+{"text":"「なお、現在、アイランド１では\n　シェリル・ノームがコンサートを\n　行っています」","translation":"Furthermore, Sheryl Nome is currently holding a concert on Island 1.","id":"0016D0"}
+{"text":"「大統領はそれが中断されるような事態を\n　希望していません」","translation":"The President does not want anything to happen that would interrupt it.","id":"001730"}
+{"text":"「それは、そこに詰め掛けた人々や\n　中継を見ているであろう多くの市民にとっても\n　だろうな」","translation":"That goes for the people gathered there, and for the many citizens likely watching the broadcast, too.","id":"001778"}
+{"text":"「国連平和維持理事会から派遣された部隊、\n　来ます」","translation":"A unit dispatched by the UN Peacekeeping Council is approaching.","id":"0017E0"}
+{"text":"「あれがフロンティア船団の戦艦か」","translation":"So that's the Frontier fleet's battleship.","id":"001BA0"}
+{"text":"「入手した情報じゃ、連中は\n　正規軍とは別の民間軍事プロバイダーだそうだ」","translation":"According to the intel we got, they're a private military provider separate from the regular forces.","id":"001BC8"}
+{"text":"「新装備の評価試験を兼ねて、\n　正規軍の先鋒をやってるんだとさ」","translation":"Sounds like they're serving as the regular forces' vanguard while also field-testing new equipment.","id":"001C20"}
+{"text":"「この間の戦闘を見る限り、\n　腕は確かなようだね」","translation":"Judging by the last battle, they seem pretty capable.","id":"001C70"}
+{"text":"「大方、正規軍からはみだした連中が\n　自分の腕一本で食っていってるんだろうな」","translation":"Most likely they're the kind who fell out of the regular military and now make their living on skill alone.","id":"001CB0"}
+{"text":"「日陰者のあたし達と\n　お似合いの連中みたいね」","translation":"Sounds like they're a perfect match for us outcasts.","id":"001D08"}
+{"text":"「あのマクロス・クォーターと協力して、\n　この間の蟲…バジュラを迎撃するわけか」","translation":"So we're teaming up with that Macross Quarter to intercept those bugs from before... the Vajra.","id":"001D40"}
+{"text":"「フロンティア船団は今、\n　例のシェリル・ノームのライブの\n　最中だそうよ」","translation":"Apparently the Frontier fleet is right in the middle of that Sheryl Nome concert right now.","id":"001D98"}
+{"text":"「ちぇっ…蟲退治よりも\n　そっちの警護の方が好みのミッションだぜ」","translation":"Tch... I'd rather be on security duty for that than bug-hunting.","id":"001DF0"}
+{"text":"「下らない事を言ってないの…！」","translation":"Stop saying stupid things...!","id":"001E38"}
+{"text":"「せっかくのライブの邪魔をさせないためにも\n　速やかにミッションを遂行するわよ」","translation":"We won't let anything spoil that concert, so let's carry out this mission quickly.","id":"001E60"}
+{"text":"「この間に続いて、助っ人に来てくれたか」","translation":"So you've come to lend a hand again, just like last time.","id":"001EC0"}
+{"text":"「何だか嬉しいですね。\n　違う世界の人が協力してくれるのって」","translation":"It's kind of nice, isn't it? Having people from another world help us out.","id":"001EF8"}
+{"text":"（シェリルのコンサート…。\n　そろそろ始まる頃だな…）","translation":"(Sheryl's concert... It should be starting soon...)","id":"001F40"}
+{"text":"「バジュラ、来ます！」","translation":"Vajra incoming!","id":"0021C0"}
+{"text":"「スカルリーダーより、各機へ！\n　今回は助っ人もいるが、船団を守るのは\n　俺達の仕事だ！」","translation":"Skull Leader to all units! We may have reinforcements this time, but protecting the fleet is our job!","id":"002280"}
+{"text":"「了解！\n　とっとと片付けて、シェリルのライブ中継を\n　観賞するとしますか！」","translation":"Roger! Let's wrap this up quick and catch Sheryl's live broadcast!","id":"0022E0"}
+{"text":"（ミシェル…）","translation":"(Michel...)","id":"002338"}
+{"text":"「バジュラ、攻撃を開始します！」","translation":"The Vajra are commencing their attack!","id":"002350"}
+{"text":"「突っ込むぞ！\n　ついて来いよ！」","translation":"We're going in! Follow me!","id":"002378"}
+{"text":"「全機、ＰＬＡＮＥＴ　ＤＡＮＣＥ！！」","translation":"All units, PLANET DANCE!!","id":"0023A8"}
+{"text":"「デフォールド反応！\n　この宙域に何かがフォールドアウトします！」","translation":"Defold reaction! Something is folding out in this sector!","id":"002578"}
+{"text":"「デカブツが出やがったか！」","translation":"So a big one showed up, huh!","id":"002660"}
+{"text":"「敵の母艦か…？」","translation":"Is that the enemy's mothership...?","id":"002688"}
+{"text":"「どうやら、あのバジュラなる生物…\n　それぞれに群体内での役割が\n　与えられているようですね」","translation":"It seems those creatures called Vajra... have each been assigned a role within the swarm.","id":"0026A8"}
+{"text":"「まるでハチやアリね」","translation":"Just like bees or ants.","id":"002710"}
+{"text":"「あれが指揮官で\n　奴を落とせば、勝負がつくのか」","translation":"So that's the Commander... If we take it down, this fight is over.","id":"002730"}
+{"text":"「スカルリーダーより、各機へ！\n　ちんたらやってれば、こちらが不利だ！\n　母艦を叩いてケリをつけるぞ！」","translation":"Skull Leader to all units! If we drag this out, we'll be at a disadvantage! Hit the mothership and finish this!","id":"002768"}
+{"text":"「了解です！\n　同時に可能な限りのデータを収集します！」","translation":"Roger! I'll gather as much data as possible at the same time!","id":"0027D8"}
+{"text":"「やったか…！」","translation":"Did we get it...?","id":"002978"}
+{"text":"「後退する気か！？」","translation":"Is it retreating!?","id":"002A30"}
+{"text":"「シモン、ヨハネ、ペテロ！\n　その前にあいつのデータを！」","translation":"Simon, John, Peter! Get data on that thing first!","id":"002A50"}
+{"text":"「やめろ、ルカ！\n　奴はまだ生きている！」","translation":"Stop, Luca! It's still alive!","id":"002B50"}
+{"text":"「！」","translation":"!","id":"002B88"}
+{"text":"「うわあああっ！！」","translation":"Aaaah!!","id":"002C58"}
+{"text":"「ルカ！！」","translation":"Luca!!","id":"002C78"}
+{"text":"「やめろ、アルト！\n　お前では無理だ！！」","translation":"Stop, Alto! You can't do this alone!!","id":"002C90"}
+{"text":"「無理だろうとルカを見殺しに出来るか！」","translation":"You think I can just leave Luca to die because it's impossible?!","id":"002CC8"}
+{"text":"「待ってろ、ルカ！\n　今、助けてやるぞ！！」","translation":"Hang on, Luca! I'm coming to save you!!","id":"002DF8"}
+{"text":"「まだいやがったか！」","translation":"It's still here!?","id":"002ED0"}
+{"text":"「くうっ！！」","translation":"Guh!!","id":"002F90"}
+{"text":"「アルト！！」","translation":"Alto!!","id":"002FA8"}
+{"text":"「これは…歌…！？」","translation":"This is... a song...!?","id":"003080"}
+{"text":"「歌が聴こえてくる…だと！？」","translation":"I can hear singing...!?","id":"0030A0"}
+{"text":"「動け、アルト！\n　敵を振り切れ！！」","translation":"Move, Alto! Shake off the enemy!!","id":"0030C8"}
+{"text":"「くっ…！」","translation":"Damn it...!","id":"0030F8"}
+{"text":"「ミハエル！　こいつを引き離せ！」","translation":"Michael! Get this thing off me!","id":"003110"}
+{"text":"「駄目だ…！\n　下手すれば、お前に当たっちまう！」","translation":"I can't...! If I'm not careful, I'll hit you!","id":"003140"}
+{"text":"「聞いたぞ、一発必中なんだろ！\n　お前も、お前の姉さんのジェシカも！」","translation":"I heard you never miss, right!? You and your sister Jessica both!","id":"003180"}
+{"text":"「クランか…あのお節介め！」","translation":"Klan, huh... that meddlesome busybody!","id":"0031D0"}
+{"text":"「ミハエル！\n　撃て、姉さんを超えろ！」","translation":"Michael! Fire! Surpass your sister!","id":"0031F8"}
+{"text":"「！」","translation":"!","id":"003228"}
+{"text":"「ミシェル！」","translation":"Michel!","id":"003238"}
+{"text":"「…行くぞ、アルト！」","translation":"...Let's go, Alto!","id":"003250"}
+{"text":"「うおおおっ！」","translation":"Uoooooh!","id":"003470"}
+{"text":"「やった！　やったぞ、ミシェル！！」","translation":"We did it! We did it, Michel!!","id":"003528"}
+{"text":"「よし！！」","translation":"All right!!","id":"003558"}
+{"text":"「残りがケツから来る！\n　急げ、アルト！！」","translation":"The rest are coming from behind! Hurry, Alto!!","id":"003630"}
+{"text":"「こちらアンタレス１。\n　援護する」","translation":"This is Antares 1. I'll cover you.","id":"003708"}
+{"text":"「何だ、あの機体は…！？」","translation":"What is that unit...!?","id":"0037D8"}
+{"text":"「ＹＦ－２４…？\n　いや…違う…！」","translation":"YF-24...? No... that's not it...!","id":"003800"}
+{"text":"「詮索は後だ！\n　アルトをフォローするぞ！！」","translation":"Questions later! Cover Alto!!","id":"003830"}
+{"text":"「ルカーッ！！」","translation":"Luca!!","id":"003868"}
+{"text":"「スカル４がスカル３を保護しました！」","translation":"Skull 4 has secured Skull 3!","id":"003980"}
+{"text":"「艦長」","translation":"Captain.","id":"0039B0"}
+{"text":"「勝算は？」","translation":"What are our odds?","id":"0039C0"}
+{"text":"「奴はノロマです。\n　でしょ、ラム？」","translation":"He's slow. Right, Ram?","id":"0039D8"}
+{"text":"「はい。スカル３が収集したデータから\n　シミュレートしました。\n　最大戦速なら、こっちの勝ちです」","translation":"Yes. I ran simulations based on the data Skull 3 collected. At maximum speed, we win.","id":"003A08"}
+{"text":"「うむ、ミーナ君」","translation":"Understood, Ms. Mina.","id":"003A70"}
+{"text":"「各部異常なし。\n　改装後、初となりますが、いけると判断します」","translation":"All systems normal. It's our first sortie since the refit, but I judge us ready.","id":"003A90"}
+{"text":"「うむ、モニカ君」","translation":"Understood, Ms. Monica.","id":"003AD8"}
+{"text":"「砲撃パターンから回避プログラムを組みました。\n　ナビゲートはお任せ下さい」","translation":"I've built an evasion program based on its bombardment patterns. Leave the navigation to me.","id":"003AF8"}
+{"text":"「ちょ…待って下さい、艦長！\n　出るのは危険過ぎます！」","translation":"W-Wait, Captain! It's far too dangerous to go out there!","id":"003B50"}
+{"text":"「奴を完全に叩かん以上、\n　バジュラは増援を送り込んでくる」","translation":"If we don't finish it off completely, the Vajra will send in reinforcements.","id":"003B98"}
+{"text":"「ですが…！」","translation":"But...!","id":"003BE0"}
+{"text":"「グラス中尉…君が伝えた大統領のオーダーは\n　何だったかね？」","translation":"Lieutenant Glass... what was the President's order you relayed to us?","id":"003BF8"}
+{"text":"「え…」","translation":"Uh...","id":"003C48"}
+{"text":"「我々にはまだ、それを満たす手段がある」","translation":"We still have the means to carry it out.","id":"003C60"}
+{"text":"「クォーターより、出撃中の全部隊に告げる。\n　本艦はこれより、バジュラ空母艦との\n　格闘戦に入る」","translation":"Quarter to all deployed units. This ship will now engage the Vajra carrier in close-quarters combat.","id":"003C98"}
+{"text":"「格闘戦！？」","translation":"Close-quarters combat!?","id":"003D08"}
+{"text":"「ついにお出ましか！」","translation":"So it's finally showtime!","id":"003D20"}
+{"text":"「諸君らはスカル３と４のフォローを。\n　最大の獲物はこちらでいただく！」","translation":"You all cover Skull 3 and 4. We'll take the biggest prize ourselves!","id":"003D40"}
+{"text":"「全艦、トランス・フォーメーション！」","translation":"All hands, transform!","id":"003D98"}
+{"text":"「本艦はこれよりトランス・フォーメーションを\n　開始します」","translation":"This ship will now begin Trans-Formation.","id":"003DD0"}
+{"text":"「各員は強攻型シフトを開始して下さい」","translation":"All crew, begin shift to Assault Configuration.","id":"003E18"}
+{"text":"「メイン反応炉、出力上昇！」","translation":"Main reactor output rising!","id":"003E48"}
+{"text":"「フラクタルモジュールシステム、\n　アクティベート！」","translation":"Fractal Module System, activate!","id":"003E70"}
+{"text":"「艦長！\n　私はまだ完全に納得したわけでは…」","translation":"Captain! I'm still not entirely convinced...","id":"004230"}
+{"text":"「ボビー！　このクォーターが\n　何故４００メートル級でありながら、\n　マクロスの名を冠されているのか…」","translation":"Bobby! Show them why this Quarter, despite being a 400-meter-class ship, bears the name Macross...","id":"004268"}
+{"text":"「いや、マクロスでありながら、\n　何故、このサイズなのかを思い知らせてやれ！」","translation":"No, show them why a ship called Macross can be this size!","id":"0042E0"}
+{"text":"「ＯＫ、ボス！」","translation":"OK, boss!","id":"004340"}
+{"text":"「いっくぜぇぇぇぇっ！！」","translation":"Here we gooooo!!","id":"004358"}
+{"text":"「戦艦が…！」","translation":"The battleship...!","id":"0044A0"}
+{"text":"「人型に変形しただと…！？」","translation":"It transformed into a humanoid form...!?","id":"0044B8"}
+{"text":"「邪魔だーっ！！」","translation":"Get out of my way!!","id":"0045A0"}
+{"text":"「おっしゃあっ！　取ったぁぁぁっ！！」","translation":"All right! Got it!!","id":"004660"}
+{"text":"「これがクォーターの…！」","translation":"So this is the Quarter's...!","id":"004690"}
+{"text":"「マクロスキャノン、発射用意！！」","translation":"Macross Cannon, prepare to fire!!","id":"0046B8"}
+{"text":"「すごい…」","translation":"Amazing...","id":"0047C8"}
+{"text":"「どう、国連の皆さん？\n　これが我がＳ．Ｍ．Ｓの戦いよ」","translation":"Well, UN folks? This is how our S.M.S. fights.","id":"0047E0"}
+{"text":"「バジュラ、全て後退しました」","translation":"All Vajra have retreated.","id":"0048E0"}
+{"text":"「指揮官が討たれた以上、\n　兵隊は退くしかあるまい」","translation":"With their commander down, the troops have no choice but to retreat.","id":"004908"}
+{"text":"「無事か、ルカ！？」","translation":"Are you okay, Luca!?","id":"004948"}
+{"text":"「は、はい、先輩…。\n　ありがとうございます」","translation":"Y-yes, senpai... Thank you very much.","id":"004968"}
+{"text":"「それにしても、僕達を助けてくれた\n　あの機体は…」","translation":"Still, that unit that saved us...","id":"0049A0"}
+{"text":"（これでフロンティアはバジュラのデータを\n　入手したか…）","translation":"So Frontier has obtained Vajra data, huh...","id":"0049E0"}
+{"text":"「何なんだ、あいつは…」","translation":"What the hell is that guy...?","id":"004B68"}
+{"text":"「新統合軍の機体か…」","translation":"A New U.N. Forces unit...?","id":"004B88"}
+{"text":"「あんな機体が開発されたという話は\n　聞いていませんが…」","translation":"I haven't heard anything about a machine like that being developed...","id":"004BA8"}
+{"text":"「各機、よくやった。\n　帰還するぞ」","translation":"Good work, everyone. We're heading back.","id":"004BE8"}
+{"text":"「待って下さい！\n　このエリアの次元境界線が\n　急速に歪曲していきます！」","translation":"Wait! The dimensional boundary in this area is rapidly warping!","id":"004C18"}
+{"text":"「…！」","translation":"...!","id":"004D88"}
+{"text":"「これは…！\n　次元震が起きます！」","translation":"This is...! A dimensional quake is about to occur!","id":"004D98"}
+{"text":"「何だ、こいつら…！？\n　フォールドしてきたのか！？」","translation":"What are these things...!? Did they Fold in!?","id":"004E88"}
+{"text":"「こいつらは次元獣。\n　次元の壁の向こうから現れる見境無しの\n　破壊魔だ」","translation":"These are Dimensional Beasts. They're indiscriminate destroyers that appear from beyond the dimensional barrier.","id":"004EC8"}
+{"text":"「悪いな、あんたら。\n　また、俺達の世界の名物が\n　出てきちまったようだぜ」","translation":"Sorry about this, folks. Looks like another one of our world's local specialties has shown up again.","id":"004F18"}
+{"text":"「角付きって事は、\n　手強いバージョンの方かよ…！」","translation":"It's got horns, so that means it's the tougher version...!","id":"004F68"}
+{"text":"「奴等は以前に現れたものとは区別され、\n　既に別の名前が与えられている」","translation":"They're distinguished from the ones that appeared before, and have already been given a different name.","id":"004FA8"}
+{"text":"「ただ強いだけじゃなく、\n　帰還する事もない次元獣…！」","translation":"They're not just stronger, they're Dimensional Beasts that never return...!","id":"005000"}
+{"text":"「来やがったか…」","translation":"So they finally showed up...","id":"005048"}
+{"text":"「ＭＤの色違いか。\n　どうやら、奴はいないようだな」","translation":"A different-colored MD, huh. Looks like he's not here.","id":"0051C0"}
+{"text":"「話の通じる相手ではないようだ。\n　迎撃するしかあるまい」","translation":"They don't seem like an enemy we can reason with. We have no choice but to intercept them.","id":"0051F8"}
+{"text":"「各機、フォーメーションを組み直せ！\n　来るぞ！」","translation":"All units, reform formation! Here they come!","id":"005240"}
+{"text":"「気をつけな。\n　こいつらは並の相手じゃねえ」","translation":"Be careful. These guys aren't ordinary enemies.","id":"005280"}
+{"text":"「だが、俺の前に出てきた以上、\n　逃がしゃしねえ…！」","translation":"But now that they've shown themselves before me, I won't let them get away...!","id":"0052B8"}
+{"text":"「いい殺気だぜ、$n」","translation":"Nice killing intent, $n.","id":"0052F8"}
+{"text":"（怖い、怖い…。\n　いつものヘラヘラが消えてるぜ…）","translation":"Scary, scary... That usual goofy grin of yours is gone...","id":"005318"}
+{"text":"「行くぞ、次元獣。\n　二度とお前等に後れはとらねえ…！」","translation":"Come on, Dimensional Beasts. I won't let you get the better of me again...!","id":"005358"}
+{"text":"「ざっと、こんなもんだぜ」","translation":"That about does it.","id":"005518"}
+{"text":"「口で言う程、楽勝ではなかったがな」","translation":"Though it wasn't as easy as you made it sound.","id":"005538"}
+{"text":"「こんな奴等が世界中に現れたら\n　たまったもんじゃないぜ」","translation":"If things like these started popping up all over the world, that'd be a nightmare.","id":"005568"}
+{"text":"「ヴェーダの記録では、新種の次元獣の出現例は\n　まだそれ程多くはないそうだが…」","translation":"According to Veda's records, cases of these new-type Dimensional Beasts appearing still aren't all that common, but...","id":"0055B0"}
+{"text":"「じゃあ、その数少ない例に\n　私達は当たったってわけね」","translation":"So we just happened to run into one of those rare cases, huh.","id":"005610"}
+{"text":"「そんな偶然を喜べるのは\n　一人だけね」","translation":"There's only one person who'd be happy about a coincidence like that.","id":"005650"}
+{"text":"「ちっ…！　逃げやがったか！」","translation":"Tch...! They got away!","id":"0057C0"}
+{"text":"「だが、帰還したわけじゃない。\n　どこかへ去っていっただけだ」","translation":"But they didn't return. They just went off somewhere else.","id":"0057E8"}
+{"text":"「フェルト…次元獣の反応は？」","translation":"Feldt... any readings on the Dimensional Beasts?","id":"005830"}
+{"text":"「駄目です。\n　ロストしました」","translation":"No good. We lost them.","id":"005858"}
+{"text":"「追撃は無理ね…。\n　こちらの消耗も激しいし」","translation":"Pursuit is impossible... We're too exhausted as it is.","id":"005888"}
+{"text":"「あんな奴等が世界中に現れたら\n　たまったもんじゃないぜ」","translation":"If things like these started popping up all over the world, that'd be a nightmare.","id":"0058C0"}
+{"text":"「………」","translation":".........","id":"005AA8"}
+{"text":"「そう落ち込むなよ、$n」","translation":"Don't be so down, $n.","id":"005AB8"}
+{"text":"「俺が…？　冗談きついぜ、デュオ」","translation":"Me...? That's a cruel joke, Duo.","id":"005AD8"}
+{"text":"「強がるなよ。\n　お前をノシた白い奴が出てこなかったんで\n　がっかりしてんじゃないのか？」","translation":"Don't act tough. Aren't you disappointed that the white one who flattened you never showed up?","id":"005B00"}
+{"text":"「まあな…。\n　奴には借りがあるからな」","translation":"Yeah... I've got a score to settle with it.","id":"005B68"}
+{"text":"「この前の新種の白い次元獣だね」","translation":"You mean that new white Dimensional Beast from before.","id":"005B98"}
+{"text":"「奴はＭＤと呼ばれている。\n　俺はそいつを追うっていう別口の依頼を\n　受けてるんだ」","translation":"That one's called MD. I've got a separate job to track it down.","id":"005BC8"}
+{"text":"「今回の群れにはいなかったが、\n　あれだけのタマだ…。\n　きっとそのうち、また会うだろうさ」","translation":"It wasn't with this swarm, but with that kind of power... I'm sure we'll run into it again before long.","id":"005C20"}
+{"text":"「出来れば、あんなのとは\n　二度と戦いたくないけどな…」","translation":"If possible, I'd rather never fight something like that again...","id":"005C80"}
+{"text":"「心配するな。\n　奴は俺の獲物だ」","translation":"Don't worry. That one's my prey.","id":"005CC0"}
+{"text":"「そう…俺が依頼を受けたんだからな…」","translation":"That's right... I'm the one who took the job, after all...","id":"005CE8"}
+{"text":"「とりあえず、今回のミッションは終了ね」","translation":"For now, this mission is over.","id":"005D18"}
+{"text":"「王留美を通じて、ボートマンからも\n　帰還の指示が出ています」","translation":"Through Wang Liu Mei, we've also received orders from Boatman to return.","id":"005D50"}
+{"text":"「こちらはＳ．Ｍ．Ｓ所属\n　マクロス・クォーター艦長、\n　ジェフリー・ワイルダー大佐だ」","translation":"This is Colonel Jeffrey Wilder, captain of the S.M.S. Macross Quarter.","id":"005D98"}
+{"text":"「君達の協力に感謝する」","translation":"Thank you for your cooperation.","id":"005E00"}
+{"text":"「どういたしまして。\n　使節団の折衝が一区切りした以上、\n　我々は地球へ帰還する事になります」","translation":"You're welcome. Now that the envoy negotiations have reached a pause, we'll be returning to Earth.","id":"005E28"}
+{"text":"「こうして共に戦う事は\n　二度とないでしょうね」","translation":"We probably won't have another chance to fight together like this.","id":"005E90"}
+{"text":"「では、再会する事があれば、\n　改めて今日の礼を述べたい」","translation":"Then, if we should meet again, I would like to properly thank you for today.","id":"005ED0"}
+{"text":"「その必要はありません。\n　…私達には感謝の言葉は似合いませんから」","translation":"That won't be necessary. ...Words of gratitude don't suit us.","id":"005F18"}
+{"text":"「そうか…」","translation":"I see...","id":"005F68"}
+{"text":"「同胞として、今後、\n　あなた方に幸多からん事をお祈りします」","translation":"As fellow humans, I pray that fortune will be with you from here on.","id":"005F80"}
+{"text":"「では、失礼します。\n　各機は後退を」","translation":"Then, if you'll excuse us. All units, fall back.","id":"005FC8"}
+{"text":"「こちらも帰還するぞ」","translation":"We're returning as well.","id":"005FF8"}
+{"text":"（戦闘中に聞こえた歌…。\n　あれは確かにシェリルとランカの声だった…）","translation":"The song I heard during the battle... Those were definitely Sheryl and Ranka's voices...","id":"006020"}
+{"text":"「何をしている、アルト。\n　帰還するぞ」","translation":"What are you doing, Alto? We're heading back.","id":"006070"}
+{"text":"「りょ、了解…！」","translation":"R-Roger...!","id":"0060A0"}
+{"text":"「今日の無茶については、\n　後でたっぷり絞ってやる」","translation":"As for the reckless stunt you pulled today, I'll chew you out plenty later.","id":"0060C0"}
+{"text":"「…だが、よくやったぞ」","translation":"...But you did well.","id":"006100"}
+{"text":"「指導役の俺としても鼻が高いぜ、アルト」","translation":"As your instructor, I'm proud of you, Alto.","id":"006120"}
+{"text":"「何言ってやがる。\n　俺の実力だろ、ミシェル」","translation":"What are you talking about? That was all my skill, Michel.","id":"006158"}
+{"text":"「そういう事にしといてやるか」","translation":"I'll let you have that one.","id":"006190"}
+{"text":"「よし…！\n　フロンティアに帰るぞ！」","translation":"All right...! Let's head back to Frontier!","id":"0061B8"}
+{"text":"「あれが私のターゲットですか…」","translation":"So that's my target...?","id":"006668"}
+{"text":"「フフ…かなりの強敵のようですね。\n　これは油断できません」","translation":"Heh... looks like quite a formidable foe. I can't let my guard down.","id":"006690"}
+{"text":"「雨に濡れた花束…。\n　そして、太陽と月の息吹…。\n　それはカオスの目眩と言うべきものですから」","translation":"A bouquet soaked by rain... And the breath of the sun and moon... That's what you'd call the dizziness of chaos.","id":"0066D8"}
+{"text":"「やはり、こいつら…\n　あの次元震以前の奴等とは物が違う…」","translation":"As I thought, these guys... they're on a different level than the ones before that dimensional quake...","id":"006840"}
+{"text":"「だが、ここでやられちゃ、\n　エスターとの約束も果たせねえ…。\n　そいつは俺の主義に反するんだよ…！」","translation":"But if I go down here, I won't be able to keep my promise to Esther... And that goes against everything I stand for...!","id":"006880"}
+{"text":"「やってやる…！\n　俺だって何かをやるために\n　Ｓ．Ｍ．Ｓに入ったんだ！」","translation":"I'll do it...! I joined S.M.S. because I wanted to do something too!","id":"0069A8"}
+{"text":"「生きて帰って、\n　このイヤリングをシェリルに返すんだ！」","translation":"I have to make it back alive, and return this earring to Sheryl!","id":"0069F8"}
+{"text":"（姉さんの事を言われただけで\n　動揺するとは、俺もまだガキだね…）","translation":"Just hearing my sister brought up was enough to shake me up... Guess I'm still a kid...","id":"006B00"}
+{"text":"「心の揺れは照準を曇らす…。\n　平静を保てないようじゃ、\n　スナイパーはやってられないぜ…！」","translation":"A wavering heart clouds your aim... If I can't stay calm, I've no business being a sniper...!","id":"006B50"}
+{"text":"「こいつが蟲の親玉か。\n　相手にとって不足無しだ…！」","translation":"So this is the bugs' boss, huh? Fine by me...!","id":"006C78"}
+{"text":"「俺達がいる以上、地球には近づけさせねえ！\n　手下の蟲達にも、そう伝えな！！」","translation":"As long as we're here, we won't let you get near Earth! Tell your bug underlings that too!!","id":"006CB8"}
+{"text":"「一応、女の子としては\n　こういうちょっとグロめの相手と戦うのは\n　正直、気が滅入るのよね」","translation":"Honestly, as a girl, fighting enemies this gross is pretty depressing.","id":"006DD0"}
+{"text":"「こうなったら、親玉を片付けて、\n　とっとと終わりにするわよ！」","translation":"In that case, let's take out the boss and finish this already!","id":"006E30"}
+{"text":"「こんな奴まで現れたって事は\n　やはり、バジュラは群れごと\n　跳ばされたようだな…！」","translation":"The fact that even something like this showed up means the Vajra must've been transported along with their whole swarm...!","id":"006F38"}
+{"text":"「だが、ここは通さん…！\n　フロンティアには絶対に近づけさせんぞ！」","translation":"But I won't let you through...! I won't let you get anywhere near Frontier!","id":"006F98"}
+{"text":"「バカスカ撃ちまくりやがって…。\n　こいつら、本当に生物なのかよ…！」","translation":"They're firing like crazy... Are these things really living creatures...?!","id":"0070A8"}
+{"text":"「こういう強敵のデータは\n　ボーナスがつくと信じてるぜ…！」","translation":"I bet data on tough enemies like this comes with a bonus...!","id":"0070F8"}
+{"text":"「こっちの地球には\n　こんな奴等までいるのかよ！」","translation":"So this Earth has monsters like these too?!","id":"0071F8"}
+{"text":"「くそっ！\n　本当の空を飛ぶ前に\n　こんな所で死んでたまるか！！」","translation":"Damn it! Like hell I'm gonna die in a place like this before I ever get to fly in the real sky!!","id":"007238"}
+{"text":"「あ！」","translation":"Ah!","id":"007340"}
+{"text":"グリフィスパーク","translation":"Griffith Park","id":"007560"}
+{"text":"　\n　　\n　　　　　　　～グリフィスパーク～","translation":"~Griffith Park~","id":"007578"}
+{"text":"「よう…。\n　やっぱり、この丘にいたか」","translation":"Hey... Figured you'd be on this hill.","id":"0075A8"}
+{"text":"「アルト君…」","translation":"Alto...","id":"0075D8"}
+{"text":"「昨日の歌…いい歌だったな」","translation":"That song yesterday... it was a good one.","id":"0075F0"}
+{"text":"「あのね、アルト君…」","translation":"Um, Alto...","id":"007618"}
+{"text":"「その目…決心したんだな」","translation":"That look in your eyes... you've made up your mind.","id":"007638"}
+{"text":"「うん…」","translation":"Yeah...","id":"007660"}
+{"text":"「この数日間でアルト君やシェリルさんと\n　お話して、ずっと考えたの」","translation":"These past few days, after talking with you and Sheryl, I've been thinking about it the whole time.","id":"007678"}
+{"text":"「…私ね…子供の頃の事…何にも覚えてないんだ。\n　けど、あの歌だけ覚えてるの。\n　私のたった一つの思い出なんだ」","translation":"...I don't remember anything from when I was little. But I do remember that song. It's my one and only memory.","id":"0076C8"}
+{"text":"「そっか…」","translation":"I see...","id":"007740"}
+{"text":"「それでね…時々、この丘に歌いに来るの。\n　ここなら、誰も聴いてないから…」","translation":"So... sometimes I come to this hill to sing. Because no one can hear me here...","id":"007758"}
+{"text":"「聴いてない…？\n　それでいいのか？」","translation":"No one can hear you...? And you're okay with that?","id":"0077B0"}
+{"text":"「…今までは、そう思ってたんだけど…」","translation":"...That's what I used to think, but...","id":"0077E0"}
+{"text":"「え…」","translation":"Huh...?","id":"007810"}
+{"text":"「…素敵だよね、シェリルさん。\n　すごく羨ましい」","translation":"...Sheryl is wonderful, isn't she? I'm really jealous.","id":"007820"}
+{"text":"「………」","translation":".........","id":"007860"}
+{"text":"「前にアルト君とシェリルさんと一緒に\n　シェルターに閉じ込められた時、\n　すごく怖かった…」","translation":"Back when I was trapped in the shelter with you and Sheryl, I was so scared...","id":"007878"}
+{"text":"「このまま誰にも知られないで、\n　何も出来ないで死んじゃうんだって…」","translation":"I thought I'd die without anyone ever knowing me, without being able to do anything...","id":"0078E0"}
+{"text":"「そしたらね…\n　私はここにいるよって…それを出来るだけ\n　たくさんの人に伝えられたらなって…」","translation":"And then... I started wishing I could tell as many people as possible... that I'm here...","id":"007930"}
+{"text":"「そう思うようになって…」","translation":"That's how I started to feel...","id":"007998"}
+{"text":"「…無理だな」","translation":"...No way.","id":"0079C0"}
+{"text":"「え…」","translation":"Huh...?","id":"0079D8"}
+{"text":"「そうだよね…私なんか…」","translation":"Yeah... someone like me...","id":"0079E8"}
+{"text":"「そうやって、出来たらとか、\n　自分なんかって言ってるうちは、絶対に」","translation":"If you keep saying things like 'if only I could' or 'someone like me,' you'll never—","id":"007A10"}
+{"text":"「………」","translation":".........","id":"007A60"}
+{"text":"「ふふ…意地悪だね、アルト君」","translation":"Hehe... You're mean, Alto.","id":"007A78"}
+{"text":"「よく言われるよ」","translation":"I hear that a lot.","id":"007AA0"}
+{"text":"「私、みんなに伝えたいの！\n　だから、聴いてくれる？\n　私の歌！」","translation":"I want to reach everyone! So... will you listen? To my song!","id":"007AC0"}
+{"text":"「好きにしろよ」","translation":"Do whatever you want.","id":"007B08"}
+{"text":"「ありがとう、アルト君！\n　私、歌うね！」","translation":"Thanks, Alto! I'm going to sing!","id":"007B20"}
+{"text":"（いい歌だな…）","translation":"That's a good song...","id":"007B58"}
+{"text":"（こいつの歌に\n　いつも俺は助けられてるような気がする）","translation":"I feel like her songs are always saving me.","id":"007B70"}
+{"text":"（そうさ、だから俺は…）","translation":"Yeah... that's why I...","id":"007BB0"}
+{"text":"大統領執務室Ｂ","translation":"President's Office B","id":"007BD0"}
+{"text":"　\n　\n　　　～フロンティア船団　大統領執務室～","translation":"~ Frontier Fleet President's Office ~","id":"007BE0"}
+{"text":"「…では、ハワード・グラス大統領…\n　大筋は合意していただけたとみて\n　よろしいでしょうか？」","translation":"...Then, President Howard Glass... may we take it that you've agreed in principle?","id":"007C10"}
+{"text":"「うむ…。\n　国連が我々フロンティア船団を一国家として\n　認めてくれる事に感謝する」","translation":"Yes... We are grateful that the U.N. recognizes our Frontier Fleet as a sovereign nation.","id":"007C78"}
+{"text":"「それに対して、あくまで我々は中立を守り、\n　科学技術等の提供については、\n　各国家に平等に機会を与える事を約束しよう」","translation":"In return, we promise to remain neutral and offer our science and technology equally to all nations.","id":"007CD8"}
+{"text":"「ありがとうございます、大統領」","translation":"Thank you, Mr. President.","id":"007D58"}
+{"text":"「なお、バジュラについては\n　我々の方でも調査中ではありますが、\n　いくらかはわかった事があります」","translation":"As for the Vajra, our own investigation is still ongoing, but we have learned a few things.","id":"007D88"}
+{"text":"「バジュラは単体でフォールド…\n　いわゆる超空間航法が可能であり…」","translation":"The Vajra are capable of Fold travel on their own... in other words, hyperspace navigation...","id":"007DF0"}
+{"text":"「その体内ではミサイルのような物体を生産し、\n　光学兵器すら装備しています」","translation":"Inside their bodies, they produce missile-like objects, and are even equipped with optical weapons.","id":"007E40"}
+{"text":"「あれは生物なのですか？」","translation":"Are those things living creatures?","id":"007E98"}
+{"text":"「我々の考える生物とはかけ離れていますが、\n　有機体である以上、そう分類せざるを\n　得ないでしょう」","translation":"They're far removed from what we'd call living beings, but since they are organic, we must classify them as such.","id":"007EC0"}
+{"text":"「驚くべきは、それ程の高度な機能を持ちながら、\n　それを制御するには、脳と呼ばれる部分が\n　あまりに少ない…」","translation":"What's remarkable is that despite such advanced functions, they have too little that could be called a brain...","id":"007F28"}
+{"text":"「いや、ほぼ存在しないと言ってもいい事です」","translation":"No, you could almost say it doesn't exist at all.","id":"007FA0"}
+{"text":"「では、あれは何をもって\n　自己の行動を決定しているのです？」","translation":"Then what determines their actions?","id":"007FD8"}
+{"text":"「自ら思考する必要のない下等な生物であるか…\n　もしくは何者かによって操られているものと\n　推測されます」","translation":"We can only assume they're either primitive life-forms with no need to think for themselves... or controlled by someone.","id":"008028"}
+{"text":"「生物兵器…のようなものでしょうか」","translation":"So, they're like biological weapons?","id":"008098"}
+{"text":"「それらについても現在、調査中でありますが…」","translation":"We're still investigating that as well...","id":"0080D0"}
+{"text":"「混乱を抑えるために\n　明日、大統領から国連への加入と合わせて\n　市民へバジュラの情報の開示を行います」","translation":"To prevent panic, tomorrow the President will announce our U.N. accession and disclose Vajra information to the public.","id":"008108"}
+{"text":"「問題は、あのバジュラが地球圏に\n　どの程度、潜んでいるかです」","translation":"The problem is how many of those Vajra are lurking in the Earth Sphere.","id":"008178"}
+{"text":"「それらも調査中だが、\n　転移時の状況を見る限り、それ程の数が\n　跳ばされたとは思えない」","translation":"We're investigating that too, but judging from the circumstances of the transfer, I don't think that many were sent here.","id":"0081C8"}
+{"text":"「残存個体の殲滅については、\n　フロンティア船団が中心となる事を\n　約束しよう」","translation":"I promise that the Frontier Fleet will take the lead in exterminating the remaining individuals.","id":"008230"}
+{"text":"「了解しました。\n　無論、同胞として我々も最大限の協力を\n　させていただきます」","translation":"Understood. Naturally, we too will offer our fullest cooperation as fellow countrymen.","id":"008288"}
+{"text":"「転移の際の衝撃により、\n　フロンティア船団のフォールド・システムは\n　トラブルが発生している」","translation":"Due to the impact of the transfer, the Frontier Fleet's Fold System has suffered a malfunction.","id":"0082E8"}
+{"text":"「それの修理が完了するまで、\n　我々は地球圏に留まる事になるだろう」","translation":"Until repairs are complete, we will have to remain in the Earth Sphere.","id":"008350"}
+{"text":"「我々の船団の目的は\n　人類の種を広める事にあります」","translation":"The purpose of our fleet is to spread the human race.","id":"0083A0"}
+{"text":"「ですので、修理が完了しましたら、\n　この世界でも新天地を求めて、\n　銀河の中心へ向かうつもりです」","translation":"So once repairs are complete, we intend to seek a new frontier in this world as well and head toward the center of the galaxy.","id":"0083E0"}
+{"text":"「元の世界への帰還は考えないと？」","translation":"You're not thinking of returning to your original world?","id":"008448"}
+{"text":"「フォールド技術を持つ我々も\n　次元の壁の突破は不可能だ」","translation":"Even with Fold technology, we cannot break through the barrier between dimensions.","id":"008478"}
+{"text":"「無論、考えうる限りの手段は講じるが、\n　既に覚悟は出来ている」","translation":"Of course, we will take every possible measure, but we are already prepared for that.","id":"0084C0"}
+{"text":"「時空震動と転移…。\n　人智の及ばぬ力である以上、人はそれを\n　受け入れるしかないのですね…」","translation":"Space-time quakes and transfer... Since they are forces beyond human understanding, we can only accept them...","id":"008510"}
+{"text":"「地球を発った時から\n　我々は常に前だけを向いてきた」","translation":"Ever since we left Earth, we've always looked only forward.","id":"008578"}
+{"text":"「市民一人一人にも、その精神は生きている。\n　この転移にもそれはくじける事はないだろう」","translation":"That spirit lives on in each and every one of our citizens. This transfer will not break it.","id":"0085B8"}
+{"text":"「超空間航法…あなた達の技術で言う\n　フォールド・システムの修理には\n　どれ位の期間を要するのですか？」","translation":"Hyperspace navigation... in your terms, how long would it take to repair the Fold System?","id":"008620"}
+{"text":"「詳しい調査が済んでない以上、\n　今はお答えする事は出来ません」","translation":"Until a detailed investigation has been completed, I cannot answer that at this time.","id":"008698"}
+{"text":"「ただ、それについて必要な物資の提供を\n　お願いするかも知れません」","translation":"However, we may ask you to provide the materials needed for the repairs.","id":"0086E0"}
+{"text":"「了解しました。\n　…それで国連に加入される際の\n　例の条件については…」","translation":"Understood. ...And regarding that condition you mentioned for joining the U.N....","id":"008730"}
+{"text":"「地球圏に様々な敵が存在する事は\n　あなた方の説明で十分に理解している」","translation":"Your explanation has made it clear enough that there are many enemies in the Earth Sphere.","id":"008788"}
+{"text":"「国連平和維持理事会への戦力の提供…。\n　こちらとしても慎重に検討させていただきます」","translation":"Providing military forces to the U.N. Peacekeeping Council... we will also consider that carefully.","id":"0087E0"}
+{"text":"クォーター　格納庫","translation":"Quarter Hangar","id":"008840"}
+{"text":"　\n　　\n　　　　～マクロス・クォーター　格納庫～","translation":"~Macross Quarter Hangar~","id":"008858"}
+{"text":"「さんじゅうよん…さんじゅうご…！」","translation":"Thirty-four... thirty-five...!","id":"008890"}
+{"text":"「アルト先輩！\n　腕立て伏せ、残り１５回です！」","translation":"Alto-senpai! You have 15 push-ups left!","id":"0088C0"}
+{"text":"「サボるなよ、アルト。\n　シミュレーター訓練で２５回目死亡の\n　ペナルティだからな」","translation":"Don't slack off, Alto. That's your penalty for dying 25 times in simulator training.","id":"0088F8"}
+{"text":"「…覚えてろよ、ミハエル…！」","translation":"...Just you wait, Michael...!","id":"008958"}
+{"text":"「少尉殿、だ。\n　Ｓ．Ｍ．Ｓに入隊した以上、\n　その流儀に従ってもらうぞ」","translation":"It's Lieutenant to you. Now that you've joined S.M.S., you'll do things our way.","id":"008980"}
+{"text":"「くっそぉぉぉぉぉっ！！」","translation":"Daaaaamn it!!","id":"0089D8"}
+{"text":"「あの子でしょ、新入りさんって」","translation":"That's the new guy, right?","id":"008A00"}
+{"text":"「そうです。\n　現在、１７歳」","translation":"Yes. He's 17 now.","id":"008A28"}
+{"text":"「うわぁ～お。\n　何か結構、いいじゃない」","translation":"Woooow~. He's actually pretty good-looking.","id":"008A50"}
+{"text":"「美形～！\n　もう、ほんと美味しそう！」","translation":"What a hottie~! He really does look delicious!","id":"008A88"}
+{"text":"「ちょ、ちょっと…ボビー大尉…。\n　まさか、あの子に…」","translation":"W-wait a minute... Captain Bobby... Don't tell me you're into that kid...","id":"008AB8"}
+{"text":"「何よ、クォーターは\n　艦内恋愛禁止だっての、モニカ！？」","translation":"What, Monica!? It's not like romance is banned on the Quarter!","id":"008AF8"}
+{"text":"「その…大尉の場合は性別が…」","translation":"Well... in your case, Captain, it's the gender thing...","id":"008B40"}
+{"text":"「まあ…少なくとも艦内恋愛禁止はないわね。\n　特にモニカは…」","translation":"Well... at least there's no ban on onboard romance. Especially for Monica...","id":"008B68"}
+{"text":"「そうそう。\n　ブリッジで恋しちゃってますから」","translation":"Exactly. She's already fallen in love on the bridge.","id":"008BB0"}
+{"text":"「ミーナ！　ラム！」","translation":"Mina! Ram!","id":"008BE8"}
+{"text":"「うふ…恋する乙女としては、\n　一緒に頑張りましょうね、モニカ」","translation":"Ufufu... As fellow girls in love, let's do our best together, Monica.","id":"008C08"}
+{"text":"「だから、乙女って…」","translation":"I'm telling you, don't call me a maiden...","id":"008C50"}
+{"text":"「ボビー大尉、\n　あの新入りの彼に本気なんですか？」","translation":"Captain Bobby, are you serious about that new guy?","id":"008C70"}
+{"text":"「アタシの心に決めた人は別にいるわよ。\n　そう…ずっと前からね」","translation":"There's someone else I've already set my heart on. Yes... for a long time now.","id":"008CB0"}
+{"text":"「悪人ですね、ミシェル先輩」","translation":"You're awful, Michael-senpai.","id":"008CF8"}
+{"text":"「何がだ？」","translation":"What are you talking about?","id":"008D20"}
+{"text":"「シミュレーターの難易度設定」","translation":"The simulator's difficulty setting.","id":"008D38"}
+{"text":"「普通レベルじゃ、\n　すぐにクリアされちまうからな」","translation":"If it were set to normal, he'd clear it right away.","id":"008D60"}
+{"text":"「あの高慢ちきな鼻っ柱を叩き折るには\n　あれ位で丁度いいんだよ」","translation":"To knock that arrogant pride of his down a peg, that level was just right.","id":"008DA0"}
+{"text":"「ふふ…」","translation":"Heh heh...","id":"008DF0"}
+{"text":"「何だよ、その笑いは」","translation":"What's with that laugh?","id":"008E00"}
+{"text":"「いや…さすがによくわかってるなと\n　思って…」","translation":"No... I was just thinking you really do understand him well...","id":"008E20"}
+{"text":"「おい、そこ！\n　何をコソコソしゃべってんだよ！」","translation":"Hey, you two! What are you whispering about over there!?","id":"008E58"}
+{"text":"「お前も無駄口を叩いている暇はないぞ、アルト」","translation":"You don't have time for idle chatter either, Alto.","id":"008E98"}
+{"text":"「クラン大尉…」","translation":"Captain Klan...","id":"008ED0"}
+{"text":"「ゼントラーディの私から見れば、\n　お前のやっている訓練なぞ\n　甘過ぎて話にならんな」","translation":"From my perspective as a Zentradi, the training you're doing is far too soft to take seriously.","id":"008EE8"}
+{"text":"「どうだ、アルト？\n　ピクシー小隊に入るなら、\n　ネネとララミアと一緒に鍛えてやるぞ」","translation":"How about it, Alto? If you join the Pixie Squadron, I'll train you up with Nene and Laramia.","id":"008F48"}
+{"text":"「お待ちしております」","translation":"We'll be waiting.","id":"008FA8"}
+{"text":"「口を開けないぐらいハードな\n　トレーニングメニューを用意してやる」","translation":"We'll prepare a training menu so brutal you won't even be able to open your mouth.","id":"008FC8"}
+{"text":"「え、遠慮させてもらう…！」","translation":"I-I'll pass...!","id":"009018"}
+{"text":"「冗談は置いておくとして、\n　お前に客が来ているぞ」","translation":"Jokes aside, you have a visitor.","id":"009040"}
+{"text":"「客…？」","translation":"A visitor...?","id":"009080"}
+{"text":"「早乙女アルト君ですね」","translation":"You're Alto Saotome, correct?","id":"009098"}
+{"text":"「あんた…シェリルのマネージャーの…」","translation":"You... you're Sheryl's manager...","id":"0090C0"}
+{"text":"「グレイス・オコナーです。\n　今日は彼女からのメッセージを届けに来ました。\n　こちらのレターをお読みください」","translation":"I'm Grace O'Connor. I came today to deliver a message from her. Please read this letter.","id":"0090F0"}
+{"text":"「あ、ああ…」","translation":"O-okay...","id":"009168"}
+{"text":"「やるねぇ、アルト。\n　銀河の妖精からラブレターとは」","translation":"Nice one, Alto. A love letter from the Galactic Fairy, huh?","id":"009180"}
+{"text":"「そういった類のものではないそうですが、\n　この事は他言無用でお願いします」","translation":"Apparently it's not that kind of message, but please keep this confidential.","id":"0091C0"}
+{"text":"「あなたの頼みでしたら…。\n　他に何か御用があれば、僕が承りますが」","translation":"If it's your request... If there's anything else you need, I'll take care of it.","id":"009218"}
+{"text":"「ありがとう。\n　紳士ですのね」","translation":"Thank you. How gentlemanly of you.","id":"009268"}
+{"text":"「あなたのような美しい方がお困りだとしたら、\n　放っておけませんよ」","translation":"If a beautiful woman like you were in trouble, I couldn't just leave you alone.","id":"009298"}
+{"text":"「ふふ…お世辞がお上手」","translation":"Heh... You're quite the flatterer.","id":"0092E8"}
+{"text":"「ミハエル・ブラン少尉です。\n　親しい人間はミシェルと呼びますので、\n　あなたにも…」","translation":"I'm Second Lieutenant Michael Blanc. People close to me call me Michel, so you can too...","id":"009310"}
+{"text":"「ブラン…。\n　もしかして、あなた…」","translation":"Blanc... Could it be, you...?","id":"009370"}
+{"text":"「僕の事をご存知だとは、光栄です」","translation":"I'm honored you know who I am.","id":"0093A0"}
+{"text":"「あの…残念だったわね、お姉さん…」","translation":"Um... I'm sorry about your sister...","id":"0093D0"}
+{"text":"「…！」","translation":"...!","id":"009400"}
+{"text":"「では、早乙女アルト君…\n　確かに渡しましたから。\n　これで失礼させていただきます」","translation":"Well then, Alto Saotome... I've delivered it to you. Now, if you'll excuse me.","id":"009418"}
+{"text":"「シェリルさんのマネージャーという事で\n　色々と便宜を図ってもらってるみたいですね」","translation":"Being Sheryl's manager, she seems to be able to pull all sorts of strings.","id":"009478"}
+{"text":"「そうだな。\n　そうでもなければ、こんな所まで\n　来られるわけがない」","translation":"Yeah. Otherwise, there's no way she could've come all the way out here.","id":"0094D8"}
+{"text":"「それにしても…」","translation":"Even so...","id":"009528"}
+{"text":"「………」","translation":".........","id":"009548"}
+{"text":"「おい、ミハエル。\n　シェリルのマネージャーを口説いてる暇が\n　あるのかよ？」","translation":"Hey, Michael. Do you really have time to be hitting on Sheryl's manager?","id":"009560"}
+{"text":"「さあ、次の訓練は何だ？\n　シミュレーションか、筋トレか…」","translation":"So, what's the next training session? Simulation, or strength training...?","id":"0095B8"}
+{"text":"「何だったら、格闘技の実戦訓練で\n　お前とやってもいいんだぜ」","translation":"If you want, I can even spar with you in some hand-to-hand combat training.","id":"009600"}
+{"text":"「家から逃げて、趣味で戦争やろうっていう\n　お姫様が言ってくれるぜ」","translation":"Says the princess who ran away from home to play at war for fun.","id":"009648"}
+{"text":"「てめえ、ミハエル！」","translation":"You bastard, Michael!","id":"009698"}
+{"text":"「…悪い。\n　ルカ、後のプログラムはお前に任せる」","translation":"...Sorry. Luca, I'll leave the rest of the program to you.","id":"0096B8"}
+{"text":"「は、はい…」","translation":"Y-yes...","id":"0096F8"}
+{"text":"「職場放棄かよ！」","translation":"You're ditching work?!","id":"009710"}
+{"text":"「今日はお前に関わってると\n　自分を抑えられる自信がないんでな…」","translation":"If I stay around you today, I'm not sure I can keep myself under control...","id":"009730"}
+{"text":"「何だよ、あいつ…」","translation":"What's with him...?","id":"009780"}
+{"text":"「ジェシカの件…。\n　まだ、あいつの心に影になっているのか…」","translation":"Jessica... Is that still casting a shadow over his heart...?","id":"0097A0"}
+{"text":"「ジェシカ…？」","translation":"Jessica...?","id":"0097E8"}
+{"text":"「………」","translation":".........","id":"009800"}
+{"text":"「お前…ミシェルの友達だな？」","translation":"You... you're Michael's friend, aren't you?","id":"009818"}
+{"text":"「それは…」","translation":"Well...","id":"009840"}
+{"text":"「まあいい…。\n　少なくともミシェルはお前の事を\n　気に入ってるようだ」","translation":"Whatever... At least Michael seems to like you.","id":"009858"}
+{"text":"「いつもヘラヘラしてるあいつが\n　本音で誰かに接する事は滅多に無いからな」","translation":"That guy's always grinning, so it's rare for him to be honest with anyone.","id":"0098A8"}
+{"text":"「…早くに両親を亡くしたミシェルは\n　姉のジェシカに育てられたんだ。\n　とても仲のいい姉弟だったよ…」","translation":"...Michael lost his parents young, and was raised by his older sister, Jessica. They were very close...","id":"009900"}
+{"text":"「何で、あんたがそれを…？」","translation":"How do you know that...?","id":"009970"}
+{"text":"「幼馴染なんだ、ミシェルとは」","translation":"Michael and I are childhood friends.","id":"009998"}
+{"text":"「…ジェシカは優秀なスナイパーだった。\n　だが、ある作戦でフレンドリー・ファイア…\n　つまり、味方を撃ってしまった」","translation":"...Jessica was an excellent sniper. But during one mission, there was friendly fire... She ended up shooting an ally.","id":"0099C0"}
+{"text":"「自分の上官で不倫関係にあった恋人を」","translation":"The one she shot was her lover, her superior officer, a married man.","id":"009A40"}
+{"text":"「あった…？」","translation":"An affair...?","id":"009A70"}
+{"text":"「間の悪い事に、\n　その直前に別れ話を切り出されていたんだ」","translation":"To make matters worse, right before that, he'd told her he wanted to break things off.","id":"009A88"}
+{"text":"「…まさか…！？」","translation":"...No way...!?","id":"009AD0"}
+{"text":"「ああ…誤射ではなく故意ではないか…。\n　そう疑われたジェシカは軍法会議にかけられた。\n　そして、自らの命を…」","translation":"Yeah... people started to wonder if it was deliberate, not an accident... Jessica was court-martialed, and took her own life...","id":"009AF0"}
+{"text":"「だから、あいつ…\n　姉さんの事を言われて、あんなに動揺を…」","translation":"So that's why he got so shaken when his sister was brought up...","id":"009B68"}
+{"text":"「ミシェルは探し続けているのかも知れない。\n　フレンドリー・ファイアの真実をな…」","translation":"Maybe Michael's still searching for the truth behind that friendly fire...","id":"009BB0"}
+{"text":"アイランド１　街中","translation":"Island 1 - Downtown","id":"009C10"}
+{"text":"　\n　　\n　　　　　　～アイランド１　市街地～","translation":"~Island 1 - Downtown~","id":"009C28"}
+{"text":"「お待たせ。\n　ちゃんとグレイスからのメッセージを\n　読んだようね」","translation":"Sorry to keep you waiting. Looks like you actually read Grace's message.","id":"009C58"}
+{"text":"「時間通りに来た事を褒めてあげるわ。\n　もっとも、あたしの誘いを断る男なんて\n　いないでしょうけどね」","translation":"I'll give you credit for showing up on time. Though I doubt there's any man who'd turn down my invitation.","id":"009CA8"}
+{"text":"「こんな所にホイホイ出て来て…。\n　お前…自分が有名人って自覚あるのか？」","translation":"You just come waltzing out to a place like this... Do you even realize how famous you are?","id":"009D18"}
+{"text":"「あるわよ。\n　だから、こうして人目を忍んで、\n　あなたを呼び出したんじゃない」","translation":"Of course I do. That's why I called you out here in secret.","id":"009D70"}
+{"text":"「息抜きも兼ねてるけどね」","translation":"Though it is a nice break for me, too.","id":"009DC8"}
+{"text":"「自惚れないでよね。\n　あんたはあたしのコンサートのバックで\n　アクロバットをやったに過ぎない」","translation":"Don't get full of yourself. You were only doing acrobatics in the background of my concert.","id":"009DF0"}
+{"text":"「その後も、あのランカちゃんを含めて\n　色々と因縁めいていたけど…」","translation":"And after that, there were all sorts of tangled ties, including that Ranka girl...","id":"009E58"}
+{"text":"「あたしがあなたを呼び出したのは\n　イヤリングのためなんだから」","translation":"I called you out here because of my earring, after all.","id":"009EA8"}
+{"text":"「言われなくてもわかってる。\n　お前のイヤリングなら、俺の服の袖に\n　引っかかっていた」","translation":"You don't need to tell me. Your earring got caught on my sleeve.","id":"009EF8"}
+{"text":"「本当はこの前会った時に\n　取り返すつもりだったんだけど、あの時は\n　ゴタゴタして言い出せなかったのよね」","translation":"I was going to take it back when we met the other day, but things got so hectic I never got the chance to bring it up.","id":"009F58"}
+{"text":"「何で俺が持ってるってわかったんだ？」","translation":"How did you know I had it?","id":"009FD0"}
+{"text":"「あたしのマネージャーの視覚に記録されてたの。\n　あのバケモノ騒動の時にあなたの服に\n　引っかかったのを」","translation":"My manager's implants recorded it. It got caught on your clothes during that monster incident.","id":"00A000"}
+{"text":"「視覚…？\n　あのマネージャーのインプラントの力か…」","translation":"Visual records...? So that's the power of that manager's implant...","id":"00A078"}
+{"text":"「そうよ。\n　あたしのいたギャラクシー船団じゃ\n　わりと普通にやられていたわ」","translation":"That's right. In the Galaxy Fleet I came from, that kind of thing was pretty normal.","id":"00A0B8"}
+{"text":"「聞いた事がある。\n　あっちの船団じゃ整形やサイボーグ手術は\n　当たり前だって…」","translation":"I've heard that before. In that fleet, plastic surgery and cyborg modifications are just part of life...","id":"00A110"}
+{"text":"「じゃあ、お前も…」","translation":"Then you too...?","id":"00A168"}
+{"text":"「あたしは違うわ。\n　ぜ～んぶ生まれたままよ。\n　それも売りの一つだもの」","translation":"Not me. I'm all natural, every last bit of me. That's one of my selling points, after all.","id":"00A188"}
+{"text":"「…しかし、すごい人気なんだな、お前って…。\n　街中がお前一色だ」","translation":"...Still, you really are popular, aren't you...? The whole city's all about you.","id":"00A1E0"}
+{"text":"「今夜は転移記念コンサートだものね。\n　みんなの不安を吹き飛ばすためにも\n　思いっ切り歌うわよ」","translation":"Tonight's the transfer commemoration concert, after all. I'm going to sing my heart out and blow everyone's worries away.","id":"00A230"}
+{"text":"「はい。\n　あなたにもチケットをあげるわ。\n　ちゃんとランカちゃんにも送っておいたからね」","translation":"Here. I'll give you a ticket too. I made sure to send one to Ranka-chan as well.","id":"00A298"}
+{"text":"「ああ…」","translation":"Yeah...","id":"00A300"}
+{"text":"「もっと喜びなさいよ。\n　このあたしがデートのお膳立てを\n　してやってるんだから」","translation":"You should be happier. I'm the one setting up your date for you, after all.","id":"00A318"}
+{"text":"「デート？\n　俺とランカが？」","translation":"A date? Me and Ranka?","id":"00A378"}
+{"text":"「付き合ってるんでしょ？」","translation":"You two are dating, aren't you?","id":"00A3A0"}
+{"text":"「断じて違う」","translation":"Absolutely not.","id":"00A3C8"}
+{"text":"「ふ～ん…そうなんだ」","translation":"Hmm~... is that so.","id":"00A3E0"}
+{"text":"「コンサート…歌か…」","translation":"A concert... singing, huh...","id":"00A400"}
+{"text":"「…何で人は歌ったり、飛ぼうとしたり\n　するのかな…」","translation":"...Why do people sing, or try to fly...?","id":"00A420"}
+{"text":"「何よ、急に？\n　…もしかして、軍に入った事、後悔してんの？」","translation":"What's with you all of a sudden? ...Don't tell me you regret joining the military?","id":"00A460"}
+{"text":"「軍じゃない。\n　Ｓ．Ｍ．Ｓだ。\n　…何でお前が知ってるんだ？」","translation":"Not the military. S.M.S. ...How do you know about that?","id":"00A4A8"}
+{"text":"「グレイスに聞いたのよ。\n　訓練でひーひー言ってるって」","translation":"Grace told me. She said you're struggling through training.","id":"00A4F0"}
+{"text":"「そんなんじゃない…」","translation":"It's not like that...","id":"00A538"}
+{"text":"「まあいいわ。\n　さっきの質問の答え…特別に教えてあげるわ」","translation":"Well, whatever. I'll answer your question from earlier... just this once.","id":"00A558"}
+{"text":"「人が何で歌ったり、飛んだりするかって？\n　そうせずにはいられなかったからに\n　決まってるじゃない」","translation":"Why do people sing, or fly? Because they can't help it, of course.","id":"00A5A0"}
+{"text":"「あ…」","translation":"Ah...","id":"00A610"}
+{"text":"「あたしや、あのランカちゃんはそう…。\n　あなたは違うの？」","translation":"That's how it is for me, and for Ranka-chan too... Are you any different?","id":"00A620"}
+{"text":"「違わない」","translation":"I'm not.","id":"00A668"}
+{"text":"（そうだ…。\n　きっとあいつ…ミハエルも…）","translation":"That's right... I'm sure he... Michael too... felt the same way...","id":"00A680"}
+{"text":"「こんなサービス、滅多にしないんだからね」","translation":"I don't do favors like this very often, you know.","id":"00A6B8"}
+{"text":"「ありがとな」","translation":"Thanks.","id":"00A6F0"}
+{"text":"「お礼なんていいわよ。\n　…あなた、すごくムカつくけど、\n　気に入ってる所が一つだけあるわ」","translation":"You don't need to thank me. ...You really get on my nerves, but there's one thing I like about you.","id":"00A708"}
+{"text":"「あたしをシェリル扱いしない所」","translation":"You don't treat me like \"Sheryl.\"","id":"00A770"}
+{"text":"「さあ…イヤリングを出してよ。\n　あれ…大事なものなんだから」","translation":"Come on... give me back the earring. That... is important to me.","id":"00A7A0"}
+{"text":"イヤリング","translation":"Earring","id":"00A7E8"}
+{"text":"「よかった…。\n　見つかって…」","translation":"Thank goodness... you found it...","id":"00A7F8"}
+{"text":"「そんなに大事なものだったのか？」","translation":"Was it really that important to you?","id":"00A828"}
+{"text":"「…他の人には内緒よ。\n　これね…あたしのお守り…母の形見なの。\n　それ以外、顔も知らないけどね」","translation":"...Don't tell anyone. This is my good-luck charm... a keepsake from my mother. I don't even know her face, though.","id":"00A858"}
+{"text":"アイランド１","translation":"Island 1","id":"00A8C8"}
+{"text":"「ねえ、アルト…あなた、この艦は好き？」","translation":"Hey, Alto... do you like this ship?","id":"00A8D8"}
+{"text":"「嫌いだ。\n　って言うか、俺は都市宇宙船そのものが\n　嫌だな」","translation":"I hate it. Or rather, I hate city spaceships in general.","id":"00A910"}
+{"text":"「どうして？」","translation":"Why?","id":"00A958"}
+{"text":"「…ここには空が無い」","translation":"...There's no sky here.","id":"00A970"}
+{"text":"「らしい答えね」","translation":"That sounds like you.","id":"00A990"}
+{"text":"「俺はパイロットだからな」","translation":"I'm a pilot, after all.","id":"00A9B0"}
+{"text":"「じゃあ、この艦を降りて、地球に行けば。\n　そこにはあなたの言う本当の空が\n　あるんじゃないの？」","translation":"Then why don't you get off this ship and go to Earth? Isn't that where the real sky you're talking about is?","id":"00A9D8"}
+{"text":"「そうかもな…」","translation":"Maybe so...","id":"00AA48"}
+{"text":"「お前はどうなんだ、シェリル？\n　ギャラクシーに帰りたいか？」","translation":"What about you, Sheryl? Do you want to go back to Galaxy?","id":"00AA60"}
+{"text":"「どんな所でも自分の育った艦だもの。\n　帰りたいわよ」","translation":"No matter what kind of place it is, it's the ship I grew up on. Of course I want to go back.","id":"00AAA8"}
+{"text":"「でも、あたしは過去は振り返らない。\n　帰れないのだとしたら、自分で新しいステージを\n　見つけてみせるわ」","translation":"But I don't dwell on the past. If I can't go back, then I'll find myself a new stage.","id":"00AAE8"}
+{"text":"「そうか…」","translation":"I see...","id":"00AB60"}
+{"text":"「どこほっつき歩いてる、この馬鹿野郎！\n　とっとと宿舎に戻れ！\n　奴等の群れが発見されたぞ！」","translation":"Where the hell have you been, idiot?! Get back to the barracks, now! They've found a swarm of them!","id":"00AB78"}
+{"text":"「何…！？」","translation":"What...!?","id":"00ABE0"}
+{"text":"「今回はクォーターも出る。\n　遅れるなよ」","translation":"The Quarter's deploying this time too. Don't be late.","id":"00ABF8"}
+{"text":"「奴等が来るのか…」","translation":"So they're coming...","id":"00AC30"}
+{"text":"「奴等って…あのバジュラっていうバケモノ？」","translation":"By \"they,\" you mean those monsters called Vajra?","id":"00AC50"}
+{"text":"「ああ…。\n　さすがに政府も隠しきれなくなったんで\n　発表したんだったな…」","translation":"Yeah... I guess even the government couldn't keep it under wraps anymore, so they finally announced it...","id":"00AC88"}
+{"text":"「だが、余計な事は言うなよ。\n　本当に危険になったら、政府が避難勧告を\n　出すはずだ」","translation":"Don't blab about it. If it gets really bad, the government will issue an evacuation warning.","id":"00ACE0"}
+{"text":"「わかってるわよ。\n　それにあたしだって、またコンサートが\n　中断になったら、たまったもんじゃないもの」","translation":"I know. Besides, if my concert gets interrupted again, I won't be able to stand it.","id":"00AD40"}
+{"text":"「心配するな。\n　俺が…俺達が何とかする」","translation":"Don't worry. I'll... we'll handle it.","id":"00ADB0"}
+{"text":"「出るの、あなたも？」","translation":"You're going out too?","id":"00ADE8"}
+{"text":"「言ったろ。\n　俺はパイロットなんだ」","translation":"I told you. I'm a pilot.","id":"00AE08"}
+{"text":"「…あのイヤリング、持っていっていいわよ」","translation":"...You can take that earring with you.","id":"00AE38"}
+{"text":"「何言ってるんだ？\n　あれのために俺を呼び出したんだろ？」","translation":"What are you talking about? You called me out here for that, didn't you?","id":"00AE70"}
+{"text":"「…持っていて。\n　言ったでしょ…それ、幸運のお守りなのよ。\n　だから…」","translation":"...Keep it with you. I told you, didn't I? It's a lucky charm. So...","id":"00AEB8"}
+{"text":"「シェリル…」","translation":"Sheryl...","id":"00AF10"}
+{"text":"「…あたし、ギャラクシーが嫌いだったわ。\n　身寄りのないあたしが暮らすには\n　あの艦は最低だった」","translation":"...I hated Galaxy. For someone like me with no family, that ship was the worst place to live.","id":"00AF28"}
+{"text":"「でも、あそこはあたしの居場所だった。\n　同じようにここもきっと誰かにとって\n　大切な場所だと思う…」","translation":"But... it was where I belonged. And in the same way, I'm sure this place is important to someone too...","id":"00AF98"}
+{"text":"「それを守って戦うあなたに\n　持っていて欲しいのよ」","translation":"That's why I want you to keep it with you... you, who's fighting to protect it.","id":"00B008"}
+{"text":"「勘弁しろよ…」","translation":"Give me a break...","id":"00B048"}
+{"text":"「お前にそんなしおらしい顔されると\n　反応に困る」","translation":"When you make a meek face like that, I don't know how to react.","id":"00B060"}
+{"text":"「何よ、偉そうに！」","translation":"What's with that high-and-mighty attitude?!","id":"00B0A0"}
+{"text":"「借りとくぜ、お前の幸運」","translation":"I'll borrow your luck, then.","id":"00B0C0"}
+{"text":"「貸すだけだからね。\n　必ず直接返しに来るのよ。\n　いいわね、アルト！」","translation":"I'm only lending it to you, okay? You have to come back and return it to me in person. Got it, Alto!","id":"00B0E8"}
+{"text":"「ああ…！」","translation":"Yeah...!","id":"00B138"}
+{"text":"コンサート会場","translation":"Concert Venue","id":"00D8B0"}
+{"text":"　\n　　\n　　　～シェリル・ノーム　コンサート会場～","translation":"~Sheryl Nome Concert Venue~","id":"00D8C0"}
+{"text":"（シェリルさんからもらったチケット…。\n　隣はアルト君の席だって書いてあったけど、\n　まだ来てない…）","translation":"The ticket Sheryl gave me... It said the seat next to mine was Alto's, but he's still not here...","id":"00D8F8"}
+{"text":"（Ｓ．Ｍ．Ｓのお仕事…\n　忙しいのかな…）","translation":"Maybe he's busy with S.M.S. work...","id":"00D968"}
+{"text":"シェリルアップ","translation":"Sheryl Close-up","id":"00D9A0"}
+{"text":"「ようこそ、あたしのライブへ！\n　まさか別の世界の地球に来ちゃうなんて\n　さすがのあたしもびっくりしたけど…」","translation":"Welcome to my live show! Even I was surprised that I ended up on an Earth in another world, but...","id":"00D9B0"}
+{"text":"「あたしはどこの世界でも\n　銀河の妖精シェリル・ノームよ！」","translation":"No matter what world I'm in, I'm the Galactic Fairy, Sheryl Nome!","id":"00DA28"}
+{"text":"「今夜もいつも通り、\n　マクロスピードで突っ走るよ！\n　だから…」","translation":"Tonight, just like always, I'm going to charge ahead at Macross speed! So...","id":"00DA70"}
+{"text":"「あたしの歌を聴けぇっ！！」","translation":"Listen to my song!!","id":"00DAC0"}
+{"text":"シェリル　コンサート","translation":"Sheryl Concert","id":"00DAE8"}
+{"text":"（アルト君…来ない…。\n　まさか、Ｓ．Ｍ．Ｓは今…）","translation":"Alto... he's not coming... Could it be S.M.S. is...","id":"00DB00"}
+{"text":"（やっぱり、アルト君やお兄ちゃんは\n　今、戦ってるんだ…）","translation":"I knew it... Alto and my brother really are fighting right now...","id":"00E060"}
+{"text":"（避難警報が出てないって事は\n　きっとフロンティア船団から遠くで…）","translation":"If there's no evacuation warning, then it must be happening far away from the Frontier fleet...","id":"00E0A8"}
+{"text":"「…いよいよ、最後のナンバーね…。\n　あっという間だったけど、\n　これで全てが終わりってわけじゃない…」","translation":"...At last, the final number... It went by in a flash, but that doesn't mean everything ends here...","id":"00E0F8"}
+{"text":"「ここがどんな世界でも\n　あたしがあたしであるように\n　みんなも自分らしく生きて欲しい」","translation":"No matter what world this is, I want everyone to live true to themselves, just as I am true to myself.","id":"00E168"}
+{"text":"「今日、あたしの歌を聴いてくれたみんなが\n　この新しい世界で強く生きていく事を\n　あたしは祈りたい…！」","translation":"I pray that everyone who listened to my song today will live strongly in this new world...!","id":"00E1C8"}
+{"text":"「…ねえ、みんな…\n　ちょっとわがまま言わせてもらっても\n　いいかな？」","translation":"...Hey, everyone... can I ask one selfish favor?","id":"00E238"}
+{"text":"「この最後の曲だけは、ある人のために…\n　ううん、ある人達のために歌いたいの」","translation":"For this last song, I want to sing for one person... No, for some people.","id":"00E288"}
+{"text":"「今、遠い所で生命を懸けている人達のために」","translation":"For the people who are risking their lives far away right now.","id":"00E2E0"}
+{"text":"（知ってるんだ…。\n　シェリルさん…アルト君達の事、知ってて…）","translation":"I knew it... Sheryl... she knows about Alto and the others...","id":"00E318"}
+{"text":"（知ってて、それでも…\n　ううん、知ってるから歌ってるんだ…）","translation":"She knows, and even so... No, she's singing because she knows...","id":"00E360"}
+{"text":"「ねえ…」","translation":"Hey...","id":"00E3A8"}
+{"text":"（私を…見てる？）","translation":"Are you... watching me?","id":"00E3C0"}
+{"text":"「そして、あなたにも…\n　あなたにも一緒に歌って欲しいの」","translation":"And you too... I want you to sing with me.","id":"00E3E0"}
+{"text":"（はい…）","translation":"Yes...","id":"00E428"}
+{"text":"「ふふ…」","translation":"Hehe...","id":"00E440"}
+{"text":"「ありがとう、みんな！\n　愛してる！」","translation":"Thank you, everyone! I love you!","id":"00E458"}
+{"text":"シェリルアップ（２）","translation":"Sheryl Up (2)","id":"00E488"}
+{"text":"（アルト…）","translation":"Alto...","id":"00E4A0"}
+{"text":"（アルト君…お兄ちゃん…みんな…）","translation":"Alto... my brother... everyone...","id":"00E4B8"}
+{"text":"（あたしの…あたし達の歌を…）","translation":"My... our song...","id":"00E4E8"}
+{"text":"（聴いて…）","translation":"Listen...","id":"00E510"}
+{"text":"大統領執務室","translation":"President's Office","id":"00EA68"}
+{"text":"「…バジュラの群れはＳ．Ｍ．Ｓと\n　国連の部隊によって撃退されたそうです」","translation":"...It seems the Vajra swarm was repelled by S.M.S. and UN forces.","id":"00EA78"}
+{"text":"「そうか…。\n　またビルラーに借りを作ってしまったな」","translation":"I see... Looks like we owe Bilra another favor.","id":"00EAC8"}
+{"text":"「今後の防衛プランですが、\n　やはり、新統合軍は船団の護衛のために\n　ここに残留させるべきでしょう」","translation":"As for the defense plan going forward, the New U.N. Forces should remain here to protect the fleet.","id":"00EB08"}
+{"text":"「では、国連に提供する戦力は…」","translation":"Then the forces we'll provide to the U.N. will be...","id":"00EB70"}
+{"text":"「はい…。\n　どのような状況になるかわからない以上、\n　彼等に行ってもらうのが妥当と思われます」","translation":"Yes... Since we don't know how the situation may develop, it would be best to have them go.","id":"00EBA0"}
+{"text":"クォーター格納庫","translation":"Quarter Hangar","id":"00EC08"}
+{"text":"「よくやったな、ミシェル。\n　それにアルトも」","translation":"Well done, Michel. And you too, Alto.","id":"00EC20"}
+{"text":"「…子供がどうして格納庫にいるんだ？」","translation":"...Why is a kid in the hangar?","id":"00EC58"}
+{"text":"「子供ではない！\n　クラン・クラン大尉だ！」","translation":"I'm not a kid! I'm Captain Klan Klan!","id":"00EC88"}
+{"text":"「えっ！？」","translation":"Huh!?","id":"00ECC0"}
+{"text":"「せっかく、労をねぎらうために\n　わざわざマイクローン化してやったのに！\n　お前という奴は！」","translation":"I even went to the trouble of micronizing myself to thank you for your hard work, and this is how you act!? You little brat!","id":"00ECD8"}
+{"text":"「アルト先輩は、この状態のクラン大尉と\n　お会いするのは初めてでしたね」","translation":"This is your first time meeting Captain Klan in this form, isn't it, Alto-senpai?","id":"00ED40"}
+{"text":"「マイクローン化すると\n　大尉は何故かこうなっちゃうんです」","translation":"For some reason, she always ends up like this when she micronizes.","id":"00ED90"}
+{"text":"「遺伝子が不器用なんだよ。\n　な、クラン」","translation":"Her genes are just clumsy. Right, Klan?","id":"00EDD8"}
+{"text":"「何だと！？\n　私よりちょっと背丈が伸びたからと\n　いい気になりおって！！」","translation":"What did you say!? Don't get cocky just because you've grown a little taller than me!!","id":"00EE10"}
+{"text":"「意外とお前にお似合いなんじゃないか、\n　ミシェル？」","translation":"Doesn't this actually suit you, Michel?","id":"00EE68"}
+{"text":"「冗談はよせよ。\n　俺はナイスバディな知的美女が好みだぜ」","translation":"Cut the jokes. My type is a smart beauty with a nice body.","id":"00EEA8"}
+{"text":"「アルト先輩が自然にミシェルって呼んでる…」","translation":"Alto-senpai just called him Michel so naturally...","id":"00EEF0"}
+{"text":"「どうやら、今日がアルトの\n　本当の入隊日になりそうだな」","translation":"Looks like today will be Alto's real enlistment day.","id":"00EF28"}
+{"text":"「あれ…そう言えば、\n　オズマ少佐がいないようだが…」","translation":"Huh... come to think of it, Major Ozma doesn't seem to be here...","id":"00EF70"}
+{"text":"「戦闘後に艦長に呼ばれ、\n　ブリッジに上がったようです」","translation":"The captain called for him after the battle, so he went up to the bridge.","id":"00EFB0"}
+{"text":"「今日の戦闘の報告だろうさ。\n　新統合軍へのレポートの提出も\n　あるだろうしな」","translation":"Probably to report on today's battle. He likely has to submit a report to the New U.N. Forces too.","id":"00EFF0"}
+{"text":"「それだけじゃないぞ」","translation":"That's not all.","id":"00F048"}
+{"text":"「隊長…」","translation":"Captain...","id":"00F068"}
+{"text":"「全員整列。\n　艦長より、今度の我々の作戦行動について\n　重大な発表がある」","translation":"Everyone, line up. The captain has an important announcement about our next operation.","id":"00F078"}
+{"text":"「重大な発表…」","translation":"An important announcement...","id":"00F0D0"}
+{"text":"「諸君、今日の戦闘はご苦労だった。\n　もし、バジュラの群体が我々と共に\n　転移していたとしても…」","translation":"Everyone, good work in today's battle. Even if the Vajra swarm had transferred here along with us...","id":"00F0E8"}
+{"text":"「指揮官クラスを倒した以上、\n　活動は沈静化するものと思われる」","translation":"Now that we've taken down their commander-class unit, their activity should settle down.","id":"00F158"}
+{"text":"「では、フロンティア船団の当面の危機は\n　去ったんですね」","translation":"So the immediate crisis for the Frontier fleet is over, then?","id":"00F1A8"}
+{"text":"「少なくともハワード・グラス大統領は\n　そう判断したのだろう」","translation":"At the very least, President Howard Glass seems to have judged it that way.","id":"00F1F0"}
+{"text":"「………」","translation":".........","id":"00F240"}
+{"text":"（あのキャサリン・グラス中尉って\n　グラス大統領の娘さんだそうですね）","translation":"That Lieutenant Catherine Glass is President Glass's daughter, isn't she?","id":"00F258"}
+{"text":"（それをお目付け役に送り込んだという事は\n　Ｓ．Ｍ．Ｓは大統領の直接の依頼を受けて\n　動くという事なんだろうな）","translation":"If they sent her as a watchdog, then I guess that means S.M.S. is acting on the president's direct request.","id":"00F2A8"}
+{"text":"「それで今後の作戦行動とは…」","translation":"So, about our next operation...","id":"00F320"}
+{"text":"「君がスカル４…\n　早乙女アルト准尉か」","translation":"You're Skull 4... Warrant Officer Alto Saotome, correct?","id":"00F348"}
+{"text":"「は、はい」","translation":"Y-Yes, sir.","id":"00F380"}
+{"text":"「少々荒っぽいが、いい動きだった。\n　まるで昔の誰かを見ているようだったぞ」","translation":"A little rough around the edges, but good moves. It was like watching someone from long ago.","id":"00F398"}
+{"text":"「昔の…？」","translation":"Someone from long ago...?","id":"00F3F0"}
+{"text":"「艦長、皆が新たな任務を聞きたがっています。\n　先をお願いします」","translation":"Captain, everyone is eager to hear about the new mission. Please continue.","id":"00F408"}
+{"text":"「ふ…照れ隠しか」","translation":"Heh... trying to hide your embarrassment, are you?","id":"00F458"}
+{"text":"「では、我々の新たな任務を発表する。\n　これは大統領直々のオーダーだ」","translation":"Now, I will announce our new mission. This is a direct order from the president.","id":"00F478"}
+{"text":"「我々Ｓ．Ｍ．Ｓはマクロス・クォーターで\n　国連の平和維持理事会に協力する」","translation":"We, S.M.S., will cooperate with the U.N. Peacekeeping Council aboard the Macross Quarter.","id":"00F4D0"}
+{"text":"「じゃあ…！」","translation":"Then that means...!","id":"00F528"}
+{"text":"「そうだ。\n　我々は地球に降りる」","translation":"That's right. We're heading down to Earth.","id":"00F540"}
+{"text":"（地球…本当の空…）","translation":"Earth... the real sky...","id":"00F570"}
+{"text":"（シェリル…\n　お前が貸してくれたイヤリング、\n　本当に幸運のお守りかもな…）","translation":"Sheryl... the earrings you lent me... maybe they really are my lucky charm...","id":"00F590"}
+{"text":"オズマの部屋","translation":"Ozma's Room","id":"00F5E8"}
+{"text":"　\n　　\n　　　　　～オズマとランカのアパート～","translation":"~Ozma and Ranka's Apartment~","id":"00F5F8"}
+{"text":"「出張…？」","translation":"A business trip...?","id":"00F628"}
+{"text":"「あ、ああ…。\n　その…ちょっとの間、家を空ける事に\n　なりそうだ」","translation":"Y-Yeah... I might have to be away from home for a while.","id":"00F640"}
+{"text":"「その…大丈夫だ、ランカ。\n　俺は絶対に…」","translation":"Don't worry, Ranka. I absolutely...","id":"00F690"}
+{"text":"「ちゃんと帰ってきてね、お兄ちゃん」","translation":"Make sure you come back safely, big brother.","id":"00F6C8"}
+{"text":"「ランカ…」","translation":"Ranka...","id":"00F6F8"}
+{"text":"「絶対…絶対に約束してね。\n　ちゃんと帰ってくるって」","translation":"Promise me... promise you'll come back safely.","id":"00F710"}
+{"text":"「ああ…約束する。\n　だから、留守番を頼むな」","translation":"Yeah... I promise. So hold down the fort while I'm gone, okay?","id":"00F750"}
+{"text":"「うん…！」","translation":"Okay...!","id":"00F788"}
+{"text":"「俺がいないからといって\n　夜更かしと無駄使いは駄目だからな」","translation":"Just because I'm not here doesn't mean you can stay up late or waste money.","id":"00F7A0"}
+{"text":"「それと俺のいない間に\n　男をこの家に入れる事は絶対に許さんぞ」","translation":"And while I'm gone, I absolutely forbid you from bringing any men into this house.","id":"00F7E8"}
+{"text":"「もう、お兄ちゃん…！\n　また子供扱いして！\n　私…もうすぐ１６歳なのよ！」","translation":"Geez, big brother...! You're treating me like a kid again! I'm almost 16, you know!","id":"00F830"}
+{"text":"「お前が何歳になろうと\n　俺の妹である事には変わりない」","translation":"No matter how old you get, you'll always be my little sister.","id":"00F888"}
+{"text":"「…と言いたいところだが、\n　いつまでも俺の側に置いておくわけには\n　いかないか…」","translation":"...I'd like to say that, but I guess I can't keep you by my side forever...","id":"00F8C8"}
+{"text":"「お兄ちゃん…」","translation":"Big brother...","id":"00F928"}
+{"text":"「いい機会だ。\n　少しの間、一人暮らしをして、\n　将来の事とか、色々と考えてみるんだな」","translation":"This is a good opportunity. Live on your own for a little while, and think about your future and all that.","id":"00F940"}
+{"text":"（お兄ちゃん…\n　私…将来の事、ちゃんと考えてるよ…）","translation":"Big brother... I am thinking about my future, you know...","id":"00F9A0"}
+{"text":"（きっとお兄ちゃんは反対するだろうけど、\n　私…もう決めたから…）","translation":"I'm sure you'll oppose it, but I've already made up my mind...","id":"00F9E0"}
+{"text":"（私…歌う…。\n　お兄ちゃんやアルト君だけじゃなく、\n　みんなに私の歌を聴いてもらいたいの…）","translation":"I'm going to sing... I want everyone to hear my songs, not just you and Alto.","id":"00FA30"}
+{"text":"（そのために私…頑張るからね）","translation":"I'm going to do my best for that.","id":"00FA98"}
+{"text":"黒ベタ","translation":"Black screen","id":"00FAC0"}
+{"text":"執務室","translation":"Office","id":"00FAC8"}
+{"text":"　\n　\n　　　～国連本部　平和維持理事会執務室～","translation":"~UN Headquarters - Peacekeeping Council Office~","id":"00FAD0"}
+{"text":"「…ボートマンから\n　ソレスタルビーイングが帰還するとの\n　連絡が入った」","translation":"...We've received word from Boatman that Celestial Being is returning.","id":"00FB00"}
+{"text":"「宇宙の方にも\n　未知の敵が現れたそうですな」","translation":"It seems unknown enemies have also appeared in space.","id":"00FB58"}
+{"text":"「だが、フロンティア船団の国連加盟が決まり、\n　彼等も平和維持理事会に戦力を\n　提供してくれた」","translation":"But the Frontier Fleet has been approved for UN membership, and they've offered forces to the Peacekeeping Council.","id":"00FB90"}
+{"text":"「暗黒大陸の調査に向かったクラッシャー隊も\n　帰還し、エルガン代表の指示通り、\n　ドラゴンズハイヴへ向かっています」","translation":"The Crusher Team has returned from the Dark Continent and is heading to Dragon's Hive, as ordered.","id":"00FBF8"}
+{"text":"「なお、現地で手助けしてくれた人員が\n　引き続き協力してくれるとの事です」","translation":"Also, the personnel who assisted them on site will continue to cooperate with us.","id":"00FC70"}
+{"text":"「ソレスタルビーイングと\n　マクロス・クォーターもそちらへ向かわせる。\n　そこでクラッシャー隊と彼等を合流させよう」","translation":"Send Celestial Being and the Macross Quarter there as well. Have them rendezvous with the Crusher Team there.","id":"00FCC0"}
+{"text":"「では…？」","translation":"Then...?","id":"00FD40"}
+{"text":"「次元獣、インベーダー、イマージュ、\n　ギシン星人、Ｄｒ．ヘル、国際テロリスト、\n　そして、獣人とバジュラ…」","translation":"Dimensional Beasts, Invaders, Images, the Gishin, Dr. Hell, international terrorists, and the Beastmen and Vajra...","id":"00FD58"}
+{"text":"「人類を脅かすあらゆる敵に対して、\n　平和維持理事会の名の下、\n　その対応に特別対応チームを当てる」","translation":"In the name of the Peacekeeping Council, we will deploy a special response team to deal with all enemies threatening humanity.","id":"00FDD0"}
+{"text":"「おお…ついに…！」","translation":"Oh... at last...!","id":"00FE40"}
+{"text":"「そうだ。\n　この混迷の世界において人々を守るために\n　彼等には戦ってもらう」","translation":"That's right. To protect the people in this chaotic world, we will have them fight.","id":"00FE60"}
+{"text":"「了解です。\n　では、私もドラゴンズハイヴで\n　彼等に合流します」","translation":"Understood. Then I will also head to Dragon's Hive and join them there.","id":"00FEB8"}
+{"text":"「頼むぞ、大塚長官」","translation":"I'm counting on you, Director Otsuka.","id":"00FF00"}
+{"text":"「では、失礼します」","translation":"Then, if you'll excuse me.","id":"00FF20"}
+{"text":"「世界を変える力…。\n　彼等に賭けるしかあるまい…」","translation":"The power to change the world... We have no choice but to place our trust in them...","id":"00FF40"}
+{"text":"「………」","translation":".........","id":"00FF80"}
+{"text":"「…わかっている。\n　だが、貴様の干渉は受けない。\n　それは以前にも、はっきり言ったはずだ」","translation":"...I understand. But I will not accept your interference. I made that perfectly clear before.","id":"00FF98"}
+{"text":"「私は私とこの世界に生きる者達の力で\n　この危機を乗り越えてみせる」","translation":"I will overcome this crisis with my own power and the power of those who live in this world.","id":"010000"}
+{"text":"「彼等は、そのための力となってくれる。\n　私はそう信じている」","translation":"They will become the power we need for that. I believe that.","id":"010050"}

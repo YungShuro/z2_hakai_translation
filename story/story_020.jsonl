@@ -1,0 +1,419 @@
+{"text":"敵の全滅。","translation":"All enemies destroyed.","id":"000880"}
+{"text":"味方戦艦の撃墜。","translation":"Allied battleship down.","id":"000898"}
+{"text":"刹那、ヒイロ、ティエリア、いずれかの撃墜。","translation":"Setsuna, Heero, or Tieria shot down.","id":"0008B0"}
+{"text":"ヒイロの撃墜。","translation":"Heero shot down.","id":"0008E0"}
+{"text":"ゼクス達が登場した敵増援から３ターン以内に敵を全滅させる。","translation":"Defeat all reinforcements in 3 turns\nafter Zechs and reinforcements appear.","id":"000908"}
+{"text":"「来るぞ！」","translation":"They're coming!","id":"001458"}
+{"text":"「あれがＷＬＦの一大拠点か」","translation":"So that's WLF's main base, huh?","id":"001510"}
+{"text":"「その割りには随分と貧相な守備隊ね」","translation":"That's a pretty shabby defense force for such a major base.","id":"001538"}
+{"text":"「俺達に恐れをなして逃げ出したんじゃないか？」","translation":"Maybe they got scared of us and ran off?","id":"001560"}
+{"text":"「それじゃ、せっかくあたし達が来た意味が\n　ないじゃないのさ」","translation":"Then there'd be no point in us coming all this way, would there?","id":"001598"}
+{"text":"「油断するなよ。\n　ここが拠点である以上、どんな罠が\n　待っているかわからない」","translation":"Don't let your guard down. If this is their base, there's no telling what kind of traps are waiting for us.","id":"0015E0"}
+{"text":"「どう見る、ゼロ？」","translation":"What do you make of it, Zero?","id":"001640"}
+{"text":"「現状では何とも言えない。\n　だが、やはり不自然な状況であるのは確かだ」","translation":"I can't say for sure at this point. But it's certainly an unnatural situation.","id":"001660"}
+{"text":"「ここは可能な限り迅速に\n　敵部隊を叩くべきだろう」","translation":"We should strike the enemy forces as quickly as possible.","id":"0016B0"}
+{"text":"「聞いた通りだ。\n　各機、周辺の状況に注意しつつ\n　速やかに敵を殲滅しろ」","translation":"You heard him. All units, stay alert to your surroundings and wipe out the enemy quickly.","id":"0016F0"}
+{"text":"「おう！\n　こんな暑っ苦しい場所に長居は無用だぜ！」","translation":"Yeah! No point lingering in a hot, stuffy place like this!","id":"001740"}
+{"text":"「刹那・Ｆ・セイエイ、ヒイロ・ユイ。\n　君達は俺の指示に従ってもらうぞ」","translation":"Setsuna F. Seiei, Heero Yuy. You two will follow my orders.","id":"001780"}
+{"text":"「特に刹那・Ｆ・セイエイ、\n　君は昨日までの無断外出の件もある。\n　勝手な行動は許されないぞ」","translation":"Especially you, Setsuna F. Seiei. After your unauthorized outing yesterday, I won't permit any more independent action.","id":"0017D8"}
+{"text":"「………」","translation":"...","id":"001840"}
+{"text":"「………」","translation":"...","id":"001850"}
+{"text":"「どうなってるんだ、あれ？」","translation":"What's up with those two?","id":"001868"}
+{"text":"「監視目的なんでしょうね。\n　あの二人…独断専行が多いそうですから」","translation":"Probably to keep an eye on them. I hear those two often act on their own.","id":"001890"}
+{"text":"（この異様な雰囲気…）","translation":"This eerie atmosphere...","id":"0018E0"}
+{"text":"（先制攻撃を仕掛けたつもりが、\n　罠にはまったのは、こちらかも知れない…）","translation":"We thought we were launching a preemptive strike, but we might be the ones who walked into a trap...","id":"001900"}
+{"text":"（だが、ＷＬＦに\n　今の$cを叩くだけの戦力が\n　存在するのか…？）","translation":"But does WLF even have the strength to take on $c as it is now...?","id":"001950"}
+{"text":"「敵部隊の全滅を確認」","translation":"Confirmed. The enemy force has been wiped out.","id":"001C78"}
+{"text":"「増援もないようだね」","translation":"Doesn't look like any reinforcements are coming either.","id":"001C98"}
+{"text":"「って事はゼロやスメラギさんの嫌な予感も\n　取り越し苦労だったってわけか」","translation":"So Zero and Sumeragi's bad feeling was just worrying over nothing after all.","id":"001CB8"}
+{"text":"「甘いぞ…！」","translation":"Too naive...!","id":"001D10"}
+{"text":"「お前は…！\n　あの時の無愛想な助っ人君！」","translation":"You...! That unfriendly helper from before!","id":"001E28"}
+{"text":"「奴もコロニーのガンダムか…」","translation":"So he's one of the Gundams from the colonies too...","id":"001E58"}
+{"text":"「わかっているのか、貴様等！\n　まんまとはめられた事を！」","translation":"Do you fools understand? You've been completely played!","id":"001E80"}
+{"text":"「何言ってんだ、あいつ…！\n　ＷＬＦは片付いただろうが！」","translation":"What the hell is he talking about?! We already took care of the WLF!","id":"001EC0"}
+{"text":"「待って下さい！\n　このエリアに全方位から接近する機体群が\n　あります！」","translation":"Wait! Multiple units are approaching this area from all directions!","id":"001F08"}
+{"text":"「これは…！」","translation":"This is...!","id":"001F58"}
+{"text":"「ブリタニア・ユニオンにＡＥＵ…！\n　人革連の機体もいる！」","translation":"Britannia, the Union, and the AEU...! There are Human Reform League units too!","id":"0020B0"}
+{"text":"「三大国家の連合軍だと…！」","translation":"A joint force of the three major powers...?!","id":"0020F8"}
+{"text":"「何だよ、あの数はよ！？」","translation":"What the hell is with that number?!","id":"002120"}
+{"text":"「俺達がＷＬＦを相手にしている間に\n　囲まれたか！」","translation":"They surrounded us while we were dealing with the WLF?!","id":"002140"}
+{"text":"「警告も無しに発砲かよ！\n　完全に俺達を敵扱いだぜ！」","translation":"They're firing without warning! They're treating us like enemies!","id":"002280"}
+{"text":"「裏部隊はともかく、\n　俺達は正真正銘の国連所属なんだぞ！」","translation":"Forget the covert unit, we're bona fide U.N. personnel!","id":"0022C0"}
+{"text":"「キャシー君！\n　連合軍へ通信を送るんだ！」","translation":"Cathy! Send a transmission to the coalition forces!","id":"002308"}
+{"text":"「駄目です！\n　あらゆる周波数で呼びかけていますが、\n　応答はありません！」","translation":"No good! We're calling on every frequency we can, but there's no response!","id":"002340"}
+{"text":"「…よろしいのですか、ゼクス？」","translation":"...Are you sure about this, Zechs?","id":"002398"}
+{"text":"「我々の受けた命令は\n　このポイントに展開している部隊全てを\n　叩く事だ」","translation":"Our orders are to strike every unit deployed at this point.","id":"0023C0"}
+{"text":"「それも一切の例外なくな…」","translation":"Without a single exception...","id":"002410"}
+{"text":"「しかし、向こうには民間からの協力者も…」","translation":"But there are civilian collaborators among them...","id":"002438"}
+{"text":"「ソレスタルビーイングや黒の騎士団、\n　コロニーのガンダムもいるんだ！\n　連中も似たようなもんだろうぜ！」","translation":"Celestial Being, the Black Knights, even the Gundams from the colonies are there! They're all the same sort anyway!","id":"002470"}
+{"text":"「…各機、攻撃を開始しろ。\n　速やかに任務を実行するんだ」","translation":"...All units, commence attack. Carry out the mission immediately.","id":"0024E8"}
+{"text":"「問答無用かよ！」","translation":"No questions asked, huh?!","id":"002530"}
+{"text":"「ここは迎え撃つしかないのか…！」","translation":"So we have no choice but to fight back here...!","id":"002548"}
+{"text":"「で、でも…あんな数を相手にするなんて…」","translation":"B-But... taking on that many of them...","id":"002578"}
+{"text":"「向こうは我々を一機たりとも逃がす気はない！\n　死にたくなければ、戦え！」","translation":"They won't let a single one of us escape! If you don't want to die, fight!","id":"0025B0"}
+{"text":"「助っ人君…！\n　どうして、こんな不利な状況に\n　わざわざ飛び込んできた！？」","translation":"You there...! Why would you deliberately jump into such a hopeless situation?!","id":"002600"}
+{"text":"「張五飛だ。\n　お前達は愚かだが、俺の目的のためにも\n　ここで倒れてもらっては困る」","translation":"I'm Chang Wufei. You're fools, but for my own purposes, I can't have you fall here.","id":"002650"}
+{"text":"「気持ちはありがたいが、\n　少し無茶が過ぎないか？」","translation":"I appreciate the sentiment, but isn't this a bit too reckless?","id":"0026A8"}
+{"text":"「戦う気がないなら下がっていろ。\n　弱い奴は戦場に出て来るな」","translation":"If you have no intention of fighting, step back. The weak have no business on the battlefield.","id":"0026E0"}
+{"text":"「相変わらず手厳しい事で…」","translation":"Still as harsh as ever...","id":"002728"}
+{"text":"「各機は密集陣形で近づいてくる敵機を迎撃！\n　各隊の指揮官機を優先的に狙うのよ！」","translation":"All units, intercept the approaching enemy in tight formation! Prioritize the commander units of each squad!","id":"002748"}
+{"text":"（まずいな、こいつは…。\n　死んで借金チャラってオチかも…）","translation":"This is bad... Maybe I'll end up paying off my debts by dying...","id":"0027A8"}
+{"text":"「新たな機影を確認…！」","translation":"New contacts detected...!","id":"002B08"}
+{"text":"「さらに増援なの！」","translation":"More reinforcements?!","id":"002B30"}
+{"text":"「モビルアーマーだと！」","translation":"A Mobile Armor?!","id":"002C10"}
+{"text":"（レッドショルダーもいる。\n　ＰＭＣトラストか）","translation":"The Red Shoulders are here too. So it's PMC Trust.","id":"002C38"}
+{"text":"「へ…各国のエースが勢揃いの戦場とは\n　随分と芝居がかった大舞台だぜ」","translation":"Heh... a battlefield packed with aces from every nation. Quite the theatrical stage.","id":"002C70"}
+{"text":"「だがよ！\n　そんな事は俺は知ったこっちゃねえんだ！\n　俺は俺の仕事をやらせてもらうぜ！」","translation":"But hey! I don't give a damn about any of that! I'm here to do my job!","id":"002CC8"}
+{"text":"「奴は…！\n　アリー・アル・サーシェスか！」","translation":"That man...! Ali Al-Saachez?!","id":"002D30"}
+{"text":"「まずは、この前の借りを返してもらうぜ！\n　え、ガンダムさんよぉ！」","translation":"First, I'm settling the score from last time! Right, Mr. Gundam?!","id":"002D68"}
+{"text":"「！」","translation":"!","id":"002DB8"}
+{"text":"「ぐわああっ！！」","translation":"Gwaaaah!!","id":"002F28"}
+{"text":"「どうだ、クルジスのガキ！\n　アグリッサのプラズマフィールドの味は！？」","translation":"How's that, you Krugis brat?! How do you like Agrissa's plasma field?!","id":"002F40"}
+{"text":"「刹那・Ｆ・セイエイ！」","translation":"Setsuna F. Seiei!","id":"002F98"}
+{"text":"「邪魔すんじゃねえ！\n　このダンゴが！」","translation":"Don't get in my way! You little dumpling!","id":"0030A0"}
+{"text":"「機体を押さえられた！？」","translation":"My unit's been pinned down?!","id":"003178"}
+{"text":"「丁度いい！\n　ソレスタル何たらのガンダムの\n　捕獲も依頼されたんだ！」","translation":"Perfect! I was also hired to capture one of those Celestial-whatever Gundams!","id":"0031A0"}
+{"text":"「よかったな、ダンゴ野郎！\n　てめえは生きたまま捕えて、\n　お持ち帰りにしてやるぜ！」","translation":"Lucky you, dumpling boy! I'm gonna capture you alive and take you home with me!","id":"0031F8"}
+{"text":"「くっ！」","translation":"Tch!","id":"003258"}
+{"text":"「ティエリア！」","translation":"Tieria!","id":"003270"}
+{"text":"「くうっ！！」","translation":"Guhh!!","id":"003290"}
+{"text":"「装甲を脱ぎやがっただと！」","translation":"He shed his armor?!","id":"0033F0"}
+{"text":"「ガンダムナドレ、目標を消滅させる！」","translation":"Gundam Nadleeh, eliminating the target!","id":"003418"}
+{"text":"「おもしれえじゃねえかよ！\n　こんな隠し球を用意してやがるとは！」","translation":"Now this is getting interesting! So you've been hiding a trump card like this!","id":"003510"}
+{"text":"「ティエリア・アーデ…」","translation":"Tieria Erde...","id":"003600"}
+{"text":"「何も言うな…！\n　俺は…僕は……私は…！」","translation":"Don't say anything...! I... I... I...!","id":"003620"}
+{"text":"「ティエリア…\n　ナドレを晒してしまったのね…」","translation":"Tieria... So you exposed Nadleeh...","id":"003658"}
+{"text":"「仕切り直しだ！\n　楽しませてくれよ、ソレスタル何たら！」","translation":"Let's start over! Entertain me, Celestial-whatever!","id":"003698"}
+{"text":"「ス、スメラギさん！\n　さらに敵が来ます！」","translation":"M-Ms. Sumeragi! More enemies incoming!","id":"0037E0"}
+{"text":"「くっ！　敵の戦力は底無しか！」","translation":"Damn! Are their forces endless?!","id":"0038B8"}
+{"text":"「片っ端から叩き落としても\n　キリがないぜ！」","translation":"No matter how many we shoot down, there's no end to them!","id":"0038E0"}
+{"text":"「うおわっ！」","translation":"Whoa!","id":"0039E0"}
+{"text":"「くそっ！　\n　どうやら、ここが俺達の墓場のようだぜ！」","translation":"Damn it! Looks like this is where we die!","id":"0039F8"}
+{"text":"「テロリスト達に告ぐ。\n　こちらは三国連合軍のカティ・マネキン大佐だ」","translation":"To the terrorists: This is Colonel Kati Mannequin of the Three-Nation Allied Forces.","id":"003A38"}
+{"text":"「大人しく武器を捨てて、投降しろ。\n　さもなくば、武力行使を続行する」","translation":"Lay down your weapons and surrender peacefully. Otherwise, we will continue to use force.","id":"003A88"}
+{"text":"「こっちの士気が落ちきった所で降伏勧告か。\n　悔しいが、絶妙だ…！」","translation":"A surrender ultimatum right when our morale's hit rock bottom. I hate to admit it, but the timing is perfect...!","id":"003AD8"}
+{"text":"「ミス・スメラギ！　退路は！」","translation":"Miss Sumeragi! What about our escape route?!","id":"003B28"}
+{"text":"「コースの割り出しは出来ている…！\n　一瞬でも敵の目を逸らす事が出来れば、\n　ジャミングを使って…」","translation":"I've already plotted a course...! If we can distract the enemy for even an instant, we can use jamming and...","id":"003B50"}
+{"text":"（一瞬…！\n　その一瞬が、これ程までに遠いとは！）","translation":"An instant...! To think even that one instant could be so far out of reach!","id":"003BC0"}
+{"text":"「死ぬ…死ぬのか？\n　この歪んだ世界の中で、何にもなれぬまま…\n　失い続けたまま…朽ち果てるのか？」","translation":"Die... Am I going to die? In this warped world,\nnever becoming anything... losing everything...\nand just wither away?","id":"003BF8"}
+{"text":"「ガンダム…！\n　何をする気だ…！？」","translation":"Gundam...! What are you trying to do...!?","id":"003E20"}
+{"text":"「あいつ…まさか…！」","translation":"That guy... don't tell me...!","id":"003E50"}
+{"text":"「…俺が隙を作る。\n　各機、その間に離脱しろ」","translation":"...I'll create an opening. All units, withdraw while you can.","id":"003E70"}
+{"text":"「ヒイロ！！」","translation":"Heero!!","id":"003FC8"}
+{"text":"「奴の覚悟を無駄にするな！\n　急げ！！」","translation":"Don't let his resolve be in vain! Hurry!!","id":"003FE0"}
+{"text":"「ヒイロ・ユイ…！　お前は！！」","translation":"Heero Yuy...! You...!!","id":"004010"}
+{"text":"「トールギスの力を\n　私が使いこなせていないか…！」","translation":"So I still haven't mastered Tallgeese's power...!","id":"004138"}
+{"text":"「この勝負、預ける…！\n　トールギスの力を引き出せるようになった時、\n　決着をつけるぞ！」","translation":"I'll leave this battle for another time...! When I can truly draw out Tallgeese's power, we'll settle this!","id":"004178"}
+{"text":"「それでこそ私が生命を懸けて\n　恋焦がれるだけの相手だ！」","translation":"That is exactly the kind of opponent I would stake my life to pursue!","id":"004298"}
+{"text":"「また会おう！\n　それまで誰の手にも落ちるなよ、\n　我が愛しの君達よ！」","translation":"We'll meet again! Until then, do not fall into anyone else's hands, my beloved ones!","id":"0042E0"}
+{"text":"「僕は…こんな作戦に賛同する事は出来ない…」","translation":"I... can't agree to a plan like this...","id":"0043F0"}
+{"text":"「枢木スザク…機体損傷により\n　戦闘区域を離脱します！」","translation":"Suzaku Kururugi... withdrawing from the combat zone due to unit damage!","id":"004428"}
+{"text":"「ちっ！　しぶとい野郎共だぜ！\n　まだ粘りやがる気かよ！」","translation":"Tch! You stubborn bastards! Still planning to hang on?!","id":"004528"}
+{"text":"「精々無駄な足掻きってのをするんだな！\n　お前等の死に様は高みの見物と\n　いかせてもらうぜ！」","translation":"Go ahead and struggle in vain all you want! I'll enjoy watching you die from above!","id":"004570"}
+{"text":"「お、俺は…！\n　こんな所で死ぬような男では…！」","translation":"I-I...! I'm not a man who's going to die in a place like this...!","id":"004698"}
+{"text":"「勝負だ、ガンダム！\n　このトールギスならば、機体性能は互角だ！」","translation":"Let's settle this, Gundam! With this Tallgeese, our machines are evenly matched!","id":"004798"}
+{"text":"「この男…アフリカやエリア１１で戦った\n　ＯＺの指揮官か！」","translation":"This man... is he the OZ commander I fought in Africa and Area 11?!","id":"0047E8"}
+{"text":"「私はゼクス・マーキス！\n　ライトニングバロンの名に恥じぬ戦いを見せる！\n　我が部下の魂のために！」","translation":"I am Zechs Merquise! I will show you a battle worthy of the name Lightning Baron! For the souls of my men!","id":"004830"}
+{"text":"「オットー…貴様が生命を懸けて完成させた\n　このトールギス、無駄にはしない…！」","translation":"Otto... I will not let this Tallgeese, which you completed at the cost of your life, go to waste...!","id":"004980"}
+{"text":"「だが、お前のもう一つの願いは待ってくれ…。\n　今の私にピースクラフトの名は\n　重過ぎるのだ…！」","translation":"But your other wish must wait... Right now, the name Peacecraft is too heavy a burden for me...!","id":"0049D8"}
+{"text":"「見つけたぞ、ガンダム！\n　ビクトリア基地での借りを\n　ここで返す！」","translation":"Found you, Gundam! I'll settle the score from Victoria Base right here!","id":"004B00"}
+{"text":"「あの時の女か…！\n　弱い者と女は殺さないと俺は言ったぞ！」","translation":"That woman from before...! I told you, I do not kill women or the weak!","id":"004B50"}
+{"text":"「私は戦士だ！\n　私の信じる理想のためにお前達を討つ！」","translation":"I am a warrior! I will strike you down for the ideals I believe in!","id":"004B98"}
+{"text":"「ならば、容赦はしない！\n　俺とナタクが相手をしてやる！」","translation":"Then I won't hold back! Nataku and I will take you on!","id":"004BD8"}
+{"text":"「どけどけ！\n　ＡＥＵのエース、パトリック・コーラサワー様の\n　邪魔をするな！」","translation":"Out of the way, out of the way! Don't get in the way of AEU's ace, Patrick Colasour!","id":"004D18"}
+{"text":"「おっと！\n　今日からは世界のエースにバージョンアップだ！\n　マネキン大佐にいい所を見せるぜ！」","translation":"Oh, right! From today on, I'm upgrading to the world's ace! I'm gonna show Colonel Mannequin what I've got!","id":"004D78"}
+{"text":"（民間人をも巻き込んでまで\n　ソレスタルビーイングとその協力者を\n　叩くか…）","translation":"They're willing to drag civilians into this just to take down Celestial Being and its allies...","id":"004EA8"}
+{"text":"（この作戦…何か裏を感じる…。\n　それに三大国家が…いや、世界が\n　動かされているのか…）","translation":"This operation... something feels off... And the three major powers... no, the whole world is being manipulated...","id":"004F00"}
+{"text":"「くっ…！\n　この頭痛…宇宙で戦った人革連の超兵か！」","translation":"Tch...! This headache... is it that Human Reform League super-soldier I fought in space?!","id":"005028"}
+{"text":"「だらしねえな、アレルヤ！\n　お前はひっこんでやがれ！」","translation":"Pathetic, Allelujah! Just stay out of this!","id":"005068"}
+{"text":"（ハレルヤ…！）","translation":"Hallelujah...!","id":"0050B0"}
+{"text":"「ソレスタルビーイングの羽付きめ！\n　今度こそ、貴様を討ち、\n　超兵として任務を完遂させるぞ！」","translation":"You winged Celestial Being bastard! This time, I will bring you down and complete my mission as a super-soldier!","id":"0050D0"}
+{"text":"「おい、お前…名前は？」","translation":"Hey, you... what's your name?","id":"005138"}
+{"text":"「通信だと！？」","translation":"A transmission?!","id":"005160"}
+{"text":"「教えろよ」","translation":"Tell me.","id":"005180"}
+{"text":"「超兵一号、ソーマ・ピーリス少尉だ！」","translation":"Super Soldier No. 1, Second Lieutenant Soma Peries!","id":"005198"}
+{"text":"「ソーマ・ピーリスか。\n　いい名前だ…」","translation":"Soma Peries, huh. Nice name...","id":"0051C8"}
+{"text":"「殺し甲斐がある！」","translation":"That makes you worth killing!","id":"005200"}
+{"text":"「貴様っ！」","translation":"You bastard!","id":"005220"}
+{"text":"（ハレルヤ…！\n　君は下がっているんだ！）","translation":"Hallelujah...! Stay back!","id":"005238"}
+{"text":"（ちっ…つまんねえな…。\n　そこまで言うんなら、後はてめえで\n　勝手にやんな、アレルヤ）","translation":"Tch... how boring... If you're going to say that much, then handle the rest yourself, Allelujah.","id":"005270"}
+{"text":"「僕は…人殺しを楽しむ君とは…\n　違うんだ！」","translation":"I'm... not like you, someone who enjoys killing people!","id":"0052D0"}
+{"text":"「いい機会だ…！\n　俺の腕を世界とグラハム・エーカーに\n　見せてやる！」","translation":"This is a good chance...! I'll show the world, and Graham Aker, what I can do!","id":"005548"}
+{"text":"「オーバーフラッグスのエースは、この俺、\n　ジョシュア・エドワーズだ！」","translation":"The ace of the Over Flags is me, Joshua Edwards!","id":"0055A0"}
+{"text":"「見つけたぞ、ゼロ！\n　今日ここで貴様に受けた屈辱の全てを\n　晴らす！」","translation":"Found you, Zero! Today I'll wipe away every last humiliation you dealt me!","id":"0056B8"}
+{"text":"「誰かと思えば、ジェレミア卿か。\n　フ…砂漠にいて、ノドが渇いたところだ。\n　オレンジは嬉しく思うよ」","translation":"Well, if it isn't Lord Jeremiah. Heh... I'm parched from being out in the desert. Orange is just what I needed.","id":"005710"}
+{"text":"「その名で私を呼ぶな！\n　私はジェレミア・ゴットバルト…\n　誇り高きブリタニアの騎士だ！」","translation":"Don't call me by that name! I am Jeremiah Gottwald... a proud knight of Britannia!","id":"005780"}
+{"text":"「ブリタニアの白兜…！\n　厄介な奴が来ているか…！」","translation":"Britannia's White Knight...! So a troublesome one has shown up...!","id":"0058C8"}
+{"text":"（黒の騎士団はエリア１１で\n　テロ活動を行なっている…）","translation":"The Black Knights are carrying out terrorist activities in Area 11...","id":"005908"}
+{"text":"（その首領であるゼロを叩けば、\n　エリア１１に平穏が訪れるはずだ…！）","translation":"If I take down their leader, Zero, peace should return to Area 11...!","id":"005948"}
+{"text":"（三大国家はＷＬＦ攻撃を口実に\n　平和維持理事会の戦力を潰そうとしている…）","translation":"The three major powers are using the WLF attack as a pretext to crush the Peacekeeping Council's forces...","id":"005A78"}
+{"text":"（確かにガンダムや黒の騎士団と\n　裏でつながっている理事会もおかしいけれど、\n　民間の協力者まで潰そうとするなんて…）","translation":"It's true the Council is suspicious, with secret ties to the Gundams and the Black Knights, but to wipe out even civilian allies...","id":"005AD0"}
+{"text":"（この世界…\n　何が正しくて、何が間違っているんだ…？）","translation":"This world... what is right, and what is wrong...?","id":"005B50"}
+{"text":"「いたか、我が愛しのガンダムよ！」","translation":"There you are, my beloved Gundam!","id":"005C70"}
+{"text":"「また、この男か…！」","translation":"That man again...!","id":"005CA0"}
+{"text":"「どれだけのガンダムが現れようと\n　私の心を射止めたのは君…！\n　美しき光と共に我が眼前に降り立った君だ！」","translation":"No matter how many Gundams appear, you alone captured my heart...! You came down before me in a beautiful light!","id":"005CC0"}
+{"text":"「あの日の甘美なときめきが\n　今の私の胸にある…！\n　そう…それこそが私をこうも突き動かす！」","translation":"The sweet thrill of that day still remains in my heart...! Yes... that is what drives me so!","id":"005D38"}
+{"text":"「付き合っていられん…！\n　さっさと片付ける！」","translation":"I don't have time for this...! I'll finish this quickly!","id":"005DA0"}
+{"text":"「いささか裏の事情があるようだが、\n　これも運命の女神のくれたチャンスと見る…！\n　ならば、望むはガンダムとの心踊る戦い…！」","translation":"There may be secrets behind this,\nbut I'll take it as fate's chance...!\nThen let us have a thrilling fight with Gundam!","id":"005EF8"}
+{"text":"「私の邪魔をする者は\n　故事にのっとり、馬に蹴られるものと思え！」","translation":"Anyone who gets in my way should expect, as the old saying goes, to be kicked by a horse!","id":"005F80"}
+{"text":"「クルジスのガキ！\n　過ぎたオモチャを手に入れて、\n　喜んでるのも今日までだ！」","translation":"You Krugis brat! You got your hands on a toy that's too good for you, but today's the last day you'll be enjoying it!","id":"006090"}
+{"text":"「アリー・アル・サーシェス…！」","translation":"Ali Al-Saachez...!","id":"0060F0"}
+{"text":"「お前じゃ逆立ちしたって俺には勝てねえ！\n　お前に殺しのイロハを叩き込んでやったのは\n　この俺だからな！」","translation":"You couldn't beat me even if you stood on your head! I'm the one who taught you the basics of killing, after all!","id":"006118"}
+{"text":"「だが、俺は知った…！\n　お前は神の使いではなく、\n　同時にこの世に神がいない事を…！」","translation":"But I learned...! You're not a messenger of God, and that there is no God in this world!","id":"006190"}
+{"text":"「だから、俺は…ガンダムになる！」","translation":"That's why I... will become Gundam!","id":"0061F0"}
+{"text":"「ソレスタル何たらとＷＬＦのおかげで\n　楽しい世の中になってきたぜ、おい！」","translation":"Thanks to that Celestial Whatever and the WLF, the world's turning into a real fun place, huh?!","id":"006338"}
+{"text":"「死ぬにはいい日だな、お前等！\n　俺にとっちゃ、殺すにはいい日だぜ！」","translation":"It's a fine day to die, you lot! For me, it's a fine day to kill!","id":"006390"}
+{"text":"（プロトワンの不可解な行動が\n　小惑星リドに起因しているとしたら、\n　キリコが関与している可能性がある…）","translation":"If Proto One's inexplicable behavior is tied to the asteroid Rido, then there's a possibility that Chirico is involved...","id":"0064A8"}
+{"text":"（キリコ・キュービィー…\n　やはり、お前の存在は許されない…！\n　私の手でお前の力を否定してくれる！）","translation":"Chirico Cuvie... as I thought, your very existence cannot be permitted...! With my own hands, I will deny your power!","id":"006520"}
+{"text":"「あ！」","translation":"Ah!","id":"006650"}
+{"text":"議会","translation":"Council","id":"006850"}
+{"text":"　\n　　\n　　　　　～国連本部　平和維持理事会～","translation":"~UN Headquarters - Peacekeeping Council~","id":"006858"}
+{"text":"「…で、ですので、国連に加入する一国として、\n　また、平和を求める人間の代表として\n　ここに提案します」","translation":"...A-and so, as one nation in the UN, and as a representative of those who seek peace, I hereby submit this proposal.","id":"006888"}
+{"text":"「………」","translation":".........","id":"0068F8"}
+{"text":"「………」","translation":".........","id":"006910"}
+{"text":"「今日の国際情勢において、\n　国家に所属しない私設武力集団による\n　反体制的行動…」","translation":"In today's international climate, subversive actions by private armed groups unaffiliated with any nation...","id":"006928"}
+{"text":"「いわゆるテロ行為は増加の一途を\n　たどっています」","translation":"So-called acts of terrorism continue to increase.","id":"006988"}
+{"text":"「………」","translation":".........","id":"0069C8"}
+{"text":"「………」","translation":".........","id":"0069D8"}
+{"text":"「ＷＬＦ、ソレスタルビーイング、\n　コロニーの過激派、黒の騎士団…」","translation":"The WLF, Celestial Being, colony extremists, the Black Knights...","id":"0069F0"}
+{"text":"「それらの活動に対して\n　国連の理念に基づき、各国の連合によって\n　断固たる処置を行なう事を提案します」","translation":"I propose that, in accord with the ideals of the UN, a coalition of nations take decisive measures against such activities.","id":"006A40"}
+{"text":"（リモネシア共和国外務大臣、シオニー・レジス。\n　言っている事は正論だな…）","translation":"Shiony Regis, Foreign Minister of the Republic of Limonesia. What she's saying is perfectly sound...","id":"006AB0"}
+{"text":"（これでまた世界は加速していくか…）","translation":"So the world will accelerate once again...","id":"006B08"}
+{"text":"黒ベタ","translation":"Black screen","id":"006B38"}
+{"text":"ヴェーダ","translation":"Veda","id":"006B40"}
+{"text":"　\n　\n　　　～プトレマイオス　システムルーム～","translation":"~Ptolemaios - System Room~","id":"006B50"}
+{"text":"（ソレスタルビーイングが行動を開始してから\n　世界で行われていた紛争の内、\n　１８件のレベルＡクラスが終結した…）","translation":"Since Celestial Being began its operations, 18 Level A-class conflicts around the world have come to an end...","id":"006B80"}
+{"text":"（しかし、新たに発生した紛争は\n　レベルＡクラスだけで２５件が確認されている）","translation":"However, 25 newly erupted Level A-class conflicts alone have already been confirmed.","id":"006C00"}
+{"text":"（我々はヴェーダの計画予想水域は\n　十分に満たしてきた。\n　だが、事実として紛争は増加している…）","translation":"We have more than sufficiently met the range projected in Veda's plan. But in actual fact, conflicts are increasing...","id":"006C60"}
+{"text":"（何故だ…。\n　ヴェーダの予測以上のスピードで\n　事態が変化しているためか…）","translation":"Why...? Is it because the situation is changing at a speed beyond even Veda's predictions...?","id":"006CD0"}
+{"text":"（それとも、そこには何者かの意思が…）","translation":"Or is there some other will at work behind it...?","id":"006D28"}
+{"text":"（だとしたら、\n　タクラマカン砂漠のＷＬＦの基地攻略…。\n　急がねばならない）","translation":"If that's the case, then the assault on the WLF base in the Taklamakan Desert... we must hurry.","id":"006D60"}
+{"text":"夜空","translation":"Night sky","id":"006DB8"}
+{"text":"　\n　　\n　～アザディスタン王宮　マリナ私室バルコニー～","translation":"~Azadistan Royal Palace - Marina's Private Balcony~","id":"006DC0"}
+{"text":"「…そこにいるのは誰？」","translation":"...Who's there?","id":"006DF8"}
+{"text":"「刹那・Ｆ・セイエイ…！\n　どうして、ここに…」","translation":"Setsuna F. Seiei...! Why are you here...?","id":"006E18"}
+{"text":"「…何故、この世界は歪んでいる？」","translation":"...Why is this world so distorted?","id":"006E50"}
+{"text":"「え…」","translation":"Huh...?","id":"006E78"}
+{"text":"「神のせいか？　人のせいか？」","translation":"Is it because of God? Or because of man?","id":"006E88"}
+{"text":"「…神は平等よ。\n　人だってわかり合える。\n　でもどうしようもなく、世界は歪んでしまうの」","translation":"...God is fair. People can understand one another too. But no matter what, the world becomes distorted.","id":"006EB0"}
+{"text":"「だから、私達お互いの事を…」","translation":"That's why we need to understand each other...","id":"006F10"}
+{"text":"「刹那…」","translation":"Setsuna...","id":"006F38"}
+{"text":"「お前に会えば、\n　答えがわかると思った…」","translation":"I thought that if I met you, I'd find the answer...","id":"006F50"}
+{"text":"「何が歪んでいる…？\n　それはどこにある…？」","translation":"What is distorted...? Where is it...?","id":"006F88"}
+{"text":"「刹那…。\n　あなたは何を求めているの…」","translation":"Setsuna... What is it you're seeking...?","id":"006FC0"}
+{"text":"「あなたは何のために戦うの…」","translation":"What are you fighting for...?","id":"006FF8"}
+{"text":"輸送機格納庫","translation":"Transport Hangar","id":"007020"}
+{"text":"　\n　　\n　　　　～三大国家連合軍　輸送機格納庫～","translation":"~Tri-Nation Allied Forces Transport Hangar~","id":"007030"}
+{"text":"「あんたが噂のオレンジ卿かい？」","translation":"So you're the famous Lord Orange, huh?","id":"007068"}
+{"text":"「…貴様、何者だ？」","translation":"...Who are you?","id":"007098"}
+{"text":"「三大国家の精鋭を集めた、この連合軍で\n　俺の事を知らない奴がいるとは驚きだ」","translation":"I'm surprised there's someone in this alliance army of elite troops from the three nations who doesn't know me.","id":"0070B8"}
+{"text":"「覚えておきな、オレンジ卿。\n　俺はパトリック・コーラサワー少尉。\n　ＡＥＵの誇るスーパーエースだ」","translation":"Remember this, Lord Orange. I'm Second Lieutenant Patrick Colasour, the AEU's proud super ace.","id":"007118"}
+{"text":"「では、その自意識過剰な少尉殿に名乗ろう。\n　私はジェレミア・ゴットバルト辺境伯…」","translation":"Then allow me to introduce myself to that overconfident second lieutenant. I am Margrave Jeremiah Gottwald...","id":"007188"}
+{"text":"「そのオレンジ卿なる呼び名は\n　私に対する侮辱である…！」","translation":"That title, 'Lord Orange,' is an insult to me...!","id":"0071E8"}
+{"text":"「こいつは失礼。\n　イカしたニックネームだと思ってたんだがな」","translation":"My apologies. I thought it was a pretty cool nickname.","id":"007230"}
+{"text":"「で、ここだけの話…\n　例のオレンジっていったい何だ？」","translation":"So, just between us... what exactly is this 'Orange' thing?","id":"007280"}
+{"text":"「貴様という男は…！」","translation":"You insolent man...!","id":"0072C8"}
+{"text":"「おやめ下さい、ジェレミア卿…！\n　ここで無用な争いを起こしては\n　コーネリア皇女殿下のお顔に泥を塗る事に…！」","translation":"Please stop, Lord Jeremiah...! If you start an unnecessary fight here, you'll only shame Princess Cornelia...!","id":"0072F0"}
+{"text":"「…そうだな。\n　私は汚名返上の機会をお与え下さった皇女殿下に\n　お応えせねばならん」","translation":"...Quite right. I must live up to Her Highness's decision to give me this chance to clear my name.","id":"007370"}
+{"text":"「滑稽だな、ジェレミア卿。\n　このような寄せ集めの部隊で戦う事に\n　何の誇りを感じる事が出来よう」","translation":"How ridiculous, Lord Jeremiah. What pride could you possibly take in fighting with such a ragtag unit?","id":"0073D0"}
+{"text":"「何を言う、キューエル…！」","translation":"What are you saying, Kewell...!","id":"007440"}
+{"text":"「黙れ、ジェレミア。\n　全ての元凶は貴様にある」","translation":"Silence, Jeremiah. This whole mess is your fault.","id":"007468"}
+{"text":"「見ろ！\n　全ブリタニアから、ここに派遣された騎士は\n　エリア１１の純血派のみ！」","translation":"Look! The only knights sent here from all of Britannia are the Purebloods from Area 11!","id":"0074A8"}
+{"text":"「さらには、名誉ブリタニア人も\n　同じ任務に就くのだぞ！」","translation":"And on top of that, even Honorary Britannians are assigned to the same mission!","id":"007508"}
+{"text":"「………」","translation":".........","id":"007550"}
+{"text":"「おんや～。\n　聞き捨てならないね、キューエル卿」","translation":"Oh my~ Now that's not something I can just let slide, Lord Kewell.","id":"007568"}
+{"text":"「君は皇女殿下のお与えになられた任務に\n　不満があるのかなぁ？」","translation":"Are you saying you have a problem with the mission Her Highness has assigned you?","id":"0075A8"}
+{"text":"「それは…」","translation":"That is...","id":"0075F0"}
+{"text":"「残念でした～！\n　もうここは前線なんだから、\n　今さら不満を言っても無駄だよ」","translation":"Too bad~! This is already the front lines, so it's a bit late to complain now.","id":"007608"}
+{"text":"「それより、せっかくなんだから\n　この場を楽しもうじゃない」","translation":"Besides, since we're here, why not enjoy ourselves?","id":"007660"}
+{"text":"「ほら…そっちのソーダだか、サイダー少尉だかと\n　友達になったりしてさ」","translation":"Come on... why don't you make friends with that Soda, or was it Cider, lieutenant over there?","id":"0076A8"}
+{"text":"「俺はコーラサワーだ！\n　いったい何だ、この妙なテンションの男は！？」","translation":"I'm Colasour! What the hell is with this guy's weird energy?!","id":"0076F8"}
+{"text":"「お騒がせして、申し訳ありません。\n　私達はブリタニア・ユニオンの\n　特別派遣嚮導技術部です」","translation":"Sorry for the disturbance. We are the Britannia Union's Specially Dispatched Guidance Technology Division.","id":"007750"}
+{"text":"「とくべつはけんきょーどーぎじゅつぶ？」","translation":"Specially Dispatched Guidance Technology Division...?","id":"0077B8"}
+{"text":"「あ…面倒だったら、特派って覚えてよ」","translation":"Ah... if that's too much of a mouthful, just remember us as the Special Dispatch.","id":"0077F0"}
+{"text":"「私達は新兵器の研究ならびに評価試験を\n　行なう部門なんです」","translation":"We're the division that researches new weapons and conducts evaluation tests on them.","id":"007820"}
+{"text":"「おめでと～、パトリック・コーラサワー少尉。\n　君は我が特派のランスロットと\n　共に戦う栄誉を授かったんだよ」","translation":"Congratulations~, Second Lieutenant Patrick Colasour. You've been granted the honor of fighting alongside our Lancelot.","id":"007868"}
+{"text":"「で、こっちがそのランスロットの\n　デヴァイサー、枢木スザク准尉だ」","translation":"And this is the Lancelot's deviser, Warrant Officer Suzaku Kururugi.","id":"0078E0"}
+{"text":"「よろしくお願いします」","translation":"I look forward to working with you.","id":"007930"}
+{"text":"「あん？　お前、ナンバーズか？」","translation":"Huh? You're a Number?","id":"007950"}
+{"text":"「ええ…」","translation":"Yes...","id":"007980"}
+{"text":"「何だよ…！\n　オレンジ卿にナンバーズとは\n　ブリタニア・ユニオンはやる気あんのか…！？」","translation":"What the hell...?! Lord Orange and a Number? Is the Britannia Union even serious about this...!?","id":"007998"}
+{"text":"「聞き捨てならないな、その台詞は」","translation":"I can't let that remark pass.","id":"007A00"}
+{"text":"「何だよ、あんたは？」","translation":"Who the hell are you?","id":"007A30"}
+{"text":"「ブリタニア・ユニオン、オーバーフラッグス所属\n　グラハム・エーカー上級大尉だ」","translation":"I'm Senior Captain Graham Aker of the Britannia Union's Over Flags.","id":"007A58"}
+{"text":"「あんたがグラハム・エーカーか。\n　噂は聞いてるぜ」","translation":"So you're Graham Aker. I've heard the rumors.","id":"007AB8"}
+{"text":"「私は君の戦いぶりも見せてもらったよ、\n　パトリック・コーラサワー少尉」","translation":"I've seen how you fight as well, Second Lieutenant Patrick Colasour.","id":"007AF8"}
+{"text":"「アフリカの軌道エレベーターでね」","translation":"At the orbital elevator in Africa.","id":"007B50"}
+{"text":"「！」","translation":"!","id":"007B80"}
+{"text":"「君のおかげでガンダムの恐ろしさを\n　知る事が出来たよ」","translation":"Thanks to you, I was able to learn just how terrifying Gundams are.","id":"007B98"}
+{"text":"「てめえ…！」","translation":"You bastard...!","id":"007BE0"}
+{"text":"「見苦しい真似はよせ…！」","translation":"Stop making a fool of yourself...!","id":"007C00"}
+{"text":"「この女…！　男の顔に何をしやがる！」","translation":"This woman...! What the hell are you doing to a man's face?!","id":"007C28"}
+{"text":"「見苦しい真似はよせと言った…！」","translation":"I told you to stop making a fool of yourself...!","id":"007C60"}
+{"text":"「に、二度もぶった！」","translation":"Y-You hit me twice!","id":"007C90"}
+{"text":"「ＡＥＵ軍作戦部所属、カティ・マネキン大佐だ。\n　今回の連合軍の作戦指揮官を務める」","translation":"I am Colonel Kati Mannequin of the AEU Operations Division. I will command the allied operation this time.","id":"007CB8"}
+{"text":"（…いい女じゃないか）","translation":"...She's a fine-looking woman.","id":"007D18"}
+{"text":"「申し訳ありませんでした、大佐殿！」","translation":"My apologies, Colonel!","id":"007D40"}
+{"text":"「わかればいい、少尉。\n　ブリーフィングまで控え室で待機していろ」","translation":"As long as you understand, Second Lieutenant. Wait in the ready room until the briefing.","id":"007D70"}
+{"text":"「了解であります！」","translation":"Yes, ma'am!","id":"007DC0"}
+{"text":"（ホレたぜ…！）","translation":"I'm in love...!","id":"007DE0"}
+{"text":"「…お恥ずかしい所をお見せして、\n　申し訳ありません」","translation":"...I apologize for letting you see such a shameful display.","id":"007E00"}
+{"text":"「気になさらないでいただきたい。\n　元気があってよろしいではないですか」","translation":"Please don't concern yourself with it. It's good to see someone with spirit.","id":"007E40"}
+{"text":"「ロシアの荒熊と恐れられるスミルノフ中佐には\n　うるさいだけのヒヨコでしょう」","translation":"To Lieutenant Colonel Smirnov, feared as Russia's Wild Bear, he's probably nothing more than a noisy little chick.","id":"007E98"}
+{"text":"「若さはそれだけで武器と言えましょう。\n　先が楽しみなパイロットです」","translation":"Youth is a weapon in itself. He is a pilot with a promising future.","id":"007EF0"}
+{"text":"「中佐、全モビルスーツの搬入、\n　完了しました」","translation":"Lieutenant Colonel, the delivery of all mobile suits is complete.","id":"007F40"}
+{"text":"「ご苦労だったな、少尉。\n　紹介しよう…こちらが今回の指揮を執られる\n　ＡＥＵのカティ・マネキン大佐だ」","translation":"Good work, Second Lieutenant. Let me introduce her... This is Colonel Kati Mannequin of the AEU, who'll lead this op.","id":"007F80"}
+{"text":"「人革連のソーマ・ピーリス少尉です。\n　よろしくお願いします」","translation":"I am Second Lieutenant Soma Peries of the Human Reform League. It's a pleasure to meet you.","id":"007FF0"}
+{"text":"「中佐の直轄のパイロットと聞いている。\n　期待させてもらうぞ」","translation":"I've heard you're a pilot directly under the lieutenant colonel. I expect great things from you.","id":"008038"}
+{"text":"「それにお応え出来るよう戦うつもりです」","translation":"I intend to fight in a way that will live up to those expectations.","id":"008080"}
+{"text":"（この若さ…それに専用機…。\n　この少女…人革連の研究している超兵か）","translation":"So young... and with a custom unit... This girl... is she one of the Super Soldiers the Human Reform League is researching?","id":"0080B8"}
+{"text":"「我々、人類革新連盟だけでなく\n　ブリタニア・ユニオンとＡＥＵも\n　精鋭を派遣していますな」","translation":"Not only the Human Reform League, but the Britannia Union and the AEU have also dispatched elite personnel.","id":"008108"}
+{"text":"「その最右翼とも言える２名は\n　既に顔見知りのようです」","translation":"And it seems the two foremost among them already know each other.","id":"008170"}
+{"text":"「ＡＥＵのゼクス・マーキス特尉と\n　ブリタニア・ユニオンのグラハム・エーカー\n　上級大尉ですか」","translation":"AEU Special Lieutenant Zechs Marquis and Britannia Union Senior Captain Graham Aker, correct?","id":"0081B0"}
+{"text":"「中佐…人革連の『虎』は来ていないのですか？」","translation":"Lieutenant Colonel... isn't the Human Reform League's \"Tiger\" here?","id":"008218"}
+{"text":"「…人類革新連盟を構成する国家群の中で\n　中華連邦は少々事情が込み入ってますので」","translation":"...Among Human Reform League nations, the Chinese Federation is a bit complicated.","id":"008250"}
+{"text":"「そうですか…」","translation":"I see...","id":"0082B0"}
+{"text":"「コーラサワー少尉の失礼は\n　私が代わって、お詫びします」","translation":"I apologize on Second Lieutenant Colasour's behalf for his rudeness.","id":"0082C8"}
+{"text":"「それには及びません、ゼクス特尉。\n　それよりも、こうしてあなたと正式に\n　共闘できる事を嬉しく思います」","translation":"No need, Special Lieutenant Zechs.\nMore importantly, I'm glad to fight alongside you\nlike this.","id":"008310"}
+{"text":"「私もです、グラハム上級大尉。\n　ご昇進をお祝いさせていただきます」","translation":"As am I, Senior Captain Graham. Allow me to congratulate you on your promotion.","id":"008388"}
+{"text":"「対ガンダム調査隊が任務の多様化に伴い、\n　再編成されたついでですよ」","translation":"It was simply part of the reorganization of the Anti-Gundam Investigation Team as its mission expanded.","id":"0083D8"}
+{"text":"「紹介します。\n　私の部下のハワード・メイスン准尉と\n　ダリル・ダッジ曹長です」","translation":"Allow me to introduce my subordinates, Warrant Officer Howard Mason and Sergeant Daryl Dodge.","id":"008428"}
+{"text":"「よろしくお願いします、\n　ゼクス・マーキス特尉」","translation":"It's a pleasure to meet you, Special Lieutenant Zechs Marquis.","id":"008480"}
+{"text":"「ライトニングバロンの名は\n　聞き及んでおります」","translation":"I've heard of the name Lightning Baron.","id":"0084C0"}
+{"text":"「こちらこそ、よろしく頼む。\n　では、私も副官を紹介しよう」","translation":"Likewise, I look forward to working with you. Now then, allow me to introduce my adjutant as well.","id":"008500"}
+{"text":"「ルクレツィア・ノイン一級特尉です。\n　お会い出来て光栄です」","translation":"I am Lucrezia Noin, First Lieutenant. It is an honor to meet you.","id":"008548"}
+{"text":"「先日のエリア１１ではお世話になりました。\n　こうして直にお顔を拝見できた事を\n　嬉しく思います」","translation":"Thank you for your assistance in Area 11 the other day. I am pleased to finally meet you in person.","id":"008590"}
+{"text":"「ＯＺに渡りをつけて、\n　ＡＥＵに亡命でもするつもりですか、\n　グラハム・エーカー中尉」","translation":"Are you planning to curry favor with OZ and defect to the AEU, Lieutenant Graham Aker?","id":"008600"}
+{"text":"「ジョシュアか…」","translation":"Joshua, huh...","id":"008668"}
+{"text":"「中尉じゃなくて、上級大尉だ。\n　昇進については、部隊編成の際に\n　通達されたはずだ」","translation":"Not lieutenant, senior captain. You should have been informed of my promotion when the unit was reorganized.","id":"008688"}
+{"text":"「すごいもんだな。\n　また上官でも殺したか？」","translation":"That's impressive. Did you kill another superior officer?","id":"0086E8"}
+{"text":"「根も葉もない事を言うな！」","translation":"Don't go making baseless accusations!","id":"008728"}
+{"text":"「お前達も気をつけるんだな。\n　下手こくと後ろから撃たれるぜ、\n　上級大尉殿にな」","translation":"You'd better watch yourselves too. Screw up, and you'll get shot in the back by your Senior Captain there.","id":"008750"}
+{"text":"「…君が何を思おうとも構わん。\n　だが、その汚名…戦場で晴らしてみせよう」","translation":"...Think what you like. But that stain on my honor... I'll wipe it away on the battlefield.","id":"0087B0"}
+{"text":"「フ…期待してますよ、\n　グラハム・エーカー上級大尉」","translation":"Heh... I'm looking forward to it, Senior Captain Graham Aker.","id":"008808"}
+{"text":"「彼は…？」","translation":"And he is...?","id":"008850"}
+{"text":"「我が隊のジョシュア・エドワーズ少尉です。\n　今度はこちらが見苦しいものをお見せして\n　申し訳ありません」","translation":"That was Second Lieutenant Joshua Edwards of my unit. My apologies for showing you such an unsightly display.","id":"008868"}
+{"text":"「それより…」","translation":"More importantly...","id":"0088E0"}
+{"text":"「彼の言った事は半分は真実です。\n　否定するつもりはありません」","translation":"Half of what he said is true. I have no intention of denying it.","id":"0088F8"}
+{"text":"「…自分にも武人としての誇りがあります。\n　ですので、先程も言った通り、汚名は\n　戦場で晴らすのみです」","translation":"...I too have pride as a warrior. That is why, as I said before, I will clear my name on the battlefield.","id":"008948"}
+{"text":"「わかりました。\n　その言葉に敬意を払わせていただきます」","translation":"Understood. I will give those words the respect they deserve.","id":"0089B8"}
+{"text":"「やはり、あなたは素晴らしい戦士です。\n　共に戦えるのは至上の喜びです」","translation":"As expected, you are a splendid warrior. It is my greatest pleasure to fight alongside you.","id":"008A00"}
+{"text":"「新部隊オーバーフラッグス…。\n　機体の方も新型のようですね」","translation":"The new unit, Over Flag... It looks like the machine itself is a new model as well.","id":"008A58"}
+{"text":"「ええ…。\n　エイフマン教授の手でカスタム化された\n　フラッグの力、後ほど、お見せしましょう」","translation":"Yes... Later, I'll show you the power of the Flag customized by Professor Eifman.","id":"008AA0"}
+{"text":"「お互い、新たな力を手に入れたという事ですか」","translation":"So, we've both acquired new power, then?","id":"008B08"}
+{"text":"「では…？」","translation":"Then...?","id":"008B40"}
+{"text":"「…コルシカ基地に忘れられたように\n　残されていたあの機体を稼動させるため、\n　私は多くの犠牲を払いました」","translation":"...To activate that machine, which had been left behind at Corsica Base as if forgotten, I paid a heavy price.","id":"008B58"}
+{"text":"「ＯＺのバックのロームフェラ財団ならば、\n　それも問題はないでしょう」","translation":"With the Romefeller Foundation backing OZ, that shouldn't be a problem.","id":"008BD0"}
+{"text":"「いえ…。\n　あれの完成には時間や資金だけではなく、\n　人の生命を必要としたのです」","translation":"No... Its completion required not only time and money, but human lives as well.","id":"008C20"}
+{"text":"「何と…」","translation":"What...?","id":"008C80"}
+{"text":"「あの機体のテストパイロットを務めた\n　オットー特尉は実戦テスト中に\n　そのＧ負荷により生命を落としました」","translation":"Lieutenant Otto, who served as that machine's test pilot, lost his life to the G-load during combat testing.","id":"008C98"}
+{"text":"「トールギス…。\n　私は彼の死に報いるためにも\n　あの機体を乗りこなしてみせます」","translation":"Tallgeese... To honor his death, I will master that machine.","id":"008D10"}
+{"text":"「そして、狙うは共に…」","translation":"And the target we both seek is...","id":"008D68"}
+{"text":"「ガンダムです」","translation":"Gundam.","id":"008D90"}
+{"text":"「ゼクス特尉とグラハム上級大尉…。\n　すごいですね、あの二人…」","translation":"Lieutenant Zechs and Senior Captain Graham... Those two are incredible...","id":"008DA8"}
+{"text":"「わかるの、スザク君？」","translation":"Can you tell, Suzaku?","id":"008DF0"}
+{"text":"「あの凛とした立ち姿…\n　武道の達人に通ずるものがあります」","translation":"That poised stance... It has something in common with a master martial artist.","id":"008E10"}
+{"text":"「ああいう大物まで来たとなると\n　ここで彼等は終わりかも知れないね」","translation":"If even heavyweights like them are here, this may be the end for them.","id":"008E58"}
+{"text":"「ＷＬＦの壊滅は喜ぶべき事だと\n　思いますが…」","translation":"I think the destruction of the WLF is something to celebrate, but...","id":"008EA8"}
+{"text":"「そうだね。\n　でも、僕が言っているのは黒の騎士団や\n　ソレスタルビーイングだよ」","translation":"Right. But I'm talking about the Black Knights and Celestial Being.","id":"008EE0"}
+{"text":"「どういう事です…！？\n　この作戦はＷＬＦの拠点を叩くためのものじゃ\n　ないんですか…！」","translation":"What do you mean...!? Isn't this operation supposed to be about striking the WLF base...!?","id":"008F38"}
+{"text":"「殿下から極秘に聞いたんだよ。\n　今回の作戦には裏があるってね…」","translation":"I heard it in strict confidence from His Highness. This operation has a hidden agenda...","id":"008F98"}
+{"text":"ヒイロ自爆","translation":"Heero self-destructs.","id":"00AB88"}
+{"text":"「自爆する」","translation":"Self-destruct.","id":"00AB98"}
+{"text":"医務室","translation":"Infirmary","id":"00ACF0"}
+{"text":"　\n　\n　　　　　～プトレマイオス　医務室～","translation":"~Ptolemaios Infirmary~","id":"00ACF8"}
+{"text":"「くっ…ううっ…」","translation":"Ugh... ngh...","id":"00AD28"}
+{"text":"「ヒイロ、気がついたんだね！」","translation":"Heero, you're awake!","id":"00AD48"}
+{"text":"「く…」","translation":"Ngh...","id":"00AD70"}
+{"text":"「無理すんなって。\n　さすがのお前でも今回は無茶が過ぎたぜ」","translation":"Don't push yourself. Even for you, that was way too reckless this time.","id":"00AD80"}
+{"text":"「生きてるのが不思議なぐらいなんだから」","translation":"It's a miracle you're even alive.","id":"00ADC8"}
+{"text":"「…俺は死ななかったのか…」","translation":"...I didn't die...?","id":"00ADF8"}
+{"text":"「信じられない事にな」","translation":"Hard to believe, huh.","id":"00AE20"}
+{"text":"「ありがとう、ヒイロ。\n　君のおかげで僕達は、あのエリアを\n　何とか離脱する事が出来たよ」","translation":"Thank you, Heero. Thanks to you, we somehow managed to get out of that area.","id":"00AE40"}
+{"text":"「もっとも…まだ敵の追撃から\n　必死で逃げている最中だけどな」","translation":"Though... we're still desperately fleeing the enemy's pursuit.","id":"00AEA0"}
+{"text":"「そうか…」","translation":"I see...","id":"00AEE8"}
+{"text":"「君のガンダムも何とかなりそうだよ。\n　カトルとデュオが用意していた予備パーツで\n　修理している」","translation":"Your Gundam should be okay too. We're repairing it with the spare parts Quatre and Duo had prepared.","id":"00AF00"}
+{"text":"「今回はサービスしておくぜ。\n　…もっとも、お前の場合、修理してやんないと\n　勝手に俺のパーツを持ち出すからな」","translation":"I'll do you a favor this time. ...Though with you, if I don't repair it, you'll just take my parts anyway.","id":"00AF70"}
+{"text":"「あんたとガンダムを離脱しながら回収したのは\n　刹那だ」","translation":"Setsuna was the one who recovered you and your Gundam while pulling back.","id":"00AFE8"}
+{"text":"「感謝の言葉は無しか…。\n　ま…今回は俺達がお前に礼を言うべきか」","translation":"Not even a word of thanks, huh... Well... maybe we should be the ones thanking you this time.","id":"00B028"}
+{"text":"「俺は任務を果たしたに過ぎない」","translation":"I merely fulfilled my mission.","id":"00B078"}
+{"text":"「ヒイロ・ユイ…」","translation":"Heero Yuy...","id":"00B0A0"}
+{"text":"「…く…」","translation":"...Ngh...","id":"00B0B8"}
+{"text":"「立ち上がるのは無理だって！\n　折れた骨も、まだつないでないんだから！」","translation":"Don't try to get up! Your broken bones haven't even been set yet!","id":"00B0D0"}
+{"text":"「くう…うう…！」","translation":"Ggh... ugh...!","id":"00B120"}
+{"text":"「骨折を自分で接いだ…！」","translation":"He set his own broken bones...!","id":"00B140"}
+{"text":"「勘弁してくれよ……。\n　考えただけで気分が悪くなってきたぜ…」","translation":"Give me a break... Just thinking about it makes me feel sick...","id":"00B168"}
+{"text":"「まだ…戦いは続いている…。\n　寝ている暇はない…」","translation":"The battle... isn't over yet... There's no time to be lying here...","id":"00B1B0"}
+{"text":"「そこまで戦う意思を見せるお前が\n　どうして自爆なんて手段を使った？」","translation":"If you're that determined to keep fighting, why did you use self-destruction?","id":"00B1F0"}
+{"text":"「…自暴自棄になったわけじゃない。\n　あの時は、ああするのが最善の方法だと\n　判断したまでだ」","translation":"...It wasn't out of desperation. At the time, I simply judged it to be the best course of action.","id":"00B248"}
+{"text":"「何言ってるのさ！\n　生きてる方が不思議だってのを\n　あんた、わかってるの！？」","translation":"What are you talking about! Don't you realize that it's a miracle you're still alive!?","id":"00B2B0"}
+{"text":"「あそこまで追い詰められたのは戦術ミスだ。\n　ミスは死を以って償わなければならない」","translation":"Being driven that far into a corner was a tactical error. Mistakes must be paid for with death.","id":"00B308"}
+{"text":"「だけど、死んでしまったら、\n　そこで全てが終わりだ」","translation":"But if you die, that's the end of everything.","id":"00B368"}
+{"text":"「…終わりではない。\n　俺の生命でお前達が助かるなら」","translation":"...It is not the end. If my life can save all of you...","id":"00B3A8"}
+{"text":"「それって後を俺達に託すってのか？\n　お前にしちゃ、随分と殊勝な事を\n　言ってくれるぜ」","translation":"So you're saying you'll leave the rest to us? That's awfully noble of you, coming from you.","id":"00B3E8"}
+{"text":"「…俺もそんな事を思うとは考えてもみなかった」","translation":"...I never thought I'd think something like that myself.","id":"00B448"}
+{"text":"「それも感情に任せた結果か？」","translation":"Is that also the result of acting on emotion?","id":"00B480"}
+{"text":"「そうだ。\n　その判断は今でも正しいと思っている」","translation":"Yes. I still believe that decision was the right one.","id":"00B4A8"}
+{"text":"「ヒイロ・ユイ…。\n　僕は君の事を誤解していた…」","translation":"Heero Yuy... I had misunderstood you...","id":"00B4E8"}
+{"text":"「僕は窮地に陥り、ナドレを晒してしまった…。\n　本来の計画であれば、それはもっとずっと先…\n　極限まで伏せておくべきものであったのに…」","translation":"I used Nadleeh in desperation... It was supposed to remain hidden until much, much later... until the very end...","id":"00B528"}
+{"text":"（ガンダムナドレ…。\n　ヴァーチェの真の姿…）","translation":"Gundam Nadleeh... Virtue's true form...","id":"00B5C0"}
+{"text":"（何故あれがソレスタルビーイングにおいて\n　最重要に属する機密事項であるかは\n　俺達も知らされていない…）","translation":"We weren't told why that was one of Celestial Being's most important secrets...","id":"00B5F8"}
+{"text":"「だが、僕はそれを守れなかった…。\n　本当ならば太陽炉をパージし、君のように\n　機体を爆破すべきだった…」","translation":"But I failed to protect it... I should have purged the solar furnace and blown up my machine, like you did...","id":"00B670"}
+{"text":"「だったら、一つだけ忠告がある」","translation":"Then I have one piece of advice.","id":"00B6E8"}
+{"text":"「え…」","translation":"Huh...?","id":"00B710"}
+{"text":"「死ぬ程、痛いぞ」","translation":"It hurts like hell.","id":"00B728"}
+{"text":"「………」","translation":".........","id":"00B748"}
+{"text":"「…フフフ、ハハハハハ」","translation":"...Heh... Hahahahaha.","id":"00B760"}
+{"text":"「トロワが…笑ってる…」","translation":"Trowa... is laughing...","id":"00B780"}
+{"text":"「こいつは驚いたぜ。\n　ヒイロのジョークにもな」","translation":"Now that's a shock. Even Heero makes jokes.","id":"00B7A0"}
+{"text":"「冗談を言ったつもりはない」","translation":"I wasn't joking.","id":"00B7D8"}
+{"text":"「ふ…ふふ…ははは！」","translation":"H-Heh... hehe... hahaha!","id":"00B800"}
+{"text":"「負けたぜ、お前にはよ…」","translation":"You got me beat...","id":"00B820"}
+{"text":"「ヒイロ・ユイ…。\n　お前が俺とは違うといったのを訂正する」","translation":"Heero Yuy... I take back what I said about you being different from me.","id":"00B848"}
+{"text":"「お前もガンダムだ」","translation":"You're a Gundam too.","id":"00B890"}
+{"text":"「こんな状況で笑っていられるとは\n　どういう神経をしている…」","translation":"How can you still laugh in a situation like this...? What kind of nerves do you have...?","id":"00B8B0"}
+{"text":"「キツいな、助っ人君は」","translation":"You're pretty harsh, Mr. Reinforcements.","id":"00B8F8"}
+{"text":"「まあ、そう言うな。\n　口は悪いが、根は悪い奴じゃないからよ」","translation":"Come on, don't say that. He's got a foul mouth, but he's not a bad guy at heart.","id":"00B920"}
+{"text":"「改めて、あの時の礼を言うぜ、五飛」","translation":"Anyway, let me thank you again for what you did back then, Wufei.","id":"00B968"}
+{"text":"「そんなものは要らん。\n　それより、現状を打破する方法を考える方が\n　先だ」","translation":"I don't need your thanks. More importantly, we need to figure out how to break this stalemate first.","id":"00B990"}
+{"text":"「事の重大さもわからず、\n　目先の利に囚われた連中などに\n　世界を好きにさせるわけにはいかないからな」","translation":"We can't let people who don't grasp the gravity of this and are blinded by short-term gain do as they please with the world.","id":"00B9E0"}
+{"text":"「そんな事はお前に言われなくても\n　わかってるさ」","translation":"You don't need to tell me that. I already know.","id":"00BA50"}
+{"text":"「それがかなりの困難である事もね」","translation":"And that it'll be incredibly difficult, too.","id":"00BA90"}
+{"text":"「だが、希望がないわけでもない」","translation":"But that doesn't mean there's no hope.","id":"00BAC0"}
+{"text":"「何か秘策でもあるのか？」","translation":"Do you have some secret plan?","id":"00BAE8"}
+{"text":"「策ではない。\n　…こんな状況でも絶望に打ちひしがれずに\n　笑っていられるお前達に賭けるだけだ」","translation":"It's not a plan. I'm just betting on you all, who can still laugh and won't be crushed by despair in a situation like this.","id":"00BB08"}
+{"text":"「そう言われちゃ、やるしかねえな」","translation":"If you put it that way, guess we've got no choice but to do it.","id":"00BB70"}
+{"text":"「うん…。\n　こんな所であたし達、終わるわけには\n　いかないんだから」","translation":"Yeah... We can't just let it end for us here.","id":"00BBA0"}
+{"text":"（だがよ…ここを切り抜けたにしても\n　状況は厳しいぜ…）","translation":"But... even if we get through this, the situation's still grim...","id":"00BBF0"}
+{"text":"（ＷＬＦの薄い配備と連合軍の動き…\n　無関係と言うには、あまりにクサ過ぎる。\n　そこを崩さなきゃ、俺達…ヤバいぜ…）","translation":"WLF's thin deployment and the Allied moves... too suspicious to be unrelated. If we don't break through, we're done...","id":"00BC30"}
+{"text":"執務室","translation":"Office","id":"00BCA8"}
+{"text":"　\n　　\n　　　　　　～国連本部　大使控え室～","translation":"~UN Headquarters - Ambassador's Waiting Room~","id":"00BCB0"}
+{"text":"「$cが健在ですって…！？」","translation":"$c is still alive...!?","id":"00BCE0"}
+{"text":"「そうなんだよ、これが。\n　せっかく、三大国家を扇動して\n　大部隊を送り込んだのに逃げられたんだってさ」","translation":"Yeah, that's the kicker. They stirred up the three major nations and sent in a huge force, but they still got away.","id":"00BD08"}
+{"text":"「でも、大丈夫だよ。\n　連合軍は追撃戦を仕掛けているし、\n　完全に三大国家の目はあっちに向いてる」","translation":"But it's fine. The Allied Forces are in pursuit, and the eyes of the three major nations are completely fixed on them.","id":"00BD78"}
+{"text":"「プロジェクト・ウズメの決行には\n　何の問題もないって」","translation":"There's no problem at all with carrying out Project Uzume.","id":"00BDE8"}
+{"text":"「でも…」","translation":"But...","id":"00BE30"}
+{"text":"「そうやってネガティヴな事は口にしないの。\n　アイムに嫌われちゃうよ」","translation":"Don't go saying negative things like that. Aim might end up hating you.","id":"00BE48"}
+{"text":"「あなたに私の何がわかるんです！？\n　リモネシアを守るために\n　世界を敵に回して戦ってる私の何が！？」","translation":"What do you know about me!? What do you know about me, fighting the whole world to protect Limonesia!?","id":"00BE98"}
+{"text":"「あなたのようにお金だけを出して\n　ヘラヘラと見ているだけの人に\n　私の苦労の何がわかるんです！？」","translation":"What would someone like you, who just throws money at things and sits there grinning, know about my suffering!?","id":"00BF08"}
+{"text":"「ゴメン、ゴメン。\n　ほら…僕ってボンボンだから、\n　そういうのって無縁の生き方してたから」","translation":"Sorry, sorry. You know... I'm a rich kid, so I've lived a life totally removed from that sort of thing.","id":"00BF78"}
+{"text":"「それより、早くリモネシアに戻っておいでよ。\n　プロジェクト・ウズメ成就の瞬間を\n　一緒に楽しもうじゃない」","translation":"More importantly, hurry back to Limonesia. Let's enjoy the moment Project Uzume comes to fruition together.","id":"00BFE0"}
+{"text":"「とっておきのシャンパンを用意しておくよ。\n　じゃあね～」","translation":"I'll have a special bottle of champagne ready. See you~","id":"00C058"}
+{"text":"「カルロス・アクシオン・Ｊｒ．…\n　いつまでも遊び気分が抜けないで…！」","translation":"Carlos Axion Jr... You still can't shake that playful attitude of yours...!","id":"00C0A0"}
+{"text":"「いくら資金力が必要だからって、\n　アイムはどうしてあんな人を…」","translation":"Even if we need the funding, why did Aim have to choose someone like him...?","id":"00C0F8"}
+{"text":"「エ、エルガン代表…\n　ノックも無しに失礼ではないですか…！」","translation":"R-Representative Elgan... Isn't it rude to come in without even knocking...!?","id":"00C148"}
+{"text":"「言っておきたい事があってな」","translation":"There's something I wanted to tell you.","id":"00C190"}
+{"text":"「え…」","translation":"Huh...?","id":"00C1B8"}
+{"text":"「いい加減にしておけよ、小娘が！」","translation":"Enough of this already, you little brat!","id":"00C1D0"}
+{"text":"「ひ…！」","translation":"Eek...!","id":"00C200"}
+{"text":"「お前ごときの器で世界を動かせると\n　思うなよ！」","translation":"Don't delude yourself into thinking someone of your caliber can move the world!","id":"00C218"}
+{"text":"「な、何を言っているのですか、代表…！？」","translation":"W-What are you saying, Representative...!?","id":"00C258"}
+{"text":"「しらばっくれるなら、それでもいい。\n　証拠があるわけでもないからな」","translation":"If you want to play dumb, fine. It's not as if I have any proof.","id":"00C290"}
+{"text":"「だが、これだけは言っておく…！\n　$cは、そう簡単には潰れん！」","translation":"But mark my words...! $c won't be crushed so easily!","id":"00C2E0"}
+{"text":"「連合軍がどれだけの戦力を集めようとだ！\n　それをアクシオンにも言っておけ！」","translation":"No matter how much military power the Alliance gathers! Tell Axion that too!","id":"00C330"}
+{"text":"「あ、あなたは…わかっていながら\n　連合軍の派兵を認めたのですか…！？\n　何のために！？」","translation":"Y-You knew all that, and still approved the Alliance's deployment...!? Why!?","id":"00C388"}
+{"text":"「決まっている。\n　あれに潰されるようなら、\n　これからの戦いに勝つのは不可能だからだ」","translation":"It's obvious. If it can be crushed by that, then winning the battles to come will be impossible.","id":"00C3F0"}
+{"text":"「覚えておけ、シオニー・レジス！\n　$cの敗北は\n　この世界の…人類の終わりだとな！」","translation":"Remember this, Shiony Regis! $c's defeat means the end of this world... of humanity itself!","id":"00C450"}
+{"text":"「な、何なのよ…もう…！」","translation":"W-What was that... honestly...!","id":"00C4B0"}
+{"text":"「もう嫌…！\n　嫌いよ！　みんな、大っ嫌い！！\n　私を怖がらせるものは、全部消えちゃってよ！」","translation":"I've had enough...! I hate you! I hate all of you!! Anything that scares me, just disappear!","id":"00C4D8"}
+{"text":"「アイム…助けて…。\n　リモネシアと私を…助けて…！」","translation":"Aim... help me... Help Limonesia and me...!","id":"00C540"}

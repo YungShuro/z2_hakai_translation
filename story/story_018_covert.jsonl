@@ -1,0 +1,702 @@
+{"text":"敵の全滅。","translation":"All enemies destroyed.","id":"000600"}
+{"text":"次元獣、インベーダーの全滅。","translation":"All Dimensional Beasts and Invaders destroyed.","id":"000610"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"000638"}
+{"text":"葵の撃墜。","translation":"Aoi is shot down.","id":"000650"}
+{"text":"葵、または刹那の撃墜。","translation":"Aoi or Setsuna is shot down.","id":"000660"}
+{"text":"２ターン味方フェイズ以内に敵を全滅させる。","translation":"Destroy all enemies within 2 player phases.","id":"000688"}
+{"text":"なし。","translation":"None.","id":"0006B8"}
+{"text":"「あなた達は私をさらい、\n　いったい何をするつもりなのです？」","translation":"You kidnapped me... what exactly do you intend to do with me?","id":"000EC0"}
+{"text":"「お前は今までと変わらず、\n　第一皇女として職務を果たしてもらう」","translation":"You will continue to fulfill your duties as the First Princess, just as you always have.","id":"000F08"}
+{"text":"「ただし、政策その他は全て、\n　我々ＷＬＦの指示に従ってもらおう」","translation":"However, all policy and other matters will be carried out according to the WLF's instructions.","id":"000F58"}
+{"text":"「私を傀儡にすると…！？」","translation":"So you intend to make me a puppet...!?","id":"000FA8"}
+{"text":"「待て！\n　そんな話は聞いていないぞ！」","translation":"Wait! That's not what I was told!","id":"000FD0"}
+{"text":"「マリナ・イスマイールには王制を廃止させ、\n　その上でアザディスタンを本来のあるべき姿に\n　するはずではなかったのか！？」","translation":"Wasn't Marina Ismail supposed to abolish the monarchy, and then restore Azadistan to what it was meant to be!?","id":"001000"}
+{"text":"「所詮は、保守の名の下に\n　世界の変化という現実から目を背ける\n　愚か者達か」","translation":"So in the end, you're just fools hiding from the reality of a changing world under the name of conservatism.","id":"001080"}
+{"text":"「何っ！？」","translation":"What!?","id":"0010D8"}
+{"text":"「そういった自国さえよければといった考えは\n　これからの世界では通用しない…！」","translation":"That kind of \"my country first\" thinking won't work in the world to come...!","id":"0010F0"}
+{"text":"「あれは…！」","translation":"That's...!","id":"0012F0"}
+{"text":"「既にお前達の仲間は始末した。\n　今後、この作戦は我等ＷＬＦが指揮を執る！」","translation":"We've already dealt with your comrades. From here on, this operation will be under WLF command!","id":"001308"}
+{"text":"「何という事だ…」","translation":"How could this happen...","id":"001360"}
+{"text":"「あなた達はアザディスタンを\n　どうするつもりなのです！？」","translation":"What do you intend to do with Azadistan!?","id":"001378"}
+{"text":"「この国は我等ＷＬＦの活動拠点となる。\n　そして、この地より我等の革命は\n　世界を変えるのだ！」","translation":"This country will become WLF's base of operations. And from this land, our revolution will change the world!","id":"0013C0"}
+{"text":"「そのような絵空事を…！\n　戦いによる変革でどれだけの生命が\n　失われると思っているのです！？」","translation":"Such nonsense...! Do you have any idea how many lives will be lost through war-driven change!?","id":"001430"}
+{"text":"「世界を変えるには力が必要なのだ！\n　あのソレスタルビーイングや\n　コロニーのガンダムを見ろ！」","translation":"To change the world, power is necessary! Look at Celestial Being and the Gundams from the colonies!","id":"001498"}
+{"text":"「…！」","translation":"...!","id":"001508"}
+{"text":"「あのような信念も理想もない輩でも\n　力さえ持てば、世界に変革を促す事が\n　出来るのだ！」","translation":"Even people like that, with no convictions or ideals, can still bring change to the world if they have power!","id":"001520"}
+{"text":"「待て…！\n　このポイントに近づく機影がある！」","translation":"Wait...! There's a machine approaching this point!","id":"001588"}
+{"text":"「何だと…！？\n　アザディスタンの政府軍が\n　もうこちらの動きをかぎつけたのか！？」","translation":"What...!? Have Azadistan's government forces already caught wind of our movements!?","id":"0015C8"}
+{"text":"「違う…！\n　あれは！？」","translation":"No...! That's...!?","id":"001628"}
+{"text":"「ソレスタルビーイングだと！\n　こちらの動きが感づかれていたのか！」","translation":"Celestial Being!? So they picked up on our movements after all!","id":"001850"}
+{"text":"「テロリストごときの行動など、\n　データさえ揃っていれば、すぐにわかる」","translation":"The movements of mere terrorists are easy enough to discern, so long as we have the data.","id":"0018A0"}
+{"text":"「さすがね、ゼロ。\n　あなたの予測したポイントにＷＬＦの\n　アジトがあったわ」","translation":"As expected, Zero. The WLF hideout was exactly where you predicted it would be.","id":"0018F8"}
+{"text":"「あなたの戦術予報も同じ答えだった以上、\n　もうそれは予測ではなく確定事項と\n　みなすべきものだ」","translation":"Since your tactical forecast gave the same answer, it should no longer be considered a prediction, but a certainty.","id":"001950"}
+{"text":"「来るな！\n　こちらにはマリナ・イスマイール皇女が\n　いるのだぞ！」","translation":"Don't come any closer! We have Princess Marina Ismail here!","id":"0019B8"}
+{"text":"「やはり、連中は\n　既に皇女をさらっていたんですね」","translation":"So they really had already kidnapped the princess.","id":"001A08"}
+{"text":"「どうする、ゼロ？\n　このままでは…」","translation":"What do we do, Zero? At this rate...","id":"001A48"}
+{"text":"「気にする必要はない。\n　…全機、ＷＬＦに攻撃を開始しろ」","translation":"No need to worry. ...All units, begin the attack on the WLF.","id":"001A78"}
+{"text":"「いいの、ゼロ！？」","translation":"Are you sure, Zero!?","id":"001AB8"}
+{"text":"「貴様等！\n　皇女の生命が惜しくないのか！？」","translation":"You bastards! Don't you care whether the princess lives or dies!?","id":"001AD8"}
+{"text":"「出たぜ。\n　誘拐犯お得意の台詞が」","translation":"There it is. The classic kidnapper line.","id":"001B18"}
+{"text":"「愚か者めが。\n　皇女を利用するためにさらったお前達が\n　彼女を殺してどうする！」","translation":"Fools. You kidnapped the princess to use her, so what good would killing her do!?","id":"001B48"}
+{"text":"「ぬ、ぬう…」","translation":"N-ngh...","id":"001BA0"}
+{"text":"「それに、アザディスタン混乱の原因である\n　皇女は、ここで生命を落とされた方が、\n　国のためであるかも知れないしな」","translation":"Besides, with the princess being the cause of Azadistan's turmoil, it may even be better for the country if she dies here.","id":"001BC0"}
+{"text":"「ソレスタルビーイングの攻撃対象は\n　戦争を幇助する者全て…」","translation":"Celestial Being targets all who abet war...","id":"001C38"}
+{"text":"「奴等は本気で皇女を見殺しにする気か…！」","translation":"Are they seriously going to let the princess die...!?","id":"001C88"}
+{"text":"「ええい！　こうなったら、\n　実力で黙らせるだけだ！」","translation":"Damn it! If that's how it is, we'll just shut them up by force!","id":"001CC0"}
+{"text":"「フ…全ては計算通りだ」","translation":"Heh... Everything is going according to plan.","id":"001D08"}
+{"text":"「やるな、あのゼロって男…」","translation":"Not bad, that Zero guy...","id":"001D28"}
+{"text":"「ハッタリも、あそこまで\n　自信たっぷりに言われりゃ、\n　何も言い返せないだろうな」","translation":"Even if it's a bluff, when said with that much confidence, no one can really argue back.","id":"001D50"}
+{"text":"「後は俺達が前線の連中を叩きゃ、\n　刹那達の仕事がやり易くなるってもんだ」","translation":"Now all we've gotta do is pound the guys on the front line, and that'll make Setsuna and the others' job a whole lot easier.","id":"001DB0"}
+{"text":"「しかし、珍しいな。\n　あの無口な二人が自ら救出作戦に志願するとは」","translation":"Still, that's unusual. For those two quiet ones to volunteer for a rescue mission themselves...","id":"001E00"}
+{"text":"「やっぱり、刹那にとって\n　このアザディスタンは特別な場所なのね…」","translation":"As I thought, Azadistan really is a special place for Setsuna...","id":"001E50"}
+{"text":"「じゃあ、ヒイロは？」","translation":"Then what about Heero?","id":"001EA0"}
+{"text":"「行動を共にした事で\n　刹那を助ける気になったのでしょうね」","translation":"I suppose traveling together made him want to help Setsuna.","id":"001EC0"}
+{"text":"「あいつにそんな殊勝な心がけがあるとは\n　思えねえけどな…」","translation":"I don't think that guy's got that noble a streak in him...","id":"001F08"}
+{"text":"「しかしよ、ロックオン…\n　刹那とヒイロはともかくとして\n　どうして、$nも行かせたんだ？」","translation":"But, Lockon... I can understand Setsuna and Heero, but why did you send $n too?","id":"001F50"}
+{"text":"「こういう仕事は、あいつ向きだからさ」","translation":"Because this kind of job suits him.","id":"001FB0"}
+{"text":"「って事は金になるってのか？」","translation":"So that means there's money in it?","id":"001FE8"}
+{"text":"「そこらは仕上げをごろうじろってな」","translation":"Just wait and see how it turns out.","id":"002010"}
+{"text":"「$cに入ったのはいいけど、\n　いきなりこんな事になるなんて…」","translation":"Joining $c was one thing, but I never thought it'd turn into this right away...","id":"002480"}
+{"text":"「無理はするな、レントン。\n　危なくなったら、後退しろ」","translation":"Don't push yourself, Renton. If things get dangerous, fall back.","id":"0024C8"}
+{"text":"「でも、隊長…！」","translation":"But, Captain...!","id":"002510"}
+{"text":"「もう俺達は独立愚連隊じゃない。\n　俺の事はホランドでいい」","translation":"We're not a rogue squad anymore. Just call me Holland.","id":"002530"}
+{"text":"「え…」","translation":"Huh...?","id":"002578"}
+{"text":"「死ぬなよ、レントン。\n　お前の隣にはエウレカもいるんだからな」","translation":"Don't die, Renton. Eureka's right beside you, after all.","id":"002590"}
+{"text":"「は、はい！」","translation":"Y-Yes, sir!","id":"0025E0"}
+{"text":"「レントン…」","translation":"Renton...","id":"0025F8"}
+{"text":"（正直、どうしてホランド隊長が\n　エウレカを救い出したのか、わからなくて\n　不安だったけど…）","translation":"Honestly, I was uneasy because I didn't understand why Captain Holland saved Eureka, but...","id":"002610"}
+{"text":"（そんな事は今はどうでもいい…！\n　俺はエウレカを守るために戦うんだ！）","translation":"But none of that matters now...! I'm fighting to protect Eureka!","id":"002678"}
+{"text":"「それじゃ行くわよ、\n　くららさん、朔哉君、ジョニー君」","translation":"All right, let's go, Kurara, Sakuya, Johnny.","id":"002890"}
+{"text":"「いい情報をくれたイザベルさんには\n　お礼をしなけりゃ、ならないからな！」","translation":"We've gotta thank Isabel for giving us such valuable intel!","id":"0028D0"}
+{"text":"「そのためには何よりも\n　ダンクーガノヴァの活躍が一番ね」","translation":"And for that, nothing matters more than Dancouga Nova putting on a good show.","id":"002920"}
+{"text":"「各機は速やかにＷＬＦを殲滅！\n　敵の目をこちらに引きつける事で\n　皇女救出作戦を援護するわよ！」","translation":"All units, eliminate the WLF as quickly as possible! Draw the enemy's attention here and support the princess rescue operation!","id":"002968"}
+{"text":"「ＷＬＦの全滅を確認しました」","translation":"We've confirmed the WLF has been wiped out.","id":"002AD8"}
+{"text":"「後は皇女の救出だけね。\n　…急いで、刹那…」","translation":"Now all that's left is rescuing the princess... Hurry, Setsuna...","id":"002B00"}
+{"text":"「救出はまだなの！？」","translation":"Is the rescue still not done!?","id":"002BF8"}
+{"text":"「戦闘が長引けば、\n　連中も不利を悟って、ヤケになる可能性が出る。\n　急げよ、刹那…」","translation":"If the battle drags on, they'll realize they're at a disadvantage and might act recklessly. Hurry, Setsuna...","id":"002C18"}
+{"text":"「次元境界線の歪曲を確認！\n　次元震が発生します！」","translation":"Dimensional boundary distortion confirmed! A dimensional quake is about to occur!","id":"002D38"}
+{"text":"「こんなタイミングで…！？\n　何てツイてないのよ！」","translation":"At a time like this...!? What terrible luck!","id":"002D78"}
+{"text":"「出やがったな、次元獣！」","translation":"There you are, Dimensional Beasts!","id":"002E78"}
+{"text":"「ＷＬＦが…！」","translation":"The WLF...!","id":"002F40"}
+{"text":"「次元獣の攻撃じゃない！」","translation":"That wasn't a Dimensional Beast attack!","id":"002F58"}
+{"text":"「新手だ！　来るぞ！！」","translation":"More hostiles! Here they come!!","id":"002F80"}
+{"text":"「レーダーに別の反応！\n　これは次元獣じゃない！」","translation":"Another reading on radar! This isn't a Dimensional Beast!","id":"003088"}
+{"text":"「新手か！」","translation":"Reinforcements?!","id":"0030C8"}
+{"text":"「インベーダーか！」","translation":"Invaders?!","id":"0031A0"}
+{"text":"「ちっ…！　その名の通り、\n　どこにでも出てきやがるぜ！」","translation":"Tch...! Just like their name says, they show up everywhere!","id":"0031C0"}
+{"text":"「スメラギさん！\n　刹那達を収容しました！」","translation":"Ms. Sumeragi! We've brought Setsuna and the others aboard!","id":"003200"}
+{"text":"「すぐに発進させて！\n　下手をすれば、次元獣とインベーダーの\n　両方を相手にする事になるわよ！」","translation":"Launch immediately! If we're not careful, we'll end up fighting both Dimensional Beasts and Invaders!","id":"003238"}
+{"text":"（あのアイムとかいう野郎…\n　本当に次元震を起こしやがったのか…？）","translation":"That guy Aim or whatever... Did he really cause a dimensional quake...?","id":"0033A0"}
+{"text":"（あいつの言葉を信じてたら、\n　精神が参っちまう…。\n　今は奴の言葉は忘れる）","translation":"If I believe what that guy says, it'll drive me crazy... For now, I'll forget what he said.","id":"0033E8"}
+{"text":"「ラッキーだったな、$n。\n　お前の大好物の次元獣が目の前にいるぜ」","translation":"Lucky you, $n. Your favorite Dimensional Beast is right in front of you.","id":"003438"}
+{"text":"「時と場合によりけりだぜ。\n　一仕事してきた後だってのによ」","translation":"Depends on the time and place. Especially after I've just finished a job.","id":"003488"}
+{"text":"「データ通りの働きだったようだな」","translation":"Looks like you performed exactly as the data said you would.","id":"0034C8"}
+{"text":"「昔の事は忘れたさ」","translation":"I've forgotten about the past.","id":"0034F8"}
+{"text":"「了解だ。\n　こっちの無作法を許してくれ」","translation":"Understood. Forgive our rudeness.","id":"003510"}
+{"text":"「リリーナさん！」","translation":"Miss Relena!","id":"0036A8"}
+{"text":"「！」","translation":"!","id":"0036C8"}
+{"text":"「あれは！」","translation":"That's...!","id":"0036D8"}
+{"text":"「くっ…！」","translation":"Ugh...!","id":"0036F0"}
+{"text":"「ヒイロ！」","translation":"Heero!","id":"003808"}
+{"text":"「あいつ！　皇女達を救うために\n　自分を盾にしたのかよ！」","translation":"That guy! He used himself as a shield to save the princesses?!","id":"003820"}
+{"text":"「でも、あのままでは…！」","translation":"But if this keeps up...!","id":"003868"}
+{"text":"「刹那・Ｆ・セイエイ…！\n　お前はガンダムではない！」","translation":"Setsuna F. Seiei...! You are not Gundam!","id":"003890"}
+{"text":"「！」","translation":"!","id":"0038D0"}
+{"text":"「ならば、お前はガンダムになれ！」","translation":"Then become Gundam!","id":"0038E0"}
+{"text":"「俺は…ガンダムに…！」","translation":"I... will become... Gundam...!","id":"003A50"}
+{"text":"「ガンダムになる！」","translation":"I will become Gundam!","id":"003B10"}
+{"text":"「ソレスタルビーイングとコロニーの\n　ガンダム…」","translation":"The Gundams of Celestial Being and the colonies...","id":"003BD0"}
+{"text":"「マリナ様、今は逃げましょう！」","translation":"Princess Marina, let's get out of here for now!","id":"003C10"}
+{"text":"「は、はい！」","translation":"Y-Yes!","id":"003C40"}
+{"text":"「イアン！　彼女達の保護を！\n　くれぐれもこちらの素性は伏せて！」","translation":"Ian! Protect them! And make absolutely sure our identities remain secret!","id":"003C58"}
+{"text":"「了解だ！」","translation":"Roger that!","id":"003CA8"}
+{"text":"「各機は次元獣とインベーダーを迎え撃つ！\n　マリナ皇女とドーリアン外務次官令嬢を\n　守り抜くぞ！」","translation":"All units, engage the Dimensional Beasts and Invaders! Protect Princess Marina and Deputy Minister Dorian's daughter!","id":"003CC0"}
+{"text":"「え！　皇女様と一緒にいるのって\n　ドーリアンの娘かよ！」","translation":"What!? The girl with the princess is Dorian's daughter?!","id":"003D28"}
+{"text":"「前に誘拐を計画したくせに気付かなかったの？」","translation":"You planned to kidnap her before and you still didn't notice?","id":"003D68"}
+{"text":"「ちらっと見ただけでわかったゼロやお前が\n　すげえんだよ！」","translation":"That just means Zero and you are amazing for recognizing her from one quick glance!","id":"003DA0"}
+{"text":"「あたしはアッシュフォード学園で\n　何度も会ってるからね」","translation":"I've met her many times at Ashford Academy.","id":"003DE8"}
+{"text":"「話なら後にしろ！\n　二大怪獣のそろい踏みなんだからよ！」","translation":"Save the talk for later! We've got a two-monster showdown here!","id":"003E30"}
+{"text":"「気をつけろよ。\n　どうやら、どちらさんも俺達しか\n　目に入っちゃいねえようだ」","translation":"Watch yourselves. Looks like neither side has eyes for anything but us.","id":"003E78"}
+{"text":"「面白いじゃない…！\n　チンケなテロリストを相手にするより\n　スリルあるわ！」","translation":"Now this is interesting...! A lot more thrilling than dealing with some petty terrorists!","id":"003ED0"}
+{"text":"「どうせ、こいつらは放っておきゃ、\n　アザディスタンの王都に攻め込むんだ…！\n　ここで食い止めるぜ！」","translation":"If we leave them alone, they'll just march on the royal capital of Azadistan...! We'll stop them here!","id":"003F20"}
+{"text":"「やれるな、刹那？」","translation":"Can you do it, Setsuna?","id":"003F88"}
+{"text":"「………」","translation":".........","id":"003FA8"}
+{"text":"「お前が俺と違うと言うのなら…\n　意志を持って戦っていると言うのなら\n　それを見せてみろ」","translation":"If you say you're different from me... if you say you're fighting with your own will... then show me.","id":"003FB8"}
+{"text":"「エクシア…敵を駆逐する！」","translation":"Exia... eliminate the enemy!","id":"004018"}
+{"text":"「彼等はアザディスタンを守ろうとしてくれる…。\n　何の見返りも求めず…自分の身を盾にして…」","translation":"They're trying to protect Azadistan... asking for nothing in return... even using their own bodies as shields...","id":"004040"}
+{"text":"「彼等は何のために戦うの…」","translation":"What are they fighting for...?","id":"0040A8"}
+{"text":"「気をつけて下さい！\n　またインベーダーが来ます！」","translation":"Look out! More Invaders are coming!","id":"0043D0"}
+{"text":"「まったく！\n　お呼びじゃないのよ、あんた達は！」","translation":"Honestly! You guys aren't wanted here!","id":"0044B0"}
+{"text":"「待って下さい！\n　さらに高速で接近する機体があります！」","translation":"Wait! There's another unit approaching at even higher speed!","id":"0044E8"}
+{"text":"「何だ、あいつは…？」","translation":"What is that thing...?","id":"0045F0"}
+{"text":"「インベーダーを倒したって事は\n　私達の味方？」","translation":"It took out the Invaders, so... is it on our side?","id":"004610"}
+{"text":"「フ…」","translation":"Heh...","id":"004648"}
+{"text":"「あたしを狙ってきた！」","translation":"It's targeting me!","id":"004738"}
+{"text":"「どうなってんだ！？\n　インベーダーと俺達の両方と戦うつもりかよ！」","translation":"What's going on?! Is it planning to fight both the Invaders and us?!","id":"004758"}
+{"text":"「気をつけろ、チームＤ！\n　あの機体、ダンクーガノヴァと\n　同じジェネレーター反応だ！」","translation":"Watch out, Team D! That unit has the same generator signature as Dancouga Nova!","id":"0047A8"}
+{"text":"「え…！」","translation":"What...!","id":"004808"}
+{"text":"「じゃあ、あれも…ダンクーガ…！」","translation":"Then that means it's... a Dancouga too...!","id":"004818"}
+{"text":"「ならば、あいつの相手は\n　お前達に任せる…！」","translation":"Then I'll leave that one to you...!","id":"004848"}
+{"text":"「相手の正体もわからないのに危険だわ！」","translation":"That's dangerous! We don't even know what it is yet!","id":"004880"}
+{"text":"「大丈夫よ、スメラギさん。\n　どうせ、あいつはあたし達を狙ってくるから」","translation":"It's fine, Ms. Sumeragi. That thing's coming after us anyway.","id":"0048B8"}
+{"text":"「インベーダーを片付けたのは、\n　その邪魔になるからだけのようね」","translation":"It seems it only took care of the Invaders because they were in the way.","id":"004908"}
+{"text":"「おもしれえ！\n　ケンカを売ってんなら、買ってやるぜ！」","translation":"Interesting! If you're picking a fight, I'll take you on!","id":"004958"}
+{"text":"「決まりだ。\n　各機はインベーダーと次元獣の相手に集中、\n　紅いアンノウンはチームＤに任せる！」","translation":"It's decided. All units, focus on the Invaders and Dimensional Beasts. Leave the red Unknown to Team D!","id":"004998"}
+{"text":"「ダンクーガノヴァ…」","translation":"Dancouga Nova...","id":"004A00"}
+{"text":"「紅いダンクーガ…！\n　あたし達の…敵…！」","translation":"A red Dancouga...! Our... enemy...!","id":"004A20"}
+{"text":"「インベーダーと次元獣の全滅を確認」","translation":"Confirmed: the Invaders and Dimensional Beasts have been wiped out.","id":"004C70"}
+{"text":"「残るは…」","translation":"That leaves...","id":"004CA0"}
+{"text":"「………」","translation":".........","id":"004CB8"}
+{"text":"「決着をつけるってわけね…。\n　乗ったわ…！」","translation":"So you want to settle this... Fine by me...!","id":"004DB0"}
+{"text":"「行くわよ、紅いダンクーガ！\n　断空剣で決める！」","translation":"Here I go, red Dancouga! I'll finish this with the Dankuken!","id":"004E88"}
+{"text":"「待って、葵さん！\n　後方にインベーダーが！」","translation":"Wait, Aoi! There's an Invader behind you!","id":"004EC0"}
+{"text":"「え！」","translation":"What!?","id":"004EF8"}
+{"text":"「隙あり！」","translation":"Found an opening!","id":"004FE8"}
+{"text":"「ああっ！」","translation":"Aah!","id":"0050A0"}
+{"text":"「まずいぜ！\n　後ろからインベーダーが来る！」","translation":"This is bad! An Invader's coming from behind!","id":"0050B8"}
+{"text":"「このままじゃ…！」","translation":"At this rate...!","id":"0050F0"}
+{"text":"「ったく、見ちゃいられねえぜ！」","translation":"Jeez, I can't just stand by and watch this!","id":"005108"}
+{"text":"「あれは…！」","translation":"That's...!","id":"005230"}
+{"text":"「インベーダーのドサクサに紛れて\n　仕掛けようとするとはな…！\n　そういうセコい奴には、お仕置きだ！」","translation":"So you were trying to make your move under cover of the Invader chaos...! Sneaks like you need a lesson!","id":"005248"}
+{"text":"「くうっ！」","translation":"Guh!","id":"005378"}
+{"text":"「っと…ちょいとやり過ぎちまったか」","translation":"Whoops... maybe I went a little too far.","id":"005390"}
+{"text":"「覚えていろ、ダンクーガ…！」","translation":"Remember this, Dancouga...!","id":"0053C0"}
+{"text":"「どうなってんだ、これ…？」","translation":"What the hell is going on here...?","id":"0054C8"}
+{"text":"「紅いダンクーガを撃退したのも\n　ダンクーガなのか…」","translation":"So the one who drove off the red Dancouga was Dancouga too...","id":"0054F0"}
+{"text":"「あのダンクーガの剣…」","translation":"That Dancouga's sword...","id":"005530"}
+{"text":"「断空剣だった…」","translation":"It was the Dankuken...","id":"005550"}
+{"text":"「ま…とりあえずの役目は果たしたか。\n　帰ったら、お小言が待ってるだろうがな」","translation":"Well... I guess I've done what I came here to do. Though I'll probably get an earful when I get back.","id":"005568"}
+{"text":"「待って…！\n　いったいあなたは何なの！？」","translation":"Wait...! Just who are you!?","id":"0055C0"}
+{"text":"「そうだな…。\n　勝負の切り札…最後のダンクーガとでも\n　呼んでくれ」","translation":"Let's see... You can call me the trump card... Final Dancouga.","id":"0055F0"}
+{"text":"「最後の…ダンクーガ…」","translation":"Final... Dancouga...","id":"005640"}
+{"text":"「じゃあな！」","translation":"See ya!","id":"005660"}
+{"text":"「行っちゃった…」","translation":"He's gone...","id":"005818"}
+{"text":"「最後のダンクーガ…。\n　ファイナルダンクーガとでも呼べば\n　いいんでしょうか…」","translation":"The final Dancouga... I suppose we should call it Final Dancouga...","id":"005830"}
+{"text":"「どういう意味だよ、最後ってのは！\n　俺達にとどめでも刺すってのかよ！」","translation":"What the hell do you mean by \"final\"!? Are you saying you're here to finish us off too!?","id":"005890"}
+{"text":"「わからない…。\n　あの紅いダンクーガを本気で倒す気も\n　なかったみたいだし…」","translation":"I don't know... It didn't seem like he was seriously trying to destroy that red Dancouga, either...","id":"0058E0"}
+{"text":"「紅いダンクーガとファイナルダンクーガ…。\n　全て謎ね…」","translation":"The red Dancouga and Final Dancouga... It's all a mystery...","id":"005938"}
+{"text":"「とりあえず、今度は本当に終わったようだな」","translation":"Well, looks like this time it's really over.","id":"005978"}
+{"text":"「アザディスタンに潜入したＷＬＦも\n　片付いたしね」","translation":"And the WLF that infiltrated Azadistan has been taken care of, too.","id":"0059B0"}
+{"text":"「ソレスタルビーイング…」","translation":"Celestial Being...","id":"005B70"}
+{"text":"「聞こえるか、マリナ・イスマイール？」","translation":"Can you hear me, Marina Ismail?","id":"005B98"}
+{"text":"「刹那・Ｆ・セイエイ！\n　本当に…本当にあなたなの！？」","translation":"Setsuna F. Seiei! Is it really... really you!?","id":"005BC8"}
+{"text":"「あの男…！\n　何をするつもりだ！？」","translation":"That man...! What is he planning to do!?","id":"005C08"}
+{"text":"「黙って見ていろ」","translation":"Just watch.","id":"005C40"}
+{"text":"「お前にしちゃ、随分と親切じゃないかよ」","translation":"That's surprisingly kind of you, coming from you.","id":"005C60"}
+{"text":"「…自分でもわからん…」","translation":"...I don't even know myself...","id":"005C90"}
+{"text":"「え…？」","translation":"Huh...?","id":"005CB0"}
+{"text":"「あいつも…刹那・Ｆ・セイエイも\n　リリーナと同じだ…」","translation":"He's the same... Setsuna F. Seiei is just like Relena...","id":"005CC8"}
+{"text":"「マリナ・イスマイール、これから次第だ。\n　俺達も、この国も」","translation":"Marina Ismail, it all depends on what happens from here. For us, and for this country.","id":"005D08"}
+{"text":"「………」","translation":".........","id":"005D50"}
+{"text":"「戦え、お前の信じる神のために」","translation":"Fight for the god you believe in.","id":"005D68"}
+{"text":"「刹那！」","translation":"Setsuna!","id":"005D90"}
+{"text":"「各機は速やかに後退を。\n　合流地点はポイント１７１０よ」","translation":"All units, fall back immediately. Rendezvous point is Point 1710.","id":"005DA8"}
+{"text":"「俺は…ガンダムになる」","translation":"I... am Gundam.","id":"006030"}
+{"text":"「ソレスタルビーイング…\n　刹那・Ｆ・セイエイ…」","translation":"Celestial Being... Setsuna F. Seiei...","id":"0060F0"}
+{"text":"「まだだ…！」","translation":"Not yet...!","id":"0061D0"}
+{"text":"「しつこい…！」","translation":"So persistent...!","id":"006288"}
+{"text":"「そこまでやる気だってんなら、\n　次元獣とインベーダーを片付けた後で\n　相手をしてあげるわ！」","translation":"If you're that determined, then after we've dealt with the Dimensional Beasts and the Invaders, I'll take you on!","id":"0062A0"}
+{"text":"「俺はガンダムではない…。\n　ガンダムでないならば…！」","translation":"I am not Gundam... If I am not Gundam, then...!","id":"0063C0"}
+{"text":"（$cの連中が\n　何を考えてるかは知らねえが、\n　ここにいりゃエウレカを隠す事が出来る）","translation":"I don't know what those $c guys are thinking, but if we stay here, we can keep Eureka hidden.","id":"0064A0"}
+{"text":"（だったら、俺達の計画を実行に移す日まで\n　精々こいつらを利用するだけだ…！）","translation":"Then until the day we put our plan into action, we'll just use these guys...!","id":"006500"}
+{"text":"「大丈夫だ、エウレカ…！\n　君は俺とニルヴァーシュが守る！」","translation":"It's okay, Eureka...! Nirvash and I will protect you!","id":"006618"}
+{"text":"「この部隊が何をやろうと知った事じゃない！\n　だけど、君だけは守ってみせる！」","translation":"I don't care what this unit is trying to do! But I'll protect you, no matter what!","id":"006660"}
+{"text":"（リリーナ…お前は何だ…？\n　ソレスタルビーイングを怯ませ、\n　俺の感情を乱すお前は…）","translation":"Relena... what are you...? You, who can make Celestial Being falter and throw my emotions into disarray...","id":"006798"}
+{"text":"「くっ…！　訳がわからない！」","translation":"Tch...! I don't get it at all!","id":"0067F8"}
+{"text":"「さっきの次元震がアイムの仕業だとしたら、\n　次元獣は奴が呼んだ事になるのか…」","translation":"If that dimensional quake just now was Aim's doing, then does that mean he summoned the Dimensional Beasts...?","id":"0068E0"}
+{"text":"「いったい奴は何者だ…？\n　本当に時空震動を起こす力を\n　持っているのか…」","translation":"Just who is he...? Does he really have the power to cause space-time tremors...?","id":"006938"}
+{"text":"「あんた、何者なのよ？\n　ケンカを売るにしても、最低限の礼儀ってのが\n　あるんじゃない？」","translation":"Who are you, anyway? If you're picking a fight, shouldn't you at least have the decency to introduce yourself?","id":"006A48"}
+{"text":"「黙秘ってわけね…。\n　だったら、悪いけど、少しばかり\n　痛い目に遭ってもらうわ！」","translation":"So you're keeping quiet... Fine, then. Sorry, but you're going to have to feel a little pain!","id":"006AA8"}
+{"text":"「あ！」","translation":"Ah!","id":"006BE0"}
+{"text":"個室","translation":"Private Room","id":"006DF8"}
+{"text":"　\n　　\n　　　　　　～プトレマイオス　個室～","translation":"~Ptolemaios - Private Room~","id":"006E00"}
+{"text":"「…この前の戦闘については\n　ざっと、こんなところだ」","translation":"...That's the gist of what happened in the last battle.","id":"006E30"}
+{"text":"「じゃあ、ＭＤは逃げたんだな？」","translation":"So the MD got away?","id":"006E70"}
+{"text":"「ああ…。\n　残念ながら、とどめは刺せなかった」","translation":"Yeah... Unfortunately, I couldn't finish it off.","id":"006EA0"}
+{"text":"「………」","translation":".........","id":"006ED8"}
+{"text":"「そう睨むなって。\n　次に会った時には決着をつけるつもりだ」","translation":"Don't glare at me like that. Next time we meet, I'll settle this.","id":"006EF0"}
+{"text":"「怒っているのは、あんたにじゃない…。\n　あんたに頼まなきゃならない自分自身にだ」","translation":"I'm not angry at you... I'm angry at myself for having to rely on you.","id":"006F30"}
+{"text":"「本当なら、あたしは自分の手で\n　父さんや母さん、友達や先生の仇を\n　討ちたいのに…」","translation":"If I could, I'd want to avenge my father, mother, friends, and teachers with my own hands...","id":"006F90"}
+{"text":"「あんまり思い詰めるな。\n　それは俺の仕事だ」","translation":"Don't dwell on it too much. That's my job.","id":"006FF0"}
+{"text":"「でも…！」","translation":"But...!","id":"007028"}
+{"text":"「お前の気持ちは俺が預かっておく。\n　だから、そこで吉報を待ってな」","translation":"I'll carry those feelings for you. So just wait there for the good news.","id":"007040"}
+{"text":"「か、かっこつけやがってよ…！\n　でかい口叩いといて、失敗したら\n　どうなるかわかってんだろうな…！？」","translation":"Y-you're really trying to sound cool...! You sure talk big, but you know what'll happen if you fail, right...!?","id":"007088"}
+{"text":"「聞かせてもらおうじゃないか」","translation":"Let's hear it, then.","id":"0070F8"}
+{"text":"「そ、それは…！\n　今、考えてるところだ！」","translation":"Th-that's...! I'm still thinking about it!","id":"007120"}
+{"text":"「フ…安心しな。\n　失敗しないのがプロってもんだ」","translation":"Heh... relax. A real pro doesn't fail.","id":"007158"}
+{"text":"「くっ…こんなヘラヘラした奴に\n　頼らなきゃならない自分が悔しい…」","translation":"Damn it... It's frustrating that I have to rely on a guy as laid-back as you...","id":"007190"}
+{"text":"「…お前さんは次元獣の研究より先に\n　礼儀ってのを学習した方がいい」","translation":"...You ought to learn some manners before you start researching Dimensional Beasts.","id":"0071E0"}
+{"text":"「と言っても、それをチーフから\n　学べってのは無理な話だろうがな」","translation":"Though I guess expecting the Chief to teach you that is asking too much.","id":"007228"}
+{"text":"「うっせえ！\n　減らず口を叩いてる暇があったら、\n　とっととＭＤを追え！」","translation":"Shut up! If you've got time to run your mouth, get after the MD already!","id":"007270"}
+{"text":"「チーフには謎の乱入者の事を聞いておいてくれ。\n　もしかしたら、金持ちの差し向けた刺客かも\n　知れないからな」","translation":"Ask the Chief about that mysterious intruder too. He might've been an assassin sent by some rich bastard.","id":"0072C8"}
+{"text":"「$c裏部隊は、\n　今、アザディスタンにいる。\n　何かわかった事があったら、連絡をくれ」","translation":"$cThe secret squad is in Azadistan right now. Contact me if you find out anything.","id":"007338"}
+{"text":"「待ちやがれ！」","translation":"Hey, wait!","id":"007390"}
+{"text":"「何だ？\n　新しい憎まれ口を思いついたか？」","translation":"What? Did you come up with a new insult?","id":"0073B0"}
+{"text":"「その…気をつけろよ…」","translation":"Just... be careful...","id":"0073E0"}
+{"text":"「了解だ。\n　死んで借金踏み倒しは格好悪過ぎるからな」","translation":"Roger. Dying and skipping out on debts would be way too lame.","id":"007408"}
+{"text":"執務室","translation":"Office","id":"007448"}
+{"text":"　\n　　\n　　　　　　～アザディスタン王宮内～","translation":"~Inside the Azadistan Royal Palace~","id":"007450"}
+{"text":"「国連のドーリアン外務次官一行を\n　お見送りしてきました」","translation":"I've just seen off Deputy Foreign Minister Dorian of the UN and his party.","id":"007480"}
+{"text":"「ありがとう、シーリン」","translation":"Thank you, Shirin.","id":"0074C8"}
+{"text":"「その様子では、\n　会談はうまくいかなかったようね」","translation":"From the looks of it, the talks didn't go well.","id":"0074E8"}
+{"text":"「当然と言えば、当然ね。\n　政情不安な国家への支援は無駄どころか、\n　一歩間違えば、新たな火種となるもの」","translation":"Which is only natural. Supporting a politically unstable nation is pointless, and one wrong move could spark a new conflict.","id":"007528"}
+{"text":"「でも、外部からの支援なくして、\n　このアザディスタンは…！」","translation":"But without outside support, this Azadistan...!","id":"0075A0"}
+{"text":"「だったら、皇女であるあなたのすべき事は\n　決まっているわ」","translation":"Then what you must do as the princess is already clear.","id":"0075E8"}
+{"text":"「確かにあなたは\n　一般家庭に育った普通の少女だった…」","translation":"It's true that you were once just an ordinary girl raised in an ordinary family...","id":"007630"}
+{"text":"「でも、このアザディスタンが\n　王制を復活させる事となり、王族の血を引く\n　あなたが第一皇女となった」","translation":"But when Azadistan restored the monarchy, you, carrying royal blood, became the First Princess.","id":"007678"}
+{"text":"「そして、あなたは\n　貧困に苦しむアザディスタンを変革するために\n　国外からの支援を積極的に取り入れる事を決めた」","translation":"And you decided to actively seek support from abroad to reform poverty-stricken Azadistan.","id":"0076E8"}
+{"text":"「だけど、外部からの介入を嫌う保守的な人間達は\n　それに反発し、争いが起きる事となった…」","translation":"But the conservatives, who hate outside interference, opposed that, and conflict broke out...","id":"007768"}
+{"text":"「今、このアザディスタンは\n　あなたを筆頭とする改革派と\n　それに対する保守派で二分されようとしている」","translation":"Right now, Azadistan is on the verge of being split in two: the reformists led by you, and the conservatives opposing them.","id":"0077D0"}
+{"text":"「その戦いを止めるのは\n　国を治めるあなたの責務よ」","translation":"Stopping that conflict is your duty as the ruler of this country.","id":"007840"}
+{"text":"「わかっているわ…。\n　でも…」","translation":"I understand... But...","id":"007880"}
+{"text":"「…マリナ…あなたとは、\n　あなたが皇女になる前からの付き合いだけど、\n　それだからこそ、言わせてもらうわ」","translation":"...Marina... I've known you since before you became a princess. And precisely because of that, I have to say this.","id":"0078A8"}
+{"text":"「あなた自身が変わらなければ、\n　この国に変革は訪れないわ」","translation":"Unless you change yourself, reform will never come to this country.","id":"007920"}
+{"text":"「…時間よ。\n　次のお客様をお通しするわ」","translation":"...It's time. Please show in the next guest.","id":"007968"}
+{"text":"（国のためと思って行なった改革によって、\n　新たな戦いが生まれる…）","translation":"The reforms I carried out for the sake of the country... are giving rise to new conflict...","id":"0079A0"}
+{"text":"（何かを犠牲にしなくては、\n　人も国も世界も変わらないというの…）","translation":"Are you saying that unless something is sacrificed, people, nations, and even the world can never change...?","id":"0079F0"}
+{"text":"「初めまして。\n　マリナ・イスマイール皇女」","translation":"It's a pleasure to meet you, Princess Marina Ismail.","id":"007A40"}
+{"text":"「アクシオン財団総裁の\n　カルロス・アクシオン・Ｊｒ．です」","translation":"I am Carlos Axion Jr., president of the Axion Foundation.","id":"007A78"}
+{"text":"「リモネシア共和国外務大臣、\n　シオニー・レジスです」","translation":"I am Shiony Regis, Foreign Minister of the Republic of Limonesia.","id":"007AC0"}
+{"text":"「アザディスタン王国第一皇女、\n　マリナ・イスマイールです。\n　あなた方のご来訪をお待ちしておりました」","translation":"I am Marina Ismail, First Princess of the Kingdom of Azadistan. I have been awaiting your visit.","id":"007B00"}
+{"text":"（アザディスタン王国…。\n　丁度手頃なんだよね、ここって…）","translation":"The Kingdom of Azadistan... This place is just right...","id":"007B70"}
+{"text":"（マリナ・イスマイール…\n　お気の毒ですが、私達の計画のため、\n　この国を使わせてもらいます）","translation":"Marina Ismail... I'm sorry, but for the sake of our plan, we'll be using this country.","id":"007BB8"}
+{"text":"市街地","translation":"City Area","id":"007C20"}
+{"text":"　\n　　\n　　　　　　～アザディスタン市街地～","translation":"~Azadistan City Area~","id":"007C28"}
+{"text":"「………」","translation":"...","id":"007C58"}
+{"text":"「何故、俺の後を付いて来る？」","translation":"Why are you following me?","id":"007C70"}
+{"text":"「任務だ。\n　スメラギ・李・ノリエガと\n　ロックオン・ストラトスに依頼された」","translation":"It's a mission. Sumeragi Lee Noriega and Lockon Stratos asked me to do it.","id":"007C98"}
+{"text":"「監視役か…」","translation":"A watchdog, huh...","id":"007CF0"}
+{"text":"「この間の一件から、\n　上はお前の行動を警戒しているようだ」","translation":"Since that incident the other day, the higher-ups seem to be wary of your actions.","id":"007D08"}
+{"text":"「それにこのアザディスタンは、お前にとって…」","translation":"And this Azadistan is, for you...","id":"007D50"}
+{"text":"「黙れ」","translation":"Shut up.","id":"007D88"}
+{"text":"「いい機会だ。\n　お前に聞きたい事がある」","translation":"This is as good a time as any. There's something I want to ask you.","id":"007D98"}
+{"text":"「何だ？」","translation":"What is it?","id":"007DC8"}
+{"text":"「お前は何故、コロニーのエージェントを\n　やっている？」","translation":"Why are you working as an agent for the colonies?","id":"007DE0"}
+{"text":"「俺にばかり、強引に答えさせて\n　自分は黙秘するつもりか？」","translation":"Are you going to force me to answer while you stay silent?","id":"007E20"}
+{"text":"「…俺は気がつけば、戦いの中にいた。\n　物心ついた時にはゲリラ組織の一員だった」","translation":"...Before I knew it, I was in the middle of a war. I was part of a guerrilla organization from as far back as I can remember.","id":"007E68"}
+{"text":"「その後、俺は奴にスカウトされ、\n　エージェントとなった」","translation":"After that, I was scouted by him and became an agent.","id":"007EC0"}
+{"text":"「奴…？」","translation":"Him...?","id":"007F08"}
+{"text":"「俺にガンダムを与えた人間だ」","translation":"The man who gave me my Gundam.","id":"007F18"}
+{"text":"「…俺と同じだな…」","translation":"...Then we're the same...","id":"007F40"}
+{"text":"「何？」","translation":"What?","id":"007F60"}
+{"text":"「戦いの中で育ち、ガンダムを与えられた者…」","translation":"Someone raised in war and given a Gundam...","id":"007F70"}
+{"text":"「だが、今の俺はお前とは違う」","translation":"But I'm different from you now.","id":"007FA8"}
+{"text":"「どういう意味だ？」","translation":"What do you mean by that?","id":"007FD0"}
+{"text":"「答える気はない」","translation":"I have no intention of answering.","id":"007FF0"}
+{"text":"「ヒイロ…！\n　ヒイロなの…！？」","translation":"Heero...! Is that really you, Heero!?","id":"008008"}
+{"text":"「リリーナ・ドーリアン…。\n　何故、お前がここに…？」","translation":"Relena Darlian... Why are you here?","id":"008038"}
+{"text":"「お父様のお仕事に同行させていただいて…」","translation":"I came along with my father on official business...","id":"008078"}
+{"text":"「ドーリアン外務次官か…」","translation":"Deputy Foreign Minister Darlian...","id":"0080B0"}
+{"text":"「そちらの方は、あなたのお友達？」","translation":"Is that person a friend of yours?","id":"0080D8"}
+{"text":"（リリーナ・ドーリアン…。\n　国連の外務調停次官ドーリアンの娘。\n　だが、それは偽りの…）","translation":"Relena Darlian... The daughter of Darlian, the UN's Deputy Foreign Minister for Mediation. But that's only a false...","id":"008108"}
+{"text":"「この男は現地の人間だ。\n　俺は道を尋ねようとしただけに過ぎない」","translation":"This man is a local. I was only asking him for directions.","id":"008168"}
+{"text":"「そいつに訊いても無駄だぜ」","translation":"No use asking him.","id":"0081B8"}
+{"text":"「そいつはクルジスの人間だからな」","translation":"He's from Krugis.","id":"0081E0"}
+{"text":"「クルジス…。\n　６年前にアザディスタンに併合された隣国…」","translation":"Krugis... The neighboring country annexed by Azadistan six years ago...","id":"008208"}
+{"text":"「顔見りゃわかるぜ。\n　ここはお前がいていい場所じゃないんだ！\n　とっとと出て行け！」","translation":"I can tell just by looking at your face. This isn't a place where you belong! Get out of here!","id":"008250"}
+{"text":"「そうだ。\n　クルジスの人間は、この街から出て行け！」","translation":"That's right. People from Krugis, get out of this city!","id":"0082B0"}
+{"text":"「出て行け！」","translation":"Get out!","id":"0082F0"}
+{"text":"アザディスタン王宮","translation":"Azadistan Royal Palace","id":"008308"}
+{"text":"　\n　\n　　　～アザディスタン王国　王宮前広場～","translation":"~Kingdom of Azadistan - Palace Front Plaza~","id":"008320"}
+{"text":"「ここがアザディスタンの王宮か…」","translation":"So this is the royal palace of Azadistan...","id":"008350"}
+{"text":"「しかし、いいのかな…。\n　自由時間だからって、こんな風に\n　街を歩くなんて…」","translation":"But is this really okay...? Just because it's free time, walking around town like this...","id":"008380"}
+{"text":"「気にする事はないぜ。\n　俺達が$cである事を\n　知る奴なんていないんだしよ」","translation":"Don't worry about it. Nobody here knows we're with $c anyway.","id":"0083D8"}
+{"text":"「だけど、俺達がこの国に来たのは\n　ＷＬＦが潜入しているという情報を\n　つかんだからなんだぞ」","translation":"But we came to this country because we got word that the WLF had infiltrated it.","id":"008428"}
+{"text":"「そっちの方の作戦は\n　ゼロとスメラギさんに任せましょうよ。\n　私達の出る幕はないわ」","translation":"Let's leave that part of the operation to Zero and Ms. Sumeragi. We don't have a role to play in it.","id":"008488"}
+{"text":"「そうそう。\n　あたし達は街で情報収集しましょうよ。\n　観光も兼ねてね」","translation":"Exactly. Let's gather information around town. And do a little sightseeing while we're at it.","id":"0084E8"}
+{"text":"「賛成です。\n　…彼等なんて、デートを楽しんでますしね」","translation":"I agree. ...After all, those two are already enjoying a date.","id":"008538"}
+{"text":"「すごい…。\n　人があんなにたくさんいる…」","translation":"Amazing... There are so many people...","id":"008580"}
+{"text":"「そう…？\n　たくさんって…１０人ぐらいしか\n　歩いてないけど」","translation":"Really...? By \"so many,\" there are only about ten people walking around, though.","id":"0085B8"}
+{"text":"「だって、私…こんな風に外を歩くなんて\n　初めてだから…」","translation":"Because... this is the first time I've ever walked outside like this...","id":"008600"}
+{"text":"「エウレカ…」","translation":"Eureka...","id":"008648"}
+{"text":"「ワルサワにいた時も\n　軍の研究所にいた時も\n　ずっと部屋に閉じ込められていて…」","translation":"Whether I was in Warsaw or at the military research facility, I was always locked inside a room...","id":"008660"}
+{"text":"「もういいんだ、エウレカ。\n　昔の嫌な事は思い出さなくても」","translation":"It's okay, Eureka. You don't have to remember those bad things from the past.","id":"0086C0"}
+{"text":"「今は俺がいる。\n　それにニルヴァーシュも。\n　だから…」","translation":"I'm here now. And so is Nirvash. So...","id":"008708"}
+{"text":"「お熱い雰囲気のところで悪いけど、\n　あたし達もいるから」","translation":"Sorry to interrupt the lovey-dovey mood, but we're here too.","id":"008750"}
+{"text":"「え…？」","translation":"Huh...?","id":"008798"}
+{"text":"「君達が、どういういきさつがあって、\n　この$cに来たかを\n　問うつもりはないよ」","translation":"I don't intend to ask what circumstances brought you here to this $c.","id":"0087B0"}
+{"text":"「でも、今は僕達も仲間なんだ」","translation":"But we're all comrades now.","id":"008808"}
+{"text":"「そういうこった。\n　そっちの子のナイトを気取るのもいいけどよ、\n　俺達の事も頼ってくれていいんだぜ」","translation":"That's right. It's fine if you want to play knight for that girl, but you can count on us too.","id":"008830"}
+{"text":"「…顔と違って、優しいんですね」","translation":"...You're kinder than you look.","id":"0088A0"}
+{"text":"「言ってくれるじゃねえか、坊主。\n　気に入ったぜ」","translation":"That's quite a thing to say, kid. I like you.","id":"0088D0"}
+{"text":"「す、すいません！\n　俺…思った事が、そのまま出ちゃって！」","translation":"S-sorry! I just... said exactly what I was thinking!","id":"008908"}
+{"text":"「お前さ…。\n　それじゃ、全然フォローになってねえぞ」","translation":"Hey... that's not helping at all.","id":"008950"}
+{"text":"「す、すいません！\n　俺…顔は怖いけど、いい人だって\n　言いたくて…！」","translation":"S-sorry! I just meant... you look scary, but you're a good person...!","id":"008990"}
+{"text":"「やめときな。\n　口を開けば開く程、ドツボにはまってくよ」","translation":"Just stop. The more you talk, the deeper you'll dig yourself in.","id":"0089E0"}
+{"text":"「正直者でいいじゃねえか。\n　ますます気に入ったぜ」","translation":"Nothing wrong with being honest. I like you even more now.","id":"008A28"}
+{"text":"「は、はい！\n　ありがとうございます！」","translation":"Y-yes! Thank you very much!","id":"008A68"}
+{"text":"「やっと、お嬢ちゃんも笑ったか。\n　可愛いじゃねえかよ」","translation":"So the little lady finally smiled. Ain't she cute?","id":"008AA0"}
+{"text":"「武蔵よぉ…。\n　お前がそんな顔で迫ったら、\n　また怯えちまうだろうが！」","translation":"Musashi... If you get that close with a face like that, you're just going to scare her again!","id":"008AE0"}
+{"text":"「大丈夫ですよ。\n　エウレカだって、武蔵さんは顔は怖いけど、\n　いい人だってわかってくれます」","translation":"It's okay. Eureka will understand that Musashi-san may look scary, but he's a good person.","id":"008B30"}
+{"text":"「お前は顔の事を言い過ぎだ！」","translation":"You talk about my face too much!","id":"008B98"}
+{"text":"「馴染んだみたいね、\n　あのレントンとエウレカって子…」","translation":"Looks like those two, Renton and Eureka, have settled in...","id":"008BC0"}
+{"text":"「みたいだな。\n　あの独立愚連隊の連中の中じゃ、\n　ちっとはマシな奴らしいな」","translation":"Seems that way. Out of that Independent Irregulars bunch, they seem a little more decent than the rest.","id":"008C00"}
+{"text":"「彼等以外のメンバーは他の人間と\n　必要以上の接触は避けているようですね」","translation":"The other members seem to avoid any unnecessary contact with other people.","id":"008C58"}
+{"text":"「いいんじゃないの？\n　それを言ったら、あたし達だって\n　同じようなものだしね」","translation":"What's wrong with that? If you put it that way, we're pretty much the same.","id":"008CB0"}
+{"text":"「ゼロやソレスタルビーイングも\n　似たようなものよ」","translation":"Zero and Celestial Being are pretty much the same too.","id":"008D08"}
+{"text":"「要するにこっちの$cは\n　そんな連中の集まりって事だな」","translation":"So basically, this $c is just a gathering of people like that.","id":"008D48"}
+{"text":"「珍しいわね。\n　こんな所で日本人に会うなんて」","translation":"How unusual, running into Japanese people in a place like this.","id":"008D88"}
+{"text":"「あんた…もしかして、\n　イザベル・クロンカイトか？」","translation":"You... could you be Isabel Cronkite?","id":"008DC8"}
+{"text":"「私も随分と顔が売れたものね」","translation":"I suppose I've become quite well-known.","id":"008E08"}
+{"text":"「当然よ、イザベル。\n　『ダンクーガは戦場に必要か…』で\n　ピューリッツァー賞を受賞してるのだから」","translation":"Of course, Isabel. You won the Pulitzer Prize for \"Is Dancouga Necessary on the Battlefield...?\"","id":"008E30"}
+{"text":"「あなたもジャーナリストなのですか？」","translation":"Are you a journalist too?","id":"008E98"}
+{"text":"「ええ…。\n　イザベルとは仕事上のパートナーよ」","translation":"Yes... I'm Isabel's professional partner.","id":"008EC8"}
+{"text":"「で、有名ジャーナリストさんがいるって事は\n　何か事件でも起きたのかい？」","translation":"So, if a famous journalist is here, does that mean something's happened?","id":"008F00"}
+{"text":"「これから起きるのよ」","translation":"Something's about to happen.","id":"008F50"}
+{"text":"「どういう事かしら？」","translation":"What do you mean by that?","id":"008F70"}
+{"text":"「予感めいたものよ。\n　これもダンクーガやソレスタルビーイングを\n　追ってきたせいね」","translation":"Just a kind of premonition. I suppose that's what comes from chasing Dancouga and Celestial Being.","id":"008F90"}
+{"text":"「…まだダンクーガを取材してるの？」","translation":"...You're still covering Dancouga?","id":"008FF0"}
+{"text":"「ダンクーガの存在と行動目的は未だ不明だもの。\n　私はジャーナリスト生命を懸けて\n　彼等を追い続けるわ」","translation":"Dancouga's existence and purpose are still unknown. I'll keep chasing them, even if I have to stake my career on it.","id":"009018"}
+{"text":"「ついでにソレスタルビーイングも\n　取材対象のようですが…」","translation":"And it seems Celestial Being is also one of your subjects of coverage...","id":"009088"}
+{"text":"「ニュースで見ての通り、\n　両者は同じ戦場に現れる事が多いからね」","translation":"As you've seen on the news, the two often appear on the same battlefield.","id":"0090D0"}
+{"text":"「では、世間の噂通り、\n　あなた達もその両者や黒の騎士団は\n　結託していると見ているのかしら？」","translation":"Then, as the rumors say, do you think those two and the Black Knights are working together?","id":"009120"}
+{"text":"「それを確かめるのが、\n　私達ジャーナリストの務めよ」","translation":"It's our duty as journalists to find that out.","id":"009188"}
+{"text":"「事実を求め、つなぎ合わせれば、\n　そこに真実がある…。\n　私達は、その理念に基づいて行動しているの」","translation":"Seek out the facts and piece them together, and the truth will emerge... We act on that principle.","id":"0091C8"}
+{"text":"「で、さっきの予感ってのは何だよ？」","translation":"So, what was that premonition you mentioned earlier?","id":"009238"}
+{"text":"「気になる？」","translation":"Curious?","id":"009268"}
+{"text":"「せっかくの休暇で観光に来たのですからね。\n　揉め事が起きるようなら、さっさと\n　この国を出ますよ」","translation":"We came here on vacation to sightsee, after all. If trouble starts, we'll leave this country at once.","id":"009280"}
+{"text":"「…いいわ。\n　これはさる筋からの情報なんだけど、\n　この国にＷＬＦが潜入しているらしいの」","translation":"...Fine. This is information from a certain source, but it seems the WLF has infiltrated this country.","id":"0092F0"}
+{"text":"「ＷＬＦって…国際的なテロリストよね…。\n　それが何故？」","translation":"The WLF... they're international terrorists, right...? Why here?","id":"009358"}
+{"text":"「詳しい事はわかっていないわ。\n　でも、あなた達も知っての通り、\n　アザディスタンは政情が不安定な国よ」","translation":"I don't know the details. But as you all know, Azadistan is a politically unstable country.","id":"009398"}
+{"text":"「彼等は政府に反対する保守派と結託して、\n　何か動くかも知れないわ」","translation":"They may be planning to make a move in league with the conservatives who oppose the government.","id":"009408"}
+{"text":"「でも、ＷＬＦは世界中で活動しているわ。\n　このアザディスタンの何が狙いだというの？」","translation":"But the WLF operates all over the world. What could they possibly be after in Azadistan?","id":"009458"}
+{"text":"「そうだぜ。\n　この国は化石燃料もスッカラカンになりかけの\n　貧乏国なんだろ？」","translation":"Yeah. This country's a poor one, with fossil fuels almost completely tapped out, right?","id":"0094B8"}
+{"text":"「それでも国は国よ。\n　テロリストが一国を制圧したとなれば、\n　その影響は大きいわ」","translation":"Even so, a nation is still a nation. If terrorists were to seize control of one, the impact would be enormous.","id":"009510"}
+{"text":"「単に拠点を手に入れたというだけでなく、\n　独立国家という立場上、様々な権利を\n　得る事が出来るのだから」","translation":"Not only would they gain a base, but as an independent state they'd also acquire all kinds of rights.","id":"009570"}
+{"text":"「政府を押さえれば、国民を総動員して\n　戦力とする事も出来るしね」","translation":"And if they controlled the government, they could mobilize the entire population as a fighting force.","id":"0095E8"}
+{"text":"「随分と恐ろしい話ですね」","translation":"That's a terrifying thought.","id":"009630"}
+{"text":"「ここ最近のＷＬＦの資金力は底が知れないもの。\n　あながち夢物語でもないわ」","translation":"The WLF's financial resources lately have seemed virtually bottomless. It's not such a far-fetched scenario.","id":"009658"}
+{"text":"「そう考えるとアザディスタンって国は\n　手頃な標的という事ね」","translation":"When you put it that way, Azadistan really does sound like a convenient target.","id":"0096B0"}
+{"text":"「彼等はその手段として、\n　皇女マリナ・イスマイールを狙う事が\n　予想されるわ」","translation":"As part of that plan, it's likely they'll target Princess Marina Ismail.","id":"0096F8"}
+{"text":"「改革派の旗手であり、\n　保守派にとっては打倒するシンボルでもある\n　第一皇女…」","translation":"The First Princess... standard-bearer of the reformists, and for the conservatives, a symbol to be overthrown...","id":"009750"}
+{"text":"「確かに利用価値は高そうですね」","translation":"She certainly seems highly useful to them.","id":"0097B0"}
+{"text":"「怖いわ…。\n　そんな物騒な国とは知らなかった」","translation":"That's scary... I had no idea it was such a dangerous country.","id":"0097E0"}
+{"text":"「そうね。\n　休暇を切り上げて、早めに出国しましょう」","translation":"Yeah. Let's cut our vacation short and leave the country as soon as we can.","id":"009818"}
+{"text":"「ありがとよ、イザベルさん。\n　せっかくの情報、有効に利用させてもらうぜ」","translation":"Thanks, Isabel. We'll make good use of that information.","id":"009858"}
+{"text":"「あ…ちょっと待って…！」","translation":"Ah... wait...!","id":"0098A8"}
+{"text":"「行ってしまったわね…」","translation":"They've gone...","id":"0098C8"}
+{"text":"「いいの、イザベル？\n　あの子達にべらべら情報を話して」","translation":"Is that really okay, Isabel? Telling those kids everything like that?","id":"0098F0"}
+{"text":"「わざとよ。\n　彼等の反応を見たかったから」","translation":"I did it on purpose. I wanted to see how they'd react.","id":"009930"}
+{"text":"「まさか、彼等…ＷＬＦなの？」","translation":"Don't tell me... they're WLF?","id":"009968"}
+{"text":"「…あの中の赤毛の女の子…\n　数ヶ月前に失踪したレーサー兼トップモデルの\n　飛鷹葵よ」","translation":"...That red-haired girl among them... she's Aoi Hidaka, the racer and top model who disappeared a few months ago.","id":"009990"}
+{"text":"「そう言えば…！」","translation":"Come to think of it...!","id":"0099F0"}
+{"text":"「彼女が失踪した頃から\n　ダンクーガとソレスタルビーイングの連携が\n　見られるようになったのよね…」","translation":"Ever since she disappeared, there’s been coordination between Dancouga and Celestial Being...","id":"009A08"}
+{"text":"「飛鷹葵が、それに関係していると？」","translation":"You think Aoi Hidaka is connected to that?","id":"009A78"}
+{"text":"「無論、確証はないわ。\n　でも、私の勘が何かあると言ってる…」","translation":"Of course, I have no proof. But my instincts tell me there's something there...","id":"009AA8"}
+{"text":"「だから、彼女がＷＬＦの動きを知れば、\n　もしかすると…」","translation":"So if she finds out about WLF's movements, then maybe...","id":"009AF0"}
+{"text":"「ダンクーガ…そして、ソレスタルビーイング…。\n　このアザディスタンで何かが起こる…」","translation":"Dancouga... and Celestial Being... Something's going to happen here in Azadistan...","id":"009B38"}
+{"text":"戦場跡","translation":"Battlefield Ruins","id":"009B98"}
+{"text":"　\n　\n　　　　～アザディスタン郊外　戦場跡～","translation":"~Azadistan Outskirts - Battlefield Ruins~","id":"009BA0"}
+{"text":"「何故、逃げた？」","translation":"Why did you run?","id":"009BD0"}
+{"text":"「逃げたわけじゃない。\n　ただ、あの場にいても余計な事態を\n　招くだけだと判断した」","translation":"I didn't run. I simply judged that staying there would only invite unnecessary complications.","id":"009BF0"}
+{"text":"「やはり、あなたは\n　ヒイロの仲間だったんですね？」","translation":"So you really were one of Heero's comrades?","id":"009C48"}
+{"text":"「あなたの目はヒイロに似ています。\n　悲しみの奥に強い意志を感じます」","translation":"Your eyes are like Heero's. I can sense a strong will beneath that sorrow.","id":"009C88"}
+{"text":"「ヒイロ・ユイ…\n　お前は何故、この女を放置する？」","translation":"Heero Yuy... why do you leave this woman alone?","id":"009CD8"}
+{"text":"「正体を知られた以上、\n　このまま帰すわけにはいかない…」","translation":"Now that she knows who we are, we can't just let her go like this...","id":"009D18"}
+{"text":"「やめろ」","translation":"Stop.","id":"009D58"}
+{"text":"「何故だ？\n　お前は任務を放棄するつもりか？」","translation":"Why? Are you planning to abandon your mission?","id":"009D70"}
+{"text":"「理由を言え。\n　何故、お前は自らの危険を顧みず、\n　この女を守ろうとする？」","translation":"Give me a reason. Why would you risk yourself to protect this woman?","id":"009DA8"}
+{"text":"「俺にも…わからん…」","translation":"Even I... don't know...","id":"009E00"}
+{"text":"「何…？」","translation":"What...?","id":"009E20"}
+{"text":"「俺にも理由はわからん…！」","translation":"Even I don't know why...!","id":"009E30"}
+{"text":"「感情に任せたというのか…？」","translation":"Are you saying you acted on emotion...?","id":"009E58"}
+{"text":"「…そうだ」","translation":"...Yeah.","id":"009E80"}
+{"text":"「ヒイロ…」","translation":"Heero...","id":"009E98"}
+{"text":"「…誰だ…！？」","translation":"...Who are you...!?","id":"009EB0"}
+{"text":"「あ…ごめんなさい…。\n　驚かすつもりはなかったんですけど…」","translation":"Ah... I'm sorry... I didn't mean to startle you...","id":"009EC8"}
+{"text":"「あなたは…！」","translation":"You are...!","id":"009F10"}
+{"text":"「…ここは私にとって秘密の場所だったんです。\n　だから、人がいるなんて思わなくて…」","translation":"...This was a secret place for me. So I never thought anyone would be here...","id":"009F30"}
+{"text":"「あ…気楽になさって下さい。\n　ここにいる時は私も一人のアザディスタンの\n　民ですから」","translation":"Ah... please, make yourself comfortable. When I'm here, I'm just one of the people of Azadistan.","id":"009F90"}
+{"text":"「俺はクルジスの人間だ」","translation":"I'm from Krugis.","id":"009FF0"}
+{"text":"「！」","translation":"!","id":"00A010"}
+{"text":"「待って、あなた…！\n　もっと話を聞かせて！」","translation":"Wait, you...! Please, tell me more!","id":"00A020"}
+{"text":"「マリナ・イスマイール…\n　お前と話す事はない」","translation":"Marina Ismail... I have nothing to say to you.","id":"00A058"}
+{"text":"「あ…」","translation":"Ah...","id":"00A090"}
+{"text":"「マリナ・イスマイール…\n　アザディスタン第一皇女か…」","translation":"Marina Ismail... The first princess of Azadistan, huh...","id":"00A0A0"}
+{"text":"「待って、ヒイロ…！\n　あなたに話があります！」","translation":"Wait, Heero...! I need to talk to you!","id":"00A0E0"}
+{"text":"「…俺は聞く気はない」","translation":"...I have no intention of listening.","id":"00A120"}
+{"text":"「マリナ様…」","translation":"Princess Marina...","id":"00A140"}
+{"text":"「あなたは…あの少年と知り合いなのですか？」","translation":"Are you acquainted with that boy?","id":"00A158"}
+{"text":"「クルジスの彼の事は知りませんが、\n　もう一人とは…」","translation":"I don't know the boy from Krugis, but the other one...","id":"00A190"}
+{"text":"「あなたの友達…ですか？」","translation":"Is he... your friend?","id":"00A1D0"}
+{"text":"「はい…。\n　そして、彼は私を殺そうとしています」","translation":"Yes... And he's trying to kill me.","id":"00A1F8"}
+{"text":"「え…」","translation":"What...?","id":"00A238"}
+{"text":"「マリナ・イスマイールだな？」","translation":"You're Marina Ismail, right?","id":"00A248"}
+{"text":"「あなた達は…？」","translation":"Who are you people...?","id":"00A278"}
+{"text":"「俺達と来てもらう。\n　無論、抵抗しても無駄だ」","translation":"You're coming with us. Resistance is pointless.","id":"00A298"}
+{"text":"「まさか、保守派の…！？」","translation":"Don't tell me, you're with the conservatives...!?","id":"00A2D8"}
+{"text":"「俺達は世界解放戦線ＷＬＦだ」","translation":"We're the World Liberation Front, WLF.","id":"00A300"}
+{"text":"「国際テロリスト…！」","translation":"International terrorists...!","id":"00A330"}
+{"text":"「そう呼ばれるのも今日までだ。\n　我々はアザディスタン保守派と共に\n　この国を守る！」","translation":"This is the last day you'll call us that. Together with Azadistan's conservatives, we'll protect this country!","id":"00A350"}
+{"text":"「マリナ・イスマイール、\n　お前もそれに協力してもらうぞ！」","translation":"Marina Ismail, you'll cooperate with us as well!","id":"00A3B0"}
+{"text":"「あ…ああ…」","translation":"Ah... ah...","id":"00A3F8"}
+{"text":"「あなた…！　早く逃げて！」","translation":"You...! Hurry, run!","id":"00A410"}
+{"text":"「そうはいかんな！\n　この場に居合わせた以上、そっちの娘も\n　我々と来てもらう！」","translation":"Not so fast! Since she happened to be here, that girl's coming with us too!","id":"00A438"}
+{"text":"（ヒイロ…！）","translation":"Heero...!","id":"00A498"}
+{"text":"監禁部屋","translation":"Detention Room","id":"00CBF0"}
+{"text":"　\n　　\n　　　　　　～ＷＬＦアジト　地下室～","translation":"~WLF Hideout Basement~","id":"00CC00"}
+{"text":"「…ごめんなさい。\n　私のせいで、こんな事に巻き込んでしまって…」","translation":"...I'm sorry. Because of me, you've been dragged into all this...","id":"00CC30"}
+{"text":"「そんな…。\n　マリナ様が悪いのではありません」","translation":"No... This isn't your fault, Princess Marina.","id":"00CC80"}
+{"text":"「いえ…私が未熟ゆえに\n　あのような輩がアザディスタンに\n　入り込む事になったのです」","translation":"No... it is because of my own inexperience that people like them were able to infiltrate Azadistan.","id":"00CCC0"}
+{"text":"「…私の父は\n　様々な問題を平和的に解決されようとする\n　マリナ様の姿勢を高く評価しております」","translation":"...My father holds your stance in very high regard, Princess Marina... your desire to resolve so many problems peacefully.","id":"00CD20"}
+{"text":"「あなたは…」","translation":"You are...","id":"00CD88"}
+{"text":"「私はリリーナ・ドーリアンと申します。\n　父は国連の外務調停次官です」","translation":"My name is Relena Darlian. My father is the UN Under-Secretary for Foreign Affairs Mediation.","id":"00CDA0"}
+{"text":"「ドーリアン外務次官のお嬢さんだったのですね」","translation":"So you're Under-Secretary Darlian's daughter.","id":"00CDF0"}
+{"text":"「父は私に世界の情勢を学ばせるために\n　このアザディスタンへ同行させたのです」","translation":"My father brought me along to Azadistan so I could learn about the state of the world.","id":"00CE28"}
+{"text":"「あなたのお父様は評価して下さっていますが、\n　私はまだ迷いの中にいます」","translation":"Your father may hold me in high regard, but I am still lost in doubt.","id":"00CE80"}
+{"text":"「あのテロリストが言ったように\n　変革のためには戦いもやむを得ないのかも\n　知れません…」","translation":"As that terrorist said, maybe fighting is unavoidable if we want change...","id":"00CED8"}
+{"text":"「………」","translation":".........","id":"00CF38"}
+{"text":"「過去にも対話による平和的解決を望み、\n　武装を解除した国がありました」","translation":"There was once a country that sought peaceful resolution through dialogue, and disarmed itself.","id":"00CF50"}
+{"text":"「私はその国を手本に今日までやってきましたが、\n　それは理想論に過ぎないのでしょう…」","translation":"I have followed that country's example up to now, but perhaps it was nothing more than an idealistic theory...","id":"00CFA0"}
+{"text":"「その国は今は…」","translation":"That country is now...","id":"00D000"}
+{"text":"「他国の侵攻により、\n　その理想…完全平和主義と共に滅びました」","translation":"It was destroyed by another nation's invasion... along with its ideal of complete pacifism.","id":"00D020"}
+{"text":"「え…」","translation":"What...?","id":"00D068"}
+{"text":"「完全平和主義を謳ったサンクキングダム…。\n　その存在は、今日の世界では\n　叶わない夢なのかも知れません…」","translation":"The Sanc Kingdom, which championed complete pacifism... Perhaps in today's world, it was only a dream...","id":"00D080"}
+{"text":"「サンクキングダム…」","translation":"The Sanc Kingdom...","id":"00D0F8"}
+{"text":"「これは…！？」","translation":"What is this...!?","id":"00D118"}
+{"text":"「リリーナさん、私の後ろに下がって…！」","translation":"Miss Relena, get behind me...!","id":"00D138"}
+{"text":"「無事か？」","translation":"Are you alright?","id":"00D168"}
+{"text":"「あなたは、あの時の…！？」","translation":"You're the one from before...!?","id":"00D180"}
+{"text":"「ヒイロ…あなたも来てくれたのですね」","translation":"Heero... so you came too.","id":"00D1A8"}
+{"text":"「ＷＬＦは片付けた。\n　行くぞ」","translation":"The WLF has been dealt with. Let's go.","id":"00D1D8"}
+{"text":"「あなた達がテロリストを倒したと…？」","translation":"You defeated the terrorists...?","id":"00D200"}
+{"text":"「いくら相手がテロリストだからといって、\n　問答無用で…」","translation":"Even if they were terrorists, to act without even trying to talk...","id":"00D230"}
+{"text":"「話し合いで解決できたかも知れないのに…。\n　これではソレスタルビーイングと同じよ…！」","translation":"Maybe this could have been settled through discussion... That makes you no different from Celestial Being...!","id":"00D278"}
+{"text":"「…お前はソレスタルビーイングの何を知る？」","translation":"...What do you know about Celestial Being?","id":"00D2D8"}
+{"text":"「確かに戦争はいけない事よ…。\n　でも、一方的に武力介入を受けた人達や国は\n　被害を受けている…」","translation":"War is certainly wrong... But the people and nations subjected to one-sided armed intervention suffer for it...","id":"00D310"}
+{"text":"「彼等は自分達の事を\n　神だと思っているとでも言うの…！？」","translation":"Do they think they're gods or something...!?","id":"00D378"}
+{"text":"「戦争が起これば、人は死ぬ」","translation":"When war breaks out, people die.","id":"00D3C0"}
+{"text":"「介入の仕方が一方的過ぎると言っているの！\n　話し合いもせず、平和的な解決も模索しないで\n　暴力という圧力で人を縛っている…」","translation":"I'm saying your intervention is far too one-sided! No talks, no peaceful solution, just violence...","id":"00D3E8"}
+{"text":"「それはおかしな事よ！」","translation":"That's just wrong!","id":"00D470"}
+{"text":"「話している間に人は死ぬ」","translation":"People die while you're talking.","id":"00D490"}
+{"text":"「でも…！」","translation":"But...!","id":"00D4B0"}
+{"text":"「クルジスを滅ぼしたのはアザディスタンだ！」","translation":"It was Azadistan that destroyed Krugis!","id":"00D4C8"}
+{"text":"「確かにそうよ。\n　でも、二つの国は最後まで平和的解決を…」","translation":"That's true. But the two countries were trying to resolve it peacefully until the very end...","id":"00D500"}
+{"text":"「その間に人は死んだ」","translation":"People died in the meantime.","id":"00D548"}
+{"text":"「あなた、まさか…。\n　戦いが終わったのは６年も前よ。\n　あなたは、まだ若くて…」","translation":"You... no way... The war ended six years ago. You were still so young...","id":"00D568"}
+{"text":"「…戦っていたの…？」","translation":"...Were you fighting in it...?","id":"00D5C0"}
+{"text":"「あの時も…そして、今も」","translation":"Back then... and even now.","id":"00D5E0"}
+{"text":"「俺のコードネームは刹那・Ｆ・セイエイ。\n　ソレスタルビーイングの\n　ガンダムマイスターだ」","translation":"My codename is Setsuna F. Seiei. I am a Gundam Meister of Celestial Being.","id":"00D600"}
+{"text":"「マリナ・イスマイール…。\n　お前は平和的な手段で、この国を変えようと\n　している」","translation":"Marina Ismail... You're trying to change this country through peaceful means.","id":"00D660"}
+{"text":"「だが、それは戦いを長期化させ、\n　より多くの死を生み出している」","translation":"But that only prolongs the fighting and creates more deaths.","id":"00D6B8"}
+{"text":"「それは…」","translation":"That...","id":"00D700"}
+{"text":"「この世界に神なんていない。\n　だから…」","translation":"There are no gods in this world. So...","id":"00D718"}
+{"text":"「では、聞きます。\n　あなた達のやり方なら、戦いを終わらせる事が\n　出来ると言うのですか？」","translation":"Then let me ask you this. Are you saying that your way can bring an end to the fighting?","id":"00D748"}
+{"text":"「出来る」","translation":"It can.","id":"00D7B0"}
+{"text":"「いいえ、出来ません。\n　あなた達の戦いによって大切な人を失った人は\n　決してあなた達を許さないでしょう」","translation":"No, it can't. Those who lost loved ones because of your fighting will never forgive you.","id":"00D7C0"}
+{"text":"「戦いは戦いを生むだけです」","translation":"War only breeds more war.","id":"00D838"}
+{"text":"「戦いは戦いを生む…」","translation":"War breeds more war...","id":"00D860"}
+{"text":"「そうです。\n　戦う力を奪うだけでは、戦いは\n　なくならないのです」","translation":"That's right. Simply taking away the power to fight won't make war disappear.","id":"00D880"}
+{"text":"「リリーナ…」","translation":"Relena...","id":"00D8D0"}
+{"text":"「戦いは戦いを生む…。\n　俺達のやり方では…戦いはなくならない…」","translation":"War breeds more war... Our way won't end it...","id":"00D8E8"}
+{"text":"「俺は…ガンダムになれない…」","translation":"I... can't become Gundam...","id":"00D930"}
+{"text":"「何やってんだ、刹那、ヒイロ！\n　お嬢さん方を連れて、とっとと脱出しろ！」","translation":"What are you doing, Setsuna, Heero?! Get the ladies out of here and evacuate, now!","id":"00D958"}
+{"text":"「俺は…ガンダムに…」","translation":"I... must become Gundam...","id":"00D9A8"}
+{"text":"「しっかりしろ、刹那！\n　ここで死んじまったら、ガンダムも何も\n　全て終わりだぞ！」","translation":"Pull yourself together, Setsuna! If you die here, then Gundam and everything else is over!","id":"00D9C8"}
+{"text":"「くっ…！」","translation":"Tch...!","id":"00DA20"}
+{"text":"「ヒイロ！　刹那のフォローを頼む！\n　ケツ持ちは俺がやる！」","translation":"Heero! Cover Setsuna! I'll handle the rear!","id":"00DA38"}
+{"text":"「了解だ」","translation":"Roger that.","id":"00DA78"}
+{"text":"「ヒイロ…！」","translation":"Heero...!","id":"00DA90"}
+{"text":"「死にたくなければ、後にしろ」","translation":"If you don't want to die, save it for later.","id":"00DAA8"}
+{"text":"「は、はい…！」","translation":"Y-yes...!","id":"00DAD0"}
+{"text":"「あの刹那が動揺するとはよ…。\n　余程、ショッキングな事を言われたようだな…」","translation":"To think Setsuna would be shaken like that... He must have been told something truly shocking.","id":"00DAE8"}
+{"text":"「…待てよ。\n　あいつ…ガンダムって言ってたけど、\n　まさか自分がソレスタルビーイングだって…」","translation":"...Wait a second. He said \"Gundam\"... but don't tell me he's actually Celestial Being...","id":"00DB40"}
+{"text":"「…その心配は要りませんよ」","translation":"...You needn't worry about that.","id":"00DBA8"}
+{"text":"「動くな！」","translation":"Don't move!","id":"00DBD0"}
+{"text":"「銃を降ろして下さい。\n　私はアザディスタン軍の諜報部のものです」","translation":"Lower your gun. I'm with Azadistan military intelligence.","id":"00DBE0"}
+{"text":"「皇女救出のために、\n　こちらに来たのですが、遅かったようですね」","translation":"I came here to rescue the princess, but it seems I was too late.","id":"00DC30"}
+{"text":"「そうか…。\n　で、その心配要らないって根拠は何だよ？」","translation":"I see... So what's your basis for saying we don't need to worry?","id":"00DC80"}
+{"text":"「なぜなら、皇女はもうすぐ死ぬからです」","translation":"Because the princess will be dead soon.","id":"00DCC0"}
+{"text":"「何っ！？」","translation":"What!?","id":"00DCF0"}
+{"text":"「先程わかった事ですが、ＷＬＦは\n　彼女の身体に小型の爆発物を埋め込んだのです」","translation":"We only just learned this, but the WLF implanted a small explosive device in her body.","id":"00DD00"}
+{"text":"「作戦失敗を悟った彼等は\n　もうすぐ彼女を爆破するでしょう」","translation":"Now that they've realized the operation has failed, they'll probably blow her up soon.","id":"00DD58"}
+{"text":"「くそっ！\n　早く刹那達に知らせねえと！」","translation":"Damn it! I've gotta let Setsuna and the others know, fast!","id":"00DDA0"}
+{"text":"「ハハハハハハ！\n　ハハハハハハハハ、いい反応です！」","translation":"Hahahahahaha! Hahahahahahaha, that's a great reaction!","id":"00DDD0"}
+{"text":"「嘘ですよ。\n　私が軍人である事も、爆発物の話も」","translation":"It was a lie. Both the part about me being a soldier, and the story about the explosive.","id":"00DE10"}
+{"text":"「…よかった…。\n　そいつはグッドニュースだぜ…」","translation":"...Thank God... That's good news...","id":"00DE50"}
+{"text":"「だが、そんな笑えない冗談を言う奴は\n　気に入らねえな」","translation":"But I don't like guys who make jokes like that.","id":"00DE88"}
+{"text":"「残念ですよ。\n　あなたとは友好的な関係を\n　築きたかったのですがね…」","translation":"What a shame. I had hoped to build a friendly relationship with you...","id":"00DEC8"}
+{"text":"「その声…！\n　お前…この前の…！」","translation":"That voice...! You... you're the one from before...!","id":"00DF18"}
+{"text":"「そうです。\n　私の名前はアイム・ライアード。\n　以後、お見知りおきを」","translation":"That's right. My name is Aim Liard. Pleased to make your acquaintance.","id":"00DF40"}
+{"text":"「俺に何の用だ？\n　次元獣にまぎれて仕掛けてきただけじゃ\n　飽き足らず、わざわざ顔を見に来たのか？」","translation":"What do you want with me? Wasn't hiding among the Dimensional Beasts enough, so you came just to show your face?","id":"00DF90"}
+{"text":"「その通りです。\n　あなたは私にとって、前世で永遠を誓い合った\n　恋人なのですから」","translation":"Exactly. To me, you are the lover I swore eternal vows with in a past life.","id":"00DFF8"}
+{"text":"「な…！？」","translation":"Wha...!?","id":"00E058"}
+{"text":"「いい反応です。\n　あなたは一見するとスレた人間のようですが、\n　心根は随分と素直なようですね」","translation":"A good reaction. You may seem like a jaded person at first glance, but at heart, you are quite honest.","id":"00E068"}
+{"text":"「…そうやって、\n　俺の心を揺さぶって楽しいか？」","translation":"...Is it fun, messing with my head like that?","id":"00E0D0"}
+{"text":"「あなたを惑わせる事が私の使命ですから」","translation":"It is my mission to lead you astray.","id":"00E108"}
+{"text":"「俺の質問に答えろ。\n　お前は何のために俺を狙う？\n　あの金持ちの差し金か？」","translation":"Answer my question. Why are you targeting me? Did that rich bastard put you up to this?","id":"00E138"}
+{"text":"「金持ち…？\n　カルロス・アクシオン・Ｊｒ．は\n　私の大切な友人ですよ」","translation":"Rich bastard...? Carlos Axion Jr. is a dear friend of mine.","id":"00E188"}
+{"text":"「その言葉が本当かどうかすらも怪しいな」","translation":"I doubt even that is true.","id":"00E1D8"}
+{"text":"「だとしたら、どうするんです？」","translation":"And if that's true, what will you do?","id":"00E208"}
+{"text":"「あまり褒められた方法じゃないが、\n　力ずくで本音を引き出す」","translation":"It's not a very admirable method, but I'll force the truth out of you.","id":"00E230"}
+{"text":"「いい反応です。\n　内心では私の言葉に揺れながらも\n　支点はぶれていませんか」","translation":"A good reaction. Even as my words shake you inside, your center hasn't wavered, has it?","id":"00E278"}
+{"text":"「ですが、まだまだです。\n　あなたにはもっともっと迷い苦しんで\n　もらわねば、なりません」","translation":"But it's still not enough. You must hesitate and suffer much, much more.","id":"00E2D0"}
+{"text":"「あいにくだが、俺の人生は迷いだらけでな。\n　今さら、そんなものを増やされるのは\n　ノーサンキューだ」","translation":"Sorry, but my life's already full of doubts. I don't need you adding any more at this point.","id":"00E330"}
+{"text":"「先程、あなたは力ずくでと言いましたが、\n　私もそれ位の事は辞さないつもりです」","translation":"A moment ago, you said you'd use force, but I'm prepared to go that far too.","id":"00E398"}
+{"text":"「俺と殴り合いでもして、\n　悩みを増やすつもりか？」","translation":"What, you planning to trade punches with me and add to my troubles?","id":"00E3F0"}
+{"text":"「そういう泥臭いやり方は好きではありません。\n　私の武器はこれです…」","translation":"I don't care for such crude methods. This is my weapon...","id":"00E428"}
+{"text":"「この耳鳴りみたいな音は…！」","translation":"This sound... like ringing in my ears...!","id":"00E478"}
+{"text":"「そう…。\n　私の武器…それは次元震です」","translation":"Yes... My weapon... is a Dimensional Quake.","id":"00E4A0"}
+{"text":"司令室","translation":"Command Room","id":"00F618"}
+{"text":"　\n　　\n　　　　　～ドラゴンズハイヴ　司令室～","translation":"~Dragon's Hive Command Room~","id":"00F620"}
+{"text":"「…だから、あの紅いダンクーガは\n　いったい何なんだよ？」","translation":"...So what the hell is that red Dancouga, anyway?","id":"00F650"}
+{"text":"「わかりません。\n　ただ、同じジェネレーターを使用している以上、\n　あれもダンクーガと呼ぶべきしょうね」","translation":"I don't know. But since it uses the same generator, I suppose we should call it Dancouga as well.","id":"00F690"}
+{"text":"「他に何かあれについて、わかった事はないの？」","translation":"Do we know anything else about it?","id":"00F700"}
+{"text":"「戦闘の様子は送ってもらったデータで見たけど、\n　あっちは恐らく一人で操縦してるわね」","translation":"I watched the battle footage they sent us, and it looks like it's probably being piloted by a single person.","id":"00F738"}
+{"text":"「どうしてさ？」","translation":"How can you tell?","id":"00F798"}
+{"text":"「あっちは動きに淀みがない…。\n　こっちは４人のチームワークがイマイチ。\n　だから、動きがぎこちない」","translation":"Its movements are smooth... Ours are clumsy because the four of us aren't quite in sync.","id":"00F7B0"}
+{"text":"「だったら、こっちも一人乗りの\n　ダンクーガを造ればいい！」","translation":"Then let's just build a single-seat Dancouga too!","id":"00F820"}
+{"text":"「別に好き好んで４人でやってるわけじゃ\n　ありませんし…」","translation":"It's not like we chose to do this with four people in the first place...","id":"00F868"}
+{"text":"「元々生まれも育ちもバラバラなのに\n　勝手に連れてきたのはそっちだしね」","translation":"And we all come from completely different backgrounds, yet you were the ones who dragged us all together in the first place.","id":"00F8B0"}
+{"text":"「そこにチームワークを求められても困るわ」","translation":"If you're expecting teamwork out of that, you've got the wrong idea.","id":"00F900"}
+{"text":"「うちのダンクーガは４人でいきます。\n　それがうちの方針です」","translation":"Our Dancouga operates with four people. That's our policy.","id":"00F938"}
+{"text":"「何でだよ！？」","translation":"Why the hell!?","id":"00F980"}
+{"text":"「わかりません。\n　私はあなた達の上司ですが、組織では\n　中間管理職に過ぎません」","translation":"I don't know. I may be your superior, but within the organization I'm nothing more than middle management.","id":"00F998"}
+{"text":"「全てを知っているわけではないのです」","translation":"I don't know everything.","id":"00F9F8"}
+{"text":"「また、いつものそれですか…。\n　では、質問を変えます」","translation":"There you go again... Fine, let me rephrase the question.","id":"00FA28"}
+{"text":"「僕達を助けてくれた、\n　あの自称『最後のダンクーガ』は\n　何者なのです？」","translation":"Who is that self-proclaimed \"Last Dancouga\" who saved us?","id":"00FA70"}
+{"text":"「あの口ぶりでは、あれのパイロット…\n　紅いダンクーガの事も知ってたみたいだけど」","translation":"From the way he talked, it sounded like he knew the pilot of that red Dancouga too.","id":"00FAC8"}
+{"text":"「そちらについても不明です」","translation":"I don't know about that either.","id":"00FB28"}
+{"text":"「あっちのファイナルの方は\n　見た目もパーツの構成もダンクーガノヴァに\n　よく似ていたけど…」","translation":"That \"Final\" one looked a lot like Dancouga Nova, both in appearance and in how its parts were configured, though...","id":"00FB50"}
+{"text":"「ですね。\n　私もびっくりしましたよ」","translation":"Indeed. I was surprised as well.","id":"00FBB0"}
+{"text":"「…これ以上、田中さんと話しても無駄みたいね」","translation":"...Looks like there's no point talking to Mr. Tanaka any further.","id":"00FBE0"}
+{"text":"「あんたの上司に言っとけよ。\n　秘密主義もいい加減にしろってな」","translation":"Tell your boss to cut it out with the secrecy already.","id":"00FC18"}
+{"text":"「はい、伝えておきます。\n　では、皆さんと$cの\n　ご武運をお祈りします」","translation":"Yes, I'll pass that along. Now then, I wish all of you and $c the best of luck in battle.","id":"00FC60"}
+{"text":"「ありがと。\n　一応は励ましの言葉と取っておくわ」","translation":"Thanks. I'll take that as encouragement, at least.","id":"00FCB0"}
+{"text":"「秘密主義もいい加減にしろ…」","translation":"Enough with the secrecy...","id":"00FCE8"}
+{"text":"「…だそうです」","translation":"...so he says.","id":"00FD10"}
+{"text":"「いい傾向だ。\n　未知の事を知りたいと思う好奇心は\n　悪いものではない」","translation":"That's a good sign. Curiosity about the unknown is no bad thing.","id":"00FD30"}
+{"text":"「で、ついに出てきましたね、\n　紅いダンクーガが…」","translation":"So, the red Dancouga has finally appeared...","id":"00FD80"}
+{"text":"「性能は？」","translation":"Its performance?","id":"00FDC0"}
+{"text":"「光学ステルス機能搭載で高機動…。\n　空中戦に長けた機体のようです」","translation":"Equipped with optical stealth and highly maneuverable... It seems to be a machine suited to aerial combat.","id":"00FDD8"}
+{"text":"「ただし、一人乗りで本来のダンクーガの役目は\n　持っていないかと…」","translation":"However, it's a single-seater, so I don't think it fulfills Dancouga's original role...","id":"00FE28"}
+{"text":"「なるほど…。\n　ダンクーガ本来の役目は無しか…」","translation":"I see... So it lacks Dancouga's original role...","id":"00FE78"}
+{"text":"「いい刺激になるといいですな。\n　『彼等』に追いつくためにも」","translation":"I hope it serves as good motivation. If only to catch up to \"them.\"","id":"00FEB8"}
+{"text":"「そのためのダンクーガノヴァだ。\n　『彼等』も楽しみにしている」","translation":"That's what Dancouga Nova is for. \"They\" are looking forward to it too.","id":"00FF00"}
+{"text":"「では、紅いダンクーガの方は静観という事で…」","translation":"Then we'll simply keep an eye on the red Dancouga...","id":"00FF48"}
+{"text":"「Ｒ－ダイガンだ」","translation":"It's called R-Daigun.","id":"00FF80"}
+{"text":"「名前をご存知で？」","translation":"You know its name?","id":"00FFA0"}
+{"text":"「ああ…。\n　これで役者は揃った…」","translation":"Ah... Now all the players are in place...","id":"00FFC0"}
+{"text":"「ですが、切り札を早くに切り過ぎたようにも\n　思えます」","translation":"But it seems we may have played our trump card too early.","id":"00FFF0"}
+{"text":"「やむを得ない状況だった。\n　ラグナ・ハーヴェイがゾルブレイン社を\n　買収したらしいからな」","translation":"It was an unavoidable situation. It seems Laguna Harvey has acquired Zolbrain Corporation.","id":"010038"}
+{"text":"「ラグナ・ハーヴェイ…。\n　何かと裏のある人物ですね」","translation":"Laguna Harvey... He's a man who always has something going on behind the scenes.","id":"0100A0"}
+{"text":"「ダンクーガと世界の変革…。\n　最早、無関係と言うわけにはいかないな…」","translation":"Dancouga and the transformation of the world... We can no longer say they're unrelated...","id":"0100E0"}
+{"text":"黒ベタ","translation":"Black screen","id":"010130"}
+{"text":"王宮","translation":"Royal Palace","id":"010138"}
+{"text":"「…刹那はどうしてる？」","translation":"...How's Setsuna doing?","id":"010140"}
+{"text":"「ティエリアに絞られてるさ。\n　ヒイロと二人でな」","translation":"Tieria's chewing him out. Along with Heero.","id":"010160"}
+{"text":"「ヒイロの奴…監視役どころか、\n　刹那を焚き付けてたもんな」","translation":"That Heero... instead of just keeping an eye on him, he was egging Setsuna on.","id":"0101A0"}
+{"text":"「だから、言ったろ？\n　あいつは無口だから、任務に忠実に見えるが、\n　本当は好き放題の暴走野郎だってよ」","translation":"I told you! He's quiet, so he looks dutiful, but he's really a reckless wild card.","id":"0101E0"}
+{"text":"「今回は付き合いの長いデュオの助言を\n　聞くべきだったね」","translation":"We should've listened to Duo's advice, considering how long he's known him.","id":"010250"}
+{"text":"「あの感情任せの暴走コンビには\n　別のお目付け役が必要かもな…。\n　な…$n？」","translation":"That emotional, reckless duo might need a different babysitter... Right, $n?","id":"010298"}
+{"text":"「何だよ…。\n　ヒイロの次は俺に監視役を振るつもりか？」","translation":"What the hell...? You planning to stick me with watchdog duty after Heero?","id":"0102F0"}
+{"text":"「似合いの貧乏クジだと思うぜ」","translation":"Seems like the perfect rotten deal for you.","id":"010330"}
+{"text":"「だったら、時給１００Ｇは要求するぜ。\n　貧乏クジも貧乏も真っ平御免だ」","translation":"Then I'm demanding 100G an hour. I want no part of a bum deal or being broke.","id":"010360"}
+{"text":"「俺だったら、２００Ｇもらっても\n　やりたくないがな」","translation":"If it were me, I wouldn't do it even for 200G.","id":"0103B0"}
+{"text":"「で…刹那のガンダムになるってのは\n　どういう意味なんだ？」","translation":"So... what does it mean to become Setsuna's Gundam?","id":"0103F0"}
+{"text":"「さあね…」","translation":"Who knows...","id":"010430"}
+{"text":"「あいつの考えてる事は俺達にも\n　時々わからんからな」","translation":"Even we don't always understand what he's thinking.","id":"010448"}
+{"text":"「ま…いいじゃないかよ。\n　あいつのおかげで、今回のミッションは\n　割と楽しめたしよ」","translation":"Well... whatever. Thanks to him, I actually enjoyed this mission.","id":"010490"}
+{"text":"「色々な疑問が残りましたけどね…」","translation":"Though a lot of questions still remain...","id":"0104F0"}
+{"text":"「今は忘れようか。\n　せっかく、ミッション終了の記念って事で\n　ここに来たんだから」","translation":"Let's forget about it for now. We came here to celebrate the end of the mission, after all.","id":"010520"}
+{"text":"「あなた達…まだアザディスタンにいたの？」","translation":"You guys... are you still in Azadistan?","id":"010578"}
+{"text":"「まあな。\n　…で、ＷＬＦはどうなったんだ？」","translation":"Yeah. ...So, what happened to the WLF?","id":"0105B0"}
+{"text":"「動いたと思ったら、\n　あっという間に壊滅させられたわ」","translation":"They made a move, and were wiped out in no time.","id":"0105E8"}
+{"text":"「その戦場にはソレスタルビーイング、\n　ダンクーガ、黒の騎士団、コロニーのガンダム…\n　他にも様々な機体がいたそうよ」","translation":"I heard Celestial Being, Dancouga, the Black Knights, the Colony Gundams, and various other units were all at that battle.","id":"010630"}
+{"text":"「…あなた達、何か知ってる？」","translation":"...Do any of you know anything about it?","id":"0106B0"}
+{"text":"「悪いな、ブンヤさん。\n　俺達はこう見えても善良な市民なんでな」","translation":"Sorry, miss reporter. We may not look it, but we're good, law-abiding citizens.","id":"0106D8"}
+{"text":"「争い事なんぞに巻き込むのは\n　勘弁してほしいな」","translation":"We'd appreciate it if you didn't drag us into any conflicts.","id":"010720"}
+{"text":"「そのあなた達が政情不安な\n　このアザディスタンに留まった理由は？」","translation":"Then why are you staying here in Azadistan, with the political situation so unstable?","id":"010758"}
+{"text":"「…この国に興味があるからです。\n　特に皇女マリナ・イスマイールの考え方に」","translation":"...Because we're interested in this country. Especially in Princess Marina Ismail's beliefs.","id":"0107A8"}
+{"text":"「数年前に滅んだサンクキングダムを源流とする\n　平和思想の事？」","translation":"You mean the pacifist philosophy that traces back to the Sanc Kingdom, which fell a few years ago?","id":"010800"}
+{"text":"「確かにそれは理想論でしょう。\n　ですが、今日は無理でも、その理想は\n　明日、結実するかも知れません」","translation":"Certainly, it's an idealistic view. But even if it can't be realized today, that ideal may bear fruit tomorrow.","id":"010848"}
+{"text":"「大事なのは、これから…って事さ。\n　誰にとってもよ」","translation":"What matters is what's ahead... for everyone.","id":"0108B8"}
+{"text":"「大事なのは、これから…」","translation":"What matters is what's ahead...","id":"0108F8"}
+{"text":"「ありがとう。\n　あなた達に会えて、よかったわ」","translation":"Thank you. I'm glad I met you all.","id":"010918"}
+{"text":"「俺もだよ。\n　あんたの記事…楽しみにさせてもらうぜ」","translation":"Same here. I'll be looking forward to your articles.","id":"010958"}
+{"text":"「それじゃ…。\n　またどこかの戦場で会いましょう」","translation":"Well then... let's meet again on some battlefield.","id":"010998"}
+{"text":"「あの人…あたし達の事、気づいてたの？」","translation":"That woman... did she realize who we are?","id":"0109D8"}
+{"text":"「どっちでもいいじゃない。\n　それで問題が起きたんなら、\n　そこで対処を考えればいいわ」","translation":"It doesn't matter either way. If that causes a problem, we'll deal with it then.","id":"010A08"}
+{"text":"「そっちがそういうスタンスでやるなら、\n　俺達は口出ししないさ」","translation":"If that's the stance you're taking, we won't interfere.","id":"010A68"}
+{"text":"「だが、刹那の方は\n　ソレスタルビーイングの問題だ。\n　それで片付けるわけにはいかねえ」","translation":"But Setsuna's case is a Celestial Being matter. We can't just leave it at that.","id":"010AB8"}
+{"text":"「秘密を知ったマリナ皇女を暗殺するとでも？」","translation":"You mean assassinate Princess Marina for knowing the secret?","id":"010B20"}
+{"text":"「…協議の結果、それは無しとなった。\n　もっとも彼女には、秘密をバラした場合は\n　生命の保証はしないとの脅しは送ったけどな」","translation":"...After discussion, we decided against it. Though we did warn her that if she spills the secret, we won't guarantee her safety.","id":"010B58"}
+{"text":"「相手が相手だからね。\n　暗殺という事になったら周囲への影響が\n　大き過ぎる」","translation":"Given who the target is, an assassination would have far too much fallout.","id":"010BE0"}
+{"text":"「今回は非常事態って事で\n　やむを得ない点もあったしな」","translation":"This time, it was an emergency, so there were some unavoidable compromises.","id":"010C38"}
+{"text":"「ティエリアは納得してなかったようだな」","translation":"Tieria didn't seem convinced.","id":"010C80"}
+{"text":"「あいつは真面目なんだよ。\n　そして、それはソレスタルビーイングに\n　必要な事なのさ」","translation":"He's serious. And that's something Celestial Being needs.","id":"010CB0"}
+{"text":"「貧乏クジの兄貴分も大変だな」","translation":"It's tough being the older-brother type who always draws the short straw.","id":"010D10"}
+{"text":"「本当にそう思ってるんなら、\n　刹那とヒイロのお守りを頼むぜ」","translation":"If you really mean that, then look after Setsuna and Heero for me.","id":"010D38"}
+{"text":"「それとこれとは話は別だっての」","translation":"That's a whole different matter.","id":"010D88"}
+{"text":"「あの…」","translation":"Um...","id":"010DB0"}
+{"text":"（リリーナ・ドーリアン…）","translation":"Relena Darlian...","id":"010DC8"}
+{"text":"「どこのどなたかも存じ上げない方に\n　こんな事をお願いするのは失礼なのですが…」","translation":"I know it's rude of me to ask this of someone whose name I don't even know, but...","id":"010DF0"}
+{"text":"「もし、ヒイロ・ユイという少年に会ったら、\n　伝えて下さい」","translation":"If you happen to meet a boy named Heero Yuy, please tell him this:","id":"010E50"}
+{"text":"「また会える日を楽しみにしてると」","translation":"that I'm looking forward to the day we meet again.","id":"010E98"}
+{"text":"「そのヒイロってのが誰だか知らないが、\n　もし会えたんなら伝えとくよ」","translation":"I don't know who this Heero guy is, but if I run into him, I'll pass it on.","id":"010EC8"}
+{"text":"「ありがとうございます」","translation":"Thank you very much.","id":"010F18"}
+{"text":"「彼女はヒイロ達の正体を…」","translation":"She knows who Heero and the others really are...","id":"010F40"}
+{"text":"「あの様子じゃ、\n　誰かにバラすつもりはねえだろうさ」","translation":"Judging by how she acted, I doubt she plans to tell anyone.","id":"010F68"}
+{"text":"「何しろ、エリア１１でヒイロとつるんでた俺を\n　知らないふりしてたんだしよ」","translation":"I mean, she even pretended not to know me when I was hanging around with Heero in Area 11.","id":"010FA8"}
+{"text":"「自分の正体を知った人間を放っておくとは\n　彼もエージェント失格ですね」","translation":"Leaving someone who knows his true identity alone... that makes him a failure as an agent.","id":"011000"}
+{"text":"「そう言うなよ。\n　あいつの正体はバレたが、\n　事実として不利益は発生していない」","translation":"Don't say that. His identity was exposed, but as a matter of fact, no harm came of it.","id":"011058"}
+{"text":"「結果オーライだがな」","translation":"All's well that ends well.","id":"0110B8"}
+{"text":"「マリナ皇女も、さっきの彼女と同じなら\n　いいんだけどね」","translation":"I just hope Princess Marina is like that girl from before.","id":"0110E0"}
+{"text":"「そうなるように祈りますか。\n　あの王宮に向かってよ…」","translation":"Let's pray it turns out that way. Toward that palace...","id":"011128"}
+{"text":"「…僕達の支援を断るって…？」","translation":"...You're refusing our support...?","id":"011168"}
+{"text":"「はい…。\n　あなた方のご提案は大変嬉しいのですが」","translation":"Yes... I'm very grateful for your offer, but...","id":"011190"}
+{"text":"「何故です、マリナ皇女？\n　リモネシア共和国との同盟、ならびに\n　アクシオンの資本導入を何故拒むのです？」","translation":"Why, Princess Marina? Why refuse an alliance with the Republic of Limonesia, and Axion's capital investment?","id":"0111D0"}
+{"text":"「国外の企業を誘致する事で\n　この国を立て直そうという私の姿勢は\n　変わっていません」","translation":"My stance on rebuilding this country by attracting foreign companies has not changed.","id":"011248"}
+{"text":"「ですが、最良の方法を検討するために\n　もう少し考える時間が欲しいのです」","translation":"But I would like a little more time to consider the best way forward.","id":"0112A8"}
+{"text":"「その考えている間に民が死ぬ事に\n　なってもですか？」","translation":"Even if that means the people will die while you're thinking it over?","id":"011300"}
+{"text":"「圧倒的な力によって状況を一変する事は\n　必ず新たな争いを生みます」","translation":"Changing the situation through overwhelming force will inevitably lead to new conflicts.","id":"011340"}
+{"text":"「私は…アザディスタンの民達が納得する方法で\n　この国を変えていきたいのです」","translation":"I... want to change this country in a way that the people of Azadistan can accept.","id":"011390"}
+{"text":"「あなたは…政治の事を何もわかっていません。\n　この混迷の世界で、そんな猶予が\n　許されるわけがありません…！」","translation":"You... understand nothing about politics. In this chaotic world, there’s no room for such delays...!","id":"0113E8"}
+{"text":"「…おっしゃる通りかも知れません。\n　私の言っている事は、きっと幼稚な\n　理想論なのでしょう」","translation":"...Perhaps you're right. What I'm saying is probably nothing more than childish idealism.","id":"011460"}
+{"text":"「ですが、私は皇女として\n　自分の信じるやり方で\n　この国のこれからに尽くすつもりです」","translation":"But as the princess, I intend to devote myself to this country's future in the way I believe is right.","id":"0114C8"}
+{"text":"「いいんですか？\n　サンクキングダムみたいになっちゃうかも\n　知れませんよ」","translation":"Are you sure? It could end up like the Sanc Kingdom.","id":"011528"}
+{"text":"「そうならないように努力するつもりです」","translation":"I'll do everything I can to make sure that doesn't happen.","id":"011580"}
+{"text":"「…ここに来たのは全くの無駄足でした。\n　せっかくの厚意を断った以上、\n　二度と支援の話はないと思って下さい」","translation":"...Coming here was a complete waste of time. Since you refused our goodwill, don't expect any more support.","id":"0115B0"}
+{"text":"「もし、本当に助けが必要になった時には\n　私の方から頭を下げさせていただきます。\n　それこそ何度でも」","translation":"If the time comes when I truly need help, I will bow my head and ask for it myself. As many times as it takes.","id":"011628"}
+{"text":"「あなたにはプライドがないのですか…！？」","translation":"Do you have no pride at all...!?","id":"011698"}
+{"text":"「それしか出来る事がありませんから」","translation":"Because that's the only thing I can do.","id":"0116D0"}
+{"text":"「………」","translation":".........","id":"011700"}
+{"text":"「失礼させていただきます…！\n　もう二度と会う事はないでしょう！」","translation":"Excuse me...! We shall never meet again!","id":"011718"}
+{"text":"「残念でしたね、マリナ皇女。\n　きっとあなたは後悔すると思いますよ」","translation":"What a shame, Princess Marina. I'm sure you'll regret this.","id":"011768"}
+{"text":"「随分と強く出たわね」","translation":"You were quite firm with them.","id":"0117B8"}
+{"text":"「彼等の支援案は確かにアザディスタンの経済を\n　一時的に回復させる…」","translation":"Their proposal would certainly restore Azadistan's economy for a time...","id":"0117D8"}
+{"text":"「でも、それは民を\n　彼等の資本に隷属させる事を意味するわ…」","translation":"But that would mean enslaving our people to their capital...","id":"011828"}
+{"text":"「その通りね」","translation":"That's right.","id":"011870"}
+{"text":"「…でも私は…民の明日の自由を守るために\n　今日の糧を失わせたのかも…」","translation":"...But perhaps I deprived the people of today's bread in order to protect their freedom tomorrow...","id":"011888"}
+{"text":"「毅然としなさい、マリナ・イスマイール。\n　それが正しい選択であるかを決めるのは、\n　これからのあなたに懸かっているのよ」","translation":"Stand firm, Marina Ismail. Whether this was the right choice or not depends on what you do from here on.","id":"0118D8"}
+{"text":"（刹那・Ｆ・セイエイ…。\n　私は戦えるのかしら…、\n　自分の道を進むあなたのように…）","translation":"Setsuna F. Seiei... I wonder if I can fight too... like you, walking your own path...","id":"011960"}
+{"text":"「なかなかやるじゃないの、あの皇女様」","translation":"That princess has more backbone than I expected.","id":"0119C0"}
+{"text":"「ＷＬＦの作戦が失敗しても、\n　その時の恐怖でこちらの言いなりなると\n　思ったのに、逆効果になったみたいだね」","translation":"Even if the WLF plan failed, I thought the fear of it would make her do as we said, but it seems to have backfired.","id":"0119F0"}
+{"text":"「強攻策も失敗して、\n　もしもの時の保険で用意してた懐柔策も\n　拒絶され…」","translation":"Our hard-line approach failed, and even the conciliatory plan we prepared as a fallback was rejected...","id":"011A68"}
+{"text":"「これでアザディスタン乗っ取り計画は\n　ご破算だね」","translation":"So our plan to take over Azadistan is dead in the water.","id":"011AC0"}
+{"text":"「そんな事、あなたに言われなくたって\n　わかっています！」","translation":"I know that perfectly well without you telling me!","id":"011B00"}
+{"text":"「フロンティア船団からフォールドに関する\n　技術を手に入れるためにリモネシアのＤＥＣも\n　ほとんど使ってしまったし…」","translation":"We used up almost all of Limonesia's DEC just to get Fold-related technology from the Frontier Fleet...","id":"011B48"}
+{"text":"「これでプロジェクト・ウズメが失敗したら、\n　リモネシアは…！　リモネシアは！」","translation":"If Project Uzume fails after all this, then Limonesia will...! Limonesia will...!","id":"011BC8"}
+{"text":"「彼を信じなよ。\n　それにもうここまで来ちゃったら、\n　後戻りは出来ないんだしさ」","translation":"Trust him. Besides, now that we've come this far, there's no turning back.","id":"011C28"}
+{"text":"「じたばたしても無駄なんだよ。\n　僕等はもう共犯者なんだから」","translation":"Struggling now is pointless. We're accomplices already.","id":"011C88"}
+{"text":"「僕は個人的な興味のために、\n　君は祖国リモネシアの未来のために\n　彼に協力した」","translation":"I helped him out of personal curiosity, and you helped him for the future of your homeland, Limonesia.","id":"011CD0"}
+{"text":"「さてと…そろそろまたＷＬＦに\n　資金をどーんとぶっこみますか」","translation":"Well then... shall we dump a huge amount of funding into the WLF again?","id":"011D30"}
+{"text":"「そんな悲しい顔をしないの。\n　そろそろ彼との待ち合わせの時間だよ」","translation":"Don't make such a sad face. It's almost time to meet him.","id":"011D80"}
+{"text":"「ご機嫌はいかがでしょうか？」","translation":"How are you feeling?","id":"011DD0"}
+{"text":"「アイム・ライアード…」","translation":"Aim Liard...","id":"011DF8"}
+{"text":"「待っていたよ、マイ・フレンド。\n　…さあ、そろそろ計画を次の段階に進めようか」","translation":"I've been waiting for you, my friend. ...Now then, shall we move the plan on to its next stage?","id":"011E20"}
+{"text":"「シオニー・レジス、\n　カルロス・アクシオン・Ｊｒ．…\n　では、次の作戦の指示を与えます」","translation":"Shiony Regis, Carlos Axion Jr.... I will now brief you on the next operation.","id":"011E80"}
+{"text":"　\n　\n　　　～国連本部　平和維持理事会執務室～","translation":"~UN Headquarters: Peacekeeping Council Office~","id":"011EE0"}
+{"text":"「…以上が$cの次の任務だ」","translation":"...That is $c's next mission.","id":"011F10"}
+{"text":"「了解しました。\n　では、人革連領内で秘密裏に表部隊と裏部隊を\n　合流させます」","translation":"Understood. Then I will have the surface and shadow units rendezvous secretly within HRL territory.","id":"011F38"}
+{"text":"「国際テロリストであるＷＬＦ壊滅に向けて\n　平和維持理事会の会議が開かれる事となった」","translation":"A meeting of the Peacekeeping Council has been called to discuss the elimination of the international terrorist group WLF.","id":"011F90"}
+{"text":"「各国の動きに先立ち、$cは\n　ＷＬＦに攻撃を仕掛ける」","translation":"Before the other nations make their moves, $c will launch an attack on the WLF.","id":"011FF0"}
+{"text":"「しかし、人革連の領内に\n　連中の秘密基地があったとは…」","translation":"But to think they had a secret base inside Human Reform League territory...","id":"012030"}
+{"text":"「うむ…。\n　早急に奴等の背後の組織を突き止め、\n　その根から断たねばならんだろう」","translation":"Indeed... We must quickly uncover the organization behind them and cut it out at the root.","id":"012070"}
+{"text":"「その第一歩がタクラマカン砂漠基地への\n　攻撃ですか」","translation":"And the first step is an attack on the Taklamakan Desert base?","id":"0120D0"}
+{"text":"「その通りだ。\n　$cは、その先頭に立ってもらう」","translation":"That is correct. $c will lead the assault.","id":"012110"}
+{"text":"「了解です。\n　では、両部隊の合流を手配します」","translation":"Understood. I will arrange for both units to rendezvous.","id":"012150"}
+{"text":"「………」","translation":".........","id":"012188"}
+{"text":"「…わかっている。\n　$cの動きを伺う者が、\n　これを機に仕掛ける事は承知の上だ」","translation":"...I know. I am fully aware that those watching $c's movements will use this opportunity to make their move.","id":"0121A0"}
+{"text":"「だが、これもウミを出すための痛みだ。\n　彼等なら、それを跳ね返してくれると\n　私は信じている」","translation":"But this pain, too, is necessary to draw out the poison. I believe they will overcome it.","id":"0121F8"}
+{"text":"「…貴様に言われるまでもない。\n　だが、これしか方法はないのだ…」","translation":"...I don't need you to tell me that. But this is the only way...","id":"012260"}

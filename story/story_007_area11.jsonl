@@ -1,0 +1,536 @@
+{"text":"敵の全滅。","translation":"All enemies defeated.","id":"000380"}
+{"text":"ゼロの撃墜。","translation":"Zero shot down.","id":"000398"}
+{"text":"４ターン味方フェイズ以内に敵を全滅させる。","translation":"Defeat all enemies within 4 player turns.","id":"0003B0"}
+{"text":"「そろそろ時間ですな、閣下」","translation":"It's about time, Your Excellency.","id":"000888"}
+{"text":"「中継の方は万全だろうな、\n　ディートハルト・リート」","translation":"The broadcast is fully prepared, I trust, Diethard Ried?","id":"0008B8"}
+{"text":"「抜かりはありません。\n　どのようなサプライズが起きようとも」","translation":"There will be no oversights, no matter what sort of surprise may occur.","id":"000900"}
+{"text":"「まるで、異変が起こる事を\n　望んでいるような口ぶりだな」","translation":"You make it sound as though you're hoping something unusual happens.","id":"000950"}
+{"text":"「これは失礼しました。\n　テレビ屋の戯言として、\n　聞き流してくださいませ」","translation":"My apologies. Please dismiss it as the idle chatter of a TV man.","id":"000998"}
+{"text":"「軍に入る気はないか？\n　報道担当が手薄だ」","translation":"Any interest in joining the military? We're short on media personnel.","id":"0009F8"}
+{"text":"「力足らずは承知しております。\n　私ごときでは」","translation":"I am well aware that I am not up to the task. Someone like me...","id":"000A30"}
+{"text":"「民放の方が好みか…。\n　まあいい、枢木スザクは私がサザーランドで\n　直接護送する」","translation":"So you prefer commercial broadcasting... Very well. I shall personally escort Suzaku Kururugi in my Sutherland.","id":"000A70"}
+{"text":"「いい画が撮れそうです」","translation":"That should make for some good footage.","id":"000AD0"}
+{"text":"「フ…護送は顔がよく見えるようにな」","translation":"Heh... Make sure his face is clearly visible during the escort.","id":"000AF8"}
+{"text":"「しかし、ジェレミア卿…\n　イレヴンの中には枢木一等兵を\n　英雄視する者もいます」","translation":"However, Lord Jeremiah... some of the Elevens view Private Kururugi as a hero.","id":"000B28"}
+{"text":"「奴が日本最後の首相、枢木ゲンブの遺児で\n　ある事を考えれば、当然だろう」","translation":"Given that he's the son of Genbu Kururugi, the last Prime Minister of Japan, that's only natural.","id":"000B88"}
+{"text":"「ですから、奪還を考えるグループも\n　あるかと」","translation":"That is why I suspect there may be groups planning to rescue him.","id":"000BE0"}
+{"text":"「その時は混乱の中で\n　護送が公開処刑になるかも知れんな」","translation":"If that happens, the escort might turn into a public execution amid the chaos.","id":"000C20"}
+{"text":"「………」","translation":".........","id":"000C68"}
+{"text":"「冗談だ。\n　のこのこ出てくる者がいるなら、\n　返り討ちにしてやるまでだ」","translation":"Just kidding. If anyone actually shows up, I'll crush them.","id":"000C88"}
+{"text":"「あ～あ…肝心のパーツがなくなっちゃ\n　せっかくのランスロットもハリボテだ」","translation":"Ah~ without the key part, even the Lancelot is just a hollow shell.","id":"000CE0"}
+{"text":"「何とかならないんですか？」","translation":"Isn't there anything we can do?","id":"000D38"}
+{"text":"「余所のパイロットは所属がガチガチで\n　動かせないし、頼めたとしても彼並の数値は\n　出せないだろうし…」","translation":"The other pilots are locked into their units and can't be moved, and even if we asked, they couldn't match his numbers...","id":"000D60"}
+{"text":"「では、スザク君の釈放を…」","translation":"Then, what about releasing Suzaku...?","id":"000DD0"}
+{"text":"「残念でした～！」","translation":"Sorry, no can do~!","id":"000DF8"}
+{"text":"「彼、名誉ブリタニア人でしょ？\n　純血派のジェレミア辺境伯が代理執政官で\n　ある以上、無理無理」","translation":"He's an Honorary Britannian, right? As long as Lord Jeremiah of the pureblood faction is acting viceroy, no chance.","id":"000E18"}
+{"text":"「クロヴィス殿下の側近のバトレー将軍も\n　失脚されましたね…」","translation":"And General Bartley, Prince Clovis's aide, has been ousted as well...","id":"000E80"}
+{"text":"「そりゃ、殿下の御側を離れた隙に\n　暗殺が起きたんだもの。\n　責任は重大だね」","translation":"Well, the assassination happened while he was away from the prince's side. That's a pretty serious matter of responsibility.","id":"000EC8"}
+{"text":"「さらに職場放棄の理由について、\n　その時の事は覚えてないなんて言うから\n　さらに心証を悪くしちゃったみたい」","translation":"And when asked why he abandoned his post, he only made things worse by saying he didn't remember what happened then.","id":"000F20"}
+{"text":"「その結果、軍はジェレミア辺境伯を筆頭とする\n　純血派が統制する事となりました」","translation":"As a result, the military has come under the control of the pureblood faction led by Lord Jeremiah.","id":"000F98"}
+{"text":"「彼からすれば、名誉ブリタニア人制度を\n　廃止するためにも、スザク君は\n　格好の犯人役だよね」","translation":"From his point of view, Suzaku-kun is the perfect scapegoat for abolishing the Honorary Britannian system.","id":"000FF0"}
+{"text":"「じゃあ、スザク君は…」","translation":"Then what will happen to Suzaku...?","id":"001058"}
+{"text":"「僕達の証言なんて問題じゃないのさ」","translation":"Our testimony doesn't matter.","id":"001078"}
+{"text":"「スザク君は何て言ってるんです？\n　ロイドさん、面会したんですよね？」","translation":"What is Suzaku-kun saying? You visited him, didn't you, Lloyd?","id":"0010A8"}
+{"text":"「申し開きは法廷でするって言ってたよ。\n　法廷は真実を明らかにする場所だからってね」","translation":"He said he'd make his case in court. Because a courtroom is where the truth comes out.","id":"0010F8"}
+{"text":"「でも、そんな事をしても\n　無罪を勝ち取る事は…」","translation":"But even if he does that, he won't be able to win an acquittal...","id":"001158"}
+{"text":"「真実は明かされない事の方が多いって\n　僕も言ったさ」","translation":"I told him the same thing—that more often than not, the truth is never revealed.","id":"001198"}
+{"text":"「でも、彼はこう答えたよ。\n　それが世界だというなら、\n　自分は未練はありません…ってね」","translation":"But he answered, \"If that's the world we live in, then I have no regrets...\"","id":"0011D8"}
+{"text":"「スザク君…」","translation":"Suzaku-kun...","id":"001238"}
+{"text":"「ねえ、それって博愛主義？　人道主義？」","translation":"Hey, is that philanthropy? Humanitarianism?","id":"001250"}
+{"text":"「こんな時に言葉遊びですか！？」","translation":"Now's not the time for word games!","id":"001280"}
+{"text":"「他にやる事ある？\n　君だって知ってるでしょ、こういうケース」","translation":"What else is there to do? You know how these cases go.","id":"0012A8"}
+{"text":"「国連の会議に出てるあの方とも連絡取れないし、\n　もう諦めるしかないよ」","translation":"We can't even get in touch with that person at the U.N. conference, so all we can do now is give up.","id":"0012F0"}
+{"text":"「間もなくです、間もなく時間となります。\n　ご覧下さい、沿道を埋め尽くした人だかりを」","translation":"It won't be long now. The time is nearly upon us. Just look at the crowds filling the streets.","id":"0018A0"}
+{"text":"「皆待っているのです。\n　クロヴィス殿下殺害の容疑者、\n　名誉ブリタニア人の枢木スザクが通るのを」","translation":"Everyone is waiting for the suspect in Prince Clovis's murder, the Honorary Britannian Suzaku Kururugi, to pass by.","id":"001910"}
+{"text":"「元イレヴンを今か今かと\n　待ち構えているのです」","translation":"They're eagerly awaiting the former Eleven.","id":"001988"}
+{"text":"（フン…こんな出来レースの片棒を担ぐとは\n　俺も落ちたものだ）","translation":"Hmph... To think I've fallen so low as to play a part in this rigged game.","id":"0019D0"}
+{"text":"「事件解決に尽力したジェレミア辺境伯自らが\n　代理執政官として、枢木スザクを\n　直接護送しています」","translation":"Lord Jeremiah, who devoted himself to solving the case, is personally escorting Suzaku Kururugi as acting viceroy.","id":"001A20"}
+{"text":"「扇達は？」","translation":"What about Ohgi and the others?","id":"001A98"}
+{"text":"「一応配置についている。\n　だが、ここで手出しをすれば、枢木スザクを\n　殺す事になるだけだ」","translation":"They're in position, at least. But if we make a move here, all it'll do is get Suzaku Kururugi killed.","id":"001AB0"}
+{"text":"「あの謎の男…この状況で\n　いったいどんな手を使うつもりだ…？」","translation":"That mysterious man... what on earth is he planning to do in this situation...?","id":"001B10"}
+{"text":"「どういうつもりだ、貴様！？\n　隊列を乱すな！」","translation":"What do you think you're doing, you fool!? Don't break formation!","id":"001CD8"}
+{"text":"「………」","translation":".........","id":"001DB8"}
+{"text":"「仮面…！？\n　貴様、何者だ！？」","translation":"A mask...!? Who are you!?","id":"001DC8"}
+{"text":"「我が名はゼロ」","translation":"I am Zero.","id":"001DF8"}
+{"text":"「ゼロ！？」","translation":"Zero!?","id":"001E10"}
+{"text":"「何者なのでしょう、この人物は！？\n　自らゼロと名乗り、護送の一団の前に\n　立ちはだかっています！」","translation":"Who is this man!? He calls himself Zero and is standing in the way of the escort unit!","id":"001E28"}
+{"text":"「あの声…！\n　奴が俺達を救った男なのか…」","translation":"That voice...! Is he the man who saved us...?","id":"001EA0"}
+{"text":"「でも、何なの、あの仮面は…」","translation":"But what is that mask...?","id":"001ED0"}
+{"text":"「ゼロ…無という事か…」","translation":"Zero... as in nothingness...?","id":"001EF8"}
+{"text":"（イレヴン…なのか…？）","translation":"An Eleven...?","id":"001F20"}
+{"text":"（スザク…借りは返すぞ）","translation":"Suzaku... I'll return the favor.","id":"001F40"}
+{"text":"「もういいだろう、ゼロ！\n　君のショータイムはお仕舞いだ！」","translation":"That's enough, Zero! Your showtime is over!","id":"001F60"}
+{"text":"「あの馬鹿！\n　真正面から行って勝てると思ってるのかよ！」","translation":"That idiot! Does he really think he can win head-on!?","id":"001FA8"}
+{"text":"「さあ、まずはその仮面を外してもらおうか」","translation":"Now then, let's start by having you remove that mask.","id":"001FE8"}
+{"text":"「私は先日、君達がゲットーで\n　探していたものを持っている」","translation":"I have what you were looking for in the ghetto the other day.","id":"002020"}
+{"text":"「何っ！？」","translation":"What!?","id":"002068"}
+{"text":"「ここで私に危害を加える事が\n　得策ではないのがわかるはずだ」","translation":"You should understand that harming me here would not be a wise move.","id":"002080"}
+{"text":"「ゼロという男は何かを持っているようです！\n　爆弾の類でしょうか！？」","translation":"It seems Zero has something with him! Could it be a bomb!?","id":"0020C8"}
+{"text":"（あの毒ガスを持っているというのか…！？\n　こいつ…沿道のブリタニア市民を人質に\n　取った…）","translation":"Does he have that poison gas...!? This bastard... he's taken the Britannian civilians along the route hostage...","id":"002128"}
+{"text":"（それも人質に気付かせないまま…！）","translation":"And without the hostages even realizing it...!","id":"002190"}
+{"text":"（フ…動けんか。\n　やはり、カプセルの中身が毒ガスでないのを\n　知るのは、ごく一部だけか）","translation":"Heh... So you can't move. As I thought, only a select few know that what's inside the capsule isn't poison gas.","id":"0021C0"}
+{"text":"「…わかった。\n　お前の要求は何だ？」","translation":"...Very well. What are your demands?","id":"002220"}
+{"text":"「枢木スザクをこちらに渡してもらおう」","translation":"Hand over Suzaku Kururugi to me.","id":"002258"}
+{"text":"「笑止！\n　この男はクロヴィス殿下を殺めた大逆の徒！\n　引き渡せるわけがない！」","translation":"Absurd! This man is the traitor who murdered Prince Clovis! There's no way we can hand him over!","id":"002288"}
+{"text":"「違うな。\n　間違っているぞ、ジェレミア。\n　犯人はそいつじゃない」","translation":"No, you're mistaken, Jeremiah. He's not the culprit.","id":"0022E8"}
+{"text":"「クロヴィスを殺したのは、この私だ！」","translation":"I am the one who killed Clovis!","id":"002330"}
+{"text":"「な…」","translation":"Wha...","id":"002360"}
+{"text":"「な、何という事でしょう！\n　ゼロと名乗る仮面の男…いや、\n　性別はわかりませんが…」","translation":"Wh-What a turn of events! The masked person calling himself Zero... no, we don't even know if it's a man or woman, but...","id":"002378"}
+{"text":"「とにかく自ら…自ら真犯人を名乗って出ました！\n　では、今捕まっている枢木一等兵は\n　どうなるのでしょう！？」","translation":"He's confessed! What happens to Private Kururugi now!?","id":"0023E0"}
+{"text":"（あいつ…事件をショーにするつもりか！？）","translation":"That guy... is he trying to turn this incident into a show!?","id":"002460"}
+{"text":"「こやつはまともではない！\n　これは殿下への愚弄だ！\n　その罪、贖うがいい！」","translation":"This man is insane! This is an insult to His Highness! You will atone for that crime!","id":"0024A0"}
+{"text":"「いいのか？\n　公表するぞ、オレンジを」","translation":"Are you sure? I'll make \"Orange\" public.","id":"0024F8"}
+{"text":"「！？」","translation":"!?","id":"002528"}
+{"text":"「オレンジ…？」","translation":"Orange...?","id":"002540"}
+{"text":"「何だ、それは…」","translation":"What is that...?","id":"002560"}
+{"text":"「私が死んだら、公開される事になっている。\n　そうされたくなければ…」","translation":"If I die, it'll be made public. If you don't want that...","id":"002A68"}
+{"text":"「何の事だ…何を言っている…？」","translation":"What are you talking about...? What do you mean...?","id":"002AB8"}
+{"text":"（この角度なら…）","translation":"From this angle...","id":"002AE8"}
+{"text":"「…フン、わかった。\n　その男をくれてやれ」","translation":"...Hmph, understood. Hand that man over.","id":"002BE0"}
+{"text":"「ジェレミア卿！　今何と！？」","translation":"Lord Jeremiah! What did you just say!?","id":"002C18"}
+{"text":"「その男をくれてやれ！」","translation":"Hand that man over!","id":"002C48"}
+{"text":"「しかし…」","translation":"But...","id":"002C70"}
+{"text":"「くれてやれ！　誰も手を出すな！」","translation":"I said hand him over! Nobody is to lay a hand on him!","id":"002C90"}
+{"text":"（君はいったい…）","translation":"Just who are you...?","id":"002DE0"}
+{"text":"「どういう事だ、ジェレミア卿！\n　貴様、何を考えている！？」","translation":"What is the meaning of this, Lord Jeremiah!? What are you thinking!?","id":"002EC0"}
+{"text":"「手を出すなと言ったはずだ！」","translation":"I told you not to interfere!","id":"002F08"}
+{"text":"「血迷ったか、ジェレミア！」","translation":"Have you lost your mind, Jeremiah!?","id":"002FF8"}
+{"text":"「私の命令に従えないのか！\n　これ以上の行為は処罰の対象となる！\n　いいな、全部隊に徹底させろ！」","translation":"Can't you follow my orders!? Any further action will be subject to punishment! Understood? Make sure every unit knows it!","id":"003020"}
+{"text":"「全力を挙げて奴等を見逃すんだ！！」","translation":"Do everything you can to let them get away!!","id":"003090"}
+{"text":"「協力に感謝する」","translation":"Thank you for your cooperation.","id":"0030C0"}
+{"text":"「…！\n　わ、私はいったい何を…」","translation":"...! W-what have I done...?","id":"0031D8"}
+{"text":"「ええい！　奴等を追うぞ、逃がすな！」","translation":"Damn it! Pursue them! Don't let them escape!","id":"003208"}
+{"text":"「そうはさせない！」","translation":"I won't let you!","id":"003240"}
+{"text":"「テロリストが現れました！\n　ガンダムの姿も見えます！」","translation":"Terrorists have appeared! Gundams have also been sighted!","id":"003340"}
+{"text":"「やはり、あのゼロという男、\n　テロリストの一味だったのでしょうか！」","translation":"Could that man called Zero really have been one of the terrorists after all?","id":"003390"}
+{"text":"「ご苦労。\n　枢木スザクは安全な場所に隠した」","translation":"Good work. I've hidden Suzaku Kururugi in a safe place.","id":"0034B0"}
+{"text":"「ゼロ…お前の指示通り、\n　俺達も配置についていたぞ」","translation":"Zero... just as you ordered, we took up our positions too.","id":"0034E8"}
+{"text":"「では、続いてブリタニア市民に\n　軍の敗北シーンをお見せしよう。\n　各機、集結せよ」","translation":"Then next, let us show the Britannian citizens a scene of the military's defeat. All units, assemble.","id":"003528"}
+{"text":"「ジェレミア卿！\n　市民は避難させました！」","translation":"Lord Jeremiah! The civilians have been evacuated!","id":"003660"}
+{"text":"「わ、わかった！\n　全機、攻撃開始だ！\n　テロリスト共を殲滅せよ！」","translation":"U-understood! All units, commence attack! Exterminate the terrorists!","id":"003698"}
+{"text":"「さっきまでは全力で見逃せって\n　言ってたくせによ…。\n　おかしな奴だぜ」","translation":"A minute ago he was telling us to do everything we could to let them go... What a weird guy.","id":"0036E8"}
+{"text":"「よくわからんが、\n　ゼロとかいう奴の言ってたオレンジってのを\n　余程ばらされたくないようだな」","translation":"I don't really get it, but he sure seems desperate not to have that \"Orange\" thing Zero mentioned get out.","id":"003738"}
+{"text":"（フ…戻ってきた事で\n　ギアスの効果が切れたようだな、\n　だが、問題無い）","translation":"Heh... it seems the Geass effect wore off when he came back. But that's no problem.","id":"0037A0"}
+{"text":"「私が指揮を執る。\n　各機、ブリタニア・ユニオンを撃破せよ！」","translation":"I will take command. All units, defeat the Britannia Union!","id":"0037F0"}
+{"text":"「おう！　こうなったら、やってやるぜ！」","translation":"Yeah! If it's come to this, let's do it!","id":"003838"}
+{"text":"「ブリタニアの奴等に目にもの見せてやる！」","translation":"I'll show those Britannians a thing or two!","id":"003868"}
+{"text":"（フ…完全に奴等の心は掴んだか。\n　後は追手を叩けば、俺への信頼は\n　磐石になる）","translation":"Heh... I've completely won them over. Once I crush the pursuers, their trust in me will be unshakable.","id":"0038A0"}
+{"text":"「よし…各機、撤退だ。\n　機体を隠した後、ポイント１５２１に\n　来るがいい」","translation":"All right... all units, retreat. After hiding your machines, come to Point 1521.","id":"003A98"}
+{"text":"「ここらが潮時だな」","translation":"This is about the time to pull out.","id":"003B88"}
+{"text":"「各機、撤退だ。\n　機体を隠した後、ポイント１５２１に\n　来るがいい」","translation":"All units, retreat. After hiding your machines, come to Point 1521.","id":"003BA8"}
+{"text":"「鮮やかな引き際だね。\n　惚れ惚れしちゃうよ」","translation":"What a graceful exit. It's enough to make me swoon.","id":"003CB8"}
+{"text":"「スザク君は…！？\n　スザク君はどうなったんです！？」","translation":"Suzaku...!? What happened to Suzaku!?","id":"003CF0"}
+{"text":"「残念でした～！\n　あのテロリスト達が\n　どこかに連れてっちゃったんだろうね」","translation":"Too bad~! Those terrorists probably dragged him off somewhere.","id":"003D30"}
+{"text":"「スザク君は元々はイレヴンだからね…。\n　これを機会にテロリストの一味に\n　なっちゃうんじゃない？」","translation":"Suzaku was originally an Eleven, after all... Maybe he'll take this chance to join up with the terrorists.","id":"003D88"}
+{"text":"「そんな…」","translation":"No way...","id":"003DF8"}
+{"text":"「連中の誘いを断っちゃったら、\n　テロリストの敵って事で処刑されちゃうしね」","translation":"If he turns down their invitation, he'll be executed as an enemy of the terrorists.","id":"003E10"}
+{"text":"「第一戻ってきたって、\n　茶番の裁判で死刑が決まるだけだ」","translation":"And even if he comes back, that sham trial will just sentence him to death.","id":"003E68"}
+{"text":"「どっちにしても、\n　もう彼には会えないだろうね。\n　あ～あ…別のパーツを探さないと…」","translation":"Either way, I doubt we'll ever see him again. Ahh... now I'll have to find some other parts...","id":"003EB0"}
+{"text":"（こいつらが俺の手足となって動けば、\n　ブリタニア・ユニオンを倒すための\n　力となる…）","translation":"If these men act as my hands and feet, they will become the power I need to defeat the Britannia Union...","id":"0040B0"}
+{"text":"（だが、今のままでは戦力差は歴然だ…。\n　どうする…どう戦えば、\n　あの牙城を崩す事が出来る…）","translation":"But as things stand, the gap in strength is obvious... What do I do...? How can I fight to bring down that stronghold...?","id":"004110"}
+{"text":"（謎の男、ゼロ…。\n　その正体がルルーシュ君でないとしたら、\n　いったい誰なの…）","translation":"That mysterious man, Zero... If he isn't Lelouch, then who in the world is he...?","id":"004238"}
+{"text":"（考えるのは後だ…！\n　今は戦う…！　この戦いを見ている日本人に\n　あたし達の勝利を見せるんだ！）","translation":"Thinking can wait...! Right now, we fight...! We have to show the Japanese watching this battle our victory!","id":"004290"}
+{"text":"（不可能を可能とする男、ゼロ…。\n　彼がいれば、きっと勝てる…）","translation":"Zero, the man who makes the impossible possible... With him here, we can win for sure...","id":"0043B8"}
+{"text":"（この戦いも…\n　そして、もっと大きな戦いも…！）","translation":"This battle... and the even bigger battles to come...!","id":"004400"}
+{"text":"「やってくれるぜ、あのゼロとかいう奴…。\n　いったい、どんな魔法を使ったんだ…」","translation":"That guy Zero really pulled it off... Just what kind of magic did he use...?","id":"0044F8"}
+{"text":"「あいつが頭脳労働をやってくれるんなら、\n　俺は身体を動かすとするか…！」","translation":"If he's going to handle the brain work, then I guess I'll handle the muscle...!","id":"004550"}
+{"text":"「ただ頭が切れるだけじゃねえ。\n　あのゼロという男…華があるじゃないか」","translation":"He's not just sharp. That man Zero... he's got presence.","id":"004668"}
+{"text":"「あの仮面は、ちといただけないが、\n　奴に賭けてみるのも悪くないかもな」","translation":"That mask's a bit much, but betting on him might not be such a bad idea.","id":"0046B8"}
+{"text":"「あ！」","translation":"Ah!","id":"0047C8"}
+{"text":"リビング","translation":"Living Room","id":"004938"}
+{"text":"　\n　\n　　～アッシュフォード学園　クラブハウス～","translation":"~Ashford Academy Clubhouse~","id":"004948"}
+{"text":"「…クロヴィス殿下の逝去に対して、\n　ブリタニア・ユニオン政庁は今日も\n　沈痛な雰囲気に包まれています」","translation":"...Following Prince Clovis's passing, the Britannia Union government remains shrouded in a somber mood today as well.","id":"004980"}
+{"text":"「クロヴィスお兄様…」","translation":"Brother Clovis...","id":"004A00"}
+{"text":"（ナナリー…俺達を捨てたブリタニア皇族の\n　死を悼むか…）","translation":"Nunnally... do you mourn the death of a Britannian royal who abandoned us...?","id":"004A20"}
+{"text":"（奴等はお前のその優しさを受けるに値しない。\n　だから、俺は…）","translation":"They don't deserve your kindness. That's why I...","id":"004A68"}
+{"text":"「う…」","translation":"Ugh...","id":"004AB8"}
+{"text":"「どうされました、お兄様？\n　また、ご気分が優れないのですか…」","translation":"What's wrong, brother? Are you feeling unwell again...?","id":"004AD0"}
+{"text":"「あ、ああ…。\n　どうも、この数日は体調が悪いみたいだ」","translation":"Y-yeah... I guess I've been feeling under the weather these past few days.","id":"004B20"}
+{"text":"（覚悟を決めて、引き鉄を引いたというのに…。\n　フン…我ながら細い神経だ…）","translation":"Even after steeling myself and pulling the trigger... Hmph... what fragile nerves I have...","id":"004B68"}
+{"text":"「なお、政務は代理執政官に就任した\n　純血派のジェレミア・ゴットバルト辺境伯が\n　担当されています」","translation":"Meanwhile, administrative affairs are being handled by Acting Viceroy Jeremiah Gottwald of the Pureblood faction.","id":"004BC0"}
+{"text":"（純血派…。\n　ブリタニア軍はブリタニア人だけで\n　構成するべきだと主張する連中か…）","translation":"The Pureblood faction... They're the ones who insist the Britannian military should be made up of Britannians alone...?","id":"004C38"}
+{"text":"（その男が代理執政官になったとなれば、\n　軍内の名誉ブリタニア人の立場も\n　危うくなるな…）","translation":"If that man has become acting viceroy, then the position of Honorary Britannians within the military is in danger too...","id":"004C98"}
+{"text":"（スザク…。\n　お前は何のために名誉ブリタニア人となった…）","translation":"Suzaku... What did you become an Honorary Britannian for...?","id":"004D00"}
+{"text":"（ブリタニアの人間は\n　そんなお前を虫けらのように殺したんだぞ…）","translation":"The people of Britannia killed you like you were nothing but an insect...","id":"004D48"}
+{"text":"「今、緊急ニュースが入りました。\n　クロヴィス殿下暗殺の実行犯と思われる男が\n　拘束されました」","translation":"We have breaking news. A man believed to be the assassin of Prince Clovis has been detained.","id":"004D98"}
+{"text":"「発表によりますと、逮捕されたのは\n　名誉ブリタニア人です」","translation":"According to the announcement, the arrested man is an Honorary Britannian.","id":"004E10"}
+{"text":"「枢木スザク一等兵。\n　容疑者は元イレヴン、名誉ブリタニア人の\n　枢木スザクです」","translation":"Private First Class Suzaku Kururugi. The suspect is Suzaku Kururugi, a former Eleven and Honorary Britannian.","id":"004E60"}
+{"text":"「何だと！？」","translation":"What!?","id":"004EC8"}
+{"text":"「お兄様…スザクさんですよね…。\n　７年前に私達のお友達になって下さった…」","translation":"Brother... that's Suzaku, isn't it...? The one who became our friend seven years ago...","id":"004EE8"}
+{"text":"「ああ…。\n　スザク、生きてたんだな」","translation":"Yeah... Suzaku, so you were alive.","id":"004F40"}
+{"text":"「うん…。\n　戦争の後、お別れしちゃったままでしたから、\n　私達だって…」","translation":"Yeah... After the war, we were separated and never saw him again, so we thought...","id":"004F78"}
+{"text":"（スザク…生きていたか…。\n　だが、クロヴィス暗殺の犯人だと…）","translation":"Suzaku... so you were alive... But to say you're the one who assassinated Clovis...","id":"004FD0"}
+{"text":"「お兄様…」","translation":"Brother...","id":"005020"}
+{"text":"「何だい？」","translation":"What is it?","id":"005038"}
+{"text":"「嘘ですよね、あのニュース…」","translation":"That news report... it's a lie, isn't it?","id":"005050"}
+{"text":"「嘘だよ。\n　あのスザクがあんな事するはずがない。\n　何かの間違いだよ」","translation":"It's a lie. There's no way Suzaku would do something like that. It must be a mistake.","id":"005078"}
+{"text":"「そう…ですよね…」","translation":"I see... You're right...","id":"0050D0"}
+{"text":"「だから、心配は要らない。\n　きっと誰かが真実を暴いてくれる。\n　だから、おやすみ、ナナリー」","translation":"So you don't need to worry. I'm sure someone will uncover the truth. Good night, Nunnally.","id":"0050F0"}
+{"text":"「はい…」","translation":"Yes...","id":"005158"}
+{"text":"（読めたぞ。\n　純血派のジェレミアは名誉ブリタニア人から\n　犯人を出して…）","translation":"I've figured it out. Jeremiah of the Purebloods is making sure the culprit comes from the Honorary Britannians...","id":"005170"}
+{"text":"（一気にエリア１１の名誉ブリタニア人制度を\n　廃止する気だ）","translation":"He's planning to abolish the Honorary Britannian system in Area 11 all at once.","id":"0051C8"}
+{"text":"（そのような姑息な手を使う人間に\n　スザクの生命を好きにさせてたまるか）","translation":"I won't let a man who'd resort to such petty tricks do as he pleases with Suzaku's life.","id":"005210"}
+{"text":"（そのためには、俺が手に入れたあの力…\n　ギアスを使いこなせるようにならなくては…。\n　そして…）","translation":"To do that, I'll have to learn to master that power I obtained... Geass... And then...","id":"005268"}
+{"text":"アッシュフォード学園廊下","translation":"Ashford Academy Hallway","id":"0052D8"}
+{"text":"　\n　\n　　　　～アッシュフォード学園　廊下～","translation":"~Ashford Academy Hallway~","id":"0052F8"}
+{"text":"「…やっぱり、ナナリーはショックを\n　受けてたか…」","translation":"...So Nunnally was shocked after all...","id":"005328"}
+{"text":"「はい…」","translation":"Yes...","id":"005368"}
+{"text":"「ランペルージの姓を名乗ってるけど、\n　本当はあんたとナナリーはブリタニア皇族…。\n　クロヴィス殿下は異母兄弟だものね」","translation":"You go by Lamperouge, but in truth, you and Nunnally are Britannian royalty... Prince Clovis was your half-brother, after all.","id":"005380"}
+{"text":"「もっとも、公式には\n　あんた達は７年前に死んだ事になってるけど」","translation":"Though officially, you two are supposed to have died seven years ago.","id":"005400"}
+{"text":"「昔の話です。\n　…母マリアンヌを失い、政治の道具とされて\n　俺達は日本へと送られました」","translation":"That's all in the past. ...After losing our mother, Marianne, and being used as political tools, we were sent to Japan.","id":"005450"}
+{"text":"「極東事変の際に死んだ事になった俺達を\n　匿ってくれたアッシュフォード卿には\n　感謝しています」","translation":"I'm grateful to Lord Ashford for sheltering us after we were declared dead during the Far East Incident.","id":"0054B8"}
+{"text":"「気にしないでよ。\n　おじいちゃんが好きでやった事なんだから」","translation":"Don't worry about it. My grandfather did it because he wanted to.","id":"005528"}
+{"text":"「あんたこそ、いいの？\n　今の生活で」","translation":"What about you? Are you really okay with the life you're living now?","id":"005570"}
+{"text":"「はい。\n　俺はナナリーが心安らかに生きてけるのなら\n　文句はありません」","translation":"Yes. As long as Nunnally can live in peace, I have no complaints.","id":"0055A0"}
+{"text":"（だが、ブリタニア皇帝は俺とナナリーが\n　生きているのを知れば、また政治の道具として\n　使うだろう）","translation":"But if the Emperor of Britannia learns that Nunnally and I are alive, he'll use us as political tools again.","id":"0055F8"}
+{"text":"（ブリタニアを倒すその日まで\n　ナナリーに平穏が訪れる事はないんだ…）","translation":"Until the day Britannia is brought down, Nunnally will never know peace...","id":"005668"}
+{"text":"（そのためには…）","translation":"For that...","id":"0056C0"}
+{"text":"「おはよう、ルル、会長」","translation":"Good morning, Lulu, President.","id":"0056E0"}
+{"text":"「おはよう、シャーリー、リヴァル。\n　世間では暗い話題が続くけど、我が学園には\n　ホットなニュースが飛び込んできたわよ」","translation":"Good morning, Shirley, Rivalz. The world may be full of grim news, but our school has some hot news of its own.","id":"005708"}
+{"text":"「何です、いったい？」","translation":"What is it, exactly?","id":"005788"}
+{"text":"「リリーナに続いて、またまた転校生。\n　それも二人も」","translation":"Another transfer student, right after Relena. And not just one, but two of them.","id":"0057A8"}
+{"text":"「時期外れなのに転校生が続きますね」","translation":"We're getting transfer students one after another, even though it's the middle of the term.","id":"0057E8"}
+{"text":"「………」","translation":".........","id":"005818"}
+{"text":"「あ、カレンさん、おはよう。\n　身体、大丈夫？」","translation":"Oh, good morning, Kallen. Are you feeling better?","id":"005830"}
+{"text":"「あ、はい…。\n　おかげさまで久しぶりに学校に来る事が\n　出来ました」","translation":"Ah, yes... Thanks to you, I was able to come to school for the first time in a while.","id":"005870"}
+{"text":"「授業、わからない所があったら、聞いてね。\n　…もっとも、優等生のカレンさんに\n　私が教えられる事なんてないけど」","translation":"If there's anything you don't understand in class, just ask. ...Though I doubt I could teach a top student like you, Kallen.","id":"0058C0"}
+{"text":"「ありがとうございます。\n　では、また教室で…」","translation":"Thank you. Well then, see you in class...","id":"005940"}
+{"text":"（あの声…。\n　声色は変えているが、\n　あれは先日の赤いグラスゴーの操縦者…）","translation":"That voice... The tone's different, but that's the pilot of that red Glasgow from the other day...","id":"005978"}
+{"text":"「ルルーシュ君、何見てるのかな？\n　ひょっとしてホレちゃった？」","translation":"Lelouch, what are you looking at? Don't tell me you've fallen for her?","id":"0059D0"}
+{"text":"「！」","translation":"!","id":"005A20"}
+{"text":"「珍しいだけだよ。\n　彼女…始業式以来、来てなかったよな」","translation":"It's just unusual. She... hasn't been here since the opening ceremony, has she?","id":"005A38"}
+{"text":"「カレン・シュタットフェルト\n　何か、身体が弱いらしくてさぁ。\n　前の学年でもたまにしかね…」","translation":"Kallen Stadtfeld. Apparently she's in poor health. Even last year, she only came once in a while...","id":"005A80"}
+{"text":"「でも、成績は抜群に優秀。\n　シュタットフェルト家のご令嬢だから、\n　金はあるし、性格も穏やか」","translation":"But her grades are outstanding. She's a daughter of the Stadtfeld family, so she's got money, and she's gentle, too.","id":"005AE8"}
+{"text":"「いや～御目が高い」","translation":"Oh, you've got a good eye.","id":"005B50"}
+{"text":"「違うって」","translation":"That's not it.","id":"005B70"}
+{"text":"「隠さない隠さない。\n　まあ、ちょっと箱入り過ぎるけどね」","translation":"No need to hide it. Well, she is a little too sheltered, though.","id":"005B88"}
+{"text":"（病弱で淑やかな令嬢が、\n　レジスタンスの女闘士とはな。\n　フン…わからんものだ）","translation":"A frail, demure young lady is a resistance fighter... Hmph. You never can tell.","id":"005BD0"}
+{"text":"（だが、あの女をうまく使えば、\n　レジスタンス共を動かす事が出来る…。\n　そのための準備を急ぐか…）","translation":"But if I can use that woman well, I can move the resistance... I'd better hurry and prepare.","id":"005C30"}
+{"text":"「あ、あのルル…」","translation":"U-um, Lulu...","id":"005CA0"}
+{"text":"「ごめん、用事を思い出した。\n　今日は自主休講にさせてもらう」","translation":"Sorry, I just remembered I had something to do. I'm taking the day off from class.","id":"005CC0"}
+{"text":"「え…」","translation":"Huh...?","id":"005D10"}
+{"text":"「転校生の歓迎パーティーの段取りは任せる。\n　じゃあ…」","translation":"I'll leave the arrangements for the transfer student's welcome party to you. See you...","id":"005D28"}
+{"text":"「あ、ルル…！」","translation":"Ah, Lulu...!","id":"005D70"}
+{"text":"「相変わらずのゴーイング・マイ・ウェイね」","translation":"He's doing his own thing as usual.","id":"005D90"}
+{"text":"「ああいう奴ですからね。\n　この間のゲットーの騒ぎでも、こっちの心配を\n　余所にケロっと帰ってきたし」","translation":"He's just that kind of guy. Even in that ghetto commotion, he came back like nothing happened while we worried sick.","id":"005DC8"}
+{"text":"「でも、そんな誰かがお気に入りの人も\n　いるわけで…」","translation":"Still, there are people who like someone like that...","id":"005E38"}
+{"text":"（ルル…）","translation":"Lulu...","id":"005E78"}
+{"text":"図書室","translation":"Library","id":"005E90"}
+{"text":"　\n　　\n　　　　～アッシュフォード学園　図書室～","translation":"~Ashford Academy Library~","id":"005E98"}
+{"text":"「そんな顔するなよ。\n　驚いたのは俺達の方なんだから」","translation":"Don't make that face. We were the ones who were surprised.","id":"005ED0"}
+{"text":"「何で、あんた達が\n　アッシュフォード学園にいるのさ？」","translation":"Why are you guys at Ashford Academy?","id":"005F10"}
+{"text":"「ちょいと調べ物があってな。\n　転入生ってわけよ」","translation":"We've got a little investigating to do. We're transfer students.","id":"005F50"}
+{"text":"「転入手続きの方は\n　ヒイロが学園のコンピュータに侵入して、\n　ちょちょいとな」","translation":"As for the transfer paperwork, Heero hacked into the school's computer and took care of it just like that.","id":"005F90"}
+{"text":"「………」","translation":".........","id":"005FE8"}
+{"text":"「そうだったの…」","translation":"I see...","id":"006000"}
+{"text":"「しかし、驚いたぜ。\n　あのカレンが見事にお嬢様してるんだもんな」","translation":"Still, I was surprised. Kallen really pulls off the whole lady act.","id":"006020"}
+{"text":"「おまけに病弱だなんてキャラまで作ってよ…。\n　どこまで俺を笑わせてくれるんだ」","translation":"And to top it off, you even made up that weak-and-fragile act... Just how much are you trying to make me laugh?","id":"006070"}
+{"text":"「うるさいね…！\n　学校を休みがちなのを疑われないためにも\n　そうするしかなかったんだ！」","translation":"Shut up...! I had no choice but to do this so nobody would suspect me for missing school so often!","id":"0060C8"}
+{"text":"「っと、地が出ちまってるぜ」","translation":"Oops, your real self is showing.","id":"006128"}
+{"text":"「…あたしだって、\n　こんな設定にしたの、後悔してるんだから…」","translation":"...I regret coming up with this whole act too...","id":"006150"}
+{"text":"「で、何しに来たのさ？\n　わざわざ呼び止めたのはあたしを\n　笑うため？」","translation":"So, what did you come here for? Did you go out of your way to stop me just so you could laugh at me?","id":"006198"}
+{"text":"「そうじゃねえよ。\n　…例の謎の男から扇に連絡が入った」","translation":"No, that's not it. ...That mysterious man got in touch with Ohgi.","id":"0061E8"}
+{"text":"「…！」","translation":"...!","id":"006228"}
+{"text":"「俺達に会いたいんだとよ。\n　で、それについて検討したいから、\n　今晩アジトに集合だ」","translation":"He says he wants to meet us. So we're gathering at the hideout tonight to discuss it.","id":"006238"}
+{"text":"「わかった」","translation":"Got it.","id":"006298"}
+{"text":"「お嬢様なんだから、\n　そこは『承知いたしましたわ』だろ？」","translation":"You're supposed to be a young lady, so shouldn't it be, 'Certainly, I understand'?","id":"0062B0"}
+{"text":"「黙れ…！\n　そのみつあみを根元からぶった切ってやろうか」","translation":"Shut up...! Want me to cut that braid off at the roots?","id":"0062F8"}
+{"text":"「おお、怖…。\n　それでこそカレンだぜ」","translation":"Ooh, scary... Now that's the Kallen I know.","id":"006340"}
+{"text":"「ヒイロ・ユイ君と\n　デュオ・マックスウェル君ですね」","translation":"You're Heero Yuy and Duo Maxwell, correct?","id":"006370"}
+{"text":"「私は生徒会役員の\n　リリーナ・ドーリアンです」","translation":"I am Relena Darlian, a member of the student council.","id":"0063B0"}
+{"text":"「あなた達の歓迎パーティーを\n　生徒会主催で催しますので、\n　それのご招待に参りました」","translation":"The student council is hosting a welcome party for you two, so I've come to invite you.","id":"0063F0"}
+{"text":"「これが招待状です」","translation":"Here is your invitation.","id":"006450"}
+{"text":"「！」","translation":"!","id":"006470"}
+{"text":"「あ…」","translation":"Ah...","id":"006480"}
+{"text":"「何よ、あれ！？\n　招待状を破り捨てるなんて、\n　人間のやる事じゃないわよ！」","translation":"What was that!? Tearing up an invitation like that isn't something a human being should do!","id":"006498"}
+{"text":"「照れてるんじゃないかな…？\n　…とてもそうは見えなかったけど…」","translation":"Maybe he's just shy...? ...Though it really didn't look that way...","id":"0064F0"}
+{"text":"「悪いな。\n　俺もヒイロも苦学生なんで、放課後は\n　バイトで忙しいんだ」","translation":"Sorry. Heero and I are both poor students, so we're busy with part-time jobs after school.","id":"006538"}
+{"text":"「じゃあな。\n　パーティーは、みんなで盛り上がってくれ」","translation":"See ya. You all enjoy the party.","id":"006588"}
+{"text":"「待って下さい…！\n　少し話を聞かせて下さい！」","translation":"Please wait...! Please let me speak with you for a moment!","id":"0065C8"}
+{"text":"「あ…待ってよ、リリーナ！\n　あたし達も行くから！」","translation":"Ah... wait, Relena! We're coming too!","id":"006608"}
+{"text":"（無邪気なもんね…）","translation":"So innocent...","id":"006648"}
+{"text":"「騒々しい連中で、すまなかったね」","translation":"Sorry about those rowdy types.","id":"006668"}
+{"text":"「ルルーシュ君…」","translation":"Lelouch...","id":"006698"}
+{"text":"「シュタットフェルト家のご令嬢に\n　名前を覚えてもらっていたとは光栄だ」","translation":"I'm honored that a young lady of the Stadtfeld family remembers my name.","id":"0066B8"}
+{"text":"「え、ええ…まあ…」","translation":"Y-Yes... well...","id":"006710"}
+{"text":"（まずは情報を収集する）","translation":"First, I'll gather information.","id":"006730"}
+{"text":"「質問に答えろ」","translation":"Answer my questions.","id":"006758"}
+{"text":"「はい…」","translation":"Yes...","id":"006778"}
+{"text":"「先日のシンジュクでの騒ぎで\n　グラスゴーに乗っていたな？」","translation":"You were piloting a Glasgow during the Shinjuku incident the other day, weren't you?","id":"006790"}
+{"text":"「はい」","translation":"Yes.","id":"0067D8"}
+{"text":"「どうしてテロを？」","translation":"Why resort to terrorism?","id":"0067E8"}
+{"text":"「私は日本人だから。\n　ブリタニアの血も半分入ってるけど」","translation":"Because I'm Japanese. I do have half Britannian blood, though.","id":"006808"}
+{"text":"「７年前の幸せだった暮らしを取り戻すため…\n　あの頃の夢をずっと見ているお母さんのために\n　戦ってる」","translation":"I'm fighting to take back the happy life we had seven years ago... for my mother, who still dreams of those days.","id":"006850"}
+{"text":"「ハーフか…」","translation":"Half-Britannian, huh...","id":"0068C0"}
+{"text":"（学校でこれだけの事をベラベラしゃべるとは\n　ギアスの効力は完璧という事か…）","translation":"To think she'd blurt out so much at school... So the Geass works perfectly, then...","id":"0068E0"}
+{"text":"「カレンさん…」","translation":"Kallen...","id":"006940"}
+{"text":"「何でしょうか？\n　私に何か用ですか、ルルーシュ君」","translation":"Yes? Do you need something from me, Lelouch?","id":"006960"}
+{"text":"「いや、もう用は済んだ」","translation":"No, I'm done here.","id":"0069A0"}
+{"text":"「そうだ、念のため…。\n　シンジュクの事は何も言うな」","translation":"Oh, and just to be safe... don't say anything about Shinjuku.","id":"0069C8"}
+{"text":"「え…シンジュクって、どういう事？\n　どうして、そんな事を言うの…？」","translation":"Huh... Shinjuku? What do you mean? Why would you say that...?","id":"006A10"}
+{"text":"（効かない…！？\n　同じ人間には一度しか強制力がないのか…！）","translation":"It didn't work...!? So I can only compel the same person once...!","id":"006A60"}
+{"text":"「どういう事なの？\n　シンジュクって何の事？」","translation":"What do you mean? What's this about Shinjuku?","id":"006AB0"}
+{"text":"（彼…もしかして、あたしの正体を知っている？\n　それにこの声…どこかで聞いたような気が…）","translation":"Could he... know my true identity? And this voice... I feel like I've heard it somewhere before...","id":"006AE8"}
+{"text":"（まさか、彼が…あの謎の声の…）","translation":"No way... Could he be... that mysterious voice...?","id":"006B50"}
+{"text":"（ヤブを突いて蛇を出したか…。\n　だが、こんな時のために手は打ってある。\n　後はタイミングを…）","translation":"So I stirred up trouble I didn't need... But I've prepared for something like this. Now all that's left is the timing...","id":"006B78"}
+{"text":"「答えて。\n　あなた…あの日、シンジュクにいたの？」","translation":"Answer me. Were you... in Shinjuku that day?","id":"006BE8"}
+{"text":"「何の事だ？」","translation":"What are you talking about?","id":"006C28"}
+{"text":"「とぼけないで！\n　何故、シンジュクと言ったの？」","translation":"Don't play dumb! Why did you say Shinjuku?","id":"006C48"}
+{"text":"「シンジュクだと、\n　何か都合が悪いのか？」","translation":"Is there something inconvenient about Shinjuku?","id":"006C88"}
+{"text":"「質問に質問で答えないで。\n　答えはイエスか、ノーか…。\n　それ以外は聞きたくない…！」","translation":"Don't answer a question with a question. Just answer yes or no... I don't want to hear anything else...!","id":"006CC0"}
+{"text":"（時間だ…）","translation":"It's time...","id":"006D20"}
+{"text":"「君の携帯の着信だ。\n　出たら？」","translation":"Your phone is ringing. Aren't you going to answer it?","id":"006D38"}
+{"text":"「あなたは、ここにいてね。\n　…もしもし」","translation":"Stay here. ...Hello?","id":"006D68"}
+{"text":"「久しぶりだな、\n　赤いグラスゴーの操縦者」","translation":"Long time no see, pilot of the red Glasgow.","id":"006DA0"}
+{"text":"「何故、携帯の番号を…！？」","translation":"How do you know my phone number...?!","id":"006DD8"}
+{"text":"「今夜、私の事を話す。\n　集会に遅れるな」","translation":"Tonight, I'll tell you about myself. Don't be late for the meeting.","id":"006E00"}
+{"text":"「もしもし…！　もしもし！」","translation":"Hello...! Hello!","id":"006E38"}
+{"text":"「どうしたの？」","translation":"What's wrong?","id":"006E60"}
+{"text":"「な、何でもないわ…。\n　私…帰るから…」","translation":"I-It's nothing... I'm going home...","id":"006E80"}
+{"text":"（彼はあの声の主じゃなかった…。\n　だったら、これ以上、問い詰めるのは\n　逆に危険だ…）","translation":"He wasn't the one behind that voice... In that case, pressing him any further would only be dangerous...","id":"006EB8"}
+{"text":"「………」","translation":".........","id":"006F18"}
+{"text":"（想定の時間を過ぎた場合の時限装置が\n　発動したか。\n　もしもの時の準備をしておいてよかった）","translation":"So the timer I set in case things ran past the expected time went off. Good thing I was prepared, just in case.","id":"006F30"}
+{"text":"（予め用意しておいた謎の男の声を\n　俺の目の前で彼女に電話で伝える…。\n　これで俺に容疑がかかる事はない）","translation":"I had a mysterious man's voice ready and played it to her over the phone in front of me... Now no suspicion will fall on me.","id":"006F98"}
+{"text":"（そして、ギアスの使い方もわかってきた。\n　ならば、行動あるのみだ…）","translation":"And I'm starting to understand how to use Geass. Then all that's left is to act...","id":"007010"}
+{"text":"黒ベタ","translation":"Black screen","id":"007068"}
+{"text":"倉庫","translation":"Warehouse","id":"007070"}
+{"text":"　\n　　\n　　　　　　　～扇グループアジト～","translation":"~Ohgi Group Hideout~","id":"007078"}
+{"text":"「お、おい、待ってくれ！\n　まだこちらの話は終わってない！！」","translation":"H-Hey, wait! We're not done talking yet!!","id":"0070A8"}
+{"text":"「通信が切れた…」","translation":"The transmission cut off...","id":"0070F0"}
+{"text":"「何だよ！\n　あっちが会いたいって言ってたのに、\n　結局、また声だけかよ！」","translation":"What the hell! He said he wanted to meet us, and in the end it's just his voice again!","id":"007108"}
+{"text":"「謎の声の主…。\n　あいつ…俺達をからかってるのか？」","translation":"The one behind that mysterious voice... Is he messing with us?","id":"007158"}
+{"text":"「そのつもりはないらしい。\n　俺達に力を貸す事を約束してくれた」","translation":"It doesn't seem that way. He promised to lend us his strength.","id":"007198"}
+{"text":"「そんな一方的な通信だけじゃ\n　信用は出来ないぞ」","translation":"We can't trust a one-sided transmission like that.","id":"0071E0"}
+{"text":"「だから、彼は力を見せると言った。\n　不可能を可能にして見せる事で\n　信頼を勝ち取ると」","translation":"That's why he said he'd show us his power. He said he'd win our trust by making the impossible possible.","id":"007218"}
+{"text":"「不可能を可能に…」","translation":"Making the impossible possible...","id":"007278"}
+{"text":"「夢を見させてくれるぜ。\n　で、具体的に何をやるってんだ？」","translation":"He's really selling us a dream. So, what exactly is he planning to do?","id":"007298"}
+{"text":"「枢木スザクを救ってみせると言った」","translation":"He said he'd save Suzaku Kururugi.","id":"0072D8"}
+{"text":"「枢木スザクってのは、\n　クロヴィス暗殺の容疑者だろ？\n　それを強奪するってのか？」","translation":"Suzaku Kururugi's the suspect in Clovis's assassination, right? And he's going to snatch him away?","id":"007300"}
+{"text":"「わからない。\n　彼は３日後の枢木スザク護送の際に\n　仕掛けると言っていた」","translation":"I don't know. He said he'd make his move during Suzaku's transport three days from now.","id":"007360"}
+{"text":"「３日後ね…。\n　その日に何も起こらなければ、\n　そいつの化けの皮もはがれるな」","translation":"Three days, huh... If nothing happens that day, we'll know he's a fake.","id":"0073B0"}
+{"text":"「俺達も動けるように準備しよう。\n　ドーリアン令嬢の誘拐も保留だ」","translation":"Let's get ready so we can move too. We'll put the kidnapping of Lady Dorian on hold.","id":"007408"}
+{"text":"「了解だ」","translation":"Roger that.","id":"007450"}
+{"text":"（３日後…。\n　そこでいったい何が起こる…）","translation":"Three days from now... What exactly is going to happen then...?","id":"007468"}
+{"text":"ルルーシュ私室","translation":"Lelouch's Private Room","id":"007498"}
+{"text":"　\n　\n　　　～クラブハウス　ルルーシュの部屋～","translation":"~Clubhouse, Lelouch's Room~","id":"0074A8"}
+{"text":"「どうぞ」","translation":"Come in.","id":"0074D8"}
+{"text":"「お兄様…お茶をお持ちしました」","translation":"Brother... I've brought you some tea.","id":"0074F0"}
+{"text":"「ありがとう、ナナリー。\n　それに咲世子さんも」","translation":"Thank you, Nunnally. And you too, Sayoko.","id":"007520"}
+{"text":"「いえ、そんな…」","translation":"Oh, not at all...","id":"007560"}
+{"text":"「こんな遅くまで申し訳ありません」","translation":"I'm sorry to keep you up this late.","id":"007580"}
+{"text":"「ルルーシュ様とナナリー様のお世話が\n　私の仕事ですから」","translation":"Looking after you and Lady Nunnally is my duty, Lord Lelouch.","id":"0075B0"}
+{"text":"「今日はね、お兄様…\n　咲世子さんに折り紙を教えてもらったんです」","translation":"Today, Brother... Sayoko taught me origami.","id":"0075F8"}
+{"text":"「これは鶴かい？\n　器用なものだな」","translation":"Is this a crane? You're quite skillful.","id":"007648"}
+{"text":"「この鶴を千羽折るとね、願いが叶うんですって。\n　もし、お兄様に叶えたい事が\n　あるのなら…」","translation":"They say if you fold a thousand cranes, your wish will come true. If there's something you want, Brother...","id":"007678"}
+{"text":"「いや、俺は…。\n　ナナリーは、何かないのかい？」","translation":"No, I... Nunnally, is there anything you wish for?","id":"0076E0"}
+{"text":"「うーん…優しい世界でありますように」","translation":"Hmm... I wish for a kinder world.","id":"007720"}
+{"text":"「お前の目が見えるようになる頃には\n　きっとそうなってるよ」","translation":"By the time you can see again, I'm sure it will be.","id":"007750"}
+{"text":"「本当に？」","translation":"Really?","id":"007798"}
+{"text":"「約束する」","translation":"I promise.","id":"0077B0"}
+{"text":"（俺達には選択できる未来が限られている）","translation":"The futures we can choose from are limited.","id":"0077C8"}
+{"text":"（ここで匿われているといっても\n　アッシュフォード家がいつまで後ろ盾に\n　なってくれるか…）","translation":"Even if we're being sheltered here, there's no telling how long the Ashford family can continue backing us...","id":"007800"}
+{"text":"（素性がばれたら、シャーリーやリヴァル達だって\n　離れるだろうし…。\n　行く末は政治の道具か、陰謀の餌食だ）","translation":"If our identities are exposed, Shirley and Rivalz would leave us too... In the end, we'd be political tools or victims of conspiracy.","id":"007868"}
+{"text":"「お兄様…？」","translation":"Brother...?","id":"0078E0"}
+{"text":"（創らねば…。\n　ナナリーだけでも幸せに過ごせる世界を…）","translation":"I have to create it... a world where at least Nunnally can live happily...","id":"0078F8"}
+{"text":"「お兄様…小指を立てて下さい」","translation":"Brother... please hold up your pinky.","id":"007940"}
+{"text":"「こうか？」","translation":"Like this?","id":"007968"}
+{"text":"「この前、教えてもらったの。\n　日本の約束のやり方」","translation":"You taught me this the other day. It's the Japanese way of making a promise.","id":"007980"}
+{"text":"「ゆびきりげんまん、うそついたら、\n　はりせんぼん、のーます。\n　ゆびきった！　ふふ…」","translation":"Pinky swear, if you lie, you'll have to swallow a thousand needles. Pinky swear! Hehe...","id":"0079C0"}
+{"text":"「怖いな。\n　千本も針を飲まなくちゃいけないのか」","translation":"That's scary. I'd have to swallow a thousand needles?","id":"007A20"}
+{"text":"「そう。\n　だから、嘘ついたらいけないんですよ」","translation":"Yes. That's why you mustn't lie.","id":"007A60"}
+{"text":"「大丈夫。\n　俺は嘘はつかないよ」","translation":"Don't worry. I won't lie.","id":"007AA0"}
+{"text":"（お前にだけは…）","translation":"At least not to you...","id":"007AD0"}
+{"text":"「さあ、ナナリー様。\n　そろそろお休みの時間ですよ」","translation":"Now then, Lady Nunnally. It's about time you went to bed.","id":"007AF0"}
+{"text":"「そうですね。\n　もう少しお兄様とお話したかったのですが、\n　仕方ありません」","translation":"I suppose so. I wanted to talk with my brother a little longer, but it can't be helped.","id":"007B30"}
+{"text":"「すいません、咲世子さん。\n　…おやすみ、ナナリー」","translation":"Sorry, Sayoko. ...Good night, Nunnally.","id":"007B88"}
+{"text":"「お休みなさいませ、お兄様」","translation":"Good night, Brother.","id":"007BC8"}
+{"text":"（フ…すまなかったな、咲世子）","translation":"Heh... Sorry about that, Sayoko.","id":"007BF0"}
+{"text":"（カレンを誤魔化すためにお前にギアスを使い、\n　俺の声が入ったテープを流す役を\n　やってもらった）","translation":"To fool Kallen, I used Geass on you and had you play a tape of my voice.","id":"007C20"}
+{"text":"（おかげで俺に対する疑いは晴れた。\n　後は明日、俺が力を見せるだけだ）","translation":"Thanks to that, any suspicion toward me has been cleared. Now all that's left is for me to show my power tomorrow.","id":"007C90"}
+{"text":"ゼロマスク","translation":"Zero Mask","id":"007CE8"}
+{"text":"（全ての準備は整った。\n　これを造らせた者も\n　ギアスで口を封じている）","translation":"Everything is ready. The one who ordered this built has also been silenced by Geass.","id":"007CF8"}
+{"text":"（後は進むだけだ。\n　待っていろ、スザク…）","translation":"All that remains is to move forward. Wait for me, Suzaku...","id":"007D50"}
+{"text":"（不可能を可能にしてみせる…。\n　そうだ、引き返すべき道はいらない…！）","translation":"I'll make the impossible possible... That's right, I have no need for a road to turn back on...!","id":"007D88"}
+{"text":"ギアス目（ゼロ）","translation":"Geass Eye (Zero)","id":"00A4C0"}
+{"text":"「私を全力で見逃せ！\n　そっちの男もだ！」","translation":"Let me go with all your might! And that man too!","id":"00A4D8"}
+{"text":"「！」","translation":"!","id":"00A508"}
+{"text":"ギアス謎背景","translation":"Geass Mystery Background","id":"00A520"}
+{"text":"シャッター","translation":"Shutter","id":"00A7F0"}
+{"text":"「まさか、本当に枢木スザクを\n　助け出すなんて…」","translation":"I can't believe he really rescued Suzaku Kururugi...","id":"00A800"}
+{"text":"「何なんだ、あいつは…」","translation":"What the hell is he...?","id":"00A838"}
+{"text":"「馬鹿馬鹿しい！\n　あんなハッタリが何度も通用するかっての！」","translation":"Ridiculous! Like that kind of bluff would work over and over!","id":"00A858"}
+{"text":"「…しかし、認めざるを得ない」","translation":"...Still, I have to admit it.","id":"00A8A0"}
+{"text":"「え…」","translation":"Huh...?","id":"00A8C8"}
+{"text":"「彼以外の誰にこんな事が出来る？\n　日本解放戦線だって無理だ。\n　少なくとも俺には出来ない…」","translation":"Who else but him could pull something like this off? Not even the Japan Liberation Front could do it. At least I couldn't...","id":"00A8D8"}
+{"text":"「みんなが無理だと思っていた事だって\n　やるかも知れない、彼なら…」","translation":"He might even do what everyone thought was impossible...","id":"00A938"}
+{"text":"「不可能を可能にする男…」","translation":"The man who makes the impossible possible...","id":"00A980"}
+{"text":"「で、その勝利の立役者は\n　どこにいんだよ？」","translation":"So, where's the man who made this victory possible?","id":"00A9A8"}
+{"text":"「向こうで枢木スザクと話をしてる。\n　俺達には来るなってよ」","translation":"He's over there talking to Suzaku Kururugi. He told us not to come over.","id":"00A9E0"}
+{"text":"「奴を助けたのは、あいつの手柄だ。\n　あいつがそう言うなら、大人しく待つと\n　するか」","translation":"Saving him was his accomplishment. If that's what he says, I guess we'll just wait quietly.","id":"00AA28"}
+{"text":"「…相当手荒い扱いを受けたようだな。\n　犯人に仕立て上げられた事で\n　奴等のやり口はわかったろう、枢木一等兵」","translation":"...You were treated pretty roughly. Now that you've been framed, you understand their methods, don't you, Private Kururugi?","id":"00AA80"}
+{"text":"「………」","translation":".........","id":"00AAF8"}
+{"text":"「ブリタニアは腐っている。\n　君が世界を変えたいなら、私の仲間になれ」","translation":"Britannia is rotten. If you want to change the world, then join me.","id":"00AB10"}
+{"text":"「君は…君が本当にクロヴィス殿下を\n　殺したのか？」","translation":"You... did you really kill Prince Clovis?","id":"00AB60"}
+{"text":"「これは戦争だ。\n　敵将を討ち取るのに理由がいるか？」","translation":"This is war. Do I need a reason to strike down the enemy commander?","id":"00ABA0"}
+{"text":"「毒ガスの存在をほのめかしたのは？\n　民間人を人質に取って…」","translation":"You hinted that there was poison gas? And took civilians hostage...","id":"00ABE0"}
+{"text":"「私がガスを持ってないのを知っているか…。\n　交渉事にブラフはつきもの。\n　結果的には誰も死んでいない」","translation":"So you knew I didn't actually have any gas... Bluffing is part of negotiations. In the end, no one died.","id":"00AC28"}
+{"text":"「結果…。\n　ふふ…そういう考えで…ふふ…」","translation":"The end result... Heh... so that's how you think... heh...","id":"00AC98"}
+{"text":"「私の所に来い。\n　ブリタニアはお前の仕える価値のない国だ」","translation":"Come with me. Britannia is not a country worth serving.","id":"00ACD0"}
+{"text":"「そうかも知れない…」","translation":"That may be true...","id":"00AD18"}
+{"text":"「でも、だから僕は価値のある国に変えるんだ。\n　ブリタニアの中から」","translation":"But that's exactly why I'm going to turn it into a country worth serving. From within Britannia.","id":"00AD38"}
+{"text":"「変える？」","translation":"Change it?","id":"00AD88"}
+{"text":"「間違った方法で手に入れた結果に\n　価値はないと思うから」","translation":"Because I don't think results gained through the wrong means have any value.","id":"00ADA0"}
+{"text":"「待て！　どこへ行く！？」","translation":"Wait! Where are you going!?","id":"00ADE8"}
+{"text":"「政庁へ行くんだ。\n　あと一時間で軍事法廷が始まる」","translation":"I'm going to the government building. The military tribunal starts in one hour.","id":"00AE08"}
+{"text":"「馬鹿か、お前は！」","translation":"Are you an idiot!?","id":"00AE48"}
+{"text":"「あの法廷はお前を犯人にするために\n　仕組まれている！\n　検察官も、判事も、弁護士も！」","translation":"That tribunal is rigged to make you the culprit! The prosecutor, the judge, even the defense attorney!","id":"00AE68"}
+{"text":"「それでも、それがルールだ。\n　僕が行かないとイレヴンや名誉ブリタニア人に\n　対して、弾圧が始まる」","translation":"Even so, those are the rules. If I don't go, oppression against Elevens and Honorary Britannians will begin.","id":"00AEC8"}
+{"text":"「だが、お前は死ぬ！」","translation":"But you'll die!","id":"00AF38"}
+{"text":"「…構わない」","translation":"...I don't mind.","id":"00AF58"}
+{"text":"「馬鹿だ、お前は！」","translation":"You're an idiot!","id":"00AF70"}
+{"text":"「昔、友達にもよく言われたよ。\n　この馬鹿…って…」","translation":"My friends used to say that to me a lot too. \"You idiot\"...","id":"00AF90"}
+{"text":"「僕の欠点なんだろうな。\n　…君を捕まえたいが、\n　ここでは返り討ちだろうからね」","translation":"I guess that's my flaw. ...I want to arrest you, but I'd only be defeated if I tried here.","id":"00AFD0"}
+{"text":"「どうせ殺されるなら、\n　僕はみんなのために死にたい」","translation":"If I'm going to be killed anyway, I'd rather die for everyone.","id":"00B028"}
+{"text":"「でも、ありがとう。\n　助けてくれて…」","translation":"But... thank you. For saving me...","id":"00B068"}
+{"text":"（…この…馬鹿が…！）","translation":"...You... idiot...!","id":"00B098"}
+{"text":"「枢木スザクは…？」","translation":"Where's Suzaku Kururugi...?","id":"00B0B8"}
+{"text":"「行ってしまったよ」","translation":"He left.","id":"00B0D0"}
+{"text":"「何で引き止めなかったんだよ！\n　俺達の仲間にならないってんなら、\n　それ相応の対応があるだろうがよ！」","translation":"Why didn't you stop him!? If he's not going to join us, then we should've dealt with him accordingly!","id":"00B0F0"}
+{"text":"「死にに行く人間を止める術などあるか」","translation":"How are you supposed to stop a man who's going off to die?","id":"00B160"}
+{"text":"「何っ！？」","translation":"What!?","id":"00B190"}
+{"text":"「やめとけよ。\n　奴の生命を救ったのは、こいつなんだ。\n　俺達が口を出す事じゃない」","translation":"Knock it off. He's alive because of this guy. It's not our place to butt in.","id":"00B1A8"}
+{"text":"「配慮に感謝しよう」","translation":"I appreciate your consideration.","id":"00B200"}
+{"text":"「こいつはどうも。\n　傍若無人ってわけじゃなさそうだな」","translation":"Well, thanks. Doesn't seem like you're completely overbearing after all.","id":"00B220"}
+{"text":"「では、お前達に聞こう。\n　今日の戦いをどう見る？」","translation":"Then let me ask you this. How do you see today's battle?","id":"00B260"}
+{"text":"「どうって…」","translation":"What do you mean, \"how\"...?","id":"00B2A0"}
+{"text":"「俺達の勝利だと言ってもいいと思うが…」","translation":"I'd say it's fair to call it our victory, but...","id":"00B2B8"}
+{"text":"「違うな。\n　あんなものはブリタニア・ユニオンにとって\n　何の痛手にもならない」","translation":"Wrong. Something like that wouldn't even be a scratch to the Britannia Union.","id":"00B2E8"}
+{"text":"「確かに我々とブリタニアの間には\n　大きな差がある。\n　絶望的な差だ」","translation":"It's true there's a huge gap between us and Britannia. A hopeless gap.","id":"00B340"}
+{"text":"「だから、レジスタンスとして…」","translation":"That's why, as a resistance force...","id":"00B388"}
+{"text":"「違うな。\n　テロではブリタニアは倒せないぞ」","translation":"Wrong. You can't bring Britannia down with terrorism.","id":"00B3B0"}
+{"text":"「倒す…？」","translation":"Bring it down...?","id":"00B3E8"}
+{"text":"「テロなんて、子供っぽい嫌がらせに過ぎない」","translation":"Terrorism is nothing more than childish harassment.","id":"00B3F8"}
+{"text":"「何だと！？」","translation":"What did you say!?","id":"00B430"}
+{"text":"「俺達がガキだって言うのか！」","translation":"You're saying we're kids!?","id":"00B448"}
+{"text":"「相手を間違えるな。\n　敵はブリタニア人ではない。\n　ブリタニアだ！」","translation":"Don't get the target wrong. The enemy isn't the Britannians. It's Britannia!","id":"00B470"}
+{"text":"「………」","translation":".........","id":"00B4C0"}
+{"text":"「やるなら戦争だ。　\n　民間人を巻き込むな！\n　覚悟を決めろ！　正義を行なえ！」","translation":"If you're going to fight, then make it war. Don't drag civilians into it! Steel yourselves! Do what is right!","id":"00B4D0"}
+{"text":"「そ、そんな事は\n　お前に言われなくったって\n　わかってる！」","translation":"W-We already know that! You don't have to tell us!","id":"00B528"}
+{"text":"「ならば、やってみせろ」","translation":"Then prove it.","id":"00B570"}
+{"text":"「それは…」","translation":"That's...","id":"00B590"}
+{"text":"「ゼロ…あんたなら、それが出来るのか？」","translation":"Zero... if it were you, could you really do it?","id":"00B5A8"}
+{"text":"「私の力は見せた通りだ。\n　不可能を可能にしてみせたはずだ」","translation":"You've already seen my power. I proved that I can make the impossible possible.","id":"00B5D8"}
+{"text":"「その力を俺達に貸してくれ。\n　いや…リーダーとして俺達を導いてくれ」","translation":"Lend us that power. No... lead us as our leader.","id":"00B620"}
+{"text":"「扇さん…！」","translation":"Mr. Ohgi...!","id":"00B670"}
+{"text":"「ゼロがジェレミアの前に立った時から\n　考えていたんだ。\n　この男に賭けてみたいと」","translation":"I've been thinking ever since Zero stood before Jeremiah. I want to place my bet on this man.","id":"00B688"}
+{"text":"「聞いてくれ！\n　俺はゼロに俺達の戦いを賭けたい！\n　みんなはどう思う？」","translation":"Listen! I want to entrust our fight to Zero! What do you all think?","id":"00B6E0"}
+{"text":"「それは…」","translation":"That's...","id":"00B730"}
+{"text":"「いきなり言われても…」","translation":"You can't just spring that on us...","id":"00B740"}
+{"text":"「考えるための時間など\n　１秒も無限も同じようなものだ。\n　答えは一つしかないのだからな」","translation":"Whether it's one second or an eternity, time to think is all the same. There is only one answer.","id":"00B760"}
+{"text":"「いいぜ、扇。\n　俺はゼロに乗る」","translation":"All right, Ohgi. I'm with Zero.","id":"00B7C0"}
+{"text":"「俺もだ。\n　仮面はうさんくさいが、こいつの知恵と度胸は\n　一級品だからな」","translation":"Me too. The mask is shady, but his brains and guts are top-notch.","id":"00B7E8"}
+{"text":"「私にも事情がある。\n　素顔については詮索しないでもらいたいな」","translation":"I have my reasons. I'd prefer it if you didn't pry into my true face.","id":"00B840"}
+{"text":"「ＯＫだ。\n　だが、そいつはハンデって事で\n　当分は警戒させてもらうぜ」","translation":"OK. But I'll treat that as a handicap and stay wary of you for now.","id":"00B888"}
+{"text":"「当然だな。\n　私とて、このような出で立ちで\n　すぐに信頼されるとは思っていない」","translation":"Naturally. Even I don't expect to be trusted right away while dressed like this.","id":"00B8D8"}
+{"text":"「ヒイロ…お前はどうだ？」","translation":"Heero... what about you?","id":"00B930"}
+{"text":"「お前を受け入れれば、勝てるのか？」","translation":"If we accept you, will we win?","id":"00B958"}
+{"text":"「約束しよう。\n　そのために私はここにいる」","translation":"I give you my word. That is why I am here.","id":"00B988"}
+{"text":"「…いいだろう」","translation":"...Very well.","id":"00B9C0"}
+{"text":"「キリコには…聞いても無駄だろうな」","translation":"As for Chirico... I suppose asking him would be pointless.","id":"00B9D8"}
+{"text":"「あいつなら、ＡＴの整備に行っちまったよ。\n　ほんと、協調性のない奴だ」","translation":"He already went off to do maintenance on his AT. Seriously, that guy has no sense of cooperation.","id":"00BA08"}
+{"text":"「反対する者はいないのか？」","translation":"No one objects?","id":"00BA58"}
+{"text":"「お、俺は…その…」","translation":"I-I'm... uh...","id":"00BA78"}
+{"text":"「………」","translation":".........","id":"00BA98"}
+{"text":"「………」","translation":".........","id":"00BAA8"}
+{"text":"「ゼロ…あんたを信じていいの？」","translation":"Zero... can I really trust you?","id":"00BAB8"}
+{"text":"「私を信じたからこそ、\n　シンジュクと今日の戦いは勝てた」","translation":"It was because you trusted me that we won at Shinjuku and in today's battle.","id":"00BAE0"}
+{"text":"「わかった…。\n　あたしは勝ちたい…\n　この日本を取り戻すために」","translation":"All right... I want to win... to take Japan back.","id":"00BB20"}
+{"text":"「では、ゼロ…今日から俺達は\n　あんたの指示に従って行動する」","translation":"Then, Zero... from today on, we'll follow your orders.","id":"00BB68"}
+{"text":"「よかろう。\n　私はお前達と日本に勝利を約束する」","translation":"Very well. I promise you and Japan victory.","id":"00BBB0"}
+{"text":"（ナナリーが幸せに過ごせる未来のため\n　俺は世界を変えてみせる…）","translation":"For the sake of a future where Nunnally can live happily, I will change the world...","id":"00BBE8"}
+{"text":"（そのためには、あらゆるものを利用する。\n　俺を信じると言ったこいつらだろうと…！）","translation":"To do that, I'll use anything and everything. Even these people who said they believed in me...!","id":"00BC30"}
+{"text":"アッシュフォード学園　外観","translation":"Ashford Academy Exterior","id":"00BC90"}
+{"text":"　\n　　\n　　　　　　～アッシュフォード学園～","translation":"~Ashford Academy~","id":"00BCB0"}
+{"text":"「…昨日はあれだけの大騒動だったってのに\n　学園は今日も平常通りだな」","translation":"...After all that chaos yesterday, the academy's still business as usual today.","id":"00BCE0"}
+{"text":"「ブリタニア人なんて、そんなものだ。\n　みんな…自分だけは無関係って顔して\n　平和のぬるま湯につかってる」","translation":"That's Britannians for you. Everyone acts like it has nothing to do with them, soaking in the lukewarm bath of peace.","id":"00BD30"}
+{"text":"「ソレスタルビーイングも人革連の領内で\n　暴れてるし、もう片方の日本にゃ\n　ギシン星人とかいう奴が現れたってのにな…」","translation":"Celestial Being is causing trouble in HRL territory, and in the other Japan, some aliens called the Gishin have shown up too...","id":"00BDA0"}
+{"text":"「ま…平和ボケってのは\n　必ずしも悪いもんじゃないがな」","translation":"Well... being too used to peace isn't necessarily a bad thing.","id":"00BE20"}
+{"text":"「学校では声を掛けないで。\n　あたしの裏の顔がばれるかも知れないから」","translation":"Don't talk to me at school. People might find out about my other side.","id":"00BE60"}
+{"text":"「はいはい。\n　お前さんの友達の前じゃ、\n　近づきもしないよ」","translation":"Yeah, yeah. I won't even go near you in front of your friends.","id":"00BEB0"}
+{"text":"「…友達なんて…いない…」","translation":"...I don't... have any friends...","id":"00BEF8"}
+{"text":"「そっか…。\n　当然と言えば、当然だな…」","translation":"I see... I suppose that's only natural...","id":"00BF20"}
+{"text":"「お…あれに見えるは、リリーナお嬢様か…」","translation":"Oh... is that Miss Relena over there?","id":"00BF58"}
+{"text":"「あの子を誘拐するの？」","translation":"Are you going to kidnap her?","id":"00BF90"}
+{"text":"「それは新リーダーの判断に任せるさ。\n　な、ヒイロ？」","translation":"That'll be up to the new leader to decide. Right, Heero?","id":"00BFB0"}
+{"text":"「お、おい！　お前、どこ行くんだよ！？」","translation":"H-Hey! Where are you going!?","id":"00BFF0"}
+{"text":"（昨日もブリタニア・ユニオンと\n　レジスタンスの戦いがあった。\n　あれにヒイロ・ユイは関係しているの…）","translation":"There was another battle between the Britannia Union and the resistance yesterday. Is Heero Yuy involved in that...?","id":"00C020"}
+{"text":"「あ…おはよう、ヒイロ君」","translation":"Ah... good morning, Heero.","id":"00C090"}
+{"text":"「…お前を殺す…」","translation":"...I'll kill you...","id":"00C0B8"}
+{"text":"「…！」","translation":"...!","id":"00C0D8"}
+{"text":"「………」","translation":".........","id":"00C0F0"}
+{"text":"「ヒイロ…あなたは…」","translation":"Heero... you...","id":"00C108"}
+{"text":"執務室","translation":"Office","id":"00C128"}
+{"text":"　\n　　\n　　　　　　　～ＡＥＵ大使控え室～","translation":"~AEU Ambassador's Waiting Room~","id":"00C130"}
+{"text":"「…先程のドーリアン外務次官のスピーチ、\n　呆れる程、反応がなかったよ」","translation":"...There was hardly any reaction at all to Vice Foreign Minister Darlian's speech earlier.","id":"00C160"}
+{"text":"「あの男は頻発するテロを止めるために\n　コロニー宗主国連合はコロニー側と\n　話し合うべきだと言っていますが…」","translation":"He says the union should talk with the colonies to stop the terror attacks, but...","id":"00C1B8"}
+{"text":"「正論だよ。\n　それ故に三大国家は沈黙するしか\n　ないのだろうけどね」","translation":"He's right. And precisely because he is, the Three Great Nations probably have no choice but to stay silent.","id":"00C230"}
+{"text":"「そして、仮に彼の主張が通ったとしても\n　両者の話し合いは平行線に終わるだろう」","translation":"And even if his argument were accepted, any talks between the two sides would probably end in a stalemate.","id":"00C280"}
+{"text":"「私もそう思います」","translation":"I think so too.","id":"00C2E0"}
+{"text":"「次官は時代とずれてしまっている。\n　それは正しい、正しくないとは\n　関係なしにだ」","translation":"The vice minister is out of step with the times. That has nothing to do with whether he's right or wrong.","id":"00C300"}
+{"text":"「この世界を変えるためには\n　まだ犠牲が足りない…」","translation":"There still aren't enough sacrifices to change this world...","id":"00C360"}
+{"text":"「トレーズ様…\n　世界を変えるためにＯＺの将兵全てが\n　あなたの御言葉を待っています」","translation":"Lord Treize... To change the world, all the officers and men of OZ await your words.","id":"00C3A0"}
+{"text":"「ありがとう、レディ…。\n　だが、その大役は私独りでは演じる事は\n　出来ない」","translation":"Thank you, Lady... But I cannot play such a great role by myself.","id":"00C400"}
+{"text":"「私がデルマイユ公のお供で\n　ここへ来たのは、それを分かち合う同志を\n　見つけるためでもある」","translation":"Part of the reason I came here with Duke Dermail was to find comrades to share that burden.","id":"00C458"}
+{"text":"「それは…」","translation":"That is...?","id":"00C4C0"}
+{"text":"「もうすぐわかるよ。\n　彼等も私と同じ種類の人間だと信じたい…」","translation":"You'll understand soon enough. I want to believe they're the same kind of people as I am...","id":"00C4D8"}
+{"text":"「そして、私は敗者になろう。\n　この世界で…」","translation":"And I shall become the loser. In this world...","id":"00C528"}
+{"text":"エントランス","translation":"Entrance","id":"00C560"}
+{"text":"　\n　　\n　　　　　～マンション　エントランス～","translation":"~Apartment Entrance~","id":"00C570"}
+{"text":"「あ…姉さん。\n　また出かけるの…？」","translation":"Ah... Sis. You're going out again...?","id":"00C5A0"}
+{"text":"「特ダネが入ったのよ。\n　悪いけど、夕飯は適当に食べてね」","translation":"I've got a scoop. Sorry, but just grab something for dinner on your own.","id":"00C5D0"}
+{"text":"「例のクロヴィス殿下の暗殺事件の続報？」","translation":"Is it a follow-up on the assassination of Prince Clovis?","id":"00C610"}
+{"text":"「私の所属は国際部だから、\n　そっちは取材対象じゃないわ」","translation":"I'm assigned to the international desk, so that's not my beat.","id":"00C640"}
+{"text":"「お久しぶりです、お姉さん。\n　相変わらず忙しいみたいですね」","translation":"Long time no see, sis. You seem as busy as ever.","id":"00C680"}
+{"text":"「ソレスタルビーイングのおかげで\n　世界は色々と動いてるからね」","translation":"Thanks to Celestial Being, the whole world is on the move these days.","id":"00C6C8"}
+{"text":"「ルイス…あなたはいいの？\n　こんな物騒な時にエリア１１に\n　留学なんかしていて」","translation":"Louise... are you really okay with this? Studying abroad in Area 11 at a dangerous time like this?","id":"00C710"}
+{"text":"「ＡＥＵとブリタニア・ユニオンが\n　直接戦争しているわけじゃありませんから」","translation":"It's not as if the AEU and the Britannia Union are directly at war with each other.","id":"00C768"}
+{"text":"「それにエリア１１には沙慈もいますから。\n　当分、スペインに帰る気はありません」","translation":"Besides, Saji is here in Area 11 too. I have no intention of going back to Spain anytime soon.","id":"00C7C0"}
+{"text":"「ほんと…わからない。\n　あんたみたいなお嬢さんが、\n　うちの沙慈のどこが気に入ったのか…」","translation":"Honestly... I just don't get it. What a young lady like you sees in our Saji...","id":"00C818"}
+{"text":"「はい…！　あたしもわかってませんから！」","translation":"Y-Yes...! I don't get it either!","id":"00C878"}
+{"text":"（この子のこういうとこ…苦手なのよね…）","translation":"This is exactly the sort of thing about her I'm not good with...","id":"00C8B0"}
+{"text":"「それで、姉さん…。\n　特ダネって何なの？」","translation":"So, sis... what's the scoop?","id":"00C8E0"}
+{"text":"「…ここだけの話よ。\n　先日、ソレスタルビーイングに襲撃された\n　エゼミスタンなんだけど…」","translation":"...Just between us. The other day, Azadistan was attacked by Celestial Being, and...","id":"00C918"}
+{"text":"「政府と反政府ゲリラが和解したらしいの」","translation":"Apparently the government and the anti-government guerrillas made peace.","id":"00C978"}
+{"text":"「え…！」","translation":"Wh-what...!","id":"00C9A8"}
+{"text":"「嘘…。\n　あそこの紛争は大時空震動前から続いてるって\n　今日の授業でやったばかりなのに…」","translation":"No way... We just learned in class today that the conflict has been going on since before the Great Space-Time Quake...","id":"00C9B8"}
+{"text":"「このままじゃ、ソレスタルビーイングに\n　国ごと潰されるって判断したんでしょうね」","translation":"I guess they decided that if things kept up like this, Celestial Being would wipe out the whole country.","id":"00CA20"}
+{"text":"「これからは平和的な方法で\n　エゼミスタンを変革させていくそうよ」","translation":"From here on, it sounds like they're going to reform Azadistan through peaceful means.","id":"00CA78"}
+{"text":"「これって…ソレスタルビーイングが\n　エゼミスタンから戦争をなくしたって事…？」","translation":"Does that mean... Celestial Being actually got rid of the war in Azadistan...?","id":"00CAC0"}
+{"text":"「そうなるよね…」","translation":"Looks that way...","id":"00CB18"}
+{"text":"「じゃあ、私…行くから。\n　ルイス…うちで夕飯を食べてもいいけど、\n　泊まりは許さないからね」","translation":"Well, I'm off. Louise... you can have dinner at our place, but you're not staying over.","id":"00CB38"}
+{"text":"「は～い！　いってらっしゃ～い！」","translation":"Okaaay! Have a safe trip~!","id":"00CBA0"}
+{"text":"「世界は変わっていく…\n　ソレスタルビーイングによって…」","translation":"The world is changing... because of Celestial Being...","id":"00CBD0"}
+{"text":"「エリア１１にもソレスタルビーイングが\n　来るかもね」","translation":"Maybe Celestial Being will come to Area 11 too.","id":"00CC10"}
+{"text":"「勘弁して欲しいよ…。\n　ゲットーの方じゃ、連日騒ぎがあるって\n　いうのに…」","translation":"I'd really rather they didn't... There've already been disturbances in the ghettos day after day...","id":"00CC50"}
+{"text":"「あそこで暴れてたモビルスーツ…\n　コロニーから送り込まれたガンダムだって\n　噂されてるよ」","translation":"That mobile suit causing all that trouble... people are saying it was a Gundam sent in from the colonies.","id":"00CCA8"}
+{"text":"「こっちもガンダムか…」","translation":"So there's a Gundam here too...","id":"00CD10"}
+{"text":"「それでね、ゲットーのレジスタンスに\n　協力してるらしいよ」","translation":"And apparently it's helping the resistance in the ghettos.","id":"00CD30"}
+{"text":"「ねえ、ルイス…。\n　姉さんも言ってたけど、スペインの実家に\n　帰った方がいいんじゃない？」","translation":"Hey, Louise... Like my sister said, don't you think you should go back to your family home in Spain?","id":"00CD78"}
+{"text":"「沙慈…」","translation":"Saji...","id":"00CDD8"}
+{"text":"「そりゃさ…ルイスには感謝してるよ」","translation":"I mean... I really am grateful to you, Louise.","id":"00CDF0"}
+{"text":"「僕…学校じゃイレヴンの血を引いてるって\n　ちょっと周りに距離、おかれてたけど、\n　君はそういうの気にしないで接してくれたから」","translation":"At school, people kept their distance from me because I have Eleven blood, but you never cared about that.","id":"00CE20"}
+{"text":"「僕が生徒会の一員になれたのも\n　君のおかげみたいなものだからね。\n　…でも、世界がこんな状況じゃ…」","translation":"It's pretty much thanks to you that I could even join the student council. ...But with the world like this...","id":"00CEA8"}
+{"text":"「そういう時だから、沙慈と一緒にいたいの！\n　もう…！　女心がわかってないんだから！」","translation":"That's exactly why I want to be with you, Saji! Honestly... you just don't understand a girl's heart!","id":"00CF18"}
+{"text":"「ご、ごめん…！」","translation":"S-sorry...!","id":"00CF78"}
+{"text":"「そういう所がいいんだけどね…！」","translation":"But that's what I like about you...!","id":"00CF90"}
+{"text":"「…失礼」","translation":"...Excuse me.","id":"00CFC0"}
+{"text":"「あ…すいません。\n　マンションの入口で邪魔でしたね」","translation":"Ah... sorry. We were blocking the entrance to the apartment building, weren't we?","id":"00CFD0"}
+{"text":"「ねえ、沙慈…！\n　あの子、沙慈の隣の部屋の郵便ボックスを\n　使ってるよ！」","translation":"Hey, Saji...! That guy's using the mailbox for the apartment next to yours!","id":"00D010"}
+{"text":"「じゃあ…！」","translation":"Then...!","id":"00D068"}
+{"text":"「………」","translation":".........","id":"00D080"}
+{"text":"「あの…お隣さんですか？\n　僕、沙慈・クロスロードっていいます。\n　君の隣の部屋で姉と二人で暮らしています」","translation":"Um... are you my neighbor? My name's Saji Crossroad. I live next door with my sister.","id":"00D090"}
+{"text":"「刹那・Ｆ・セイエイだ」","translation":"Setsuna F. Seiei.","id":"00D100"}
+{"text":"「セイエイ…？\n　変わった名前ですね。\n　これからも、よろしく」","translation":"Seiei...? That's an unusual name. Nice to meet you.","id":"00D120"}
+{"text":"「行っちゃった…」","translation":"He's gone...","id":"00D168"}
+{"text":"「何、あれ…！\n　愛想無いの！」","translation":"What was that...?! He's so unfriendly!","id":"00D180"}
+{"text":"「僕と同じ位の歳かな…。\n　仲良く出来るといいな…」","translation":"He looks about my age... I hope we can get along...","id":"00D1A8"}

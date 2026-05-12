@@ -1,0 +1,603 @@
+{"text":"敵の全滅。","translation":"All enemies destroyed.","id":"000680"}
+{"text":"いずれかの味方ユニットの撃墜。","translation":"Any allied unit is shot down.","id":"000698"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"0006B8"}
+{"text":"３ターン以内にマップをクリアする。","translation":"Clear the map within 3 turns.","id":"0006D8"}
+{"text":"「…で、$cを出たはいいけど、\n　これからどうすんだよ？」","translation":"...So, we got out of $c, but what do we do now?","id":"000D28"}
+{"text":"「当てはないけれど、\n　とりあえず、他のＺＥＵＴＨのメンバーを\n　捜す事から始めるべきだと思う」","translation":"We don't have any leads, but for now, I think we should start by looking for the other ZEUTH members.","id":"000D68"}
+{"text":"「同時にアサキムも捜さなきゃな」","translation":"And we need to look for Asakim too.","id":"000DD0"}
+{"text":"「でもよ、この世界って俺達のいた世界よりも\n　ずっと社会がしっかりしてるみたいだぜ」","translation":"But this world seems a lot more organized than the one we came from.","id":"000DF8"}
+{"text":"「こんなロボットで移動してたら、\n　悪い意味で目立っちまうな」","translation":"If we travel around in robots like this, we'll stand out for all the wrong reasons.","id":"000E58"}
+{"text":"「だからと言って、$cに\n　マシンを預けて…というわけにもいくまい」","translation":"Even so, we can't just leave our machines with $c...","id":"000EA0"}
+{"text":"「どうでもいいけどよ、\n　これからの飯はどうすんだ？」","translation":"More importantly, what are we gonna do about food from here on out?","id":"000EF0"}
+{"text":"「みんなでバイトでもやるしかないだろうな」","translation":"I guess we'll just have to get part-time jobs together.","id":"000F30"}
+{"text":"「何をやればいいんでしょう？」","translation":"What kind of work should we do?","id":"000F60"}
+{"text":"「運び屋の用心棒とかか？」","translation":"Maybe bodyguard work for transporters?","id":"000F88"}
+{"text":"「だからよ、こっちの世界は\n　そういう荒くれ仕事はなさそうなんだよ」","translation":"That's what I'm saying, this world doesn't seem to have that kind of rough work.","id":"000FB0"}
+{"text":"「現実的には、やはり国連の保護を受けて、\n　その上で活動の基盤を確保すべきか…」","translation":"Realistically, we should seek UN protection and secure a base for our activities...","id":"001000"}
+{"text":"「じゃあ、あの$cの人達と\n　一緒に行動する？」","translation":"Then should we go with those people from $c?","id":"001060"}
+{"text":"「それが危険だと判断したから、\n　こうして彼等の下を去った」","translation":"We judged that to be too dangerous, so we left them.","id":"001098"}
+{"text":"「あのまま彼等と行動を共にしていては、\n　我々の戦力を利用される可能性もあった」","translation":"If we'd stayed with them, there was a chance they might have used our strength.","id":"0010E0"}
+{"text":"「そんな悪い人達には見えなかったけど…」","translation":"They didn't seem like bad people, though...","id":"001140"}
+{"text":"「それでも我々は注意しなければならない。\n　力を持つ者として、異邦人として」","translation":"Even so, we must remain cautious, as those with power and as outsiders.","id":"001178"}
+{"text":"「それにあのゼロってのは\n　どうにも薄気味悪くて信用ならないからな」","translation":"Besides, that Zero guy gives me the creeps. I can't trust him.","id":"0011D0"}
+{"text":"「ま、まさか、仮面の下には\n　あのおかしな人がいるなんて事は\n　ないですよね…」","translation":"N-no way... you're not saying that weird person is under that mask... right?","id":"001220"}
+{"text":"「並行世界の同一人物…」","translation":"The same person from a parallel world...","id":"001278"}
+{"text":"「考えただけでも、ぞっとするわね」","translation":"Just thinking about it gives me the creeps.","id":"001298"}
+{"text":"「………」","translation":".........","id":"0012C8"}
+{"text":"「とにかく進もう。\n　前に進んでいけば、きっとどうにかなる」","translation":"Anyway, let's keep moving. If we keep going forward, I'm sure something will work out.","id":"0012E0"}
+{"text":"「いくら何でも、\n　行き当たりばったり過ぎるだろ…」","translation":"This is way too seat-of-the-pants, no matter how you look at it...","id":"001328"}
+{"text":"「じゃあ、どうすりゃいいんだよ？」","translation":"Then what are we supposed to do?","id":"001368"}
+{"text":"「俺に聞くなよ…！」","translation":"Don't ask me...!","id":"001398"}
+{"text":"「こんな時にアムロ大尉か、クワトロ大尉が\n　いてくれたらな…」","translation":"If only Captain Amuro or Captain Quattro were here right now...","id":"0013B8"}
+{"text":"「サンドマン様がいらしたら、\n　私達に道を示して下さったんでしょうけど…」","translation":"If Lord Sandman were here, I'm sure he would have shown us the way...","id":"001400"}
+{"text":"「もう…！\n　不動司令も肝心な時には現れないんだから！」","translation":"Honestly...! Commander Fudou never shows up when it really counts!","id":"001458"}
+{"text":"「まずは少し落ち着ける場所を探そう。\n　先行隊の僕達が進まなきゃ、\n　後方のゲインさん達も動きが取れないし」","translation":"First, let's find a place to rest.\nIf we don't move, Gain and the others\ncan't either.","id":"0014A0"}
+{"text":"「まだ迷ってるの？」","translation":"You're still hesitating?","id":"001518"}
+{"text":"「…お前はどうなんだ、キラ？」","translation":"...What about you, Kira?","id":"001538"}
+{"text":"「僕も同じだよ、アスラン。\n　きっと、みんなもね」","translation":"I'm the same, Athrun. I'm sure everyone else is, too.","id":"001560"}
+{"text":"「え…」","translation":"Huh...?","id":"001598"}
+{"text":"「気をつけて下さい、皆さん！\n　このエリアに接近する部隊があります！」","translation":"Everyone, be careful! There's a unit approaching this area!","id":"0015B0"}
+{"text":"「あれか！？」","translation":"Is that them!?","id":"001600"}
+{"text":"「モビルスーツ…！\n　この国の軍のものか！」","translation":"Mobile suits...! Are they from this country's military?","id":"001B38"}
+{"text":"「データ、出ました！\n　あれはＡＥＵ軍の部隊です！」","translation":"I've got the data! They're an AEU military unit!","id":"001B70"}
+{"text":"「この世界を三等分している三大国家の\n　一つか…！」","translation":"So they're one of the three major powers that divide this world into thirds...!","id":"001BB0"}
+{"text":"「おい、聞こえるか？\n　転移でやってきたイレギュラー共！」","translation":"Hey, can you hear me? You irregulars who came here by dimensional transfer!","id":"001BF0"}
+{"text":"「俺はＡＥＵ軍のエース、\n　パトリック・コーラサワー少尉だ」","translation":"I'm the AEU's ace, Second Lieutenant Patrick Colasour.","id":"001C38"}
+{"text":"「何だか、乱暴な人のようですね…」","translation":"He seems rather rough-mannered...","id":"001C80"}
+{"text":"「あいつ、俺達に喧嘩を売りに来たのか？」","translation":"Did that guy come here to pick a fight with us?","id":"001CB0"}
+{"text":"「落ち着くんだ、ガロード。\n　ここで余計な争いをしちゃ駄目だ」","translation":"Calm down, Garrod. We can't afford to get into any unnecessary fights here.","id":"001CE8"}
+{"text":"「それくらい、わかってるって」","translation":"Yeah, I know that much.","id":"001D30"}
+{"text":"「そのエースの少尉殿が俺達に何の用だ？」","translation":"What does that ace second lieutenant want with us?","id":"001D58"}
+{"text":"「お前達を保護しに来たんだよ」","translation":"I'm here to take you under protection.","id":"001D88"}
+{"text":"「我々は国連の平和維持理事会直属である\n　$cの別働隊として\n　行動の自由を保証されている」","translation":"We are directly under the UN Peacekeeping Council, and as a separate unit of $c, we're free to act.","id":"001DB8"}
+{"text":"「そんな事は先刻承知だ。\n　だが、そんなものは国連が勝手に\n　決めたものだ」","translation":"I know that already. But that's just something the UN decided on its own.","id":"001E20"}
+{"text":"「ＡＥＵに来れば、自由を保証するどころか、\n　もっといい目にあえるぜ」","translation":"If you come to the AEU, you won't just have your freedom guaranteed—you'll get a much better deal.","id":"001E78"}
+{"text":"「何ってたって、こっちは三大国家の一角だ。\n　お前等が俺達に協力すれば、\n　相当の厚遇を約束するらしいぜ」","translation":"After all, we're one of the three major powers. If you cooperate with us, they're promising you pretty generous treatment.","id":"001ED0"}
+{"text":"「俺達をスカウトに来たってわけか」","translation":"So you came to recruit us, huh?","id":"001F48"}
+{"text":"「手っ取り早く言えば、そういう事だ。\n　詳しい話は基地で司令がやるって言ってたから、\n　俺の後について来い」","translation":"To put it simply, yeah. The commander said he'd explain the details at the base, so follow me.","id":"001F78"}
+{"text":"「それは…」","translation":"Well...","id":"001FF0"}
+{"text":"「………」","translation":".........","id":"002008"}
+{"text":"「何だよ？\n　俺の言ってる事がわかんねえのか？」","translation":"What? You don't get what I'm saying?","id":"002020"}
+{"text":"「せっかくですが、僕達は\n　まだ自分達の行き先を考えている最中です。\n　ですから…」","translation":"We appreciate the offer, but we're still in the middle of deciding where we're going. So...","id":"002060"}
+{"text":"「こっちの申し出はお断りって事か？\n　だったら、こっちのやる事も決まってる！」","translation":"So you're turning down our offer? Then I know exactly what I have to do!","id":"0020B8"}
+{"text":"「いきなり発砲しただと！？」","translation":"He fired without warning!?","id":"002458"}
+{"text":"「なるほどね。\n　司令はこういう事態を想定して\n　俺の派遣を決めたってわけか」","translation":"I see. So the commander sent me here expecting something like this.","id":"002480"}
+{"text":"「攻撃を中止してくれ…！\n　こちらに交戦の意思はない！」","translation":"Cease your attack...! We have no intention of fighting!","id":"0024D8"}
+{"text":"「そっちになくても、\n　こっちはありありなんだよ！」","translation":"Maybe you don't, but we sure do!","id":"002520"}
+{"text":"「ここはＡＥＵの領内だ！\n　こっちの申し出を断った以上、\n　強制的に連行させてもらうぜ！」","translation":"This is AEU territory! Now that you've refused our offer, we'll be taking you in by force!","id":"002560"}
+{"text":"「結局、そうなるのかよ！」","translation":"So it comes to this after all!","id":"0025C8"}
+{"text":"「悪く思うなよ。\n　あのインペリウムのおかげで、\n　上の方もカリカリしてんだ」","translation":"Don't take it personally. Thanks to that Imperium, the higher-ups are on edge.","id":"0025F0"}
+{"text":"「今後のためにも\n　お前等の力が必要なんだとよ」","translation":"They say they need your strength for what's ahead.","id":"002648"}
+{"text":"「俺達を自国の戦力に取り込む気か…！」","translation":"So you're trying to absorb us into your own military force...!","id":"002688"}
+{"text":"「場所が場所だからな。\n　何をやろうと揉み消す事も出来る！」","translation":"This is the perfect place for it. Whatever we do, we can always cover it up!","id":"0026B8"}
+{"text":"「さあ、覚悟を決めて、もら…」","translation":"Now then, prepare yoursel...","id":"002700"}
+{"text":"「な、何だ！？」","translation":"W-What!?","id":"002910"}
+{"text":"「お、俺…撃ってないぞ！」","translation":"I-I didn't fire!","id":"002930"}
+{"text":"「あたいも手を出してないよ！」","translation":"I didn't do anything either!","id":"002958"}
+{"text":"「みんな、あれを見て！」","translation":"Everyone, look at that!","id":"002980"}
+{"text":"「機械獣とかいう奴か！」","translation":"Is that one of those Machine Beasts!?","id":"002AA0"}
+{"text":"「くそっ！\n　不意を突かれては、いくらエースの俺でも\n　対応できねえ！」","translation":"Damn it! Caught off guard like this, even an ace like me can't respond in time!","id":"002AC0"}
+{"text":"「ここはやむを得ずの後退だ！\n　全速で退け！」","translation":"We've got no choice but to fall back here! Retreat at full speed!","id":"002B18"}
+{"text":"「フフフ…邪魔者は去ったか」","translation":"Heh heh heh... So the meddlers are gone?","id":"002C38"}
+{"text":"「ならば、後は目的を果たすのみ」","translation":"Then all that remains is to fulfill our objective.","id":"002C60"}
+{"text":"「な、何なの、あいつは！？」","translation":"W-What is that thing!?","id":"002C90"}
+{"text":"「男の人と女の人がくっついてます！」","translation":"It's a man and a woman stuck together!","id":"002CB8"}
+{"text":"「あれはあしゅら男爵といって、\n　世界征服を企む組織の指揮官なんだ」","translation":"That's Baron Ashura, the Commander of an organization bent on world conquest.","id":"002CE8"}
+{"text":"「世界征服だと…！？」","translation":"World conquest...!?","id":"002D38"}
+{"text":"「その通りよ！\n　それこそが我が主、Ｄｒ．ヘルの願い！」","translation":"That's right! That is the wish of my master, Dr. Hell!","id":"002D58"}
+{"text":"「そして異界より現れし者、ＺＥＵＴＨよ！\n　お前達の力を我が主に捧げるがよい！」","translation":"And you who came from another world, ZEUTH! Offer your power to my master!","id":"002DA0"}
+{"text":"「要するにあいつも\n　俺達の戦力を自分のものにしようと\n　仕掛けてきたってわけか…！」","translation":"So basically, he's making a move on us too, trying to claim our strength for himself...!","id":"002E00"}
+{"text":"「世界征服を企む悪の手先…。\n　ならば、僕達のやるべき事は一つ…！」","translation":"Agents of evil plotting world conquest... Then there's only one thing for us to do...!","id":"002E60"}
+{"text":"「な、何だ、この気迫は！？」","translation":"W-What is this fighting spirit!?","id":"003070"}
+{"text":"「教えてやるぜ…！\n　俺達はずっとお前等みたいな身勝手な奴と\n　戦ってきたんだ！」","translation":"I'll tell you...! We've been fighting selfish bastards like you all along!","id":"003098"}
+{"text":"「ここがどこだろうと、\n　お前等のような悪党が相手なら\n　遠慮なしで相手をしてやる！」","translation":"No matter where we are, if we're up against villains like you, we won't hold back!","id":"0030F0"}
+{"text":"「そうこなくっちゃな。\n　…やれるな、アスラン？」","translation":"That's more like it. ...You ready, Athrun?","id":"003150"}
+{"text":"「は、はい！」","translation":"Y-Yes!","id":"003188"}
+{"text":"「今は迷ってる場合じゃない！\n　やるぞ！」","translation":"This isn't the time to hesitate! Let's do it!","id":"0031A0"}
+{"text":"「了解だ！」","translation":"Roger that!","id":"0031D8"}
+{"text":"「ええい、我が軍団よ！\n　奴等を叩きのめし、身の程というものを\n　教えてやれ！」","translation":"My troops! Crush them and show them their place!","id":"0031F0"}
+{"text":"「言ってくれるじゃねえかよ！」","translation":"You sure talk big!","id":"003248"}
+{"text":"「行くぜ、男女！\n　俺達に喧嘩を吹っかけた事を\n　後悔させてやる！」","translation":"Let's go, guys! We'll make them regret picking a fight with us!","id":"003270"}
+{"text":"「レーダーに反応！\n　何か来ます！」","translation":"Radar contact! Something's coming!","id":"003480"}
+{"text":"「敵の増援か…！？」","translation":"Enemy reinforcements...!?","id":"0034B0"}
+{"text":"「わかりません…！\n　ですが、機数は１機です！」","translation":"I don't know...! But it's only one unit!","id":"0034D0"}
+{"text":"「あれは…ダンクーガか！？」","translation":"Is that... Dancouga!?","id":"0035E8"}
+{"text":"「でも、葵達のとは少し形が違う！」","translation":"But it looks a little different from Aoi and the others'!","id":"003610"}
+{"text":"「よう、手伝いに来たぜ」","translation":"Yo, I came to help.","id":"003638"}
+{"text":"「って事は俺達の味方か？」","translation":"So that means you're on our side?","id":"003658"}
+{"text":"「まあ、そんなところだよ」","translation":"Well, something like that.","id":"003678"}
+{"text":"「細かい話は後々！」","translation":"We'll talk details later!","id":"003698"}
+{"text":"「まずはこの場を切り抜ける」","translation":"First, let's get through this.","id":"0036B8"}
+{"text":"「ファイナルダンクーガ、\n　これより戦闘を開始する…！」","translation":"Final Dancouga, commencing combat...!","id":"0036D8"}
+{"text":"「ファイナルダンクーガ…」","translation":"Final Dancouga...","id":"003718"}
+{"text":"「やっぱり、あれもダンクーガなのか！」","translation":"So that really is a Dancouga too!","id":"003740"}
+{"text":"「手伝ってくれるんなら、\n　正体なんざ、どうでもいいぜ！」","translation":"If you're here to help, I don't care who you are!","id":"003770"}
+{"text":"「ええい！\n　奴も我々に歯向かう気か！」","translation":"Damn it! So he's going to defy us too?!","id":"0037B8"}
+{"text":"「そういうこった、男女！\n　着いて早々だが、暴れさせてもらう！」","translation":"That's right, lady! We just got here, but I'm gonna cut loose!","id":"0037F0"}
+{"text":"「やってやるぜ！」","translation":"Let's do this!","id":"003838"}
+{"text":"「レーダーに反応！\n　また何か来ます！」","translation":"Radar contact! Something else is coming!","id":"003A90"}
+{"text":"「今度こそ敵の増援かよ！」","translation":"Is it enemy reinforcements this time?!","id":"003AC0"}
+{"text":"「今度は次元獣かよ！」","translation":"This time it's a Dimensional Beast?!","id":"003BA8"}
+{"text":"「油断すんなよ！\n　あの角野郎は並大抵じゃねえぞ！」","translation":"Don't let your guard down! That horned bastard is no pushover!","id":"003BC8"}
+{"text":"「突っ込んできたぞ！」","translation":"It's charging straight at us!","id":"003CC0"}
+{"text":"「くっ…！」","translation":"Tch...!","id":"003CE0"}
+{"text":"「一人じゃ無茶だ、アスラン！」","translation":"You can't do this alone, Athrun!","id":"003DB8"}
+{"text":"「やるしかないんだ…！\n　みんなを守るためにも俺が…！」","translation":"I have to do this...! To protect everyone, I have to...!","id":"003DE0"}
+{"text":"「アスラン…！」","translation":"Athrun...!","id":"003E28"}
+{"text":"「キラ…！」","translation":"Kira...!","id":"003F20"}
+{"text":"「それは君一人が背負い込む事じゃない。\n　みんなでやれば、いいんだ」","translation":"This isn't something you have to shoulder all by yourself. We can do it together.","id":"003F38"}
+{"text":"「そして、君の側には\n　いつだって僕がいるんだ」","translation":"And I'll always be by your side.","id":"003F88"}
+{"text":"「キラ…」","translation":"Kira...","id":"003FC0"}
+{"text":"「行こう…！」","translation":"Let's go...!","id":"003FD8"}
+{"text":"「ああ！」","translation":"Yeah!","id":"003FF0"}
+{"text":"「やったか！」","translation":"Did we get him!?","id":"004148"}
+{"text":"「まだだ！\n　あの野郎は、まだ生きてやがる！」","translation":"Not yet! That bastard's still alive!","id":"004160"}
+{"text":"「！」","translation":"!","id":"004198"}
+{"text":"「そうはさせるか！」","translation":"I won't let that happen!","id":"0041A8"}
+{"text":"「シン…！」","translation":"Shin...!","id":"0042C8"}
+{"text":"「あんまり世話を焼かせないで下さいよ、\n　二人共」","translation":"Don't make us worry so much, you two.","id":"0042E0"}
+{"text":"「ありがとう。\n　助かったよ、シン」","translation":"Thanks. You saved us, Shin.","id":"004318"}
+{"text":"「すまなかったな、シン」","translation":"Sorry about that, Shin.","id":"004348"}
+{"text":"「…キラさんの言う通りですからね、アスラン」","translation":"...Kira's right, Athrun.","id":"004370"}
+{"text":"「隊長として頑張るのは結構ですけど、\n　キラさんや俺にも頼って下さいよ」","translation":"It's fine to do your best as our leader, but please rely on Kira and me too.","id":"0043A8"}
+{"text":"「それに僕達もいるんですから」","translation":"And you've got us as well.","id":"0043F8"}
+{"text":"「そうそう。\n　もう俺達は生きるも死ぬも\n　一緒の仲なんだからさ」","translation":"Yeah, exactly. We're all in this together now, for better or worse.","id":"004420"}
+{"text":"「仕切り直しだ、アスランもキラも！\n　まだ敵はいるんだからよ！」","translation":"Let's regroup, Athrun and Kira! There are still enemies out there!","id":"004468"}
+{"text":"「うん」","translation":"Yeah.","id":"0044B0"}
+{"text":"「みんな！\n　$cも来たよ！」","translation":"Everyone! $c's here too!","id":"0044C0"}
+{"text":"「ひどいじゃないか、勝平！\n　黙って出て行くなんてさ！」","translation":"That was awful, Kappei! Just leaving without saying a word!","id":"0046E8"}
+{"text":"「悪い、悪い！\n　あのままお前等に迷惑かけたくなくてよ！」","translation":"Sorry, sorry! I just didn't want to keep causing you guys trouble!","id":"004728"}
+{"text":"「何言ってんだ。\n　迷惑だなんてあるもんかよ」","translation":"What are you talking about? You're no trouble at all.","id":"004768"}
+{"text":"「その通り！\n　もう俺達は一緒の釜の飯を食った仲間だからな」","translation":"Exactly! We've already broken bread together, so we're comrades now.","id":"0047A0"}
+{"text":"「そういう事らしい」","translation":"Seems that's how it is.","id":"0047E8"}
+{"text":"「ゲインさん達もいるんですか？」","translation":"Mr. Gain and the others are here too?","id":"004808"}
+{"text":"「改めて$cに拾われてな」","translation":"We got picked up by $c again.","id":"004838"}
+{"text":"「余計なお世話をして御免なさい。\n　でも、隊員みんなにせっつかれてね」","translation":"Sorry for meddling where I wasn't needed. But the whole team kept pushing me to do it.","id":"004858"}
+{"text":"「こんな物騒な世の中に自分達だけで\n　行動するなんて無茶だ！」","translation":"It's reckless to go off on your own in a world this dangerous!","id":"0048A8"}
+{"text":"「お前達が思ってる以上に\n　この世界は今、危険なんだよ！」","translation":"This world is far more dangerous right now than you think!","id":"0048F0"}
+{"text":"「余計な遠慮なんてしねえで、\n　俺達と一緒に行こうぜ、兄弟！」","translation":"Don't hold back on our account—come with us, brother!","id":"004938"}
+{"text":"「みんな…」","translation":"Everyone...","id":"004980"}
+{"text":"「これからの事は、ここを乗り切ってからだ。\n　機械獣と次元獣を片付けるぞ！」","translation":"What comes next can wait until we get through this. Let's wipe out the Machine Beasts and Dimensional Beasts!","id":"004998"}
+{"text":"「どうやら、俺達の役目はここまでだな」","translation":"Looks like our job ends here.","id":"0049F0"}
+{"text":"「ファイナルダンクーガ…」","translation":"Final Dancouga...","id":"004A20"}
+{"text":"「ありがとよ！\n　助けてもらった礼を言うぜ！」","translation":"Thanks! I owe you one for saving us!","id":"004A40"}
+{"text":"「いいって事よ。\n　曰く、俺達とお前等は同じ境遇らしいしな」","translation":"Don't mention it. From what I hear, you guys are in the same boat as us.","id":"004A78"}
+{"text":"「同じ境遇？」","translation":"The same boat?","id":"004AB8"}
+{"text":"「何でも俺達は呪われた放浪者なんだとよ。\n　じゃあな…！」","translation":"They say we're cursed wanderers. See ya...!","id":"004AD0"}
+{"text":"「呪われた放浪者…。\n　あのアサキムが言っていた言葉…」","translation":"Cursed wanderers... Those were the words Asakim used...","id":"004DF0"}
+{"text":"「考えるのは後にしようぜ。\n　敵さん、こっちをお待ちかねだ」","translation":"Let's think about that later. The enemy's waiting for us.","id":"004E30"}
+{"text":"「おのれ、$cめ…！\n　こうなれば、まとめて叩きのめしてくれる！」","translation":"Damn you, $c...! If it's come to this, I'll beat you all into the ground!","id":"004E70"}
+{"text":"「やれるもんなら、やってみやがれ！」","translation":"Try it if you think you can!","id":"004EC0"}
+{"text":"「ＺＥＵＴＨと$cに\n　勝てると思うなよ！」","translation":"Don't think you can beat ZEUTH and $c!","id":"004EF0"}
+{"text":"「行くぞ、あしゅら！\n　それに次元獣も！」","translation":"Let's go, Ashura! And you too, Dimensional Beasts!","id":"004F20"}
+{"text":"「次元獣、機械獣軍団の全滅を確認しました」","translation":"Confirmed: the Dimensional Beasts and the Mechanical Beast army have been annihilated.","id":"005090"}
+{"text":"「どうするんでしょうね、\n　ＺＥＵＴＨの皆さんは…」","translation":"I wonder what the people of ZEUTH are going to do now...","id":"0050C8"}
+{"text":"「それは彼等が決める事ね」","translation":"That's for them to decide.","id":"005108"}
+{"text":"「………」","translation":".........","id":"005210"}
+{"text":"「みんな…。\n　今さらだけど、俺は$cに\n　協力するのが最善の道だと思う」","translation":"Everyone... I know it's a little late to say this, but I think the best course is for us to cooperate with $c.","id":"005228"}
+{"text":"「アスラン…」","translation":"Athrun...","id":"005278"}
+{"text":"「まずは俺の話を聞いてくれ」","translation":"First, hear me out.","id":"005290"}
+{"text":"「いかん！\n　ここでキングダンＸ１０を失うわけには\n　いかない！」","translation":"No! We can't afford to lose KingDan X10 here!","id":"0053D8"}
+{"text":"「覚えているがいい、$c！\n　この屈辱は必ず倍にして返してやる！」","translation":"Remember this, $c! I'll repay this humiliation twofold!","id":"005428"}
+{"text":"「相変わらずの捨て台詞だぜ」","translation":"Still the same old parting shot.","id":"005538"}
+{"text":"「どこの世界にも\n　ああいう奴はいるもんだな」","translation":"There are guys like that in every world.","id":"005560"}
+{"text":"「そして、彼等の野望を打ち砕くために\n　僕達のような人間がいるんだ」","translation":"And people like us exist to crush their ambitions.","id":"005598"}
+{"text":"「しっかし、あの人も人使いが荒いよね。\n　こんな所まで俺達を派遣してさ」","translation":"Man, that guy sure works us hard, sending us all the way out here.","id":"0056C8"}
+{"text":"「文句を言うのは、およしよ。\n　何てったって、あの人はあたし達の\n　生命の恩人なんだから」","translation":"Quit complaining. After all, he's the one who saved our lives.","id":"005718"}
+{"text":"「沙羅の言う通りだ。\n　そして、邪悪と戦うのは俺達の務めでもある」","translation":"Sara's right. And fighting evil is our duty as well.","id":"005778"}
+{"text":"「わかってるって。\n　もう…みんなして責めるんだから」","translation":"I know, I know. Geez... you're all ganging up on me.","id":"0057C0"}
+{"text":"「下らない話は、そこまでだ。\n　行け、藤原！」","translation":"Enough of this pointless talk. Go, Fujiwara!","id":"005800"}
+{"text":"「言われるまでもねえぜ！\n　とっくにこっちのテンションは\n　最高潮だからな！」","translation":"You don't have to tell me twice! I'm already fired up to the max!","id":"005838"}
+{"text":"「へへ…仲間か…。\n　そういう風に言われりゃ、\n　やっぱり悪い気はしねえぜ」","translation":"Heh... comrades, huh...? When you put it that way, I can't say I mind it.","id":"0059C8"}
+{"text":"「見てろよ、ワッ太！\n　この勝平様の戦いをお前にも見せてやる！」","translation":"Just watch, Watta! I'll show you how the great Kappei fights!","id":"005A18"}
+{"text":"「$cの人達は\n　さっきの軍人とは違って、\n　僕達の事をちゃんと人間として扱ってくれる」","translation":"The people of $c are different from those soldiers earlier. They treat us properly, like human beings.","id":"005B20"}
+{"text":"「だったら、僕達もそれに応える！\n　同じ人間として、正しい事のために！」","translation":"Then we'll answer that! As fellow human beings, for the sake of what's right!","id":"005B80"}
+{"text":"「そう…そうだよな。\n　あいつらとは、もう同じ釜の飯を食ったんだ」","translation":"Yeah... yeah, that's right. We've already broken bread with them.","id":"005C98"}
+{"text":"「やるぞ！\n　俺もあいつらと…仲間と一緒に戦うんだ！」","translation":"Let's do it! I'm going to fight alongside them... alongside my comrades!","id":"005CE8"}
+{"text":"「$cの奴等は\n　戦力が欲しいから、俺達を保護したんじゃ\n　ないんだ」","translation":"The people of $c didn't protect us just because they wanted more fighting power.","id":"005DE8"}
+{"text":"「あいつらは俺達と同じなんだ！\n　だったら、俺も一緒に戦うぜ！」","translation":"They're just like us! Then I'll fight alongside them too!","id":"005E38"}
+{"text":"「ここがどこの世界だろうと\n　僕は戦いを起こす者と戦っていく…」","translation":"No matter what world this is, I'll keep fighting those who start wars...","id":"005F48"}
+{"text":"「$cの人達は僕達と同じなんだ…。\n　そういう人達となら一緒にやっていける」","translation":"The people of $c are just like us... I can work with people like that.","id":"005F90"}
+{"text":"「どうやら、部隊の構成だけじゃなく\n　その考えも俺達と$cは\n　そっくりさんらしいな」","translation":"Looks like it's not just the makeup of our units~ the way we think is a lot like $c too.","id":"0060A8"}
+{"text":"「だったら、俺達の行き先も\n　とりあえずは決まったようだな…！」","translation":"In that case, it looks like where we're headed is settled for now...!","id":"006100"}
+{"text":"「僕は戦っていく…。\n　ここがどこだろうと僕の信じるもののために」","translation":"I'll keep fighting... No matter where we are, for what I believe in.","id":"006208"}
+{"text":"「きっと、あの人達も同じなんだ。\n　だから、こうして一緒に戦えるんだ」","translation":"I'm sure they feel the same way. That's why we can fight together like this.","id":"006250"}
+{"text":"「俺は何を気負っていたんだ…」","translation":"What was I getting so worked up about...?","id":"006360"}
+{"text":"「ここにはキラも、シンも、\n　ＺＥＵＴＨの仲間達もいる。\n　そして、$cもいる…！」","translation":"Kira is here, Shinn is here, the others from ZEUTH are here too. And $c is here as well...!","id":"006388"}
+{"text":"「俺は一人じゃない…！\n　みんなと共に戦っていくんだ！」","translation":"I'm not alone...! I'll fight alongside everyone!","id":"0063E8"}
+{"text":"「アスランは相変わらず、\n　一人で背負い込み過ぎだし、\n　キラさんはまどろっこしいし…」","translation":"Athrun still takes too much on himself, and Kira-san is so roundabout...","id":"006510"}
+{"text":"「やっぱり、俺が頑張るしかない！\n　ここがどこだろうとやるぞ！」","translation":"Looks like I'll just have to step up! Doesn't matter where we are, I'm doing this!","id":"006570"}
+{"text":"（きっと、このまま進めば、\n　俺達を自分の戦力にしようとする者との\n　戦いが起こった…）","translation":"I was sure that if we kept going like this, we'd end up fighting someone who wanted to make us part of their own forces...","id":"006678"}
+{"text":"（だけど、$cは違う…。\n　もし、俺達の力が何かの役に立つのなら、\n　それはきっと彼等と一緒に行く事なのだろう）","translation":"But $c is different... If our power can be of use, then we should go with them.","id":"0066D8"}
+{"text":"「どこの世界にも悪党がいるな！」","translation":"There are villains in every world!","id":"006810"}
+{"text":"「そういった者と戦うのが、僕達であり、\n　そして、$cなのだろう」","translation":"It's our job, and $c's too, to fight people like that.","id":"006838"}
+{"text":"「わかってるじゃねえか、斗牙！\n　だったら、あいつらにも見せてやろうぜ、\n　俺達の戦いをよ！」","translation":"You got it, Touga! In that case, let's show those guys how we fight!","id":"006880"}
+{"text":"「よし…！　ソルグラヴィオンの力、\n　この世界のために使う！」","translation":"All right...! I'll use Sol Gravion's power for this world!","id":"0068E8"}
+{"text":"「へ…俺とした事が\n　飯の礼を忘れるところだったぜ」","translation":"Heh... I almost forgot to thank them for the meal.","id":"006A30"}
+{"text":"「それって、$cに\n　手を貸すって事？」","translation":"Does that mean you're going to help $c?","id":"006A70"}
+{"text":"「俺は俺のやりたいようにやるだけだ…！\n　どうやら、それがあいつらと同じ道を\n　行く事になりそうだがな！」","translation":"I'm just gonna do things my way...! Looks like that means walking the same road as those guys, though!","id":"006AA8"}
+{"text":"「うん！」","translation":"Yeah!","id":"006B18"}
+{"text":"（妙だぜ…。\n　こんな何にもないような地点に\n　どうして次元獣がいやがる…）","translation":"Something's weird... Why are Dimensional Beasts in a place like this, where there's nothing around...?","id":"006C30"}
+{"text":"（まさかとは思うが、こいつら…\n　俺達を狙うためにインペリウムが\n　寄越したのか…？）","translation":"Don't tell me... did the Imperium send these things after us...?","id":"006C80"}
+{"text":"「あ！」","translation":"Ah!","id":"006D98"}
+{"text":"クォーター　ブリーフィングルーム","translation":"Quarter Briefing Room","id":"006F80"}
+{"text":"　\n　\n～マクロス・クォーター　ブリーフィングルーム～","translation":"~Macross Quarter Briefing Room~","id":"006FA8"}
+{"text":"「元気だったみたいだな、エイジの兄ちゃん！」","translation":"Looks like you've been doing well, Eiji bro!","id":"006FE0"}
+{"text":"「お前こそな、勝平。\n　一太郎さんやキャプテンがいないからって、\n　好き放題やってんじゃねえぞ」","translation":"You too, Kappei. Just because Ichitaro-san and the Captain aren't here doesn't mean you can do whatever you want.","id":"007018"}
+{"text":"「サンドマンのおっちゃんや\n　レイヴンの兄ちゃんがいないそっちだって\n　同じだろうがよ！」","translation":"Same goes for you guys, with old man Sandman and big bro Raven not around!","id":"007080"}
+{"text":"「彼等が宇宙で保護されたＺＥＵＴＨのメンバー、\n　グランナイツか」","translation":"So they're the Gran Knights, the ZEUTH members who were rescued in space.","id":"0070E0"}
+{"text":"「俺は紅エイジ。\n　こいつがソルグラヴィオンのメインパイロットの\n　天空侍斗牙だ」","translation":"I'm Eiji Kurenai. And this is Touga Tenkuji, the main pilot of Sol Gravion.","id":"007130"}
+{"text":"「よろしくね、みんな」","translation":"Nice to meet you, everyone.","id":"007188"}
+{"text":"「あたしは城琉菜。\n　こっちがリィルとエィナよ」","translation":"I'm Runa Shiro. And these are Leele and Eina.","id":"0071A8"}
+{"text":"「よろしくお願いします」","translation":"It's a pleasure to meet you.","id":"0071E0"}
+{"text":"「お世話になっております」","translation":"Thank you for your help.","id":"007200"}
+{"text":"「私はミヅキ・立花。\n　…この６名がソルグラヴィオンのパイロット、\n　いわゆるグランナイツよ」","translation":"I'm Mizuki Tachibana. ...These six are Sol Gravion's pilots, the so-called Gran Knights.","id":"007228"}
+{"text":"「私はフェイ・シンルー。\n　Ｇソルジャー隊の隊長だ」","translation":"I'm Fei Shinlu, captain of the G-Soldier squad.","id":"007290"}
+{"text":"「スーパーロボット、ソルグラヴィオンと\n　グラントルーパーか」","translation":"So those are the super robots Sol Gravion and Gran Trooper, huh?","id":"0072D0"}
+{"text":"「グランナイツのみんなは\n　カミーユやシン達と同じく、宇宙に\n　跳ばされたんだね」","translation":"So the Gran Knights were sent into space just like Kamille, Shinn, and the others.","id":"007318"}
+{"text":"「ああ…俺とファ、\n　シンとルナマリア達はソレスタルビーイングに\n　保護されたんだ」","translation":"Yeah... Fa and I, and Shinn, Lunamaria, and the others were taken in by Celestial Being.","id":"007378"}
+{"text":"「俺とキラさん、アスラン、ルナマリアは\n　パトロール中に時空震動に\n　巻き込まれたんだけど…」","translation":"Kira-san, Athrun, Lunamaria, and I were caught in a space-time tremor while on patrol, but...","id":"0073D8"}
+{"text":"「まさかＺＥＵＴＨのみんなが\n　同じように転移していたとはな」","translation":"I never thought everyone in ZEUTH had been transferred the same way too.","id":"007440"}
+{"text":"「それも離れた場所にいた人や\n　機体に乗っていなかった人もマシンごと\n　跳ばされるなんて…」","translation":"And even people who were far away, or weren't even in their machines, were sent along with the machines too...","id":"007488"}
+{"text":"「明らかに不自然だな…」","translation":"That's clearly unnatural...","id":"0074F0"}
+{"text":"「うん…。\n　まるで誰かに選ばれたとしか思えない」","translation":"Yeah... It's hard not to think that someone chose us.","id":"007518"}
+{"text":"「んな事は、どうだっていいぜ。\n　問題はどうやって元の世界に帰るかだ」","translation":"Who cares about that? The real problem is how we're supposed to get back to our own world.","id":"007550"}
+{"text":"「君もＺＥＵＴＨの一員なの？」","translation":"Are you a member of ZEUTH too?","id":"0075A0"}
+{"text":"「何言ってんだ、レントン？\n　お前、ボケちまったのかよ」","translation":"What are you talking about, Renton? Did you lose your mind or something?","id":"0075C8"}
+{"text":"「ストップだ、アポロ。\n　そいつは俺達の知ってるレントンじゃねえんだ」","translation":"Hold it, Apollo. That's not the Renton we know.","id":"007608"}
+{"text":"「え…それって…！？」","translation":"Huh... you mean...!?","id":"007658"}
+{"text":"「並行世界のレントン…。\n　つまり、我々の知る彼とは別人か…」","translation":"Renton from a parallel world... In other words, he's a different person from the one we know.","id":"007680"}
+{"text":"「そうみたいなんです」","translation":"That seems to be the case.","id":"0076C8"}
+{"text":"「こちらの部隊には、レントンの他にも\n　僕達の知っている名前があるけど…」","translation":"Besides Renton, there are other names in this unit that we know, but...","id":"0076E8"}
+{"text":"「それは並行世界の人間で、\n　ＺＥＵＴＨで一緒に戦った彼等とは\n　別人なんだ」","translation":"They're people from a parallel world, not the same people we fought alongside in ZEUTH.","id":"007740"}
+{"text":"「でも、この話はここまでだ。\n　セツコの姉ちゃんとの約束もあるしよ」","translation":"But that's enough about that. I made a promise to Setsuko, after all.","id":"007798"}
+{"text":"「わかってるさ、勝平」","translation":"I know, Kappei.","id":"0077E8"}
+{"text":"「並行世界の人間と自分の知っている人間を\n　重ねて見るような事はしない…。\n　多元世界でのマナーみたいなものだな」","translation":"I won't treat people from a parallel world as the ones I knew... It's like a rule of conduct in a multiverse.","id":"007808"}
+{"text":"「よくわからねえが、まあいい。\n　…俺はアポロってんだ。\n　今日からよろしく頼むぜ、レントン」","translation":"I don't really get it, but whatever. ...Name's Apollo. Looking forward to working with you, Renton.","id":"007888"}
+{"text":"「ああ、こっちこそな」","translation":"Yeah, same here.","id":"0078F0"}
+{"text":"「では、我々ディーバも自己紹介しよう。\n　ディーバのエレメント達はアクエリオンを\n　操縦するために集められた」","translation":"Then let us of Deava introduce ourselves as well. Deava's Elements were gathered to pilot Aquarion.","id":"007910"}
+{"text":"「そのアクエリオンは３人乗りだが、\n　乗り込むエレメントによって\n　使える武器が異なるのだ」","translation":"Aquarion is a three-seater, but the weapons it can use differ depending on which Elements are aboard.","id":"007988"}
+{"text":"「随分と変わったマシンなんですね」","translation":"That's a pretty unusual machine.","id":"0079F0"}
+{"text":"「私はシリウス・ド・アリシア。\n　世話になる」","translation":"I am Sirius de Alisia. I look forward to working with you.","id":"007A20"}
+{"text":"「あたしはシルヴィア・ド・アリシア。\n　シリウスお兄様の妹よ」","translation":"I'm Silvia de Alisia. I'm Sirius's little sister.","id":"007A58"}
+{"text":"「俺はピエール・ヴィエラ。\n　よろしく頼むぜ、特にカワイコちゃんは」","translation":"I'm Pierre Vieira. Nice to meet you, especially you cute girls.","id":"007AA8"}
+{"text":"「紅麗花です。\n　こちらは後輩のつぐみ・ローゼンマイヤーと\n　ジュン・リー」","translation":"I'm Hong Lihua. These are my juniors, Tsugumi Rosenmeier and Jun Lee.","id":"007AF8"}
+{"text":"「つぐみです。\n　ご迷惑をおかけしています」","translation":"I'm Tsugumi. Sorry for all the trouble.","id":"007B48"}
+{"text":"「ジュン・リーです。\n　つぐみさん共々、よろしくお願いします」","translation":"I'm Jun Lee. Tsugumi and I look forward to working with you.","id":"007B80"}
+{"text":"「最後は私…。\n　リーナ・ルーンよ」","translation":"And last is me... Rina Rune.","id":"007BC8"}
+{"text":"「何とかカミーユとシン達、\n　グランナイツとエレメントのみんなと\n　合流できたか」","translation":"So we finally managed to link up with Kamille, Shinn, the Gran Knights, and everyone from the Elements.","id":"007BF8"}
+{"text":"「これでやっと今後の事が考えられるね」","translation":"Now we can finally start thinking about what to do next.","id":"007C50"}
+{"text":"「しかし、宇宙の方も\n　色々と大変だったみたいだな」","translation":"Still, it sounds like things were pretty rough in space too.","id":"007C80"}
+{"text":"「まあな。\n　こっちの世界も色々と複雑なようだぜ」","translation":"Yeah. This world seems pretty complicated too.","id":"007CC0"}
+{"text":"「なあ、ロックオン…。\n　新しいガンダムが現れたって聞いたけど、\n　お前達の仲間なのか？」","translation":"Hey, Lockon... I heard a new Gundam showed up. Is it one of your allies?","id":"007D00"}
+{"text":"「奴等の名前はトリニティ。\n　ソレスタルビーイングの別働隊だそうだ」","translation":"They're called Trinity. Apparently they're a separate unit from Celestial Being.","id":"007D60"}
+{"text":"「おまけに、そのトリニティには\n　赤いダンクーガ…Ｒ－ダイガンが\n　協力しているのよ」","translation":"And on top of that, that red Dancouga... R-Daigun, is cooperating with Trinity.","id":"007DB0"}
+{"text":"「別働隊ね…。\n　ブリタニア・ユニオンの基地を襲撃したのは\n　お得意の武力介入ってわけか…」","translation":"A separate unit, huh... So the attack on the Britannia Union base was their usual armed intervention, then...","id":"007E08"}
+{"text":"「でも、こんな状況で…」","translation":"But in a situation like this...","id":"007E68"}
+{"text":"「わかるよ、言いたい事は…」","translation":"I get what you're trying to say...","id":"007E88"}
+{"text":"「俺達も奴等に言ったさ。\n　まずは人類の敵を潰す方が先だって」","translation":"We told them the same thing. First we need to crush humanity's enemies.","id":"007EB0"}
+{"text":"「でもね…彼等はそんな私達のやり方を\n　生温いと言って、独自に動く事を\n　宣言していったの」","translation":"But... they said our way of doing things was too soft, and declared they'd act on their own.","id":"007F00"}
+{"text":"「何だよ、それ…！\n　空気読めない連中だな！」","translation":"What the heck is that...!? They've got no sense of timing at all!","id":"007F68"}
+{"text":"「ワッ太の言う通りよ。\n　彼等がこのまま武力介入を続ければ、\n　世界は混乱するだけだわ…」","translation":"Watta's right. If they keep up these armed interventions, the world will only fall into chaos...","id":"007FA0"}
+{"text":"「おまけにバジュラが、\n　この世界に転移してきたのも確認されたしな」","translation":"And on top of that, it's been confirmed that the Vajra have transferred into this world too.","id":"008008"}
+{"text":"「バジュラって…フロンティア船団と一緒に\n　跳ばされてきた蟲みたいな怪物だろ！？」","translation":"The Vajra...? Those bug-like monsters that got sent here along with the Frontier fleet, right!?","id":"008058"}
+{"text":"「また転移してきたって…\n　あれって並行世界間を跳べるのか！？」","translation":"They transferred here too...? Can those things jump between parallel worlds!?","id":"0080B8"}
+{"text":"「カラミティ・バースの影響で\n　この世界の次元境界線が不安定になったのが\n　理由らしいんです」","translation":"Apparently it's because the Calamity Birth made this world's dimensional boundaries unstable.","id":"008100"}
+{"text":"「バジュラのフォールド能力は\n　人類のものより進んでいるんです」","translation":"The Vajra's Fold ability is more advanced than humanity's.","id":"008168"}
+{"text":"「奴等はフォールド断層と呼ばれる\n　次元の壁さえも跳躍可能です。\n　その力で、この世界に転移してくるのでしょう」","translation":"They can even jump across dimensional walls known as Fold faults. That's probably how they transferred into this world.","id":"0081B0"}
+{"text":"「また問答無用の敵が増えたってわけか」","translation":"So we've got even more enemies you can't reason with.","id":"008228"}
+{"text":"「話が通じないのは、バジュラだけじゃない。\n　フロンティア政府もだ」","translation":"The Vajra aren't the only ones you can't reason with. The Frontier government is the same.","id":"008258"}
+{"text":"「俺達は船団に一時帰還しようとしたんだが、\n　ソレスタルビーイングと付き合いがあるって事で\n　追い出される形になったのさ」","translation":"We tried to return to the fleet temporarily, but since we had ties to Celestial Being, they basically kicked us out.","id":"0082A8"}
+{"text":"「そんな…！」","translation":"No way...!","id":"008328"}
+{"text":"「と言っても、Ｓ．Ｍ．Ｓの連中は\n　誰も気にしちゃいないさ」","translation":"That said, nobody in SMS really cares.","id":"008340"}
+{"text":"「俺達の戦友を理解しないような奴等は\n　こっちから願い下げだってな」","translation":"As far as we're concerned, we don't need anyone who doesn't understand our comrades-in-arms.","id":"008388"}
+{"text":"「ありがとうございます、オズマ少佐」","translation":"Thank you, Major Ozma.","id":"0083D8"}
+{"text":"「信じあう姿か…。\n　美しいものだな」","translation":"...To see people trust one another... What a beautiful thing.","id":"008408"}
+{"text":"「…あなたが$cの召集に\n　応じるとは思わなかったわ、ゼロ」","translation":"...I didn't think you'd answer $c's summons, Zero.","id":"008438"}
+{"text":"「日本解放の方は藤堂鏡志朗を仲間に加え、\n　順調に進んでいる」","translation":"The liberation of Japan is progressing smoothly, with Kyoshiro Tohdoh now among our ranks.","id":"008480"}
+{"text":"「奇跡の藤堂…。\n　７年前の極東事変で唯一ブリタニア側に\n　土をつけた男ね」","translation":"Miracle Tohdoh... The only man to hand Britannia a defeat in the Far East Incident seven years ago.","id":"0084C8"}
+{"text":"「だが、インペリウムのような存在がいては、\n　人々に不安が広がる」","translation":"But with something like the Imperium out there, fear will spread among the people.","id":"008520"}
+{"text":"「日本も世界の一部なのだ。\n　それ故、私も世界平和のために戦うつもりだ」","translation":"Japan is also a part of the world. That is why I intend to fight for world peace as well.","id":"008568"}
+{"text":"（正直に言えば、いいじゃないか。\n　ブリタニアを変えてみせると言った\n　ユーフェミアに賭けてみる気になったと…）","translation":"To be honest... I've decided I'm willing to bet on Euphemia, who said she'd change Britannia...","id":"0085B8"}
+{"text":"（黙っていろ。\n　お前は俺のガウェインの操縦者として\n　同行させたまでだ）","translation":"Be quiet. I only brought you along as the pilot of my Gawain.","id":"008630"}
+{"text":"「何だ何だ、ゴチャゴチャとよ！」","translation":"What the hell are you two yammering about?!","id":"008680"}
+{"text":"「こちらの話だ、気にしないでくれ」","translation":"It's our business. Don't worry about it.","id":"0086A8"}
+{"text":"「紹介しよう。\n　彼女はＣ．Ｃ．。\n　戦闘では私の機体に同乗する事になる」","translation":"Allow me to introduce her. This is C.C. In battle, she'll be riding in my unit with me.","id":"0086D0"}
+{"text":"「そういう事だ」","translation":"That's right.","id":"008720"}
+{"text":"「もしかして、あんたの愛人か？」","translation":"What, is she your mistress or something?","id":"008740"}
+{"text":"「そういった事実は一切ない」","translation":"There is absolutely no truth to that whatsoever.","id":"008770"}
+{"text":"「黒の騎士団でも同じ質問が出た。\n　お前の人徳というものが知れるな」","translation":"The same question came up in the Black Knights too. That says a lot about your character.","id":"008798"}
+{"text":"「ねえねえ、愛人って何？」","translation":"Hey, hey, what's a mistress?","id":"0087E8"}
+{"text":"「何？」","translation":"Huh?","id":"008810"}
+{"text":"「それは…その…」","translation":"Well... um...","id":"008820"}
+{"text":"「駄目ですよ、二人共。\n　そういう事をこういう場で聞いては」","translation":"Now, now, you two. That's not something you should ask in a place like this.","id":"008838"}
+{"text":"「好奇心を持つのは悪い事ではない。\n　愛人というのは、男の不実に泣く女の事だ」","translation":"There's nothing wrong with being curious. A mistress is a woman who weeps over a man's unfaithfulness.","id":"008880"}
+{"text":"「あなたは、あの仮面の方に\n　泣かされているのですか？」","translation":"Has that masked man over there made you cry?","id":"0088D8"}
+{"text":"「毎日な」","translation":"Every day.","id":"008918"}
+{"text":"「お前は黙ってろ！！」","translation":"You shut up!!","id":"008930"}
+{"text":"「つれないな。\n　子供の前ぐらい優しくしてくれてもいいだろ？」","translation":"How cold. You could at least be nice in front of the children, couldn't you?","id":"008950"}
+{"text":"「冗談だとしても品がない！\n　子供に聞かせるには不適切だ！」","translation":"Even as a joke, that's in poor taste! It's not appropriate for children to hear!","id":"008998"}
+{"text":"「冗談だったのですか？」","translation":"So it was a joke?","id":"0089E0"}
+{"text":"「そういう事にしたいらしい」","translation":"Apparently he'd like to pretend it was.","id":"008A00"}
+{"text":"「お前は…！」","translation":"You...!","id":"008A28"}
+{"text":"「安心しましたよ」","translation":"I'm relieved.","id":"008A40"}
+{"text":"「な…」","translation":"Wha...?","id":"008A58"}
+{"text":"「実は私達ＺＥＵＴＨは、以前に\n　黒い仮面の怪人に苦しめられた経験が\n　あるのです」","translation":"Actually, we in ZEUTH have had trouble before with a mysterious man in a black mask.","id":"008A68"}
+{"text":"「仮面の怪人…」","translation":"A masked villain...","id":"008AC0"}
+{"text":"「なるほどな。\n　あの一団がお前を異常なまでに警戒しているのは、\n　そういう理由か」","translation":"I see. So that's why that group is so unusually wary of you.","id":"008AD8"}
+{"text":"「その人物は常に物事に遊び半分で\n　世の中に対して斜に構えているような\n　人間でした」","translation":"That man always treated everything like a game and looked at the world with a cynical attitude.","id":"008B38"}
+{"text":"「ですが、ゼロ…\n　先ほどのやり取りからして、\n　あなたは真面目な方だと私は判断します」","translation":"But Zero... judging from that exchange just now, I've concluded that you're a serious person.","id":"008B98"}
+{"text":"「そ、そうか…。\n　ここは礼を述べておこう」","translation":"I-I see... Then allow me to thank you.","id":"008BF8"}
+{"text":"「フ…器の違いを見せ付けられたな」","translation":"Heh... you've just been shown the difference in caliber.","id":"008C30"}
+{"text":"「繰り返しになるが、もう一度言う。\n　お前は黙っていろ…！」","translation":"I'll say it again. Be quiet...!","id":"008C60"}
+{"text":"（初めてかしら、ゼロが感情を出したのは…。\n　あのＣ．Ｃ．という子…\n　彼にとって特別な存在のようね）","translation":"I wonder if this is the first time Zero has shown his emotions... That girl, C.C.... she seems to be special to him.","id":"008CA8"}
+{"text":"「………」","translation":".........","id":"008D18"}
+{"text":"「どうした、カレン？\n　向こうの日本の事が気になるのか」","translation":"What's wrong, Kallen? Are you worried about Japan over there?","id":"008D30"}
+{"text":"「う、うん…」","translation":"Y-yeah...","id":"008D70"}
+{"text":"（スザクにあたしの正体がばれた…。\n　もうアッシュフォード学園には帰れない…）","translation":"Suzaku found out who I really am... I can't go back to Ashford Academy anymore...","id":"008D88"}
+{"text":"（こうなったら、\n　黒の騎士団の戦いに集中する。\n　日本のため…ゼロのためにも…）","translation":"If it's come to this, I'll focus on the Black Knights' fight. For Japan... and for Zero too...","id":"008DE0"}
+{"text":"「三大国家を始めとする各国家は\n　インペリウムへの対応に追われ、\n　我々の事は既に眼中にないようだな…」","translation":"The major powers, starting with the Three\nGreat Nations, are busy with the Imperium.\nLooks like we've been forgotten...","id":"008E38"}
+{"text":"「こうして集まった後に言うのも何だが、\n　ここを$cの潮時と\n　見る事も出来よう」","translation":"It may be odd to say this after gathering everyone here, but perhaps this is as far as $c should go.","id":"008EA8"}
+{"text":"「何が言いたい？」","translation":"What are you trying to say?","id":"008F00"}
+{"text":"「今なら、まだ引き返せるぞ」","translation":"You can still turn back now.","id":"008F20"}
+{"text":"「我々にインペリウムと戦う義務など無い以上、\n　$cを解散し、それぞれの\n　目的のために行動するという道もある」","translation":"Since we have no obligation to fight the Imperium, we could disband $c and each act for our own goals.","id":"008F48"}
+{"text":"「でも、あなたは招集に応じたわ」","translation":"But you answered the summons.","id":"008FC0"}
+{"text":"「私の望む世界にインペリウムの存在は\n　不要だからだ」","translation":"Because the Imperium has no place in the world I want.","id":"008FF0"}
+{"text":"「私達も同じよ。\n　それぞれの目的を果たすためにも、\n　彼等の存在を見過ごす事は出来ないのよ」","translation":"Same for us. To achieve our respective goals, we can't ignore their existence.","id":"009030"}
+{"text":"「義務や使命じゃない。\n　俺達は奴等を許せないから、ここにいるんだ」","translation":"It's not about duty or mission. We're here because we can't forgive them.","id":"009098"}
+{"text":"「了解した。\n　あなた方の気持ちを試すような物言いを\n　詫びよう」","translation":"Understood. I apologize for speaking as though I were testing your resolve.","id":"0090E8"}
+{"text":"「気にしていないわ。\n　あなたのそういうやり方にも慣れてきたから」","translation":"I don't mind. I'm getting used to the way you do things.","id":"009130"}
+{"text":"「俺達を敵視する三大国家が動かないなら、\n　それはそれで好都合だ。\n　インペリウムの相手に集中出来る」","translation":"If the Three Great Nations that see us as enemies don't move, that's fine by me. It lets us focus on the Imperium.","id":"009180"}
+{"text":"「でも、その前に解決しなければならない問題が\n　あるわね…」","translation":"But before that, there's a problem we have to solve...","id":"0091F0"}
+{"text":"「ＺＥＵＴＨのメンバーの処遇か…」","translation":"What to do with the members of ZEUTH, huh...","id":"009238"}
+{"text":"「元気だったか、勝平！」","translation":"How've you been, Kappei!","id":"009268"}
+{"text":"「エイジの兄ちゃん！\n　グランナイツも跳ばされてたんだな！」","translation":"Big Bro Eiji! So the Gran Knights got sent here too!","id":"009288"}
+{"text":"「こいつらが地上で保護されたＺＥＵＴＨの\n　メンバーか…」","translation":"So these are the ZEUTH members who were rescued on Earth...","id":"0092D0"}
+{"text":"「俺は神勝平。\n　こいつは相棒の千代錦だ」","translation":"I'm Kappei Jin. This is my partner, Chiyonishiki.","id":"009318"}
+{"text":"「ワン！」","translation":"Woof!","id":"009348"}
+{"text":"「いつまで、こっちの世界にいるかは\n　わからねえが、よろしくな、姉ちゃん！」","translation":"I don't know how long we'll be in this world, but nice to meet you, sis!","id":"009360"}
+{"text":"「俺は男だ！」","translation":"I'm a man!","id":"0093B8"}
+{"text":"「悪い、悪い！\n　あんまり美人だったんで間違えちまったぜ！」","translation":"Sorry, sorry! You're so pretty, I got mixed up!","id":"0093D0"}
+{"text":"「すいません。\n　勝平が失礼な事を言ってしまって」","translation":"I'm sorry. Kappei said something rude.","id":"009418"}
+{"text":"「俺達はあいつの従兄弟の神江宇宙太と神北恵子。\n　３人でザンボット３のパイロットを\n　やってます」","translation":"We're his cousins, Uchuuta Kamie and Keiko Kamikita. The three of us pilot Zambot 3.","id":"009450"}
+{"text":"「跳ばされてきたのは俺達だけじゃないぜ」","translation":"We aren't the only ones who got sent here.","id":"0094B8"}
+{"text":"「僕はゲイナー・サンガ。\n　キングゲイナーのパイロットです」","translation":"I'm Gainer Sanga. I pilot King Gainer.","id":"0094E8"}
+{"text":"「ゲイン・ビジョウだ。\n　一つよろしく頼む」","translation":"I'm Gain Bijou. Pleased to meet you.","id":"009530"}
+{"text":"「シンシア・レーンだよ。\n　ゲイナーのライバルってところかな」","translation":"I'm Cynthia Lane. I guess you could say I'm Gainer's rival.","id":"009568"}
+{"text":"「サラ・コダマです。\n　ガウリ隊の前衛をやってます」","translation":"I'm Sara Kodama. I serve as the vanguard of the Gauli Squad.","id":"0095B0"}
+{"text":"「ヒューズ・ガウリ。\n　自警団ガウリ隊の隊長だ」","translation":"Hughes Gauli. I'm the captain of the vigilante Gauli Squad.","id":"0095F0"}
+{"text":"「そのガウリ隊の隊員、ベロー・コリッシュだ」","translation":"I'm Bello Corish, a member of the Gauli Squad.","id":"009628"}
+{"text":"「アデット・キスラーだ。\n　残念ながら、マシンはないんで\n　サラのパンサーのナビゲーター役をやってる」","translation":"I'm Adette Kistler. Unfortunately, I don't have a machine, so I'm serving as Sara's Panther navigator.","id":"009660"}
+{"text":"「アナ・メダイユです。\n　こっちは、リンク、リンナ、リンス」","translation":"I'm Ana Medaille. These are Link, Linna, and Linse.","id":"0096D0"}
+{"text":"「！」","translation":"!","id":"009718"}
+{"text":"「ヤーパンの天井組だけじゃなく、\n　アイアン・ギアーのみんなもいるんだな」","translation":"So it's not just the Yapan ceiling crew, everyone from the Iron Gear is here too.","id":"009728"}
+{"text":"「まあな。\n　ゲイナー達とは別な所にいたのに\n　同じ場所に跳ばされたんだ」","translation":"Yeah. We were in a different place from Gainer and the others, but we got sent to the same spot.","id":"009780"}
+{"text":"「あなた達もＺＥＵＴＨのメンバーなのですね」","translation":"So you all are members of ZEUTH as well.","id":"0097D0"}
+{"text":"「俺はジロン・アモス。\n　色々と世話になった」","translation":"I'm Jiron Amos. Thanks for all your help.","id":"009808"}
+{"text":"「エルチ・カーゴよ。\n　本当ならランドシップの艦長だけど、\n　今はザブングルに乗ってるわ」","translation":"I'm Elchi Cargo. Normally I'd be the captain of a landship, but right now I'm piloting Xabungle.","id":"009840"}
+{"text":"「盗賊団サンドラットのリーダー、\n　ラグ・ウラロだ」","translation":"I'm Rag Uralo, leader of the Sandrat bandits.","id":"0098A0"}
+{"text":"「同じくサンドラットのブルメだ。\n　こっちはダイク…それにチルだ」","translation":"I'm Burume, also with the Sandrats. This is Dyke... and Chil.","id":"0098E0"}
+{"text":"「よろしくな、みんな」","translation":"Nice to meet you, everyone.","id":"009930"}
+{"text":"「あたい、チルだよ。\n　ジロンと一緒にギャリアに乗ってるんだ」","translation":"I'm Chil. I ride in Gallia with Jiron.","id":"009950"}
+{"text":"「………」","translation":".........","id":"009998"}
+{"text":"「こちらのゴツいお方は？」","translation":"And who might this burly gentleman be?","id":"0099B0"}
+{"text":"「彼はファットマン。\n　あたしのボディガードよ」","translation":"He's Fatman. He's my bodyguard.","id":"0099D8"}
+{"text":"「格納庫を見たが、地上でも\n　ガンダムが保護されたそうだな」","translation":"I checked the hangar. I heard Gundams were recovered on the surface too.","id":"009A10"}
+{"text":"「俺達のガンダムの事だな。\n　…俺はガロード・ラン。\n　ＤＸに乗ってる」","translation":"You mean our Gundams. ...I'm Garrod Ran. I pilot the DX.","id":"009A58"}
+{"text":"「こっちはティファ。\n　まとめてよろしく頼むぜ」","translation":"And this is Tiffa. Please take care of us both.","id":"009AA8"}
+{"text":"「よろしくお願いします」","translation":"Pleased to meet you.","id":"009AE8"}
+{"text":"「俺はウィッツ・スー。\n　ガンダムエアマスターバーストの\n　パイロットだ」","translation":"I'm Witz Sou. I pilot Gundam Airmaster Burst.","id":"009B10"}
+{"text":"「ロアビィ・ロイ。\n　相棒はガンダムレオパルドデストロイだ」","translation":"Roabea Roy. My partner is Gundam Leopard Destroy.","id":"009B68"}
+{"text":"「ＤＸのサテライトキャノンも\n　こっちの世界じゃ宝の持ち腐れか…」","translation":"So the DX's Satellite Cannon is wasted in this world too, huh...?","id":"009BB0"}
+{"text":"「ところが、どっこい。\n　そうでもないんだな」","translation":"Well, not so fast. That's not really the case.","id":"009BF8"}
+{"text":"「サテライトキャノンを撃つための\n　マイクロウェーブを誰かが送信してくれるの？」","translation":"Does that mean someone's transmitting the microwaves needed to fire the Satellite Cannon?","id":"009C30"}
+{"text":"「よくわからないが、\n　この世界も月に送電施設があるらしくてよ、\n　そこからマイクロウェーブが来るんだ」","translation":"I’m not sure, but it seems this world has a power transmission facility on the moon, and the microwaves come from there.","id":"009C90"}
+{"text":"「送電施設の存在自体は、\n　あってもおかしくないものだけど…」","translation":"It wouldn't be strange for a power transmission facility to exist, but...","id":"009D00"}
+{"text":"「どうしてＤＸに\n　マイクロウェーブを送ってくるんだ…」","translation":"Why would they send microwaves to the DX...?","id":"009D48"}
+{"text":"「まあ、そこは結果オーライってやつだ」","translation":"Well, all's well that ends well, I guess.","id":"009D88"}
+{"text":"（月に誰かの意思を感じる…。\n　その人が私の声に応えてくれた…）","translation":"I can feel someone's will on the moon... That person answered my call...","id":"009DB8"}
+{"text":"（あの人は誰…？\n　何のために私に力を貸してくれたの…）","translation":"Who is that person...? Why did they lend me their power...?","id":"009E08"}
+{"text":"「しかし、そっちの世界のガンダムも\n　随分とバリエーションがあるもんだな」","translation":"Still, the Gundams in your world sure come in a lot of different varieties.","id":"009E50"}
+{"text":"「そうだね。\n　ヒゲが生えている機体まである」","translation":"Yeah. There are even units with mustaches.","id":"009EA8"}
+{"text":"「僕はロラン・セアックといいます。\n　あのホワイトドールのパイロットを\n　やっています」","translation":"My name is Loran Cehack. I'm the pilot of that White Doll.","id":"009EE0"}
+{"text":"「ホワイトドール？\n　変わったコードネームだね」","translation":"White Doll? That's an unusual codename.","id":"009F40"}
+{"text":"「あの機械人形は、\n　あたし達の町の守り神のようなものだったの」","translation":"That mechanical doll was like a guardian deity for our town.","id":"009F80"}
+{"text":"「あたしはソシエ・ハイム。\n　カプルでロランのサポートをしているわ」","translation":"I'm Sochie Heim. I support Loran in the Kapool.","id":"009FC8"}
+{"text":"「メシェー・クンだよ。\n　あたしもカプルに乗ってる」","translation":"I'm Miashei Kuhn. I pilot a Kapool too.","id":"00A018"}
+{"text":"「ディアナ・ソレル親衛隊隊長、\n　ハリー・オード大尉だ」","translation":"I'm Captain Harry Ord, commander of Dianna Soreil's Royal Guard.","id":"00A058"}
+{"text":"「そのディアナ・ソレルってのは？」","translation":"And who is this Dianna Soreil?","id":"00A098"}
+{"text":"「我々の世界の月の女王だ」","translation":"She's the Moon Queen of our world.","id":"00A0C8"}
+{"text":"「んじゃ、次は俺だな。\n　俺は桂木桂。\n　オーガスのパイロットだ」","translation":"Guess it's my turn then. I'm Kei Katsuragi, pilot of the Orguss.","id":"00A0F0"}
+{"text":"「アテナ・ヘンダーソン。\n　乗機はナイキックだ。\n　よろしく頼む」","translation":"I'm Athena Henderson. I pilot the Nickick. Nice to meet you.","id":"00A138"}
+{"text":"「レントン…君は挨拶しないのか？」","translation":"Renton... aren't you going to introduce yourself?","id":"00A180"}
+{"text":"「え…」","translation":"Uh...","id":"00A1B0"}
+{"text":"「早くしろよ。\n　この後、月光号のみんなも続くんだろ？」","translation":"Hurry up. The Gekko-Go crew's next, right?","id":"00A1C8"}
+{"text":"「いや…俺は…」","translation":"No... I...","id":"00A208"}
+{"text":"「違うんだ、シン。\n　このレントンは僕達の知っているレントンじゃ\n　ないんだ」","translation":"That's not it, Shin. This Renton isn't the Renton we know.","id":"00A228"}
+{"text":"「え…！」","translation":"What...!?","id":"00A280"}
+{"text":"「まさか…」","translation":"No way...","id":"00A290"}
+{"text":"「そのまさかなのさ。\n　こいつは俺達の知ってるレントンの\n　並行世界の同一人物ってやつだ」","translation":"Afraid so. He's the parallel-world counterpart of the Renton we know.","id":"00A2A8"}
+{"text":"「じゃあ、エウレカやホランドも…」","translation":"Then Eureka and Holland too...?","id":"00A308"}
+{"text":"「うん…。\n　地上の部隊には他にも知った名前の人がいるけど\n　僕達の知る彼等とは別人なんだ」","translation":"Yeah... There are other people in the ground forces with familiar names too, but they're not the same people we know.","id":"00A338"}
+{"text":"「でも、この話はここで終わりだ。\n　こっちのレントンを俺達の知ってるあいつと\n　比べちゃいけないからな」","translation":"But let's leave it at that. We shouldn't compare this Renton to the one we know.","id":"00A3A0"}
+{"text":"「ああ…セツコさんの時に\n　そう決めたからな」","translation":"Yeah... That's what we decided back when it happened with Setsuko.","id":"00A410"}
+{"text":"「そのセツコさんってのは？」","translation":"Who's this Setsuko?","id":"00A448"}
+{"text":"「ＺＥＵＴＨの仲間の一人なんだけど、\n　戦いの中でチームメイトを失ったんだ…」","translation":"She's one of our comrades in ZEUTH, but she lost a teammate in battle...","id":"00A470"}
+{"text":"「その後、そのチームメイトの\n　並行世界の同一人物と出会って、\n　新しいチームを作ったんだ」","translation":"After that, she met that teammate's parallel-world counterpart, and they formed a new team.","id":"00A4C8"}
+{"text":"「その時に俺達は決めたんだ」","translation":"That's when we made our decision.","id":"00A528"}
+{"text":"「もし、自分の知っている人間の\n　並行世界の同一人物と出会っても\n　その人同士を比べるような事はしないって」","translation":"That if we ever met the parallel-world counterpart of someone we knew, we wouldn't compare the two of them.","id":"00A550"}
+{"text":"「そりゃそうだ。\n　そんな事をされたら、いい気分はしないしな」","translation":"Makes sense. Nobody would feel good about being treated like that.","id":"00A5C8"}
+{"text":"「そうだな…。\n　多元世界で生きる上でのマナーと言っても\n　いいだろう」","translation":"Yeah... You could call it proper manners for living in a multiverse.","id":"00A610"}
+{"text":"「よくわからねえが、\n　とりあえず、何とかジロン達と合流出来たな」","translation":"I don't really get it, but at least we managed to link up with Jiron and the others somehow.","id":"00A668"}
+{"text":"「うむ…。\n　これで今後の事を考える事も出来よう」","translation":"Indeed... Now we can start thinking about what to do next.","id":"00A6B8"}
+{"text":"「何だ、何だ、お前等！\n　せっかく$cが集まったってのに\n　逃げ出す相談かよ！」","translation":"What the hell's with you guys!? We finally got $c together, and you're already talking about running away!?","id":"00A6F8"}
+{"text":"「誰だ、あんた？」","translation":"Who are you?","id":"00A750"}
+{"text":"「暗黒大陸で拾ってきたのよ。\n　カミナと同じようにガンメンを奪って\n　獣人と戦ってるの」","translation":"We picked him up on the Dark Continent. Like Kamina, he steals Gunmen and fights the Beastmen.","id":"00A770"}
+{"text":"「獣人ハンター黒の兄弟のキタン！\n　愛機はキングキタンよ！」","translation":"I'm Kittan of the Black Siblings, Beastman hunters! My beloved machine is King Kittan!","id":"00A7D0"}
+{"text":"「その妹のキヨウよ」","translation":"I'm his sister, Kiyoh.","id":"00A818"}
+{"text":"「同じくキノンです」","translation":"And I'm Kinon, also his sister.","id":"00A838"}
+{"text":"「末っ子のキヤルだ！\n　よろしくな！」","translation":"I'm the youngest, Kiyal! Nice to meet you!","id":"00A858"}
+{"text":"「俺はダヤッカ。\n　ヨーコと同じ村の出身で、\n　ダヤッカイザーに乗ってる」","translation":"I'm Dayakka. I'm from the same village as Yoko, and I pilot Dayakkaiser.","id":"00A888"}
+{"text":"「ＺＥＵＴＨ以外にも新たな仲間が\n　加わったというわけか」","translation":"So we've got new allies besides ZEUTH as well.","id":"00A8E0"}
+{"text":"「何だ、何だ、ゴチャゴチャとよ！」","translation":"What the hell's all this fuss about!?","id":"00A920"}
+{"text":"「紹介しよう。\n　彼女はＣ．Ｃ．。\n　戦闘では、私の機体に同乗する事になる」","translation":"Allow me to introduce her. This is C.C. In battle, she'll be riding with me in my machine.","id":"00A950"}
+{"text":"「…あのアサキム・ドーウィンと\n　ＺＥＵＴＨの間に、そんな因縁が\n　あったとはな…」","translation":"...So there was that kind of history between Asakim Dowin and ZEUTH...","id":"00A9A0"}
+{"text":"「ええ…。\n　色々と複雑な事情があったようだけど、\n　彼等にとって敵なのは間違いないわ」","translation":"Yes... There seem to have been all sorts of complicated circumstances, but there's no doubt they're their enemies.","id":"00A9F8"}
+{"text":"「なお、地上、宇宙で保護されたＺＥＵＴＨは\n　メンバーが集まった事で、今後の身の振り方を\n　考えるそうだ」","translation":"Now that the ZEUTH members rescued on Earth and in space have gathered, it seems they'll decide what to do next.","id":"00AA58"}
+{"text":"「では、クラッシャー隊が暗黒大陸で\n　保護したメンバーを紹介しよう」","translation":"Now then, let me introduce the members the Crusher Team rescued on the Dark Continent.","id":"00AAC8"}
+{"text":"「俺は神勝平。\n　こいつ等は従兄弟の神江宇宙太と神北恵子だ」","translation":"I'm Kappei Jin. These two are my cousins, Uchuuta Kamie and Keiko Kamikita.","id":"00AB18"}
+{"text":"「俺達３人はザンボット３のパイロットだ」","translation":"The three of us are the pilots of Zambot 3.","id":"00AB60"}
+{"text":"「お世話になっています」","translation":"Thank you for taking care of us.","id":"00AB90"}
+{"text":"「こいつは俺の相棒の千代錦だ。\n　まとめてよろしく頼むぜ」","translation":"This is my partner, Chiyonishiki. Take care of both of us, alright?","id":"00ABB0"}
+{"text":"「ゲイン・ビジョウだ。\n　もう少し厄介になる」","translation":"I'm Gain Bijou. I'll be in your care for a while longer.","id":"00ABF0"}
+{"text":"「こっちのごっついのは？」","translation":"And who's the big guy over here?","id":"00AC28"}
+{"text":"「格納庫を見ましたが、\n　ＺＥＵＴＨでもガンダムの名を持つ機体が\n　使われているようですね」","translation":"I checked the hangar, and it looks like ZEUTH is using machines that bear the Gundam name, too.","id":"00AC50"}
+{"text":"「俺達のガンダムの事だな。\n　俺はガロード・ラン。\n　ＤＸに乗ってる」","translation":"You mean our Gundams. I'm Garrod Ran. I pilot the DX.","id":"00ACB8"}
+{"text":"「俺のＤＸのサテライトキャノンは\n　月が出ている時しか使えないが、\n　破壊力はバツグンだ」","translation":"My DX's Satellite Cannon can only be used when the moon is out, but its firepower is top-notch.","id":"00AD08"}
+{"text":"「頼りにしてくれていいぜ」","translation":"You can count on me.","id":"00AD70"}
+{"text":"（この世界の月に眠る誰かが\n　私の想いに応えて、マイクロウェーブを\n　送ってくれた…）","translation":"Someone sleeping in this world's moon answered my feelings... and sent the microwaves...","id":"00AD98"}
+{"text":"「しかし、そっちの世界のガンダムも\n　随分とバリエーションがあるんだな」","translation":"Still, the Gundams in your world sure come in a lot of varieties.","id":"00ADF8"}
+{"text":"「そうだね。\n　ヒゲが生えている機体まであるし」","translation":"That's true. There's even one with a mustache.","id":"00AE48"}
+{"text":"「ホワイトドール？\n　奇妙なコードネームだな」","translation":"White Doll? That's a strange codename.","id":"00AE80"}
+{"text":"「そのディアナ・ソレルってのは誰だい？」","translation":"So who is this Diana Sorel, anyway?","id":"00AEB8"}
+{"text":"「ここまでが地上で保護されたメンバーよ」","translation":"That covers the members who were taken in on Earth.","id":"00AEE8"}
+{"text":"「宇宙で俺達が会ったＺＥＵＴＨも\n　ガンダムを使ってる」","translation":"The ZEUTH we met in space uses Gundams too.","id":"00AF20"}
+{"text":"「俺はカミーユ・ビダン。\n　Ｚガンダムのパイロットです」","translation":"I'm Kamille Bidan. I'm the pilot of the Z Gundam.","id":"00AF68"}
+{"text":"「ファ・ユイリィです。\n　カミーユと同じくエゥーゴに\n　所属していました」","translation":"I'm Fa Yuiry. Like Kamille, I was a member of AEUG.","id":"00AFB0"}
+{"text":"「シン・アスカ。\n　デスティニーのパイロットをやってる」","translation":"I'm Shinn Asuka. I'm the pilot of Destiny.","id":"00B000"}
+{"text":"「ルナマリア・ホークよ。\n　搭乗機体はインパルス」","translation":"I'm Lunamaria Hawke. I pilot the Impulse.","id":"00B040"}
+{"text":"「アスラン・ザラだ。\n　こちらはキラ・ヤマト」","translation":"I'm Athrun Zala. This is Kira Yamato.","id":"00B080"}
+{"text":"「よろしくお願いします」","translation":"Nice to meet you.","id":"00B0B8"}
+{"text":"「次はグランナイツだな。\n　俺は紅エイジ」","translation":"Next up are the Gran Knights. I'm Eiji Kurenai.","id":"00B0D8"}
+{"text":"「で、こいつが俺達のソルグラヴィオンの\n　メインパイロット、天空侍斗牙だ」","translation":"And this is Toga Tenkuuji, the main pilot of our Sol Gravion.","id":"00B110"}
+{"text":"「こちらの世界でも頑張ります」","translation":"We'll do our best in this world too.","id":"00B168"}
+{"text":"「俺はピエール・ヴィエラ。\n　よろしく頼むぜ、特にカワイコちゃんはな」","translation":"I'm Pierre Vieira. Nice to meet you all~ especially the cute girls.","id":"00B190"}
+{"text":"「私はリーナ・ルーン。\n　ふふ…こちらの世界も刺激的みたいね」","translation":"I'm Leena Rune. Heh... this world seems exciting too.","id":"00B1E0"}
+{"text":"「俺はアポロだ。\n　短い間かも知れないが、よろしく頼むぜ」","translation":"I'm Apollo. We may only be here for a short while, but I hope we get along.","id":"00B228"}
+{"text":"「ちょいと聞いたんだが、\n　$cの中にＺＥＵＴＨの世界の\n　同一人物がいるんだって？」","translation":"I heard there's someone in $c who's the same person as someone from ZEUTH's world?","id":"00B270"}
+{"text":"「え、ええ…」","translation":"Y-yes...","id":"00B2C8"}
+{"text":"「歯切れが悪いな」","translation":"You're being awfully hesitant.","id":"00B2E0"}
+{"text":"「まあな。\n　それについては触れないってのが\n　俺達のルールだからな」","translation":"Well, yeah. We made it a rule not to bring that up.","id":"00B2F8"}
+{"text":"「どういう事だ、そりゃ？」","translation":"What's that supposed to mean?","id":"00B348"}
+{"text":"「僕達の仲間にセツコさんという方が\n　いたんだけど…」","translation":"There was someone in our group named Setsuko...","id":"00B370"}
+{"text":"「その人…戦いでチームメイト失ったんだけど、\n　並行世界の同一人物と出会って\n　新しいチームを作ったんだ」","translation":"She lost her teammates in battle, but then met the same people from a parallel world and formed a new team.","id":"00B3B0"}
+{"text":"「その時に決めたんだ」","translation":"That's when we decided.","id":"00B420"}
+{"text":"「確かにな。\n　ここにいる自分は唯一無二の存在だ」","translation":"That's true. The self that's here is one of a kind.","id":"00B440"}
+{"text":"「自分の知らない自分と比べられるのは\n　いい気分がしないだろう」","translation":"It wouldn't feel good to be compared to another version of yourself you don't even know.","id":"00B478"}
+{"text":"「そうね。\n　それは多元世界で生きる上のマナーと\n　言ってもいいわね」","translation":"That's right. You could even call that basic etiquette for living in a multiverse.","id":"00B4C0"}
+{"text":"「暗黒大陸調査隊も\n　宇宙に上がった部隊も大変だったようですね」","translation":"It sounds like both the Dark Continent survey team and the unit that went up into space had a rough time.","id":"00B510"}
+{"text":"「うむ…。\n　クラッシャー隊は暗黒大陸で\n　何度も獣人の襲撃を受けた」","translation":"Indeed... The Crusher Squad was attacked by Beastmen many times on the Dark Continent.","id":"00B558"}
+{"text":"「でもね、ＺＥＵＴＨの人達以外にも\n　新しい仲間が加わったのよ」","translation":"But besides the people from ZEUTH, we also gained some new allies.","id":"00B5A8"}
+{"text":"「やっと俺様の自己紹介か。\n　俺は獣人ハンター黒の兄弟のキタン！\n　愛機はキングキタンよ！」","translation":"Finally, it's my turn to introduce myself. I'm Kittan of the Beastman Hunter Black Siblings! My beloved machine is King Kittan!","id":"00B5F0"}
+{"text":"「彼等は暗黒大陸で\n　カミナと同じようにガンメンを奪って\n　獣人と戦っていたの」","translation":"On the Dark Continent, they stole Gunmen just like Kamina did and fought the Beastmen.","id":"00B658"}
+{"text":"「獣人の被害も広がりつつある。\n　奴等の動きも油断ならんな」","translation":"The damage caused by the Beastmen is spreading too. We can't afford to let our guard down over their movements.","id":"00B6B0"}
+{"text":"「宇宙の方じゃＺＥＵＴＨとは別に\n　新しいガンダムが現れたって聞いたが…」","translation":"I heard a new Gundam showed up in space, separate from ZEUTH...","id":"00B6F8"}
+{"text":"「別働隊ね…。\n　ブリタニア・ユニオンの基地を襲撃したのは\n　お得意の武力介入ってわけか…」","translation":"A separate force, huh...? So the raid on the Britannia Union base was their usual armed intervention...?","id":"00B750"}
+{"text":"「でも、こんな状況では…」","translation":"But in a situation like this...","id":"00B7B0"}
+{"text":"「俺達も言ったさ。\n　まずは人類の敵を潰す方が先だってな」","translation":"We told them that too. We said crushing humanity's enemies comes first.","id":"00B7D8"}
+{"text":"「でもね…彼等はそんな私達のやり方を\n　生温いと言って、独自に動く事を\n　宣言していったわ」","translation":"But they said our way of doing things was too soft, and declared they'd act on their own.","id":"00B820"}
+{"text":"「何なのよ、それ…！\n　状況がわかってないの！？」","translation":"What the hell is that supposed to mean...! Don't they understand the situation!?","id":"00B888"}
+{"text":"「あなたの言う通りよ。\n　彼等がこのまま武力介入を続ければ、\n　世界は混乱するだけだわ…」","translation":"You're right. If they keep up this armed intervention, it'll only throw the world into chaos...","id":"00B8C8"}
+{"text":"「バジュラ…。\n　フロンティア船団と一緒に跳ばされてきた\n　蟲みたいな怪物か」","translation":"Vajra... Those bug-like monsters that got transported here along with the Frontier fleet?","id":"00B930"}
+{"text":"「また転移してきたって…\n　あれって並行世界間を跳べるのか？」","translation":"They got transferred here too...? Can those things jump between parallel worlds?","id":"00B980"}
+{"text":"「カラミティ・バースの影響で\n　この世界の次元境界線が不安定になったのが\n　理由らしい」","translation":"Apparently, it's because the Calamity Birth destabilized this world's dimensional boundaries.","id":"00B9C8"}
+{"text":"「また問答無用の敵が増えたというわけか」","translation":"So we've got yet another enemy that won't listen to reason.","id":"00BA28"}
+{"text":"「そんな…！」","translation":"No way...!","id":"00BA58"}
+{"text":"「そんな大したものじゃないわ。\n　でも今、私達は同じ目的のために\n　再び集まった」","translation":"It's not that big a deal. But now, we've all gathered again for the same purpose.","id":"00BA70"}
+{"text":"「彼等の戦力は相当なものだ。\n　我々に協力してもらうように説得すべきだな」","translation":"Their fighting strength is considerable. We should persuade them to cooperate with us.","id":"00BAD0"}
+{"text":"（しがらみも立場もない連中だ。\n　ギアスを使用して強引に俺の配下にしても\n　心変わりの理由はでっちあげる事が出来よう）","translation":"They've got no ties or obligations.\nIf I use Geass to make them mine,\nI can always invent a reason.","id":"00BB20"}
+{"text":"「お前の考えている通りにいくかな…」","translation":"Do you really think things will go as you've planned...?","id":"00BBA0"}
+{"text":"「こちらは？」","translation":"What about our side?","id":"00BBD0"}
+{"text":"クォーター　格納庫","translation":"Quarter Hangar","id":"00BBE8"}
+{"text":"　\n　　\n　　　　～マクロス・クォーター　格納庫～","translation":"~Macross Quarter Hangar~","id":"00BC00"}
+{"text":"「…やはり、行くのか？」","translation":"...So you're going after all?","id":"00BC38"}
+{"text":"「そちらの事情もある程度は理解しましたし、\n　この$cって組織が\n　悪人の集まりではないってのも理解しました」","translation":"I've come to understand your situation to some extent, and that this $c organization isn't a gathering of villains.","id":"00BC60"}
+{"text":"「だけど、俺達はこっちの世界に\n　後から跳ばされてきた人間だ」","translation":"But we're people who were sent to this world after everyone else.","id":"00BCD8"}
+{"text":"「やはり、自衛以外の戦いをする事は\n　許されないと判断します」","translation":"So I believe we're not allowed to fight for anything beyond self-defense.","id":"00BD20"}
+{"text":"「当然と言えば、当然…。\n　理性的な判断だと言えるわ」","translation":"That's only natural... I'd call that a rational judgment.","id":"00BD68"}
+{"text":"「だが、この世界は再三説明した通り、\n　危機的状況にある」","translation":"However, as I've explained many times, this world is in a critical situation.","id":"00BDA8"}
+{"text":"「それを打開するためにも\n　君達の力を貸して欲しいと考えている」","translation":"To overcome that, I want your help.","id":"00BDE8"}
+{"text":"「手前味噌になるが、我々の戦力は\n　あなた達の期待にそうだけのものであると\n　自負している」","translation":"This may sound self-serving, but we pride ourselves on having the kind of strength you're hoping for.","id":"00BE30"}
+{"text":"「だからこそ、私達は\n　身の振り方には慎重でありたいと思っています」","translation":"That's why we want to be careful about what course we take.","id":"00BE98"}
+{"text":"「そういう事なんで、まずはこの世界を旅して、\n　色々なものを見聞きしたいんだ」","translation":"So first, we want to travel this world and see and hear all sorts of things for ourselves.","id":"00BEE8"}
+{"text":"「俺達以外のＺＥＵＴＨのメンバーと\n　事件の裏側に一枚かんでそうな\n　あのアサキム・ドーウィンも捜したいんでね」","translation":"We also want to find the other ZEUTH members, and that Asakim Dowin guy who seems to be behind this incident.","id":"00BF40"}
+{"text":"「その上で、例のアイム・ライアードとの対決を\n　考えますよ」","translation":"After that, we'll think about facing off against that Aim Liard.","id":"00BFB8"}
+{"text":"「そうか…。\n　約束した通り、君達の意思を尊重しよう」","translation":"I see... As promised, I'll respect your wishes.","id":"00C000"}
+{"text":"「当面の間は$cの保護下という事で\n　国連が身分の保証もするそうだ」","translation":"For now, you'll stay under $c's protection, with UN backing.","id":"00C048"}
+{"text":"「ご配慮に感謝いたします」","translation":"We appreciate your consideration.","id":"00C098"}
+{"text":"「何も言わなくていいの、アスラン？」","translation":"Aren't you going to say anything, Athrun?","id":"00C0C0"}
+{"text":"「迷っているんだね」","translation":"You're hesitating, aren't you?","id":"00C0F0"}
+{"text":"「俺は…俺達の存在が\n　新たな争いの火種になる事が怖い…」","translation":"I'm... afraid that our existence will become the spark for a new conflict...","id":"00C110"}
+{"text":"「だから、ここは下手に動くよりも…」","translation":"So I think it'd be better not to make any rash moves here...","id":"00C158"}
+{"text":"「何してるんですか、アスラン？\n　もうみんな、出発しますよ」","translation":"What are you doing, Athrun? Everyone's about to leave.","id":"00C188"}
+{"text":"「あ、ああ…わかった…。\n　今、行く」","translation":"Ah, yeah... Got it... I'm coming.","id":"00C1D0"}
+{"text":"「しっかりして下さいよ。\n　アムロ大尉もクワトロ大尉もサンドマンさんも\n　艦長達もいないんです」","translation":"Pull yourself together. Captain Amuro, Captain Quattro, Mr. Sandman, and the ship captains aren't here.","id":"00C200"}
+{"text":"「これからどうするにしても、\n　今いる俺達で頑張らなきゃならないんですから」","translation":"No matter what we do from here on, we have to do our best with the people we have now.","id":"00C268"}
+{"text":"「ああ…」","translation":"Yeah...","id":"00C2C0"}
+{"text":"「………」","translation":"...","id":"00C2D8"}
+{"text":"「みんな…。\n　俺はこのまま$cに\n　協力すべきだと思う」","translation":"Everyone... I think we should continue cooperating with $c.","id":"010388"}
+{"text":"「………」","translation":"...","id":"0103C8"}
+{"text":"「きっと、このまま俺達が動けば、\n　俺達を…いや、俺達の戦力をめぐっての\n　無用な戦いが起きると思う」","translation":"If we move now, I'm sure it'll spark unnecessary fighting over us... no, over our military strength.","id":"0103D8"}
+{"text":"「それは今日の戦いを見ても、\n　わかるけどよ…」","translation":"I can see that from today's battle, but...","id":"010448"}
+{"text":"「お前は国連って組織に保護を求めるんじゃなく、\n　積極的に$cに\n　協力しようって言うのか？」","translation":"Are you saying we should actively cooperate with $c instead of seeking protection from the UN?","id":"010488"}
+{"text":"「その通りだ」","translation":"That's right.","id":"0104F0"}
+{"text":"「それって…危険じゃないんですか？」","translation":"Isn't that... dangerous?","id":"010508"}
+{"text":"「例のソレスタルビーイングや\n　コロニーのガンダム、黒の騎士団といった一団も\n　いるしな…」","translation":"There are also groups like Celestial Being, those colony Gundams, and the Black Knights...","id":"010538"}
+{"text":"「そういった連中に加担するのは\n　戦火を拡大する要因になるやも知れん」","translation":"Throwing in with people like that could end up fueling the flames of war even further.","id":"0105A0"}
+{"text":"「その判断は、これから\n　$cの一員としてやっていこう」","translation":"We'll make that judgment as members of $c from here on out.","id":"0105F0"}
+{"text":"「彼等を含めて$cは\n　人類共通の敵と戦おうとしている」","translation":"Including them, $c is trying to fight humanity's common enemy.","id":"010630"}
+{"text":"「そして、俺は彼等は信じられると思う。\n　ならば、それに協力したい」","translation":"And I believe they can be trusted. So I want to cooperate with them.","id":"010670"}
+{"text":"「僕もアスランに賛成だよ」","translation":"I agree with Athrun too.","id":"0106C0"}
+{"text":"「キラさん…」","translation":"Kira...","id":"0106E0"}
+{"text":"「同時に僕達は自分達の力に\n　責任を持たなくちゃいけないと思うんだ」","translation":"At the same time, I think we have to take responsibility for our own power.","id":"0106F8"}
+{"text":"「責任ってのは、どういう事だ？」","translation":"What do you mean by responsibility?","id":"010748"}
+{"text":"「好む好まざるに関わらず、\n　僕達には力が…戦う力がある」","translation":"Whether we like it or not, we have power... the power to fight.","id":"010770"}
+{"text":"「戦う力…」","translation":"The power to fight...","id":"0107B0"}
+{"text":"「それを捨てるのも一つの選択だと思う。\n　でも、今、この世界は戦う力を\n　必要としている」","translation":"I think giving it up is one option. But right now, this world needs the power to fight.","id":"0107C8"}
+{"text":"「あの次元獣との戦いも、その一つですね」","translation":"The battle against those Dimensional Beasts is one example of that.","id":"010828"}
+{"text":"「だから僕は、世界に対して\n　傍観者になるのではなく、この世界の一員として\n　出来る事をするべきだと思うんだ」","translation":"That's why I think that, instead of standing by as mere observers, we should do what we can as members of this world.","id":"010860"}
+{"text":"「それが$cで\n　戦う事だと言うんですか？」","translation":"So you're saying that means fighting with $c?","id":"0108D8"}
+{"text":"「どうだろう、みんな？\n　…答えを出すのは早いかも知れない…」","translation":"What do you all think? ...Maybe it's too soon to come to an answer...","id":"010908"}
+{"text":"「だから、俺は$cで戦いながら、\n　それを探していこうと思うんだ」","translation":"That's why I want to keep fighting with $c while I look for that answer.","id":"010950"}
+{"text":"「賛成だ。\n　俺もあいつらなら信じられる」","translation":"I agree. I can trust those guys too.","id":"0109A0"}
+{"text":"「何と言っても、飯を食わせてもらった恩も\n　あるしな」","translation":"Besides, I owe them for feeding me.","id":"0109D8"}
+{"text":"「あんた達は、はっきりしてるわね」","translation":"You guys sure are straightforward.","id":"010A18"}
+{"text":"「だが、一宿一飯の恩義は\n　忘れてはならない事でもある」","translation":"But we mustn't forget the debt we owe them for a roof and a meal.","id":"010A48"}
+{"text":"「そうね。\n　そういう事なら、私も賛成よ」","translation":"Yeah. If that's the case, then I agree too.","id":"010A90"}
+{"text":"「まったく、兄ちゃんも姉ちゃんも\n　素直じゃないねぇ！」","translation":"Honestly, big brother and big sister just can't be honest, can you?!","id":"010AC8"}
+{"text":"「ほんとはみんな、$cを\n　心の中では信じてたのに\n　難しい理屈をこねちゃってよ！」","translation":"Deep down, you all believed in $c, but you just had to make it complicated with your logic!","id":"010B08"}
+{"text":"「こいつ、言ってくれるぜ！」","translation":"Listen to this guy!","id":"010B60"}
+{"text":"「あのね、勝平…\n　こういう時に大人ってのは\n　ちゃんと筋道立てて考えをまとめるもんなの」","translation":"Listen, Kappei... at times like this, adults are supposed to think things through properly and put their thoughts in order.","id":"010B88"}
+{"text":"「だけど、勝平の言う通りだと思う。\n　僕も素直に自分の中の気持ちに従うよ」","translation":"But I think Kappei's right. I'll be honest too, and follow how I truly feel.","id":"010BE8"}
+{"text":"「俺も賛成だ。\n　宇宙で俺達を保護してくれた時から、\n　その想いは変わらない」","translation":"I agree too. I've felt that way ever since they protected us in space.","id":"010C40"}
+{"text":"「今までは、この世界に対して\n　どうしても受け身になってたけれど、\n　俺も心を決めた」","translation":"Until now, I've been passive toward this world, but I've made up my mind too.","id":"010C98"}
+{"text":"「カミーユ…」","translation":"Kamille...","id":"010CF8"}
+{"text":"「その様子だと、シンも賛成みたいだね」","translation":"Looks like you agree too, Shin.","id":"010D10"}
+{"text":"「俺は最初から\n　$cを信じてましたよ」","translation":"I've believed in $c from the very beginning.","id":"010D40"}
+{"text":"「だったら、どうしてそれを\n　言わなかったんだ？」","translation":"Then why didn't you say so?","id":"010D70"}
+{"text":"「俺の隊長はアスランですからね。\n　アスランが迷っているのなら、\n　一緒に迷おうと思ったまでです」","translation":"Because you're my captain, Athrun. If you were hesitating, then I figured I'd hesitate with you.","id":"010DB0"}
+{"text":"「シン…」","translation":"Shin...","id":"010E18"}
+{"text":"「では、決まりだな」","translation":"Then it's settled.","id":"010E30"}
+{"text":"「そうみたいね」","translation":"Looks that way.","id":"010E50"}
+{"text":"「…そういう事だ、スメラギさん。\n　あっという間の出戻りだけど、\n　受け入れてくれるかい？」","translation":"...So that's how it is, Ms. Sumeragi. It's a pretty quick return, but will you take us back?","id":"010E68"}
+{"text":"「ええ、もちろん歓迎するわ」","translation":"Yes, of course. You're more than welcome.","id":"010EC8"}
+{"text":"「それが君達の出した答えならば、\n　我々はそれを尊重しよう」","translation":"If that's the answer you've reached, then we'll respect it.","id":"010EF0"}
+{"text":"「お前等もそれでいいな？」","translation":"You guys are fine with that too, right?","id":"010F38"}
+{"text":"「了解だ」","translation":"Roger that.","id":"010F60"}
+{"text":"「改めてよろしく頼むぜ、ＺＥＵＴＨのみんな！」","translation":"Looking forward to working with you again, everyone in ZEUTH!","id":"010F78"}
+{"text":"「この世界のために、\n　みんなの力も貸してもらう」","translation":"For the sake of this world, we'll need everyone's help too.","id":"010FB0"}
+{"text":"「へへ…物好きな奴等が\n　時空震動で来てくれたもんだ」","translation":"Heh... what a bunch of oddballs, showing up here thanks to a space-time quake.","id":"010FF0"}
+{"text":"「あいつらには悪いが、\n　この出会いに感謝するぜ」","translation":"I feel bad for them, but I'm grateful we met.","id":"011030"}
+{"text":"「そうだな。\n　これで役者が揃ってきたぜ」","translation":"Yeah. Now the cast is finally coming together.","id":"011070"}
+{"text":"「これならば、あのインペリウムとも\n　正面から戦える」","translation":"With this, we can fight the Imperium head-on.","id":"0110A0"}
+{"text":"「世界に上げるぞ。\n　我々の反撃の狼煙を…！」","translation":"Let the world see it... the signal flare of our counterattack!","id":"0110E0"}
+{"text":"黒ベタ","translation":"Black screen","id":"011118"}
+{"text":"執務室","translation":"Office","id":"011120"}
+{"text":"　\n　　\n　　　　　　　～国連本部　会議室～","translation":"~UN Headquarters Conference Room~","id":"011128"}
+{"text":"「…まずはこうして会談に応じていただいた事に\n　お礼を申し上げます」","translation":"...First, allow me to thank you for agreeing to this meeting.","id":"011158"}
+{"text":"「………」","translation":"...","id":"0111A8"}
+{"text":"「では、これより国連平和維持理事会と\n　インペリウムの会談を始める」","translation":"Now then, we will begin the talks between the UN Peacekeeping Council and the Imperium.","id":"0111C0"}
+{"text":"「エルガン・ローディック。\n　言葉遣いに気を付けてもらおう」","translation":"Elgan Roddick. Mind your choice of words.","id":"011210"}
+{"text":"「我々は新帝国インペリウムだ。\n　そして、私はその筆頭政務官として\n　この場にいる事を忘れないでいただこう」","translation":"We are the new empire, Imperium. And do not forget that I am here as its chief administrative officer.","id":"011258"}
+{"text":"（シオニー・レジス…。\n　元リモネシア共和国外務大臣…）","translation":"(Shiony Regis... Former Foreign Minister of the Republic of Limonesia...)","id":"0112D0"}
+{"text":"（この女…どういう腹積もりがあって、\n　この会談に応じたのだ…）","translation":"(This woman... what could she be planning by agreeing to this meeting...?)","id":"011318"}

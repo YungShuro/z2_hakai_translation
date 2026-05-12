@@ -1,0 +1,37 @@
+{"text":"日本ルート","translation":">Jpn","id":"stage_route_000001"}
+{"text":"ソレスタルビーイング追跡ルート","translation":">CB Pursuit","id":"stage_route_000002"}
+{"text":"エリア１１ルート","translation":">Area 11","id":"stage_route_000003"}
+{"text":"暗黒大陸ルート","translation":">Dark C","id":"stage_route_000004"}
+{"text":"フロンティア船団ルート","translation":">Frontier","id":"stage_route_000005"}
+{"text":"表部隊ルート","translation":">Publc","id":"stage_route_000006"}
+{"text":"裏部隊ルート","translation":">Shdow","id":"stage_route_000007"}
+{"text":"国連協力ルート","translation":">UN Cop","id":"stage_route_000008"}
+{"text":"宇宙ルート","translation":">Spce","id":"stage_route_000009"}
+{"text":"トリニティ追跡ルート","translation":">Trinity","id":"stage_route_000010"}
+{"text":"獣人決戦ルート","translation":">Bstmen","id":"stage_route_000011"}
+{"text":"対異星人ルート","translation":">Aliens","id":"stage_route_000012"}
+{"text":"日本／ソレスタルビーイング追跡","translation":"Japan/CB Purs","id":"stage_route_000013"}
+{"text":"分岐シナリオ：日本ルート選択","translation":">Japan Route","id":"stage_route_000014"}
+{"text":"日本ルート選択","translation":">Japan","id":"stage_route_000015"}
+{"text":"分岐シナリオ：ＣＢ追跡ルート選択","translation":">CB Purs Route","id":"stage_route_000016"}
+{"text":"ソレスタルビーイング追跡ルート選択","translation":">CB Pursuit","id":"stage_route_000017"}
+{"text":"選択","translation":"OK","id":"stage_route_000018"}
+{"text":"表部隊／裏部隊","translation":"Pub/Shd","id":"stage_route_000019"}
+{"text":"分岐シナリオ：表部隊ルート選択","translation":">Public Route","id":"stage_route_000020"}
+{"text":"表部隊ルート選択","translation":">Public","id":"stage_route_000021"}
+{"text":"分岐シナリオ：裏部隊ルート選択","translation":">Shadow Route","id":"stage_route_000022"}
+{"text":"裏部隊ルート選択","translation":">Shadow","id":"stage_route_000023"}
+{"text":"国連協力／宇宙／エリア１１","translation":"UN/Space/A11","id":"stage_route_000024"}
+{"text":"分岐シナリオ：国連協力ルート選択","translation":">UN Coop Route","id":"stage_route_000025"}
+{"text":"国連協力ルート選択","translation":">UN Coop","id":"stage_route_000026"}
+{"text":"分岐シナリオ：宇宙ルート選択","translation":">Space Route","id":"stage_route_000027"}
+{"text":"宇宙ルート選択","translation":">Space","id":"stage_route_000028"}
+{"text":"分岐シナリオ：エリア１１ルート選択","translation":">Area 11 Route","id":"stage_route_000029"}
+{"text":"エリア１１ルート選択","translation":">Area 11","id":"stage_route_000030"}
+{"text":"日本／ソレスタルビーイング／エリア１１","translation":"JP/CB/Area 11","id":"stage_route_000031"}
+{"text":"分岐シナリオ：ＣＢルート選択","translation":">CB Route","id":"stage_route_000032"}
+{"text":"トリニティ追跡ルート選択","translation":">Trinity","id":"stage_route_000033"}
+{"text":"暗黒大陸／宇宙","translation":"Dk/Sp","id":"stage_route_000034"}
+{"text":"分岐シナリオ：暗黒大陸ルート選択","translation":">Dark Route","id":"stage_route_000035"}
+{"text":"獣人決戦ルート選択","translation":">Bstmen","id":"stage_route_000036"}
+{"text":"対異星人ルート選択","translation":">Aliens","id":"stage_route_000037"}

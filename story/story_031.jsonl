@@ -1,0 +1,528 @@
+{"text":"敵の全滅。","translation":"Defeat all enemies.","id":"000580"}
+{"text":"タケルの撃墜。","translation":"Takeru is shot down.","id":"000598"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"0005A8"}
+{"text":"５ターン以内に敵を全滅させる。","translation":"Defeat all enemies within 5 turns.","id":"0005C8"}
+{"text":"「何が起こっている！？\n　どこかからの砲撃なのか！？」","translation":"What's happening!? Is that shelling coming from somewhere!?","id":"000C40"}
+{"text":"「いえ…！\n　レーダーに機影はありません！」","translation":"No...! There are no contacts on radar!","id":"000C80"}
+{"text":"「ハハハッ！　爆弾を落とせるのは\n　ロボットだけじゃねえんだぜ！！」","translation":"Hahaha! Robots aren't the only ones who can drop bombs!!","id":"000CB8"}
+{"text":"「くろがね屋の安さん！」","translation":"Mr. Yasu from Kurogane-ya!","id":"000DE0"}
+{"text":"「おう、久しぶりだな！\n　甲児に頼まれて、助けにきたぜ！」","translation":"Hey, long time no see! Koji asked me to come help!","id":"000E00"}
+{"text":"「馬鹿め！\n　生身でギシン星の超能力者に勝てるものか！」","translation":"Fool! There's no way a flesh-and-blood human can beat a Gishin ESP user!","id":"000E40"}
+{"text":"「そいつはどうかな！」","translation":"We'll see about that!","id":"000E80"}
+{"text":"「な、何だ、こいつの怪力は！？」","translation":"W-What is with this guy's monstrous strength!?","id":"000EA0"}
+{"text":"「先生！　こいつらをナマスにしてやんな！」","translation":"Sensei! Turn these guys into mincemeat!","id":"000ED0"}
+{"text":"「！」","translation":"!","id":"000F08"}
+{"text":"「ひいっ！」","translation":"Eek!","id":"001078"}
+{"text":"「相変わらず、おっとろしいねぇ！\n　先生のポン刀の切れ味は！」","translation":"Still as terrifying as ever! Sensei's katana is sharp as ever!","id":"001090"}
+{"text":"「何をしている！\n　衝撃波やエネルギー電撃を使え！」","translation":"What are you doing!? Use your shockwaves and energy bolts!","id":"0010D8"}
+{"text":"「地球人をナメんじゃねえ！」","translation":"Don't underestimate us Earthlings!","id":"001118"}
+{"text":"「おらおら！\n　そんな手品に騙されるかよ！」","translation":"C'mon, c'mon! You think we're gonna fall for a trick like that!?","id":"001140"}
+{"text":"「大・雪・山・おろしぃぃぃっ！！」","translation":"Dai-Setsuzan-Oroshiii!!","id":"001178"}
+{"text":"「目だ！　耳だ！　鼻だっ！！」","translation":"Eyes! Ears! Nose!!","id":"0011A0"}
+{"text":"「すげえ…」","translation":"Amazing...","id":"0011C8"}
+{"text":"「超能力者を生身で…」","translation":"Taking on ESP users in the flesh...","id":"0011E0"}
+{"text":"「ほらほら、坊ちゃん達。\n　ぼーっと見てないで手伝っておくれ」","translation":"Come on, boys. Don't just stand there gawking, lend a hand.","id":"001200"}
+{"text":"「こ、このババア！」","translation":"Y-You old hag!","id":"001248"}
+{"text":"「あらやだね、乱暴な御人だよ。\n　ほいさ」","translation":"My, my, what a rude fellow you are. There.","id":"001268"}
+{"text":"「ひげえええ！　い、糸が食い込む！！」","translation":"Gyaaah! Th-the thread is cutting into me!!","id":"001298"}
+{"text":"「ほほほ、超合金Ｚ製だからね。\n　暴れれば暴れるほど、食い込んでいくよ」","translation":"Hohoho, it's made of Super Alloy Z. The more you struggle, the deeper it'll bite in.","id":"0012C8"}
+{"text":"「きょ、距離をとれ！\n　接近戦では精神を集中する前に\n　やられる！」","translation":"K-Keep your distance! In close combat, they'll take us out before we can focus our minds!","id":"001318"}
+{"text":"「そうはいくかよ！」","translation":"Like hell we will!","id":"001360"}
+{"text":"「うわああっ！」","translation":"Aaaagh!","id":"001600"}
+{"text":"「逃げても無～駄なんだな」","translation":"Running away is use~less.","id":"001620"}
+{"text":"「よくやった、ジャンゴ。\n　お客人達もさすがです」","translation":"Well done, Django. Our guests are quite impressive as well.","id":"001648"}
+{"text":"「これ位、軽い軽い」","translation":"This is nothing. Easy, easy.","id":"001688"}
+{"text":"「$cスナイパーチームの\n　狙い撃ちまくりショーだ」","translation":"$cIt's the Sniper Team's shoot-'em-up show.","id":"0016A8"}
+{"text":"「相手にとっちゃ不幸でしたね」","translation":"Unlucky for them.","id":"0016E8"}
+{"text":"「母親を人質に取るような連中だ。\n　自業自得だな」","translation":"They're the kind of scum who'd take a mother hostage. Serves them right.","id":"001710"}
+{"text":"「ええい！　怯むな！\n　数なら、こちらが上だ！」","translation":"Damn it! Don't falter! We've got the numbers on our side!","id":"001750"}
+{"text":"「果たして、そうかな！？」","translation":"Are you sure about that?!","id":"001788"}
+{"text":"「こんな卑怯なやり方を僕は認めない！」","translation":"I won't accept such cowardly tactics!","id":"0017B0"}
+{"text":"「手加減はしない！」","translation":"I won't hold back!","id":"0017E0"}
+{"text":"「つ、強い…！\n　何なんだ、こいつらは！？」","translation":"Th-They're strong...! Who are these guys?!","id":"001800"}
+{"text":"「下調べが甘かったな。\n　$cはタケルの\n　ボディガードも兼ねてるのさ」","translation":"Your intel was sloppy. $c also doubles as Takeru's bodyguard.","id":"001838"}
+{"text":"「やるもんだな、$n！\n　そいつは合気道か？」","translation":"Nice moves, $n! Was that aikido?","id":"001880"}
+{"text":"「システマだよ。\n　フ…昔取った杵柄ってやつさ」","translation":"It's Systema. Heh... just putting old skills to good use.","id":"0018B8"}
+{"text":"（なるほどね…。\n　過去の経歴は伊達じゃないってわけか）","translation":"I see... So your past experience wasn't just for show.","id":"0018F0"}
+{"text":"「ぐはっ！」","translation":"Guh!","id":"001938"}
+{"text":"「生身なら楽勝だと思ったら、大間違いだぜ」","translation":"If you thought it'd be easy just because we're on foot, you were dead wrong.","id":"001950"}
+{"text":"「ええい、兵員輸送機で蹴散らせ！」","translation":"Damn it, scatter them with the troop transport!","id":"001988"}
+{"text":"「…！」","translation":"...!","id":"001C90"}
+{"text":"「な…！　ハンドガンで撃ち落とされた！」","translation":"Wha...?! It was shot down by a handgun!","id":"001D40"}
+{"text":"「いい銃だな」","translation":"Nice gun.","id":"001D70"}
+{"text":"「バハウザーＭ５７１…アーマーマグナムだ」","translation":"A Bahauzer M571... an Armor Magnum.","id":"001D88"}
+{"text":"「お、恐るべし、地球人！\n　恐るべし、$c！」","translation":"T-Terrifying, Earthlings! Terrifying, $c!","id":"001DC0"}
+{"text":"「気付くのがおせえんだよ！」","translation":"Took you long enough to notice!","id":"001DF8"}
+{"text":"「マシンを使わなくとも\n　俺達は戦えるのさ！」","translation":"We can fight even without our machines!","id":"001E20"}
+{"text":"「そこまでだ！」","translation":"That's far enough!","id":"001E58"}
+{"text":"「タケル！」","translation":"Takeru!","id":"001FD0"}
+{"text":"「母さん！」","translation":"Mom!","id":"001FE8"}
+{"text":"「タケル！\n　ここは俺達に任せて、お袋さんを！！」","translation":"Takeru! Leave this to us and go save your mother!","id":"002000"}
+{"text":"「わかった！」","translation":"Got it!","id":"002038"}
+{"text":"「ギシン星人！\n　母さんを返してもらうぞ！」","translation":"Gishin! Give me back my mother!","id":"002150"}
+{"text":"「それ程までに母親が恋しいか？」","translation":"Do you miss your mother that much?","id":"002188"}
+{"text":"「お前は…！」","translation":"You...!","id":"0021B0"}
+{"text":"「マーズ…地球名、明神タケル。\n　お前の生命をもらう！」","translation":"Mars... Earth name, Takeru Myojin. I will take your life!","id":"0021C8"}
+{"text":"「マーグ！」","translation":"Marg!","id":"002208"}
+{"text":"「マーグって…！\n　じゃあ、あれがタケルの兄さんか！」","translation":"Marg...? Then that's Takeru's brother!","id":"002220"}
+{"text":"「だが、あいつの生命をもらうって言ったぞ！」","translation":"But he said he'd take Takeru's life!","id":"002260"}
+{"text":"「いったいどうしたっていうんだ、マーグ！\n　俺の兄はそんな男じゃなかった！」","translation":"What happened to you, Marg!? My brother was never like this!","id":"002298"}
+{"text":"「兄だって？\n　ハハハハハハ、俺は独りだ！\n　弟を持った覚えはない！」","translation":"Brother, you say? Hahahahahaha! I am alone! I don't recall ever having a younger brother!","id":"0022F0"}
+{"text":"「問答無用！　行くぞ、マーズ！」","translation":"Enough talk! Let's go, Mars!","id":"002340"}
+{"text":"「うわああっ！！」","translation":"Aaaah!!","id":"002548"}
+{"text":"「どうだ、マーズ！\n　超能力の使い過ぎで力が出まい！」","translation":"How's that, Mars? You've overused your ESP, so you can't muster your strength now!","id":"002568"}
+{"text":"「く…うう…！」","translation":"Kuh... ugh...!","id":"0025A8"}
+{"text":"「マーグ隊長！\n　この地球人達は恐るべき力を持っています！\n　ここは後退を！」","translation":"Captain Marg! These Earthlings possess terrifying power! We should retreat!","id":"0025C0"}
+{"text":"「よし…！\n　ならば、後は戦闘メカで勝負をつける！」","translation":"Fine...! Then we'll settle this with battle mecha!","id":"002618"}
+{"text":"「タケルーッ！！」","translation":"Takeru!!","id":"002658"}
+{"text":"「母さん…マーグ…」","translation":"Mom... Marg...","id":"0027B0"}
+{"text":"「情けない声を出すんじゃないよ」","translation":"Don't go making pathetic noises.","id":"0027D0"}
+{"text":"「女将…！　タケルはな！」","translation":"Madam...! Takeru, he...","id":"0027F8"}
+{"text":"「泣いてる暇があったら、出来る事をやんな。\n　お袋さんを助けたいんだろ」","translation":"If you've got time to cry, do what you can. You want to save your mother, don't you?","id":"002818"}
+{"text":"「俺の出来る事…」","translation":"What I can do...","id":"002868"}
+{"text":"「マーズ！\n　ここでお前の息の根を止めてくれる！」","translation":"Mars! I'll put an end to you here and now!","id":"0029A8"}
+{"text":"「マーグ！\n　あの戦艦に母さんも乗っているのか！？」","translation":"Marg! Is my mother on that battleship too!?","id":"0029E8"}
+{"text":"「お袋さんは待ってるよ。\n　あんたが来るのを」","translation":"Your mother's waiting. Waiting for you to come.","id":"002A28"}
+{"text":"「俺の出来る事…それは…！」","translation":"What I can do... that's...!","id":"002A60"}
+{"text":"「ガイヤー！」","translation":"Gaia!","id":"002A88"}
+{"text":"「六神合体ーっ！！」","translation":"Six Gods Combine!!","id":"002BC0"}
+{"text":"「ゴッドマーズ！\n　マーズの超能力は限界では\n　なかったのか！？」","translation":"God Mars! Wasn't Mars's ESP at its limit!?","id":"002C80"}
+{"text":"「母を求める想いが力となったか…！」","translation":"So his desire to find his mother became his strength...!","id":"002CC8"}
+{"text":"「下らん…！\n　その想いごと、叩き潰してやれ！」","translation":"Pathetic...! Crush him, along with those feelings!","id":"002CF8"}
+{"text":"「は…！」","translation":"Yes, sir...!","id":"002D30"}
+{"text":"「マーグ！\n　お前がどういうつもりか知らないが、\n　母さんは返してもらう！」","translation":"Marg! I don't know what you're after, but you're giving my mother back!","id":"002D40"}
+{"text":"「行くぞ、ゴッドマーズ！\n　俺の怒りを力に変えろ！」","translation":"Let's go, God Mars! Turn my anger into power!","id":"002D98"}
+{"text":"「機械獣軍団！」","translation":"Mechanical Beast Corps!","id":"002F18"}
+{"text":"「マーグとやら、\n　よくぞ地球にいらした」","translation":"Marg, was it? Welcome to Earth.","id":"002F30"}
+{"text":"「奴は何者だ？」","translation":"Who is he?","id":"002F68"}
+{"text":"「この星での協力者、\n　Ｄｒ．ヘルの部下、あしゅら男爵です」","translation":"An ally of ours on this planet: Baron Ashura, one of Dr. Hell's subordinates.","id":"002F80"}
+{"text":"「就任の祝いとして我が主、Ｄｒ．ヘルより\n　援軍を送らせていただこう」","translation":"As congratulations on your appointment, my master, Dr. Hell, will send you reinforcements.","id":"002FC8"}
+{"text":"「余計な事をしてくれる…」","translation":"How unnecessary...","id":"003018"}
+{"text":"「暗黒大陸ではギシン星諜報長官の\n　サグールという男が、あしゅら男爵といた」","translation":"On the Dark Continent, there was a man named Sagur, the Gishin intelligence chief, with Baron Ashura.","id":"003040"}
+{"text":"「やはり、ギシン星人はＤｒ．ヘルと\n　手を組んだのか！」","translation":"So the Gishin really have joined forces with Dr. Hell!","id":"003098"}
+{"text":"「その通りよ、明神タケル！\n　貴様は半殺しにして、反陽子爆弾は\n　宇宙で爆発させてくれる！」","translation":"That's right, Takeru Myojin! We'll beat you half to death, then detonate the antiproton bomb in space!","id":"0030D8"}
+{"text":"「そうはさせるかよ！」","translation":"Like hell you will!","id":"003140"}
+{"text":"「$c！」","translation":"$c!","id":"003320"}
+{"text":"「待たせたな、タケル！\n　生身での戦いは役に立てなかったが、\n　こっからは援護するぜ！」","translation":"Sorry to keep you waiting, Takeru! I couldn't do much fighting on foot, but from here on, I'll back you up!","id":"003330"}
+{"text":"「お前はお母さんの救出に専念しろ！\n　他の敵は俺達が引き受ける！」","translation":"You focus on rescuing your mother! We'll handle the other enemies!","id":"003390"}
+{"text":"「了解です！」","translation":"Understood!","id":"0033E0"}
+{"text":"「マーズ、これを見ろ！」","translation":"Mars, look at this!","id":"0033F8"}
+{"text":"「………」","translation":".........","id":"003538"}
+{"text":"「ひどい…！\n　女の人をブリッジから吊り下げてる！」","translation":"How terrible...! They're hanging a woman from the bridge!","id":"003548"}
+{"text":"「あれが明神タケルの母親か…！」","translation":"So that's Takeru Myojin's mother...!","id":"003588"}
+{"text":"「マーズよ、母を助けたくば、\n　我等の軍門に下れ！」","translation":"Mars, if you wish to save your mother, then submit to our command!","id":"0035B0"}
+{"text":"「ズールに従えだと！？」","translation":"You want me to obey Zuul!?","id":"0035F0"}
+{"text":"「さもなくば、母親を…！」","translation":"Otherwise, your mother will...!","id":"003610"}
+{"text":"「ミシェル！　ロックオン！」","translation":"Michel! Lock on!","id":"003630"}
+{"text":"「駄目だ…！\n　さすがに距離があり過ぎる！」","translation":"No good...! It's just too far away!","id":"003658"}
+{"text":"「ロープだけを狙撃するのは無理だ！」","translation":"I can't snipe just the rope!","id":"003690"}
+{"text":"「さあ決めろ、マーズ！\n　我等と共に行くか、母の生命か！」","translation":"Now choose, Mars! Will you come with us, or your mother's life?","id":"0036C0"}
+{"text":"「俺は…」","translation":"I...","id":"003700"}
+{"text":"「何だ、あのロボットは！？」","translation":"What is that robot!?","id":"003918"}
+{"text":"「あれは！」","translation":"That's...!","id":"003940"}
+{"text":"「バルディオス！　亜空間突入！！」","translation":"Baldios! Entering subspace!!","id":"003A18"}
+{"text":"「何っ！？」","translation":"What!?","id":"003AE8"}
+{"text":"「その人は返してもらうぞ！！」","translation":"We're taking her back!!","id":"003B00"}
+{"text":"「いかん！　人質が奪われた！」","translation":"Damn it! The hostage has been taken!","id":"003BE8"}
+{"text":"「こうなれば！\n　あのロボットごと、マーズの母親を！！」","translation":"If it has to be this way, then I'll take out Mars's mother along with that robot!!","id":"003C10"}
+{"text":"「そうはさせるかってんだ！」","translation":"Not gonna let you do that!","id":"003D10"}
+{"text":"「邪魔をするならば、貴様もっ！！」","translation":"If you interfere, then you too!!","id":"003DD8"}
+{"text":"「ゴッドシールド！！」","translation":"God Shield!!","id":"003E00"}
+{"text":"「ゴッドシグマに、そんな攻撃が効くかよ！」","translation":"As if an attack like that would work on God Sigma!","id":"003EE0"}
+{"text":"「助かったぞ、闘志也！」","translation":"You saved us, Toshiya!","id":"003F18"}
+{"text":"「バルディオス！　それにゴッドシグマも！」","translation":"Baldios! And God Sigma too!","id":"004018"}
+{"text":"「久しぶりだな、キラ！\n　みんなの可愛いキラケンだぞ！」","translation":"Long time no see, Kira! It's your adorable Kiraken!","id":"004048"}
+{"text":"「もう少しマシな挨拶はないのかね…」","translation":"Couldn't you come up with a slightly better greeting...?","id":"004090"}
+{"text":"「まったく！\n　戦闘中だってのに緊張感のない奴だ！」","translation":"Honestly! We're in the middle of a battle, and he's acting so carefree!","id":"0040C0"}
+{"text":"「そういきり立つなって。\n　人質は無事に救出したんだから」","translation":"Don't get so worked up. We rescued the hostage safely, didn't we?","id":"004100"}
+{"text":"「母さん！　無事なのか！？」","translation":"Mom! Are you okay!?","id":"004148"}
+{"text":"「大丈夫よ、タケル！」","translation":"I'm fine, Takeru!","id":"004170"}
+{"text":"「お袋さんはくろがね屋が守る！\n　後は奴等をぶっ潰しな！」","translation":"Leave your mother to Kurogane-ya! You just crush those bastards!","id":"004190"}
+{"text":"「おう！　言われるまでもないぜ！」","translation":"Yeah! You don't have to tell me twice!","id":"0041D8"}
+{"text":"「マリンの兄ちゃん、闘志也の兄ちゃん！\n　あんた達も跳ばされてたのかよ！」","translation":"Big bro Marin, big bro Toshiya! You guys got sent here too!?","id":"004200"}
+{"text":"「詳しい話は後だ！\n　まずはギシン星人を倒すぞ！」","translation":"We'll talk later! First, let's take down the Gishin!","id":"004250"}
+{"text":"「俺達も$cに協力する！\n　行くぞ！」","translation":"We'll help $c too! Let's go!","id":"004290"}
+{"text":"「彼等もＺＥＵＴＨのメンバーか？」","translation":"Are they members of ZEUTH too?","id":"0042C0"}
+{"text":"「バルディオスにゴッドシグマ。\n　頼もしい仲間です」","translation":"Baldios and God Sigma. They're reliable allies.","id":"0042F0"}
+{"text":"「新たなスーパーロボットの仲間入りだ！\n　俺達も負けちゃいられないぜ！」","translation":"We've got new Super Robots on our side! We can't let them outdo us!","id":"004330"}
+{"text":"「………」","translation":"………","id":"004380"}
+{"text":"「明神タケル。\n　兄の事はお前自身が決着をつけろ」","translation":"Takeru Myojin. Settle things with your brother yourself.","id":"004398"}
+{"text":"「ゼロの言う通りだ。\n　ここからの判断は君自身に任せる」","translation":"Zero's right. What happens from here is up to you.","id":"0043D0"}
+{"text":"「周りの雑魚共は俺達に任せろ！」","translation":"Leave the grunts around here to us!","id":"004418"}
+{"text":"「奴が許せねえんなら、お前の手で倒せ」","translation":"If you can't forgive him, then take him down with your own hands.","id":"004440"}
+{"text":"「だが、奴を信じたいんなら、\n　お前が自分の力で何とかしろ！」","translation":"But if you want to believe in him, then do something about it with your own strength!","id":"004470"}
+{"text":"「決めるのは、お前自身だ」","translation":"You're the one who has to decide.","id":"0044B8"}
+{"text":"「俺の心は…！」","translation":"My heart...!","id":"0044D8"}
+{"text":"「敵の全滅を確認しました」","translation":"All enemies have been eliminated.","id":"004850"}
+{"text":"「人質の救出は成功し、\n　ギシン星、Ｄｒ．ヘルの混成軍を\n　打ち破る事は出来た」","translation":"We succeeded in rescuing the hostages, and were able to defeat the combined Gishin Star and Dr. Hell forces.","id":"004878"}
+{"text":"「でも、タケルちゃんは…」","translation":"But Takeru...","id":"0048D8"}
+{"text":"（兄さん…。\n　俺達は戦わなくてはならないのか…）","translation":"Brother... Do we really have to fight each other...?","id":"004900"}
+{"text":"（俺は…どうすればいいんだ…）","translation":"What am I supposed to do...?","id":"004940"}
+{"text":"「マーグ、思い出せ！\n　俺達は双子の兄弟…\n　共に宇宙の平和のために戦うと誓った！」","translation":"Marg, remember! We're twin brothers... We swore we'd fight together for peace in the universe!","id":"004A88"}
+{"text":"「世迷い言を！\n　俺に兄弟などいない！」","translation":"What nonsense! I have no brother!","id":"004AE8"}
+{"text":"「くっ…！　こうなったら、テレパシーで\n　直接、脳に語りかける！」","translation":"Ugh...! If it comes to this, I'll use telepathy to speak directly to his mind!","id":"004B18"}
+{"text":"「うっ…！」","translation":"Ugh...!","id":"004C48"}
+{"text":"「これは…！」","translation":"This is...!","id":"004C60"}
+{"text":"「皇帝ズールはマーグの精神を改造したのか！」","translation":"Did Emperor Zuul alter Marg's mind?!","id":"004C78"}
+{"text":"「マーズ！\n　よくも俺の心の奥を覗いたな！」","translation":"Mars! How dare you peer into the depths of my heart!","id":"004CB0"}
+{"text":"「やめろ、マーグ！\n　お前は精神制御を受けてるんだ！」","translation":"Stop, Marg! You're being mind-controlled!","id":"004CE8"}
+{"text":"「黙れ！　お前は俺の敵だ！\n　敵なんだ！」","translation":"Shut up! You're my enemy! My enemy!","id":"004D28"}
+{"text":"「駄目だ…！\n　マーグを止めるためには、\n　この艦を落とすしかない！」","translation":"No...! If I'm going to stop Marg, I'll have to bring this ship down!","id":"004D60"}
+{"text":"「マーグ！！」","translation":"Marg!!","id":"004F30"}
+{"text":"「マーズめ、覚えていろ！\n　必ず…必ずお前を、この手で倒す！！」","translation":"Mars, remember this! I will... I will defeat you with my own hands!!","id":"004F48"}
+{"text":"「マーグ…」","translation":"Marg...","id":"005270"}
+{"text":"「ば、馬鹿な！\n　ゴーストファイヤーまでも敗れるとは！」","translation":"I-Impossible! Even Ghostfire was defeated?!","id":"005328"}
+{"text":"「見たか、あしゅら！\n　俺達は日々強くなっているんだ！」","translation":"See that, Ashura? We're getting stronger every day!","id":"005370"}
+{"text":"「お、おのれ…！\n　これは戦略を立て直さねばならん！\n　後退しろ、ゴーストファイヤー！」","translation":"D-Damn you...! We'll have to rethink our strategy! Fall back, Ghostfire!","id":"0053B0"}
+{"text":"「覚悟しろ、マーズ！\n　ズール皇帝の命により、お前を討つ！」","translation":"Prepare yourself, Mars! By order of Emperor Zuul, I will strike you down!","id":"0054F0"}
+{"text":"「このまま戦うわけにはいかない…！\n　マーグの心変わりの理由を突き止めなくては！」","translation":"I can't keep fighting like this...! I have to find out why Marg changed like this!","id":"005538"}
+{"text":"「マーグと話をするぞ！\n　この宇宙でたった一人の兄さんを\n　信じられなくてどうするんだ！」","translation":"I'm going to talk to Marg! How can I not trust the only brother I have in this universe?!","id":"005598"}
+{"text":"「よくも俺の心を覗いたな、マーズ！\n　お前は絶対に許さない！」","translation":"How dare you peer into my heart, Mars! I'll never forgive you!","id":"0056D8"}
+{"text":"「マーグに戦いをやめさせるには\n　この艦を落とすしかない…！」","translation":"If I'm going to make Marg stop fighting, I'll have to bring this ship down...!","id":"005720"}
+{"text":"「許せ、マーグ！\n　少しの間、我慢してくれ！！」","translation":"Forgive me, Marg! Just bear with this for a little while!!","id":"005768"}
+{"text":"「あんたはタケルの兄さんなんだろ！\n　何だって、こんな事をするんだ！？」","translation":"You're Takeru's brother, aren't you!? Why would you do something like this!?","id":"005880"}
+{"text":"「マーズの抹殺はズール皇帝の望み！\n　俺はそれを忠実に実行するのみ！」","translation":"The elimination of Mars is Emperor Zuul's wish! I am merely carrying it out faithfully!","id":"0058D0"}
+{"text":"「くそっ！\n　わかってくれないのなら、\n　戦うしかないのかよ！」","translation":"Damn it! If you won't understand, then I guess we have no choice but to fight!","id":"005920"}
+{"text":"「くっ…」","translation":"Tch...","id":"005A48"}
+{"text":"「何やってるのよ、赤木君！」","translation":"What are you doing, Akagi?!","id":"005A58"}
+{"text":"「相手はこっちを殺す気で来てるんだ！\n　迷ってる場合じゃないぞ！」","translation":"They're coming at us to kill us! Now's not the time to hesitate!","id":"005A80"}
+{"text":"「だけど、相手はタケルの兄さんだ！\n　戦うわけには…」","translation":"But he's Takeru's brother! We can't fight him...","id":"005AC8"}
+{"text":"「臆病者め！\n　戦う気がないのなら、俺の前から消えろ！」","translation":"Coward! If you have no intention of fighting, get out of my sight!","id":"005B08"}
+{"text":"「このわからず屋が！\n　タケルの気持ちを考えろ！！」","translation":"You stubborn idiot! Think about how Takeru feels!!","id":"005B48"}
+{"text":"「やめろよ！\n　タケルさんは戦いたくないって\n　言ってんだぞ！」","translation":"Stop it! Takeru said he doesn't want to fight!","id":"005CC8"}
+{"text":"「奴にその気がなくとも俺にはある！\n　それがズール皇帝の望みだ！」","translation":"Whether he wants to or not, I do! That is Emperor Zuul's wish!","id":"005D10"}
+{"text":"「兄ちゃんなのに、どうして弟の気持ちが\n　わかってやれないんだよ！」","translation":"You're his big brother, so why can't you understand how your little brother feels?!","id":"005D60"}
+{"text":"「もう怒ったぞ！\n　タケルさんの代わりに俺が相手に\n　なってやる！」","translation":"Now I'm mad! I'll take Takeru's place and fight you!","id":"005DB0"}
+{"text":"「やいやいやいやい！\n　てめえ、俺の話を聞きやがれ！」","translation":"Hey, hey, hey, hey! You better listen to what I've got to say!","id":"005F00"}
+{"text":"「兄と弟…！\n　てめえとタケルは強い血の絆で結ばれてるんじゃ\n　ねえのかよ！」","translation":"Brothers...! Aren't you and Takeru bound by a blood tie stronger than anything?!","id":"005F40"}
+{"text":"「俺に弟などいない！」","translation":"I have no younger brother!","id":"005F98"}
+{"text":"「大事な弟を忘れちまったってのかよ！\n　だったら、その頭を俺がぶん殴って\n　思い出させてやる！」","translation":"So you've forgotten your own precious little brother?! Then I'll smash that head of yours and make you remember!","id":"005FB8"}
+{"text":"「お前が大事なものを取り戻す手伝いだ！\n　心して喰らいやがれ！！」","translation":"I'll help you get back what's important to you! Brace yourself and take this!!","id":"006020"}
+{"text":"「あいつは兄貴に会えた日…\n　本当に嬉しそうだった」","translation":"He was so happy the day he finally met his brother...","id":"006190"}
+{"text":"「この宇宙に只一人の血の繋がった肉親…。\n　その気持ちは、お前も同じだったはずだ」","translation":"The only blood relative he had in this universe... You must have felt the same way.","id":"0061C8"}
+{"text":"「知らんな。\n　あの男は俺にとって敵でしかない」","translation":"I don't know him. That man is nothing but an enemy to me.","id":"006220"}
+{"text":"「兄弟が殺し合う…。\n　そんな事があっちゃならねえな」","translation":"Brothers killing each other... That should never happen.","id":"006258"}
+{"text":"「お前の相手は俺がする…。\n　タケルには指一本、触れさせやしねえ！」","translation":"I'm the one you'll be dealing with... I won't let you lay a finger on Takeru!","id":"006298"}
+{"text":"「ＺＥＵＴＨのみんなに再会したと思ったら、\n　いきなり戦闘とは驚いたわ！」","translation":"Just when I thought I'd finally reunited with everyone from ZEUTH, we're thrown straight into battle! What a surprise!","id":"006400"}
+{"text":"「早速、切り札として用意されていた俺達が\n　役に立ったってわけか」","translation":"So the trump card they had ready from the start turned out to be us, huh?","id":"006458"}
+{"text":"「そういうこった！\n　ここがどこの地球だろうと悪党は\n　許しちゃおけねえ！」","translation":"That's right! No matter what Earth this is, we can't let scum like them get away with it!","id":"0064A8"}
+{"text":"「行くぞ、ジュリィ、キラケン！\n　ゴッドシグマの力を奴等に見せてやるんだ！」","translation":"Let's go, Julie, Kiraken! Let's show them the power of God Sigma!","id":"006500"}
+{"text":"「マリン！\n　久しぶりだからって、ヘマすんじゃねえぞ！」","translation":"Marin! Just because it's been a while, don't go screwing up!","id":"006658"}
+{"text":"「さっきの亜空間突入を見ての通りだ！\n　お前達こそ、俺の足を引っ張るなよ！」","translation":"You saw that subspace entry just now! You guys are the ones who better not slow me down!","id":"006698"}
+{"text":"「いいねえ、その憎まれ口。\n　やっぱり、しっくりくるぜ」","translation":"Now that's more like it, that smart mouth. Yeah, that feels right.","id":"0066F0"}
+{"text":"「おう！　ここがどこだろうと\n　お前達がいれば、そんな事は関係ねえ！」","translation":"Yeah! I don't care where this place is, as long as I've got you guys with me, none of that matters!","id":"006738"}
+{"text":"「行くぞ、バルディオス！\n　再び集まった俺とオリバーと雷太の力、\n　お前に預ける！！」","translation":"Let's go, Baldios! I entrust you with the combined power of me, Oliver, and Raita, reunited once more!!","id":"006788"}
+{"text":"「あ！」","translation":"Ah!","id":"006908"}
+{"text":"ズール玉座","translation":"Zuul's Throne","id":"006B18"}
+{"text":"　\n　　\n　　　　　～ギシン星　皇帝ズール玉座～","translation":"~Gishin Star - Emperor Zuul's Throne Room~","id":"006B28"}
+{"text":"「…マーグ、気分はどうだ？」","translation":"...Marg, how are you feeling?","id":"006B58"}
+{"text":"「早く殺せ。\n　お前の顔など１秒も見たくはない」","translation":"Hurry up and kill me. I don't want to see your face for even a second.","id":"006B80"}
+{"text":"「貴様、ズール皇帝にそのような口を！」","translation":"How dare you speak to Emperor Zuul like that!","id":"006BB8"}
+{"text":"「構わん、ワール。\n　その強靭な精神こそが、ワシの求めるものだ」","translation":"It matters not, Warl. That indomitable spirit is exactly what I seek.","id":"006BE8"}
+{"text":"「俺をどうするつもりだ…！？\n　早く処刑しろ！」","translation":"What are you planning to do with me...!? Just execute me already!","id":"006C30"}
+{"text":"「処刑はするとも。\n　だが、お前の思っている方法ではない」","translation":"I will execute you, yes. But not in the way you think.","id":"006C68"}
+{"text":"「何っ！？」","translation":"What!?","id":"006CB0"}
+{"text":"「お前を改造する」","translation":"I am going to alter you.","id":"006CC8"}
+{"text":"「！」","translation":"!","id":"006CE8"}
+{"text":"「お前は記憶を消され、\n　ワシのために戦う戦士となるのだ。\n　目が覚めた時、お前は完全に生まれ変わる」","translation":"Your memories will be erased, and you'll become a warrior who fights for me. When you awaken, you'll be reborn.","id":"006CF8"}
+{"text":"「まさか、俺を…！」","translation":"You can't mean... me...?!","id":"006D68"}
+{"text":"「その通りだ。\n　お前はワシの忠実な下僕として\n　弟マーズと戦う事になるのだ」","translation":"That is correct. You will fight your younger brother, Mars, as my loyal servant.","id":"006D88"}
+{"text":"「待て！　ズール、待て！」","translation":"Wait! Zuul, wait!","id":"006DE0"}
+{"text":"「もう遅いわ！\n　絶望と恐怖の中に落ちていくがいい！」","translation":"It's too late! Sink into despair and fear!","id":"006E08"}
+{"text":"「マーズ！　マーズゥゥゥッ！！」","translation":"Mars! Maaaaars!!","id":"006E48"}
+{"text":"黒ベタ","translation":"Black screen","id":"006E70"}
+{"text":"ギシン星艦ブリッジ","translation":"Gishin Starship Bridge","id":"006E78"}
+{"text":"　\n　\n　　　　　～ギシン星戦艦　ブリッジ～","translation":"~Gishin Star Battleship - Bridge~","id":"006E90"}
+{"text":"「く…うう…」","translation":"Ngh... ugh...","id":"006EC0"}
+{"text":"「お目覚めになりましたか？」","translation":"Have you awakened?","id":"006ED8"}
+{"text":"「君は？」","translation":"Who are you?","id":"006F00"}
+{"text":"「私は、この度、隊長付きの副官となりました\n　ロゼです」","translation":"I am Rose, newly appointed as your adjutant.","id":"006F18"}
+{"text":"「隊長…？　俺の事か？」","translation":"Captain...? You mean me?","id":"006F58"}
+{"text":"「そうです。\n　本日付けをもって、あなたはギシン星の\n　前線戦闘隊長に任命されました」","translation":"Yes. As of today, you have been appointed the Gishin Star's frontline battle commander.","id":"006F78"}
+{"text":"「ご気分はいかがですか？」","translation":"How are you feeling?","id":"006FD8"}
+{"text":"「気分…うっ…」","translation":"How am I feeling... ugh...","id":"006FF8"}
+{"text":"「どうしたんだ、俺は？\n　何も思い出せない」","translation":"What's wrong with me? I can't remember anything.","id":"007010"}
+{"text":"「そのまま何も考えなさらないように。\n　隊長は全ての過去を消し去ったのです」","translation":"Please don't think about it. You have erased all of your past.","id":"007048"}
+{"text":"「何故？　何のために？」","translation":"Why? For what purpose?","id":"0070A0"}
+{"text":"「未来に生きるために」","translation":"So that you may live for the future.","id":"0070C0"}
+{"text":"「え…」","translation":"Huh...","id":"0070E0"}
+{"text":"「…もうすぐ地球に到着します」","translation":"...We will be arriving at Earth soon.","id":"0070F0"}
+{"text":"「地球…」","translation":"Earth...","id":"007118"}
+{"text":"「隊長が戦う相手、マーズのいる星。\n　マーズの所属する$cがいる\n　地球です」","translation":"Earth... the planet where Mars, the opponent you are to fight, is, and where the $c he belongs to is.","id":"007130"}
+{"text":"「俺が戦う相手…」","translation":"The one I'll fight...","id":"007180"}
+{"text":"「マーズについての情報は、\n　これより私がお教えします」","translation":"I will now tell you what you need to know about Mars.","id":"0071A0"}
+{"text":"「マーズ…俺の敵…」","translation":"Mars... my enemy...","id":"0071E0"}
+{"text":"オフィス","translation":"Office","id":"007200"}
+{"text":"　\n　　\n　　　　　　～某商社ビル　オフィス～","translation":"~A Certain Trading Company Building Office~","id":"007210"}
+{"text":"「…エルガン・ローディックの指定した場所は\n　ここか…」","translation":"...So this is the place Elgan Roddick specified...","id":"007240"}
+{"text":"「どうやら、彼がボートマンとして\n　活動する際に使用するダミー会社のようね」","translation":"It seems to be a dummy company he uses when operating as Boatman.","id":"007280"}
+{"text":"「…借金が最初の額の倍になったって！？」","translation":"...The debt doubled from the original amount!?","id":"0072D8"}
+{"text":"「…俺は金を貸したつもりが、\n　いつの間にかとんでもない額を借りていた」","translation":"...I thought I was lending money, but before I knew it, I'd borrowed an outrageous sum.","id":"007310"}
+{"text":"「頭がどうにかなりそうだった…。\n　詐欺とか、マルチ商法だとか、\n　そんなチャチなもんじゃ断じてねえ」","translation":"I thought I was going to lose my mind... This was definitely no cheap scam or pyramid scheme.","id":"007360"}
+{"text":"「もっと恐ろしいものの片鱗を…」","translation":"...just a glimpse of something far more terrifying.","id":"0073C8"}
+{"text":"「何言ってんだよ。\n　お前の安請け合いが原因じゃないか」","translation":"What are you talking about? This is your own fault for agreeing to it so easily.","id":"0073F0"}
+{"text":"「その通りですね。\n　法廷で争っても、まず勝てないでしょう」","translation":"That's right. Even if you fought it in court, you'd almost certainly lose.","id":"007430"}
+{"text":"「だからってよ…\n　いきなり２００万Ｇも引っ張ってくるか？」","translation":"Even so... did they really have to spring 2 million G on me all of a sudden?","id":"007478"}
+{"text":"「確かにフェアなやり方とは言えないが、\n　かと言って、詐欺とも言えまい」","translation":"It certainly wasn't a fair way of doing things, but that doesn't make it fraud, either.","id":"0074B8"}
+{"text":"「敢えて言わせてもらえば、上手いやり方だ」","translation":"If anything, I'd say it was a clever move.","id":"007510"}
+{"text":"「あんた、ネゴシエイターなんだろ。\n　何とかしてくれないか？」","translation":"You're a negotiator, right? Can't you do something about this?","id":"007548"}
+{"text":"「残念ながら、今回は商取引の話だ。\n　一度決まってしまった以上、\n　私が動いても、どうにもならないな」","translation":"Unfortunately, this is a business transaction. Once it's been settled, there isn't much I can do, even if I get involved.","id":"007590"}
+{"text":"「プロの口からも死亡宣告かよ…」","translation":"So even a pro's giving me a death sentence...","id":"007600"}
+{"text":"「文句があるんなら、踏み倒しちまえよ」","translation":"If you've got a problem with it, then just stiff 'em.","id":"007628"}
+{"text":"「いや…そんな事したら、\n　せっかくパワーアップしたブラスタが\n　差し押さえになっちまう」","translation":"No... if I did that, my newly upgraded Brasta would get seized.","id":"007658"}
+{"text":"「こうなりゃヤケだ。\n　金は天下の回りものと考えて、\n　またバリバリ働くさ」","translation":"At this point, to hell with it. Money comes and goes, so I'll just work my butt off and earn it back.","id":"0076B8"}
+{"text":"「その通りだ。\n　回りものだけに、あんたの所には\n　一瞬しか留まらなかったようだがな」","translation":"That's right. Though since it goes around, it seems it only stayed with you for a moment.","id":"007708"}
+{"text":"「上手いな、おい…！」","translation":"Damn, that's a good one...!","id":"007768"}
+{"text":"「だんだん、$nさんという人の事が\n　わかってきました…」","translation":"I'm starting to understand what kind of person $n is...","id":"007788"}
+{"text":"「最初はちょっと渋いかもって\n　思ってたんだけどね…」","translation":"At first, I thought you might be a little stiff, but...","id":"0077C8"}
+{"text":"「期待外れよね。\n　貧乏神でも取り憑いてんじゃない？」","translation":"What a letdown. Maybe you've got a poverty god attached to you or something?","id":"007810"}
+{"text":"「でも、それでも何とかしようってのは\n　立派じゃない」","translation":"But still, the fact that you're trying to do something about it is admirable.","id":"007850"}
+{"text":"「悪いな、お嬢さん方。\n　せっかくの御好意だが、俺は女嫌いでね」","translation":"Sorry, ladies. I appreciate the sentiment, but I don't care for women.","id":"007890"}
+{"text":"「調子に乗ってる！\n　借金持ちのくせに！」","translation":"Don't get carried away! You're in debt, remember?!","id":"0078D8"}
+{"text":"「女性が苦手とおっしゃってますが、\n　カイメラのあの人とは違うようですね」","translation":"You say you're bad with women, but you don't seem like that man from Chimera.","id":"007910"}
+{"text":"「『まんじゅう怖い』のようなもの？」","translation":"Is it like the story \"Manju Kowai\"?","id":"007960"}
+{"text":"「ありゃ、過去に女で痛い目に遭ってんじゃ\n　ないのかい？」","translation":"Maybe he got burned by a woman in the past or something?","id":"007990"}
+{"text":"「…いいもんだね。\n　ＺＥＵＴＨの女性陣は」","translation":"...The women of ZEUTH are really something, aren't they?","id":"0079D8"}
+{"text":"「いやいや、ご同輩。\n　$cも負けちゃいないぜ」","translation":"No, no, my friend. The women of $c are every bit as good.","id":"007A10"}
+{"text":"「ああ、これだけは時空震動に\n　巻き込まれた事を感謝しなくちゃな」","translation":"Yeah, this is one thing I have to be grateful for about getting caught up in that space-time disturbance.","id":"007A48"}
+{"text":"「フ…いいね、その前向きな所。\n　俺も見習いたいぜ」","translation":"Heh... I like that positive attitude. I ought to learn from it myself.","id":"007A90"}
+{"text":"「俺の父ちゃんが言ってたぜ。\n　どん底に落ちたら、後は上るだけだって」","translation":"My dad used to say, once you hit rock bottom, the only way is up.","id":"007AC8"}
+{"text":"「いいこと言うなぁ、勝平の父ちゃんは。\n　$nも聞いた？」","translation":"That's a great saying, Kappei's dad. You hear that, $n?","id":"007B18"}
+{"text":"「へいへい。\n　１歩進んで２歩下がっても\n　前向きに生きていきますよ…っと」","translation":"Yeah, yeah. Even if I take one step forward and two steps back, I'll keep living positive... or something.","id":"007B58"}
+{"text":"（元不良少女の夢を壊すわけにゃ\n　いかねえしな）","translation":"I can't go crushing the dreams of a former delinquent girl.","id":"007BA8"}
+{"text":"「…ここまでご足労、すまなかった」","translation":"...My apologies for making you come all this way.","id":"007BE0"}
+{"text":"「あれが国連の平和維持理事会代表、\n　エルガン・ローディックか」","translation":"So that's Elgan Roddick, representative of the UN Peacekeeping Council.","id":"007C10"}
+{"text":"「$cの創設者…。\n　三大国家からの干渉にも一歩も退かない\n　信念の人物…」","translation":"The founder of $c... A man of conviction who won't yield an inch, even to the three major powers...","id":"007C58"}
+{"text":"「強面の権力者にしては、\n　随分と腰が低いな…」","translation":"For an intimidating man in power, he's awfully humble...","id":"007CA8"}
+{"text":"「私は権力者とは言えんな。\n　故に君達に頼らねばならない」","translation":"I wouldn't call myself a man of power. That is why I must rely on you.","id":"007CE0"}
+{"text":"「やばいぞ、甲児…！\n　聞こえてたみたいだ」","translation":"This is bad, Koji...! Looks like he heard that.","id":"007D28"}
+{"text":"「す、すいません。\n　失礼な事を言ってしまって」","translation":"S-sorry. That was rude of me.","id":"007D60"}
+{"text":"「気にせんでくれ。\n　…これでも腰は低くするように\n　心がけているしな」","translation":"Don't worry about it. ...I do make an effort to stay humble, after all.","id":"007D98"}
+{"text":"「何だよ、話せるオッサンみたいだな」","translation":"What, he seems like an old guy you can actually talk to.","id":"007DE8"}
+{"text":"「だからと言って、オッサン呼ばわりされるのは\n　歓迎せんぞ」","translation":"That said, I don't appreciate being called an old man.","id":"007E18"}
+{"text":"「相当の地獄耳みたい。\n　これはお歳と侮れないわね」","translation":"You've got pretty sharp ears. Can't underestimate age, I guess.","id":"007E60"}
+{"text":"「すまんな。\n　もう少し若者との会話を楽しみたいが、\n　あまり余裕はない」","translation":"My apologies. I'd like to enjoy talking with you young people a little longer, but I don't have much time to spare.","id":"007E98"}
+{"text":"「私も…そして、この世界も」","translation":"Me as well... and this world, too.","id":"007EF0"}
+{"text":"「おっしゃる通りです」","translation":"Just as you say.","id":"007F18"}
+{"text":"「インペリウムの事ですね」","translation":"You mean Imperium, right?","id":"007F38"}
+{"text":"「それだけではないぞ。\n　人類の敵は他にもいる」","translation":"That is not all. There are other enemies of humanity as well.","id":"007F58"}
+{"text":"「$cの諸君には\n　それらと戦い、人類に未来をもたらして欲しい」","translation":"I want all of you in $c to fight them and bring humanity a future.","id":"007F98"}
+{"text":"「人類の未来…」","translation":"Humanity's future...","id":"007FE0"}
+{"text":"（そう…それはイオリア・シュヘンベルグの\n　求めるものでもある）","translation":"Yes... that is also what Aeolia Schenberg sought.","id":"007FF8"}
+{"text":"「私に出来る事は諸君等を集め、\n　バックアップする事だけだ」","translation":"All I can do is gather you all together and support you.","id":"008048"}
+{"text":"「申し訳ないが、ＺＥＵＴＨの諸君にも\n　現状では元の世界への帰還を\n　約束する事は出来ない」","translation":"I'm sorry, but as things stand, I can't promise ZEUTH they'll be able to return to their original world.","id":"008090"}
+{"text":"「顔をお上げ下さい、\n　エルガン・ローディック」","translation":"Please raise your head, Elgan Roddick.","id":"0080F8"}
+{"text":"「そちらの方は我々が自分達で\n　何とかしてみせましょう」","translation":"As for that, we'll find a way to handle it ourselves.","id":"008138"}
+{"text":"「もちろん、人を襲う怪物とだって戦うぜ。\n　俺達だって今はこの世界の人間だからな」","translation":"Of course we'll fight monsters that attack people too. We're people of this world now, after all.","id":"008180"}
+{"text":"「俺達、この世界に来てから日が浅いけど、\n　$cのみんなの事は\n　信じていいと思っている」","translation":"We haven't been in this world for very long, but I think we can trust everyone in $c.","id":"0081E0"}
+{"text":"「ついでと言っては何だけど、\n　あんたの事もな」","translation":"And while I'm at it, I think I can trust you too.","id":"008240"}
+{"text":"「そうか…。\n　改めて礼を言わせてもらおう」","translation":"I see... Then allow me to thank you once again.","id":"008278"}
+{"text":"（連合軍の一連の動きが\n　我々に知らされていなかった件…）","translation":"The matter of that series of movements by the Federation forces not being disclosed to us...","id":"0082B0"}
+{"text":"（この様子を見る限り、\n　エルガン代表の意図ではなかったと\n　見るべきなのかしら…）","translation":"Judging by this, should I assume that wasn't Representative Elgan's intention...?","id":"0082F8"}
+{"text":"「でも、大丈夫なのかな…。\n　俺達、以前も法と秩序のためって\n　綺麗事を言う奴に騙されたけど…」","translation":"But is this really okay...? We've been fooled before by people spouting pretty words about law and order...","id":"008358"}
+{"text":"「そうならないためにも\n　僕達は常に自分達の進む道を\n　よく考えなくちゃならないね」","translation":"To make sure that doesn't happen, we always have to think carefully about the path we choose.","id":"0083C0"}
+{"text":"「でも、俺は信じたいな。\n　あのエルガン・ローディックという人物を」","translation":"But I want to believe in him. In Elgan Roddick.","id":"008418"}
+{"text":"「………」","translation":".........","id":"008468"}
+{"text":"「どうしたの、アポロ？\n　あの人の事、疑ってるの？」","translation":"What's wrong, Apollo? Do you doubt that man?","id":"008480"}
+{"text":"「君の野性の勘が何かを感じたのかい？」","translation":"Did your wild instincts pick up on something?","id":"0084C0"}
+{"text":"「そういうわけじゃねえんだけどよ…。\n　何か、あの男…気になるんだ」","translation":"It's not exactly that... It's just... there's something about that guy that's bothering me.","id":"0084F0"}
+{"text":"「あのオッサンが俺達を騙してるって事か？」","translation":"You mean that old guy's trying to trick us?","id":"008540"}
+{"text":"「いや…あいつは嘘つきエーデルとは違う。\n　それはわかるんだが…」","translation":"No... he's not like that liar Edel. I know that much, but...","id":"008578"}
+{"text":"「わからない事は考えなくていいさ。\n　今は目の前の事を全力でやるだけだ」","translation":"If you don't understand something, don't waste time thinking about it. Right now, all we can do is give it everything we've got.","id":"0085C8"}
+{"text":"「そうだな」","translation":"Yeah, you're right.","id":"008618"}
+{"text":"「ありがとう、ＺＥＵＴＨ。\n　君達の協力に感謝する」","translation":"Thank you, ZEUTH. I appreciate your cooperation.","id":"008630"}
+{"text":"「他のＺＥＵＴＨ隊員の行方については、\n　私の方でも調査を進めている。\n　情報が入ったら、知らせよう」","translation":"I'm also investigating the whereabouts of the other ZEUTH members. I'll let you know if I get any information.","id":"008670"}
+{"text":"（万丈の兄ちゃん…\n　今頃、どうしてるのかな…）","translation":"I wonder how Banjo's doing right now...","id":"0086E0"}
+{"text":"（ラクス…）","translation":"Lacus...","id":"008718"}
+{"text":"（ディアナ様…\n　あなたも、この世界にいらっしゃるの\n　でしょうか…）","translation":"Lady Diana... I wonder if you're in this world too...","id":"008730"}
+{"text":"「失礼。\n　緊急の通信のようだ」","translation":"Excuse me. It seems to be an urgent transmission.","id":"008780"}
+{"text":"「エルガン代表、\n　そちらに$cもいますでしょうか？」","translation":"Representative Elgan, is $c there with you as well?","id":"0087B0"}
+{"text":"「全員が揃っているが」","translation":"Everyone is here.","id":"0087F0"}
+{"text":"「では、クラッシャー隊の明神タケルを\n　お願いします」","translation":"Then please put me through to Takeru Myojin of the Crusher Team.","id":"008810"}
+{"text":"「何があったんです、大塚長官？」","translation":"What happened, Director Otsuka?","id":"008850"}
+{"text":"「落ち着いて聞いてくれ、タケル」","translation":"Stay calm and listen, Takeru.","id":"008878"}
+{"text":"「お前のお母さんの静子さんが\n　ギシン星人にさらわれた」","translation":"Your mother, Shizuko, has been abducted by the Gishin aliens.","id":"0088A0"}
+{"text":"「何ですって！？」","translation":"What did you say!?","id":"0088E0"}
+{"text":"平原","translation":"Plains","id":"008900"}
+{"text":"（ギシン星人は母さんを人質にとり、\n　俺に生身で来るように言った）","translation":"The Gishin took my mother hostage and told me to come alone, in person.","id":"008908"}
+{"text":"（許さないぞ、ギシン星人。\n　お前達がどんな卑怯な罠を用意しようと\n　俺は母さんを救い出してみせる…！）","translation":"I won't forgive you, Gishin! No matter what kind of cowardly trap you've prepared, I'll save my mother...!","id":"008958"}
+{"text":"「来たか、マーズ」","translation":"So you've come, Mars.","id":"0089C8"}
+{"text":"「ギシン星の超能力者！」","translation":"A Gishin ESP user!","id":"0089E8"}
+{"text":"「こちらの指定通り、生身で来ているな。\n　フフ…ガイヤーを呼ぶ事は許さんぞ」","translation":"Just as we ordered, you came in the flesh. Heh... We won't let you call Gaia.","id":"008A08"}
+{"text":"「母さんはどこだ！？」","translation":"Where's my mother!?","id":"008A60"}
+{"text":"「心配するな。\n　お前が我々に投降した後、返してやる」","translation":"Don't worry. Once you surrender to us, we'll return her to you.","id":"008A80"}
+{"text":"「お前が、こいつらのリーダーか！」","translation":"So you're their leader?!","id":"008AC0"}
+{"text":"「私の名はロゼ。\n　前線攻撃隊の副隊長だ」","translation":"My name is Rose. I'm the vice-captain of the front-line assault unit.","id":"008AF0"}
+{"text":"「マーズ！\n　ズール皇帝の力を恐れぬ愚か者め！」","translation":"Mars! You fool, not to fear the power of Emperor Zuul!","id":"008B20"}
+{"text":"「これまでやってきた事の罰を与える！\n　まずはお前を徹底的に痛めつける！」","translation":"You'll be punished for all you've done! First, I'll make you suffer!","id":"008B58"}
+{"text":"「！」","translation":"!","id":"008BA8"}
+{"text":"「さあ、抵抗するがいい！\n　お前は自分の力が通用しない絶望の中で\n　我々に屈するのだ！」","translation":"Go ahead and resist! In the despair of knowing your power is useless, you will submit to us!","id":"008BB8"}
+{"text":"「くっ…！　こいつもズールの命令に従うだけの\n　バトルマシンか！」","translation":"Ghh...! So this one's just another battle machine obeying Zuul's orders too!","id":"008C18"}
+{"text":"「私はマシンではない！」","translation":"I am not a machine!","id":"008C68"}
+{"text":"「これまで幾多の超能力者を葬ってきたお前も\n　ここで終わりだ！」","translation":"You've buried countless ESP users up to now, but this is where it ends for you!","id":"008C88"}
+{"text":"「覚悟するがいい、マーズ！\n　ズール皇帝に歯向かった愚かさを\n　あの世で悔いろ！」","translation":"Prepare yourself, Mars! Regret the folly of defying Emperor Zuul in the afterlife!","id":"008CD0"}
+{"text":"「負けるか！」","translation":"Like hell I'll lose!","id":"008D30"}
+{"text":"「ぬぐわっ！！」","translation":"Gwah!!","id":"008D48"}
+{"text":"「俺は母さんを救うんだ！\n　お前達ごときにやられるものか！！」","translation":"I'm going to save my mother! I won't be beaten by the likes of you!!","id":"008D68"}
+{"text":"「な、何という力だ！！\n　これが超Ａ級能力者の衝撃波か！」","translation":"Wh-What incredible power!! Is this the shockwave of a Super A-Class ESP user?!","id":"008DB0"}
+{"text":"「ひるむな！\n　相手は一人だ！\n　数で押せば、必ず勝てる！」","translation":"Don't falter! He's alone! If we overwhelm him with numbers, we'll win for sure!","id":"008DF8"}
+{"text":"「何人で来ようと、俺は負けない！\n　必ずお前達を倒す！」","translation":"No matter how many of you come, I won't lose! I'll defeat you all!","id":"008E38"}
+{"text":"（さすがだ、マーズ。\n　だが、そこに打倒の鍵がある）","translation":"As expected of you, Mars. But that is exactly where the key to your defeat lies.","id":"008E78"}
+{"text":"（強力な超能力を連続して使えば、\n　疲労と共に、その力は衰えていく）","translation":"If you keep using powerful ESP in succession, that power will fade as fatigue sets in.","id":"008EB8"}
+{"text":"「はぁ…はぁ…！」","translation":"Haa... haa...!","id":"008F08"}
+{"text":"（マーグ隊長の立てた作戦は完璧だ。\n　マーズの死は時間の問題だろう）","translation":"Captain Marg's plan is perfect. Mars's death is only a matter of time.","id":"008F28"}
+{"text":"「何事だ！？\n　マーズの仲間が来たのか！」","translation":"What's going on!? Have Mars's allies arrived?!","id":"008F78"}
+{"text":"「レーダーに反応なし！\n　地球人のマシンではありません！」","translation":"No radar contact! It's not a machine from Earth!","id":"008FA8"}
+{"text":"「では、何だ！？\n　何が起こっているのだ！？」","translation":"Then what is it!? What's happening?!","id":"008FF0"}
+{"text":"夜空","translation":"Night sky","id":"00AD28"}
+{"text":"「…じゃあ、ゴッドシグマとバルディオスも\n　エルガン代表に保護されていたのか？」","translation":"...So God Sigma and Baldios were also under Representative Elgan's protection?","id":"00AD30"}
+{"text":"「正確にはドラゴンズハイヴの田中さんに\n　だけどな」","translation":"To be precise, it was Mr. Tanaka at Dragon's Hive.","id":"00AD88"}
+{"text":"「あのタヌキ親父…\n　こっちには一言も連絡なしで！」","translation":"That old fox... not a word to us about it!","id":"00ADC8"}
+{"text":"「一度、田中さんには\n　厳重に抗議を入れるべきね」","translation":"We really ought to lodge a strong protest with Mr. Tanaka.","id":"00AE00"}
+{"text":"「そういきり立ちなさんな」","translation":"Now, now, don't get so worked up.","id":"00AE40"}
+{"text":"「俺達はもしもの時の切り札だったんじゃ」","translation":"We were supposed to be the trump card in case something happened.","id":"00AE68"}
+{"text":"「切り札？」","translation":"A trump card?","id":"00AEA0"}
+{"text":"「ああ、そうだ。\n　$cが窮地に陥った時に\n　サポートするためだ」","translation":"Yeah, that's right. We were meant to support $c if they ever got into a tight spot.","id":"00AEB8"}
+{"text":"「それがこんなに早く来るなんて\n　思ってなかったがな」","translation":"Though I didn't think we'd be needed this soon.","id":"00AF00"}
+{"text":"「だが、おかげで、あのタケルって奴の\n　お袋さんを助ける事が出来たぜ」","translation":"Still, thanks to that, we were able to save that guy Takeru's mother.","id":"00AF40"}
+{"text":"「それじゃ、自己紹介といくか。\n　俺は壇闘志也。\n　木星のイオ育ちだ」","translation":"Well then, let's introduce ourselves. I'm Toshiya Dan. I grew up on Io, one of Jupiter's moons.","id":"00AF90"}
+{"text":"「ジュリィ・野口。\n　ゴッドシグマの知恵袋ってポジションだ。\n　トリニティエネルギーの研究者でもある」","translation":"Julie Noguchi. I'm basically the brains behind God Sigma, and I'm also a Trinity Energy researcher.","id":"00AFE0"}
+{"text":"「ワシは吉良謙作。\n　キラケンと呼んでくれ」","translation":"I'm Kensaku Kira. Just call me Kiraken.","id":"00B050"}
+{"text":"「俺はマリン・レイガン。\n　バルディオスのメインパイロットだ」","translation":"I'm Marin Reigan. I'm the main pilot of Baldios.","id":"00B088"}
+{"text":"「ジャック・オリバーだ。\n　よろしくな」","translation":"I'm Jack Oliver. Nice to meet you.","id":"00B0D0"}
+{"text":"「俺は北斗雷太だ。\n　世話になるぜ」","translation":"I'm Raita Hokuto. Looking forward to working with you.","id":"00B108"}
+{"text":"「あれ？　マリンの兄ちゃんは\n　オリバーと雷太の兄ちゃんと別れて、\n　Ｓ－１星人と旅立ったんじゃなかったか？」","translation":"Huh? Didn't Marin's brother split up from Oliver's and Raita's brothers and set off on a journey with the S-1 aliens?","id":"00B138"}
+{"text":"「ゴッドシグマの皆さんは、\n　それにお付き合いされてましたよね」","translation":"You folks from God Sigma were traveling with them too, right?","id":"00B1B0"}
+{"text":"「俺と闘志也達はＳ－１星人の移民船と共に\n　銀河を旅していた」","translation":"Toshiya and the others and I were traveling the galaxy with the S-1 aliens' colony ship.","id":"00B1F8"}
+{"text":"「幸運な事にアフロディアを指揮官とする\n　移民船は居住可能な惑星を発見する事が\n　出来た」","translation":"Fortunately, the colony ship under Aphrodia's command was able to find a habitable planet.","id":"00B240"}
+{"text":"「やったじゃねえか！」","translation":"That's great!","id":"00B2A0"}
+{"text":"「おめでとう、マリン！\n　Ｓ－１星人に幸あれだ！」","translation":"Congratulations, Marin! Best of luck to the S-1 aliens!","id":"00B2C0"}
+{"text":"「ありがとう、みんな\n　…かつて敵として戦ったＳ－１星人を\n　祝福してくれるとは思わなかったよ」","translation":"Thank you, everyone... I never thought you'd celebrate the S-1 aliens, who once fought us as enemies.","id":"00B2F8"}
+{"text":"「水臭い事、言うんじゃねえよ」","translation":"Don't say things like that.","id":"00B360"}
+{"text":"「俺達はＳ－１星の軍と戦いましたが、\n　Ｓ－１星人を憎んでいるわけでは\n　ありませんから」","translation":"We fought the military of Planet S-1, but that doesn't mean we hate the people of S-1.","id":"00B388"}
+{"text":"「で、ひと段落したところで\n　俺達は一度、地球に帰ろうって事に\n　なったんだ」","translation":"So once things had settled down, we decided to head back to Earth.","id":"00B3F0"}
+{"text":"「今度はマリンが俺達を送るって事になって、\n　新Ｓ－１星を発ったんだが…」","translation":"This time, Marin was going to see us off, so we departed from New S-1... but then...","id":"00B448"}
+{"text":"「俺達は目の前で発生した時空震動に\n　飲み込まれてしまったんだ」","translation":"We got swallowed up by a space-time disturbance that appeared right in front of us.","id":"00B4A0"}
+{"text":"「時を同じくして、\n　俺達も地球で同様の現象に遭遇した」","translation":"At the same time, we encountered a similar phenomenon on Earth.","id":"00B4F0"}
+{"text":"「それも格納庫にあったキャタレンジャーと\n　バルディプライズと共にな」","translation":"Along with Cateranger and Baldiprise, which were in the hangar with us.","id":"00B538"}
+{"text":"「俺達と同じか…」","translation":"So it was the same as us...","id":"00B588"}
+{"text":"「だが、お前等はこの地球に転移したんだろ？\n　俺達はいきなり宇宙空間…\n　それも太陽系外に跳ばされたんだ」","translation":"But you guys were transferred to Earth, right? We were suddenly flung into space... beyond the solar system, no less.","id":"00B5A0"}
+{"text":"「そんな事が…！」","translation":"Something like that happened...?!","id":"00B618"}
+{"text":"「さらに驚く事に、\n　転移した先にはギシン星人に襲われてる\n　マリン達がいた」","translation":"Even more surprising, when we got there, Marin and the others were under attack by the Gishin aliens.","id":"00B638"}
+{"text":"「俺達は何とかギシン星人を退けて\n　地球にたどり着いたんだ」","translation":"We somehow managed to drive off the Gishin and make it to Earth.","id":"00B690"}
+{"text":"「すごい偶然が起きたんだな…」","translation":"What an incredible coincidence...","id":"00B6D8"}
+{"text":"「いや…そうではないだろう」","translation":"No... that's not it.","id":"00B700"}
+{"text":"「彼等の再会は\n　特異点と化したそれぞれが引き合った\n　結果と見た」","translation":"I believe their reunion was the result of each of them becoming a singularity and being drawn to one another.","id":"00B728"}
+{"text":"「結びつきの強かったオリバーさん達と\n　マリンさんが合流出来たのは\n　そのためなんですね」","translation":"So that's why Mr. Oliver and the others, who had such a strong bond with Marin, were able to reunite with him.","id":"00B778"}
+{"text":"「俺達とマリンの結びつきが強いって！？」","translation":"You mean we've got a strong bond with Marin!?","id":"00B7D8"}
+{"text":"「嬉しそうじゃのう、雷太」","translation":"You sure look happy about that, Raita.","id":"00B808"}
+{"text":"「そして、地球にたどり着いた俺達は\n　謎のロボットの誘導でドラゴンズハイヴに\n　保護される事となった」","translation":"And after reaching Earth, we were guided by a mysterious robot and taken in by Dragon's Hive.","id":"00B830"}
+{"text":"「その謎のロボットって？」","translation":"That mysterious robot...?","id":"00B8A0"}
+{"text":"「$cにも似たようなのがいたな。\n　そう…ダンクーガって名前だ」","translation":"There was one at $c that looked a lot like it, too. Yeah... it was called Dancouga.","id":"00B8C0"}
+{"text":"「また、あいつか…！」","translation":"That guy again...!","id":"00B908"}
+{"text":"「どういう事です、これは…？\n　田中さんはファイナルダンクーガを\n　知っているという事ですか」","translation":"What does this mean...? Are you saying Mr. Tanaka knows about Final Dancouga?","id":"00B928"}
+{"text":"「あの人…一度本気で取調べをする必要が\n　ありそうね」","translation":"That man... looks like we need to give him a real interrogation.","id":"00B990"}
+{"text":"「そんなわけで俺達も\n　今日から$cに合流するぜ」","translation":"So from today on, we're joining up with $c too.","id":"00B9D0"}
+{"text":"「この世界のあらましは\n　ドラゴンズハイヴで聞いた。\n　インペリウムやアイム・ライアードの事も」","translation":"We heard the outline of this world at Dragon's Hive. About the Imperium and Aim Liard, too.","id":"00BA08"}
+{"text":"「無論、歓迎しよう。\n　今、我々は戦力を必要としている」","translation":"Of course, you're welcome. Right now, we need all the forces we can get.","id":"00BA70"}
+{"text":"「で、あのタケルって奴は大丈夫か？」","translation":"So, is that Takeru guy all right?","id":"00BAB0"}
+{"text":"「随分と消耗していたようだが…」","translation":"He looked pretty worn out...","id":"00BAE0"}
+{"text":"「それには、ちょいと事情があるのさ…」","translation":"Well, there's a bit of a reason for that...","id":"00BB08"}
+{"text":"「…俺は兄さんと…マーグと戦った…」","translation":"...I fought my brother... Marg...","id":"00BB38"}
+{"text":"「タケル…」","translation":"Takeru...","id":"00BB68"}
+{"text":"「どうしてだ、母さん…」","translation":"Why, Mom...?","id":"00BB80"}
+{"text":"「え…」","translation":"Huh...?","id":"00BBA0"}
+{"text":"「母さん…どうして本当に俺を\n　産んでくれなかったんだ…」","translation":"Mom... why didn't you really give birth to me...?","id":"00BBB0"}
+{"text":"「タケル、お前…！」","translation":"Takeru, you...!","id":"00BBF8"}
+{"text":"「俺が本当に母さんの子だったら…\n　地球人だったら…マーグと兄弟でなかったら…」","translation":"If I were really your child... if I were an Earthling... if I weren't Marg's brother...","id":"00BC18"}
+{"text":"「タケル…」","translation":"Takeru...","id":"00BC70"}
+{"text":"「母さん…どうして俺を…\n　どうして産んでくれなかった…」","translation":"Mom... why didn't you... why didn't you give birth to me...?","id":"00BC88"}
+{"text":"「甘ったれるんじゃないよ」","translation":"Quit feeling sorry for yourself.","id":"00BCD0"}
+{"text":"「女将…」","translation":"Madam...","id":"00BCF8"}
+{"text":"「あんたは相手が兄貴だから、\n　戦えないって言うのかい？」","translation":"Are you saying you can't fight just because your opponent is your brother?","id":"00BD08"}
+{"text":"「当然だろ！\n　俺だってシローと戦えなんて言われたら…」","translation":"Of course! If someone told me to fight Shiro, I'd...","id":"00BD50"}
+{"text":"「あんたは黙ってな。\n　あたしはタケルに聞いてんだよ」","translation":"You keep quiet. I'm asking Takeru.","id":"00BD90"}
+{"text":"「あんたは好む好まざるに関わらず、\n　他人様を守るために戦ってんだろ」","translation":"Whether you like it or not, you're fighting to protect other people, aren't you?","id":"00BDD0"}
+{"text":"「相手が肉親だろうと関係ない。\n　やらなきゃやられんだよ」","translation":"It doesn't matter if the enemy is your own flesh and blood. If you don't do it, you'll be the one who gets killed.","id":"00BE20"}
+{"text":"「マーグが俺を殺す…」","translation":"Marg will kill me...","id":"00BE68"}
+{"text":"「そして、あんたがやられりゃ、\n　困る人間、泣く人間がいんだよ」","translation":"And if you go down, there'll be people who'll suffer for it... people who'll cry.","id":"00BE88"}
+{"text":"「なのにガキでもあるまい…。\n　いつまでもお袋さんに当たるなんざ…」","translation":"You're not a child anymore... lashing out at your mother like this...","id":"00BED0"}
+{"text":"「いい加減にしろ、女将！\n　何の権利があって、そんな事を！」","translation":"Enough, Madam! What right do you have to say something like that!?","id":"00BF20"}
+{"text":"「いいんです、甲児さん。\n　女将さんのおっしゃる通りです」","translation":"It's all right, Koji. Madam is right.","id":"00BF68"}
+{"text":"「母さん…」","translation":"Mom...","id":"00BFA8"}
+{"text":"「タケル…悩みなさい。\n　悩んで悩んで、悩みぬきなさい」","translation":"Takeru... struggle with it. Struggle, agonize, and think it through to the very end.","id":"00BFC0"}
+{"text":"「でも、忘れてはなりません。\n　あなたは地球を守る戦士である事を」","translation":"But you must never forget this: You are a warrior sworn to protect the Earth.","id":"00C000"}
+{"text":"「行きなさい、タケル。\n　$cの皆さんが\n　あなたを待っています」","translation":"Go, Takeru. Everyone in $c is waiting for you.","id":"00C048"}
+{"text":"「母さんも俺にマーグと戦えと言うのか？」","translation":"Mother... are you saying I should fight Marg too?","id":"00C090"}
+{"text":"「それを決めるのは、あなたです。\n　…そして、どんな答えを選ぼうと\n　あなたは私の子供です」","translation":"That is for you to decide. ...And no matter what answer you choose, you are still my child.","id":"00C0C0"}
+{"text":"「忘れないで、タケル。\n　憎しみや怒りだけに囚われてはなりません」","translation":"Don't forget, Takeru. You must not let yourself be consumed by hatred and anger alone.","id":"00C120"}
+{"text":"「あなたの優しさが失われたら、\n　きっと戦いは相手を滅ぼすだけのものとなり、\n　終わりを迎える事はないでしょう」","translation":"If you lose your kindness, this battle will become nothing more than destroying the other side, and it will never end.","id":"00C168"}
+{"text":"「優しさを忘れてはならない…」","translation":"I mustn't forget kindness...","id":"00C1E0"}
+{"text":"「…行くよ、母さん」","translation":"...I'm going, Mother.","id":"00C208"}
+{"text":"「どうすればいいかは、まだわからないけど、\n　ここで母さんに悩みをぶつけているだけじゃ\n　何も変わらないから」","translation":"I still don't know what I should do, but if all I do is dump my worries on you here, nothing will change.","id":"00C228"}
+{"text":"「俺はマーグと宇宙の平和のために\n　共に戦うと誓ったんだ。\n　その誓い…必ず果たしてみせるよ」","translation":"I swore I'd fight alongside Marg for peace in space. I'll keep that vow... no matter what.","id":"00C2A0"}
+{"text":"「甲児…あんたもとっとと行きな」","translation":"Koji... you'd better get going too.","id":"00C308"}
+{"text":"「あ、ああ…」","translation":"Y-Yeah...","id":"00C330"}
+{"text":"「今日の戦いを見た感じじゃ、\n　まだまだ修行が必要なようだね」","translation":"Judging by today's fight, it looks like you still need a lot of training.","id":"00C348"}
+{"text":"「$cでみんなの足を引っ張るより、\n　くろがね屋で特訓してた方が\n　いいんじゃねえの？」","translation":"Wouldn't it be better to train at Kurogane-ya instead of dragging everyone at $c down?","id":"00C390"}
+{"text":"「そうはいくかよ。\n　俺だって$cの一員なんだ…！」","translation":"Like hell I would. I'm a member of $c too...!","id":"00C3E8"}
+{"text":"「だったら、もっと精進するんだね」","translation":"Then you'd better work harder.","id":"00C420"}
+{"text":"「わかってる！」","translation":"I know!","id":"00C450"}
+{"text":"「シローの事は心配要らないよ。\n　あんたは自分が強くなる事だけを考えてな」","translation":"Don't worry about Shiro. Just focus on getting stronger yourself.","id":"00C468"}
+{"text":"「見てろよ、女将。\n　俺だって竜馬さん達に毎日、\n　地獄の特訓をしてもらってんだ」","translation":"Just watch me, landlady. Ryoma and the others put me through hellish training every day too.","id":"00C4C0"}
+{"text":"「次に会う時は驚かせてやるからな」","translation":"Next time we meet, I'll surprise you.","id":"00C518"}
+{"text":"「行こう、甲児。\n　俺達は$cだ」","translation":"Let's go, Koji. We're $c.","id":"00C540"}
+{"text":"「フ…精々頑張んな」","translation":"Heh... do your best.","id":"00C568"}
+{"text":"「すまなかったね、奥さん。\n　出しゃばっちまってさ」","translation":"Sorry about that, ma'am. I butted in where I wasn't needed.","id":"00C588"}
+{"text":"「いえ…感謝しております」","translation":"No... I'm grateful.","id":"00C5C8"}
+{"text":"「…ひどい母親とお思いでしょう？\n　息子に戦いを強いるような事を言った私を」","translation":"...You must think I'm a terrible mother, don't you? For saying things that force my son to fight.","id":"00C5E8"}
+{"text":"「そんな事はないさ…。\n　世の中には、もっとひどい母親だっている」","translation":"Not at all... There are mothers in this world far worse than that.","id":"00C640"}
+{"text":"「あんたは、あのタケルを心から想っている。\n　立派な母親じゃないか」","translation":"You care for Takeru from the bottom of your heart. You're a fine mother.","id":"00C690"}
+{"text":"「かわいそうなタケル…」","translation":"Poor Takeru...","id":"00C6E0"}
+{"text":"「赤ん坊の時に両親から引き離され、\n　爆弾と一緒に地球へ送り込まれ…」","translation":"Separated from his parents as a baby, and sent to Earth with a bomb...","id":"00C700"}
+{"text":"「この世にたった一人の兄とも\n　敵味方となって戦わねばならないなんて、\n　あの子の幸せはいったい何なんでしょう…」","translation":"And now he has to fight his one and only brother as an enemy... What happiness could that child possibly have...?","id":"00C750"}
+{"text":"「運命…と言うには、あまりに過酷だね」","translation":"To call that fate... is far too cruel.","id":"00C7C8"}
+{"text":"「タケルのために私の出来る事、\n　それは愛する事だけなのでしょう」","translation":"The only thing I can do for Takeru is love him, I suppose.","id":"00C7F8"}
+{"text":"「愛…」","translation":"Love...","id":"00C840"}
+{"text":"「それはタケルの心の支えです」","translation":"That's what supports Takeru's heart.","id":"00C850"}
+{"text":"「産みの親の愛を知る事なく、\n　たった一人の兄の愛を失ってしまった\n　タケルです」","translation":"Takeru never knew the love of his birth parents, and has even lost the love of his only brother.","id":"00C878"}
+{"text":"「周囲の人間の愛でタケルを支える…。\n　それがタケルの心を救うたった一つの道だと\n　思っています」","translation":"Supporting Takeru with the love of those around him... I believe that's the only way to save his heart.","id":"00C8D0"}
+{"text":"「負けたよ、あんたには…。\n　女は弱し…されど、母は強しだね」","translation":"I lose to you... Women may be weak, but mothers are strong.","id":"00C938"}
+{"text":"「母親…。\n　その役目ってのを教えてもらったよ」","translation":"A mother... You've taught me what that role really means.","id":"00C980"}
+{"text":"「女将さん…。\n　あなたの甲児君を見る目…」","translation":"Landlady... The way you look at Koji...","id":"00C9B8"}
+{"text":"「まさか、あなたは…」","translation":"Don't tell me, you're...","id":"00C9F0"}
+{"text":"「その先は言いっこなしさ。\n　今夜の話はお月さんとあたし達だけのもの…」","translation":"Let's not say any more. Tonight's talk is just between us and the moon...","id":"00CA10"}
+{"text":"「そう…あの子に\n　知らせるわけにはいかないからね…」","translation":"Yes... We can't let that child find out...","id":"00CA60"}
+{"text":"ギシン星艦","translation":"Gishin Starship","id":"00CAA0"}
+{"text":"　\n　　\n　　　　　　～ギシン星艦　ブリッジ～","translation":"~Gishin Starship Bridge~","id":"00CAB0"}
+{"text":"「マーグ…そして、ロゼよ」","translation":"Marg... and Rose.","id":"00CAE0"}
+{"text":"「は…」","translation":"Yes...","id":"00CB08"}
+{"text":"「あと一歩の所までマーズを追い詰めながら\n　何故、奴を倒せなかった？」","translation":"You had Mars cornered, so why couldn't you defeat him?","id":"00CB18"}
+{"text":"「それは…」","translation":"That is...","id":"00CB68"}
+{"text":"「わかっておるようだな、ロゼ。\n　お前が奴の母親を奪われた事が理由だ」","translation":"You understand, don't you, Rose? It's because you took his mother from him.","id":"00CB80"}
+{"text":"「申し訳ございません」","translation":"I am deeply sorry.","id":"00CBD0"}
+{"text":"「ロゼよ…ワシの前では反省はいらん。\n　失敗すれば、消え去るのみ」","translation":"Rose... There is no need for remorse before me. Fail, and you vanish.","id":"00CBF0"}
+{"text":"「ギシン星へ戻れ。\n　お前を処刑する」","translation":"Return to Gishin. You are to be executed.","id":"00CC40"}
+{"text":"「…わかりました」","translation":"...Understood.","id":"00CC70"}
+{"text":"「お待ち下さい」","translation":"Please wait.","id":"00CC88"}
+{"text":"「マーグよ、このワシに口答えは許さん」","translation":"Marg, I will not permit you to talk back to me.","id":"00CCA0"}
+{"text":"「私の地球攻撃は始まったばかりです。\n　副官であるロゼを失う事は\n　作戦行動に支障をきたします」","translation":"My attack on Earth has only just begun. Losing Rose, my adjutant, would hinder our operations.","id":"00CCD0"}
+{"text":"「地球を手に入れられるか、マーグ？」","translation":"Can you take Earth, Marg?","id":"00CD38"}
+{"text":"「ロゼの力を借りれば」","translation":"If I have Rose's help.","id":"00CD68"}
+{"text":"「隊長…」","translation":"Captain...","id":"00CD88"}
+{"text":"「いいだろう、マーグ。\n　だが、次の報告は勝利以外を聞く気はないぞ」","translation":"Very well, Marg. But next time, I will hear nothing but news of victory.","id":"00CD98"}
+{"text":"「………」","translation":".........","id":"00CDE8"}
+{"text":"「隊長、先ほどは私の生命を救っていただき…」","translation":"Captain, thank you for saving my life earlier...","id":"00CE00"}
+{"text":"「わからない」","translation":"I don't know.","id":"00CE38"}
+{"text":"「え…」","translation":"Huh...?","id":"00CE50"}
+{"text":"「何故か、あいつの事が気になる…。\n　マーズの事が…」","translation":"For some reason, I can't stop thinking about him... about Mars.","id":"00CE60"}
+{"text":"「俺とそっくりの顔…\n　しかも、俺の事を兄と呼ぶ。\n　何故なんだ…」","translation":"He has a face just like mine... and he calls me brother. Why...?","id":"00CEA0"}
+{"text":"「それは…私にもわかりません」","translation":"That... I don't know either.","id":"00CEF0"}
+{"text":"「…ロゼ、俺達は何故、戦っているのだ？」","translation":"...Rose, why are we fighting?","id":"00CF18"}
+{"text":"「地球は危険な力を秘めた星です。\n　もし、ズール皇帝が手に入れられなければ、\n　破壊されるべきだと聞いております」","translation":"Earth is a planet that harbors dangerous power. I've been told that if Emperor Zuul cannot take it, it must be destroyed.","id":"00CF48"}
+{"text":"「ズール皇帝の御意向か…」","translation":"So that's Emperor Zuul's will...","id":"00CFC0"}
+{"text":"「しかし、あのマーズという男…\n　何故、我々に反抗するのだ。\n　奴はギシン星人だと聞くが」","translation":"But that man, Mars... Why does he oppose us? I hear he's from Gishin.","id":"00CFE8"}
+{"text":"「理由はどうであろうと、\n　奴がズール皇帝への反逆者である事には\n　変わりありません」","translation":"Whatever the reason, it doesn't change the fact that he is a traitor to Emperor Zuul.","id":"00D048"}
+{"text":"「それだけで我々が戦う理由には十分です」","translation":"That alone is reason enough for us to fight.","id":"00D0A8"}
+{"text":"「そうか…」","translation":"I see...","id":"00D0D8"}
+{"text":"（俺を兄と呼ぶ男、マーズ…。\n　いったいお前は何者なんだ…）","translation":"The man who calls me brother, Mars... Just who are you...?","id":"00D0F0"}

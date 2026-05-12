@@ -1,0 +1,189 @@
+{"text":"かみつき","translation":"かみつき","id":"battle_attack_000001"}
+{"text":"アルカイド・グレイヴ","translation":"アルカイド・グレイヴ","id":"battle_attack_000002"}
+{"text":"エンキカウンター","translation":"エンキカウンター","id":"battle_attack_000003"}
+{"text":"エンキサンアタック","translation":"エンキサンアタック","id":"battle_attack_000004"}
+{"text":"エンキソード","translation":"エンキソード","id":"battle_attack_000005"}
+{"text":"エンキソード乱れ斬り","translation":"エンキソード乱れ斬り","id":"battle_attack_000006"}
+{"text":"エンキラッガー","translation":"エンキラッガー","id":"battle_attack_000007"}
+{"text":"エンキラッガー・ブーメラン","translation":"エンキラッガー・ブーメラン","id":"battle_attack_000008"}
+{"text":"ガンポッド","translation":"ガンポッド","id":"battle_attack_000009"}
+{"text":"キャノン砲","translation":"キャノン砲","id":"battle_attack_000010"}
+{"text":"グロッサムＸ２攻撃","translation":"グロッサムＸ２攻撃","id":"battle_attack_000011"}
+{"text":"ゲンバー・プレス","translation":"ゲンバー・プレス","id":"battle_attack_000012"}
+{"text":"コンデム・ブレイズ","translation":"コンデム・ブレイズ","id":"battle_attack_000013"}
+{"text":"ジャイアント・カッター","translation":"ジャイアント・カッター","id":"battle_attack_000014"}
+{"text":"ジャイアント・カッター投げ","translation":"ジャイアント・カッター投げ","id":"battle_attack_000015"}
+{"text":"タロスの怒り","translation":"タロスの怒り","id":"battle_attack_000016"}
+{"text":"ダンガンメン投擲","translation":"ダンガンメン投擲","id":"battle_attack_000017"}
+{"text":"テリアル・スナイパーライフル（精密射撃）","translation":"テリアル・スナイパーライフル（精密射撃）","id":"battle_attack_000018"}
+{"text":"デスペラード・エングレイブ","translation":"デスペラード・エングレイブ","id":"battle_attack_000019"}
+{"text":"デモリッション・プルーム","translation":"デモリッション・プルーム","id":"battle_attack_000020"}
+{"text":"ハドロン砲","translation":"ハドロン砲","id":"battle_attack_000021"}
+{"text":"ビームガンポッド","translation":"ビームガンポッド","id":"battle_attack_000022"}
+{"text":"ビームガンポッド（重量子反応砲モード）","translation":"ビームガンポッド（重量子反応砲モード）","id":"battle_attack_000023"}
+{"text":"ビームキャノン","translation":"ビームキャノン","id":"battle_attack_000024"}
+{"text":"ブラッディ・クラスパー","translation":"ブラッディ・クラスパー","id":"battle_attack_000025"}
+{"text":"ヘイトレッド・ニードル","translation":"ヘイトレッド・ニードル","id":"battle_attack_000026"}
+{"text":"マジェスティック・ビッグチョッパー","translation":"マジェスティック・ビッグチョッパー","id":"battle_attack_000027"}
+{"text":"マジェスティック・Ｂチョッパー","translation":"マジェスティック・Ｂチョッパー","id":"battle_attack_000028"}
+{"text":"リアル・スナイパーライフル","translation":"リアル・スナイパーライフル","id":"battle_attack_000029"}
+{"text":"リボルバーアーム","translation":"リボルバーアーム","id":"battle_attack_000030"}
+{"text":"リング光線","translation":"リング光線","id":"battle_attack_000031"}
+{"text":"一斉砲撃","translation":"一斉砲撃","id":"battle_attack_000032"}
+{"text":"分離一斉攻撃","translation":"分離一斉攻撃","id":"battle_attack_000033"}
+{"text":"回転体当たり","translation":"回転体当たり","id":"battle_attack_000034"}
+{"text":"固定式キャノン","translation":"固定式キャノン","id":"battle_attack_000035"}
+{"text":"壱発逆転拳","translation":"壱発逆転拳","id":"battle_attack_000036"}
+{"text":"大グレン団突撃","translation":"大グレン団突撃","id":"battle_attack_000037"}
+{"text":"大型バジュラ射出","translation":"大型バジュラ射出","id":"battle_attack_000038"}
+{"text":"大型ミサイル","translation":"大型ミサイル","id":"battle_attack_000039"}
+{"text":"奥義・無想螺旋反転","translation":"奥義・無想螺旋反転","id":"battle_attack_000040"}
+{"text":"小型バジュラ射出","translation":"小型バジュラ射出","id":"battle_attack_000041"}
+{"text":"巨大ファン","translation":"巨大ファン","id":"battle_attack_000042"}
+{"text":"念動攻撃","translation":"念動攻撃","id":"battle_attack_000043"}
+{"text":"殺人回転木馬","translation":"殺人回転木馬","id":"battle_attack_000044"}
+{"text":"砲丸攻撃","translation":"砲丸攻撃","id":"battle_attack_000045"}
+{"text":"空間消失","translation":"空間消失","id":"battle_attack_000046"}
+{"text":"粉塵爆発","translation":"粉塵爆発","id":"battle_attack_000047"}
+{"text":"腕部分離攻撃","translation":"腕部分離攻撃","id":"battle_attack_000048"}
+{"text":"超電導ライフル","translation":"超電導ライフル","id":"battle_attack_000049"}
+{"text":"重ミサイルランチャー３連装","translation":"重ミサイルランチャー３連装","id":"battle_attack_000050"}
+{"text":"頭部バルカン","translation":"頭部バルカン","id":"battle_attack_000051"}
+{"text":"１２．７ｍｍ　ＢｅａｍＭａｃｈｉｎｅｇｕｎ","translation":"１２．７ｍｍ　ＢｅａｍＭａｃｈｉｎｅｇｕｎ","id":"battle_attack_000052"}
+{"text":"１２ＭｉｓｓｉｌｅＬａｕｎｃｈｒ","translation":"１２ＭｉｓｓｉｌｅＬａｕｎｃｈｒ","id":"battle_attack_000053"}
+{"text":"２５ｍｍビーム機関砲","translation":"２５ｍｍビーム機関砲","id":"battle_attack_000054"}
+{"text":"双角轟流","translation":"2H-R","id":"battle_attack_000055"}
+{"text":"双角裂陣","translation":"2Hrn","id":"battle_attack_000056"}
+{"text":"二天一閃","translation":"2Ten","id":"battle_attack_000057"}
+{"text":"２Ｔｏｍａｈｗｋ","translation":"２Ｔｏｍａｈｗｋ","id":"battle_attack_000058"}
+{"text":"３０ｍｍ　ＧａｔｌｉｎｇＬａｓｅｒＰｕｌｓｅＧｕｎ","translation":"３０ｍｍ　ＧａｔｌｉｎｇＬａｓｅｒＰｕｌｓｅＧｕｎ","id":"battle_attack_000059"}
+{"text":"３２０ｍｍ　４Ｆ－Ｒａｉｌｇｕｎ","translation":"３２０ｍｍ　４Ｆ－Ｒａｉｌｇｕｎ","id":"battle_attack_000060"}
+{"text":"３５ｍｍ重機関砲","translation":"３５ｍｍ重機関砲","id":"battle_attack_000061"}
+{"text":"３ＴｒａｐａｒｓａｒＣａｎｎｏｎ","translation":"３ＴｒａｐａｒｓａｒＣａｎｎｏｎ","id":"battle_attack_000062"}
+{"text":"６０ｍｍＲｉｖｅｔＧｕｎ","translation":"６０ｍｍＲｉｖｅｔＧｕｎ","id":"battle_attack_000063"}
+{"text":"７６ｍｍＳｈｏｏｔｅｒ","translation":"７６ｍｍＳｈｏｏｔｅｒ","id":"battle_attack_000064"}
+{"text":"ＡＡ－ＧＧ　ＭａｃｈｉｎｅｇｕｎＴｕｒｒｅｔ","translation":"ＡＡ－ＧＧ　ＭａｃｈｉｎｅｇｕｎＴｕｒｒｅｔ","id":"battle_attack_000065"}
+{"text":"ＡＣＰ　Ｆａｉｚ","translation":"ＡＣＰ　Ｆａｉｚ","id":"battle_attack_000066"}
+{"text":"ＡＸ－５５　ＥＡＧＬＥ　Ｓｈｏｔ","translation":"ＡＸ－５５　ＥＡＧＬＥ　Ｓｈｏｔ","id":"battle_attack_000067"}
+{"text":"アレフ・ゼロ","translation":"Aleph0","id":"battle_attack_000068"}
+{"text":"Ａｎｔｉ－Ａｉｒ　Ｃａｎｎｏｎ","translation":"Ａｎｔｉ－Ａｉｒ　Ｃａｎｎｏｎ","id":"battle_attack_000069"}
+{"text":"Ａｎｔｉ－Ｓｈｉｐ　ＩｍｐａｃｔＣａｎｎｏｎ","translation":"Ａｎｔｉ－Ｓｈｉｐ　ＩｍｐａｃｔＣａｎｎｏｎ","id":"battle_attack_000070"}
+{"text":"Ａｎｔｉ－ＳｈｉｐＨｅａｖｙＢｅａｍＣａｎｎｏｎ","translation":"Ａｎｔｉ－ＳｈｉｐＨｅａｖｙＢｅａｍＣａｎｎｏｎ","id":"battle_attack_000071"}
+{"text":"ＡｐｈｒｏｄａｉＭ","translation":"ＡｐｈｒｏｄａｉＭ","id":"battle_attack_000072"}
+{"text":"ＡｒｃＬｉｎｅ","translation":"ＡｒｃＬｉｎｅ","id":"battle_attack_000073"}
+{"text":"Ａｒｍ　ｏｆ　Ｂｒｕｎｈｉｌｄｅ","translation":"Ａｒｍ　ｏｆ　Ｂｒｕｎｈｉｌｄｅ","id":"battle_attack_000074"}
+{"text":"ＡｓｓａｕｌｔＲｉｆｌｅ","translation":"ＡｓｓａｕｌｔＲｉｆｌｅ","id":"battle_attack_000075"}
+{"text":"阿吽斬魔","translation":"AunX","id":"battle_attack_000076"}
+{"text":"Ｂガンポッド（重量子反応砲）","translation":"Ｂガンポッド（重量子反応砲）","id":"battle_attack_000077"}
+{"text":"ＢａｔｔｌｅＷｉｎｇ","translation":"ＢａｔｔｌｅＷｉｎｇ","id":"battle_attack_000078"}
+{"text":"ＢａｙｏｎｅｔＳｐｉｋｅｒ","translation":"ＢａｙｏｎｅｔＳｐｉｋｅｒ","id":"battle_attack_000079"}
+{"text":"ＢｅａｍＧｕｎ","translation":"ＢｅａｍＧｕｎ","id":"battle_attack_000080"}
+{"text":"ＢｉｔＬａｓｅｒ","translation":"ＢｉｔＬａｓｅｒ","id":"battle_attack_000081"}
+{"text":"ブラッディ・ヴァイン","translation":"Blood Vine","id":"battle_attack_000082"}
+{"text":"Ｂｌｕｄｇｅｏｎ","translation":"Ｂｌｕｄｇｅｏｎ","id":"battle_attack_000083"}
+{"text":"ＢｒａｎｇＢｌａｄ","translation":"ＢｒａｎｇＢｌａｄ","id":"battle_attack_000084"}
+{"text":"ＢｒａｎｇＫｎｆｅ","translation":"ＢｒａｎｇＫｎｆｅ","id":"battle_attack_000085"}
+{"text":"ＢｕｎｋｅｒＢｒｅａｋ","translation":"ＢｕｎｋｅｒＢｒｅａｋ","id":"battle_attack_000086"}
+{"text":"ＣａｎｎｏｎｂａｌｌＡｔｔａｃｋ","translation":"ＣａｎｎｏｎｂａｌｌＡｔｔａｃｋ","id":"battle_attack_000087"}
+{"text":"ＣａｎｏｎｂａｌｌＡｔ","translation":"ＣａｎｏｎｂａｌｌＡｔ","id":"battle_attack_000088"}
+{"text":"ＣｈａｉｎＭｓｌ","translation":"ＣｈａｉｎＭｓｌ","id":"battle_attack_000089"}
+{"text":"Ｃｈａｉｎｇｕｎ－Ｍｅｌｅｅ","translation":"Ｃｈａｉｎｇｕｎ－Ｍｅｌｅｅ","id":"battle_attack_000090"}
+{"text":"Ｃｈａｉｎｇｕｎ－Ｒａｎｇｅｄ","translation":"Ｃｈａｉｎｇｕｎ－Ｒａｎｇｅｄ","id":"battle_attack_000091"}
+{"text":"Ｃｈｏｕｊｕｕｋｅｎ","translation":"Ｃｈｏｕｊｕｕｋｅｎ","id":"battle_attack_000092"}
+{"text":"ＣｈｒｏｍｅＢｕｓｔｅｒ","translation":"ＣｈｒｏｍｅＢｕｓｔｅｒ","id":"battle_attack_000093"}
+{"text":"ＣｌｕｔｃｈＳｎｉｐｅｒ","translation":"ＣｌｕｔｃｈＳｎｉｐｅｒ","id":"battle_attack_000094"}
+{"text":"ディスキャリバー","translation":"D-Calib","id":"battle_attack_000095"}
+{"text":"ＤＥＣ重粒子反応砲","translation":"DEC-H-Can","id":"battle_attack_000096"}
+{"text":"ＤＥＣ反応砲","translation":"DECCan","id":"battle_attack_000097"}
+{"text":"ＤｒａｇｏｎＴｈｕｎｄｅｒ","translation":"ＤｒａｇｏｎＴｈｕｎｄｅｒ","id":"battle_attack_000098"}
+{"text":"Ｄｒａｇｕｎｏｖ　ＳｎｉｐｅｒＲｉｆｌｅ","translation":"Ｄｒａｇｕｎｏｖ　ＳｎｉｐｅｒＲｉｆｌｅ","id":"battle_attack_000099"}
+{"text":"Ｄｒａｇｕｎｏｖ　ＳｎｉｐｅｒＲｉｆｌｅ（Ｈｉｔ）","translation":"Ｄｒａｇｕｎｏｖ　ＳｎｉｐｅｒＲｉｆｌｅ（Ｈｉｔ）","id":"battle_attack_000100"}
+{"text":"邪魂ファング","translation":"EFang","id":"battle_attack_000101"}
+{"text":"放電ホーン","translation":"EHorn","id":"battle_attack_000102"}
+{"text":"エンブラス・ジ・インフェルノ","translation":"Embr Inferno","id":"battle_attack_000103"}
+{"text":"爆裂フライ","translation":"ExFly","id":"battle_attack_000104"}
+{"text":"灼熱ホーン","translation":"FHorn","id":"battle_attack_000105"}
+{"text":"フェイスフル・アーチャー","translation":"Faith Archr","id":"battle_attack_000106"}
+{"text":"無窮の牙","translation":"Fang","id":"battle_attack_000107"}
+{"text":"ＦｉｎｇｒＮｅｔＡｒｍ","translation":"ＦｉｎｇｒＮｅｔＡｒｍ","id":"battle_attack_000108"}
+{"text":"ＦｉｒｅＦｉｓｔ","translation":"ＦｉｒｅＦｉｓｔ","id":"battle_attack_000109"}
+{"text":"凍結ファイヤー","translation":"FrzFire","id":"battle_attack_000110"}
+{"text":"ＦｕｌｌＯｐｅｎＦｉｒｅ","translation":"ＦｕｌｌＯｐｅｎＦｉｒｅ","id":"battle_attack_000111"}
+{"text":"Ｇ．ＧｌａｄｉｕｓＡｔｔａｃｋ","translation":"Ｇ．ＧｌａｄｉｕｓＡｔｔａｃｋ","id":"battle_attack_000112"}
+{"text":"ＧＣＬＲ　ＬａｓｅｒＣａｎｎｏｎ","translation":"ＧＣＬＲ　ＬａｓｅｒＣａｎｎｏｎ","id":"battle_attack_000113"}
+{"text":"重力メテオ","translation":"GMetr","id":"battle_attack_000114"}
+{"text":"ＧａｔｌｉｎｇＢｕｓｔｅｒＣａｎｎｏｎ","translation":"ＧａｔｌｉｎｇＢｕｓｔｅｒＣａｎｎｏｎ","id":"battle_attack_000115"}
+{"text":"全軍ジェノサイド","translation":"Genocide","id":"battle_attack_000116"}
+{"text":"ＧｅｔｔｅｒＳｃｙｔｈｅ","translation":"ＧｅｔｔｅｒＳｃｙｔｈｅ","id":"battle_attack_000117"}
+{"text":"ＧｉｇａＤｒｉｌｌＢｒｅａｋ","translation":"ＧｉｇａＤｒｉｌｌＢｒｅａｋ","id":"battle_attack_000118"}
+{"text":"ＧｉｇａＤｒｉｌｌＢｒｅａｋＳＰ","translation":"ＧｉｇａＤｒｉｌｌＢｒｅａｋＳＰ","id":"battle_attack_000119"}
+{"text":"ＧｒａｖｉｔｙＡｒｒｏｗ","translation":"ＧｒａｖｉｔｙＡｒｒｏｗ","id":"battle_attack_000120"}
+{"text":"ＧｒａｖｉｔｙＲａｎｇ","translation":"ＧｒａｖｉｔｙＲａｎｇ","id":"battle_attack_000121"}
+{"text":"ＧｒｅａｔＫｎｏｔＰｎｓｒ","translation":"ＧｒｅａｔＫｎｏｔＰｎｓｒ","id":"battle_attack_000122"}
+{"text":"ＨａｍｍｅｒＰｕｎｃｈ","translation":"ＨａｍｍｅｒＰｕｎｃｈ","id":"battle_attack_000123"}
+{"text":"Ｈａｎｄｇｕｎ","translation":"Ｈａｎｄｇｕｎ","id":"battle_attack_000124"}
+{"text":"ＨｅａｄＧｅｔｔｅｒＢｅａｍ","translation":"ＨｅａｄＧｅｔｔｅｒＢｅａｍ","id":"battle_attack_000125"}
+{"text":"ＨｏｍｉｎｇＧｅｔｔｅｒＢｅａｍ","translation":"ＨｏｍｉｎｇＧｅｔｔｅｒＢｅａｍ","id":"battle_attack_000126"}
+{"text":"ＨｏｍｉｎｇＬａｓｅｒ","translation":"ＨｏｍｉｎｇＬａｓｅｒ","id":"battle_attack_000127"}
+{"text":"ＨｏｍｉｎｇＬｓｒ","translation":"ＨｏｍｉｎｇＬｓｒ","id":"battle_attack_000128"}
+{"text":"ＩＳＣ　Ｍａｎｅｕｖｅｒ","translation":"ＩＳＣ　Ｍａｎｅｕｖｅｒ","id":"battle_attack_000129"}
+{"text":"ＩＳＣマニューバー","translation":"ＩＳＣマニューバー","id":"battle_attack_000130"}
+{"text":"インフィニティ・ノヴァ","translation":"Inf. Nova","id":"battle_attack_000131"}
+{"text":"ＩｎｆｉｎｉｔｅＦｉｓｔ","translation":"ＩｎｆｉｎｉｔｅＦｉｓｔ","id":"battle_attack_000132"}
+{"text":"ＪｅａｌｏｕｓｙＳｗｏｒｄ","translation":"ＪｅａｌｏｕｓｙＳｗｏｒｄ","id":"battle_attack_000133"}
+{"text":"Ｋａｔａｎａ　Ｒｕｓｈ","translation":"Ｋａｔａｎａ　Ｒｕｓｈ","id":"battle_attack_000134"}
+{"text":"ＫｉｔｔａｎＳｔｉｎｇｅｒ","translation":"ＫｉｔｔａｎＳｔｉｎｇｅｒ","id":"battle_attack_000135"}
+{"text":"ＫｎｏｔＢｓｔｒ","translation":"ＫｎｏｔＢｓｔｒ","id":"battle_attack_000136"}
+{"text":"ＫｎｏｔＰｎｓｈｒ","translation":"ＫｎｏｔＰｎｓｈｒ","id":"battle_attack_000137"}
+{"text":"ラスター・エッジ","translation":"L-Edge","id":"battle_attack_000138"}
+{"text":"ＬａｇａｎｎＩｍ","translation":"ＬａｇａｎｎＩｍ","id":"battle_attack_000139"}
+{"text":"Ｌａｎｃｅ","translation":"Ｌａｎｃｅ","id":"battle_attack_000140"}
+{"text":"ＬｉｇｈｔｎｉｎｇＤｅｔｏｎａｔｏｒ","translation":"ＬｉｇｈｔｎｉｎｇＤｅｔｏｎａｔｏｒ","id":"battle_attack_000141"}
+{"text":"ＬｏｎｇＲａｎｇｅＬａｓｅｒ","translation":"ＬｏｎｇＲａｎｇｅＬａｓｅｒ","id":"battle_attack_000142"}
+{"text":"ＬｏｎｇＲａｎｇｅＳａｂｅｒ","translation":"ＬｏｎｇＲａｎｇｅＳａｂｅｒ","id":"battle_attack_000143"}
+{"text":"ＬｕｎａｔｉｃＡｒｃｈｅｒｙ","translation":"ＬｕｎａｔｉｃＡｒｃｈｅｒｙ","id":"battle_attack_000144"}
+{"text":"ＭＶＳ１２３","translation":"ＭＶＳ１２３","id":"battle_attack_000145"}
+{"text":"マリス・クラッド","translation":"MalClad","id":"battle_attack_000146"}
+{"text":"ジ・エンド・オブ・マーシレス","translation":"MercilessEnd","id":"battle_attack_000147"}
+{"text":"ＭｉｓｓｉｌｅＰａｒｔｙ","translation":"ＭｉｓｓｉｌｅＰａｒｔｙ","id":"battle_attack_000148"}
+{"text":"Ｏ－Ｔｈｕｎｄｅｒ","translation":"Ｏ－Ｔｈｕｎｄｅｒ","id":"battle_attack_000149"}
+{"text":"全方位インターセプト・レーザー","translation":"Omni-Int Laser","id":"battle_attack_000150"}
+{"text":"ＯｖｅｒＦｒｅｅｚｅ","translation":"ＯｖｅｒＦｒｅｅｚｅ","id":"battle_attack_000151"}
+{"text":"ＯｖｅｒｓｋｉｌｌＢａｒｒａｇｅ","translation":"ＯｖｅｒｓｋｉｌｌＢａｒｒａｇｅ","id":"battle_attack_000152"}
+{"text":"Ｐ－ＤｒｉｌｌＨｕｒｒｉｃａｎｅ","translation":"Ｐ－ＤｒｉｌｌＨｕｒｒｉｃａｎｅ","id":"battle_attack_000153"}
+{"text":"ＰｈＢｅａｍ","translation":"ＰｈＢｅａｍ","id":"battle_attack_000154"}
+{"text":"ＰｈｏｔｏｎＭａｔ","translation":"ＰｈｏｔｏｎＭａｔ","id":"battle_attack_000155"}
+{"text":"ＰｉｌｄｅｒＭｓｌ","translation":"ＰｉｌｄｅｒＭｓｌ","id":"battle_attack_000156"}
+{"text":"Ｐｉｘｉｅ　Ｆｏｒｍａｔｉｏｎ","translation":"Ｐｉｘｉｅ　Ｆｏｒｍａｔｉｏｎ","id":"battle_attack_000157"}
+{"text":"ＱＦ－４００　Ｇｈｏｓｔ","translation":"ＱＦ－４００　Ｇｈｏｓｔ","id":"battle_attack_000158"}
+{"text":"八つ裂きスライサー","translation":"Rip Slice","id":"battle_attack_000159"}
+{"text":"ＲｏｃｋｅｔＰ","translation":"ＲｏｃｋｅｔＰ","id":"battle_attack_000160"}
+{"text":"ＲｕｓｔＨｕｒｒｉｃａｎｅ","translation":"ＲｕｓｔＨｕｒｒｉｃａｎｅ","id":"battle_attack_000161"}
+{"text":"旋刃クラッシャー","translation":"S-Crush","id":"battle_attack_000162"}
+{"text":"ＳＰＩＧＯＴ－ＶＸ","translation":"ＳＰＩＧＯＴ－ＶＸ","id":"battle_attack_000163"}
+{"text":"ＳｃｒａｎｄｅｒＣｔ","translation":"ＳｃｒａｎｄｅｒＣｔ","id":"battle_attack_000164"}
+{"text":"ＳｋｕｌｌＢｒｅａｋ","translation":"ＳｋｕｌｌＢｒｅａｋ","id":"battle_attack_000165"}
+{"text":"ブルーム・イン・ヘヴン","translation":"Sky Bloom","id":"battle_attack_000166"}
+{"text":"Ｓｌａｍ","translation":"Ｓｌａｍ","id":"battle_attack_000167"}
+{"text":"Ｓｌａｓｈ　Ｈａｒｋｅｎ","translation":"Ｓｌａｓｈ　Ｈａｒｋｅｎ","id":"battle_attack_000168"}
+{"text":"ＳｌａｓｈＴａｌｏｎ","translation":"ＳｌａｓｈＴａｌｏｎ","id":"battle_attack_000169"}
+{"text":"ＳｏｌＣｒｕｓｈｅｒＰｕｎｃｈ","translation":"ＳｏｌＣｒｕｓｈｅｒＰｕｎｃｈ","id":"battle_attack_000170"}
+{"text":"ＳｏｌＧｒａｖ．Ｂｒｉｎｇｅｒ","translation":"ＳｏｌＧｒａｖ．Ｂｒｉｎｇｅｒ","id":"battle_attack_000171"}
+{"text":"ＳｏｌＧｒａｖ．Ｃａｎｎｏｎ","translation":"ＳｏｌＧｒａｖ．Ｃａｎｎｏｎ","id":"battle_attack_000172"}
+{"text":"ＳｏｌＧｒａｖ．Ｍｉｓｓｉｌｅ","translation":"ＳｏｌＧｒａｖ．Ｍｉｓｓｉｌｅ","id":"battle_attack_000173"}
+{"text":"ＳｏｌＧｒａｖｉｔｏｎＮｏｖａ","translation":"ＳｏｌＧｒａｖｉｔｏｎＮｏｖａ","id":"battle_attack_000174"}
+{"text":"ＳｏｌＳｐｉｒａｌＣ．Ｐｕｎｃｈ","translation":"ＳｏｌＳｐｉｒａｌＣ．Ｐｕｎｃｈ","id":"battle_attack_000175"}
+{"text":"ＳｏｌａｒＰｕｎｃｈ","translation":"ＳｏｌａｒＰｕｎｃｈ","id":"battle_attack_000176"}
+{"text":"ＳｔａｒＳｗｏｒｄ","translation":"ＳｔａｒＳｗｏｒｄ","id":"battle_attack_000177"}
+{"text":"ＳｔｒｏｎｇＭｉｓｓｉｌｅ","translation":"ＳｔｒｏｎｇＭｉｓｓｉｌｅ","id":"battle_attack_000178"}
+{"text":"ＳｕｄｄｅｎＩｍｐａｃｔ","translation":"ＳｕｄｄｅｎＩｍｐａｃｔ","id":"battle_attack_000179"}
+{"text":"ＳｕｎｇｌａｓｓＣｕｔｔｅｒ","translation":"ＳｕｎｇｌａｓｓＣｕｔｔｅｒ","id":"battle_attack_000180"}
+{"text":"ＳｕｐｅｒＭｉｎｉＭｉｓｓｉｌｅＬａｕｎｃｈｅｒＰｏｄ","translation":"ＳｕｐｅｒＭｉｎｉＭｉｓｓｉｌｅＬａｕｎｃｈｅｒＰｏｄ","id":"battle_attack_000181"}
+{"text":"ＳｗｏｒｄＭａｃｒｏｓｓＧｕｎ","translation":"ＳｗｏｒｄＭａｃｒｏｓｓＧｕｎ","id":"battle_attack_000182"}
+{"text":"雷撃バースト","translation":"TBurst","id":"battle_attack_000183"}
+{"text":"ＴｒｏｉｄｅｌＢｕｒｓｔ","translation":"ＴｒｏｉｄｅｌＢｕｒｓｔ","id":"battle_attack_000184"}
+{"text":"ＶＡＲＩＳ","translation":"ＶＡＲＩＳ","id":"battle_attack_000185"}
+{"text":"ＶＡＲＩＳ　ＦｕｌｌＰｏｗｅｒ","translation":"ＶＡＲＩＳ　ＦｕｌｌＰｏｗｅｒ","id":"battle_attack_000186"}
+{"text":"ヴァルキュリア・スピナー","translation":"Valk Spin","id":"battle_attack_000187"}
+{"text":"波動スピンソー","translation":"WaveSaw","id":"battle_attack_000188"}
+{"text":"ウィルフル・アーチャー","translation":"WilArcher","id":"battle_attack_000189"}

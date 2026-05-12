@@ -1,0 +1,499 @@
+{"text":"敵の全滅。","translation":"Defeat all enemies.","id":"000600"}
+{"text":"バキュームの撃墜。","translation":"Shoot down Vacuum.","id":"000610"}
+{"text":"バキュームとトロスＤ７の撃墜。","translation":"Shoot down Vacuum and Toros D7.","id":"000628"}
+{"text":"味方戦艦の撃墜。","translation":"Shoot down an allied battleship.","id":"000658"}
+{"text":"カミナ、またはシモンの撃墜。","translation":"Shoot down either Kamina or Simon.","id":"000670"}
+{"text":"２ターン味方フェイズ以内に敵を全滅させる。","translation":"Defeat all enemies within 2 player phases.","id":"000698"}
+{"text":"なし。","translation":"None.","id":"0006C8"}
+{"text":"「市民の避難誘導は\n　２１世紀警備保障が担当していますが、\n　現場は混乱しているようです」","translation":"21st Century Security is handling the civilian evacuation, but the situation on the ground seems chaotic.","id":"000EF8"}
+{"text":"「この状況では無理もないか…」","translation":"Can't blame them in a situation like this...","id":"000F60"}
+{"text":"「各員の出撃準備、完了しました…！」","translation":"All units are ready for deployment...!","id":"000F90"}
+{"text":"「よし…！\n　機動部隊各機、発進！」","translation":"All right...! Mobile task force, launch all units!","id":"000FC0"}
+{"text":"「うわっ！！」","translation":"Whoa!!","id":"0010F0"}
+{"text":"「くそっ！\n　出撃直後に頭を押さえられたか！」","translation":"Damn it! They pinned us down right after launch!","id":"001108"}
+{"text":"「あのガンメンとかいう機体、\n　かなりの攻撃力を持っているぞ！」","translation":"That machine they call a Gunmen has tremendous firepower!","id":"001140"}
+{"text":"「このままでは、なし崩しに押し込まれる…！」","translation":"At this rate, they'll overwhelm us...!","id":"001188"}
+{"text":"「何やってんのよ、$c！」","translation":"What are you doing, $c!","id":"0011C0"}
+{"text":"「こ、これは…！」","translation":"Th-this is...!","id":"001308"}
+{"text":"「シェリルの歌だ…！」","translation":"It's Sheryl's song...!","id":"001320"}
+{"text":"（ばっちりよ、グレイス。\n　音響は任せるわね）","translation":"Perfect, Grace. I'll leave the sound to you.","id":"001340"}
+{"text":"「思いっきり歌いなさい、シェリル。\n　このエリア全体があなたのステージよ」","translation":"Sing your heart out, Sheryl. This whole area is your stage.","id":"001378"}
+{"text":"（さあ行くわよ、獣人…！\n　あたしの歌は、あの程度じゃ\n　止まらないんだから！！）","translation":"Here I come, Beastmen...! My song won't be stopped by the likes of you!!","id":"0013D0"}
+{"text":"「シェリルだ…！\n　シェリルが歌ってる！」","translation":"It's Sheryl...! Sheryl's singing!","id":"001430"}
+{"text":"「たまんねえぜ、こいつはよ！」","translation":"This is awesome!","id":"001460"}
+{"text":"「何だろう…。\n　恐怖が消えていく…」","translation":"What is this...? My fear is fading away...","id":"001488"}
+{"text":"「パニックに陥りかけていた市民達が\n　落ち着きを取り戻していきます！」","translation":"The civilians who were on the verge of panic are regaining their composure!","id":"0014B8"}
+{"text":"「ウッソーッ！\n　これって歌のマジック！？」","translation":"No way! Is this some kind of song magic!?","id":"001508"}
+{"text":"「シェリル…」","translation":"Sheryl...","id":"001540"}
+{"text":"「来るぜ、こいつは…。\n　身体が熱くなってきやがる」","translation":"Here it comes... My body's starting to heat up.","id":"001558"}
+{"text":"「へ…大したもんだぜ、あの女。\n　クソ度胸があぐらをかいてやがる」","translation":"Heh... That woman's really something. She's got nerves of steel.","id":"001590"}
+{"text":"「俺達も負けてられないな！」","translation":"We can't let her outdo us!","id":"0015E0"}
+{"text":"「最高の応援をもらってんだ！\n　これでやらなきゃ、男じゃないぜ！」","translation":"We've got the best cheering squad there is! If we don't deliver now, we're not men!","id":"001608"}
+{"text":"「ああ…！」","translation":"Yeah...!","id":"001658"}
+{"text":"「スカルリーダーより、各機へ！\n　俺達には勝利の女神がついている！\n　ヘマは許さんぞ！」","translation":"Skull Leader to all units! The goddess of victory is on our side! I won't tolerate any screwups!","id":"0018F0"}
+{"text":"「全機、突撃ラブハート！\n　獣人共を蹴散らしてやれ！！」","translation":"All units, charge with Love Heart! Scatter those Beastmen!!","id":"001950"}
+{"text":"（さあ、獣人も$cも！\n　あたしの歌を聴けーっ！！）","translation":"Come on, Beastmen and $c! Listen to my song!!","id":"001990"}
+{"text":"「ガンメン部隊の全滅を確認しました」","translation":"Confirmed: the Gunmen squad has been wiped out.","id":"001AB0"}
+{"text":"「おう！　おととい来やがれってんだ！」","translation":"Oh yeah! Like hell you will!","id":"001AE0"}
+{"text":"「待って、アニキ！\n　また何か来るよ！」","translation":"Wait, Bro! Something else is coming!","id":"001B10"}
+{"text":"「何だ！？　どうなってやがる！？」","translation":"What!? What's going on!?","id":"001C20"}
+{"text":"「アニキ、新手だ！\n　あいつらがガンメンをやったんだ！」","translation":"Bro, new enemies! They're the ones who got the Gunmen!","id":"001C50"}
+{"text":"「ギシン星人！」","translation":"Gishin aliens!","id":"001D50"}
+{"text":"「奴等が地球を破壊しようとする異星人か…！」","translation":"So those are the aliens trying to destroy Earth...!","id":"001D68"}
+{"text":"「ズール皇帝の命令で\n　謎のエネルギーの調査に来たが、\n　マーズもいるとはな」","translation":"By order of Emperor Zuul, I came to investigate the mysterious energy... but Mars is here too, huh.","id":"001DA0"}
+{"text":"「来るか…！」","translation":"Here it comes...!","id":"001DF8"}
+{"text":"「お前の相手は後だ、マーズ。\n　まずは任務を遂行する…！」","translation":"You can wait, Mars. First I'll carry out my mission...!","id":"001E10"}
+{"text":"「ああっ！」","translation":"Aaah!","id":"001F78"}
+{"text":"「シェリル！！」","translation":"Sheryl!!","id":"001F90"}
+{"text":"「どういう事だ…？\n　あいつ…シェリル・ノームを狙ったのか！？」","translation":"What does this mean...? Did that guy... target Sheryl Nome?!","id":"001FA8"}
+{"text":"「マーズ！\n　次は貴様の番だ！！」","translation":"Mars! You're next!!","id":"001FF0"}
+{"text":"「答えろ！\n　お前は何のためにシェリルを攻撃した！？」","translation":"Answer me! Why did you attack Sheryl!?","id":"002020"}
+{"text":"「ズール皇帝に逆らう貴様が知る必要はない。\n　それに、ここで貴様は死に\n　地球は爆破されるのだからな」","translation":"You who defy Emperor Zuul have no need to know. Besides, you'll die here, and Earth will be blown to pieces.","id":"002060"}
+{"text":"「そうはさせるか！\n　お前達の好きにはさせない！」","translation":"I won't let you! I won't let you have your way!","id":"0020D0"}
+{"text":"「各機はギシン星人を迎撃しろ！\n　奴等の目的が地球破壊である以上、\n　見逃すわけにはいかない！」","translation":"All units, intercept the Gishin aliens! If their goal is to destroy Earth, we can't let them get away with it!","id":"002110"}
+{"text":"「レーダーに反応！\n　新たな機体の接近を感知！」","translation":"Radar contact! Detecting new units approaching!","id":"002300"}
+{"text":"「また敵かよ！」","translation":"More enemies!?","id":"002338"}
+{"text":"「あれは…！」","translation":"That's...!","id":"002350"}
+{"text":"「機械獣軍団！\n　あしゅら男爵か！！」","translation":"The Mechanical Beast Army! Baron Ashura!?","id":"002448"}
+{"text":"「久しぶりだな、兜甲児よ」","translation":"Long time no see, Koji Kabuto.","id":"002478"}
+{"text":"「こうして再びお前に会えた事を\n　嬉しく思うぞ」","translation":"I'm glad to see you again like this.","id":"0024A0"}
+{"text":"「そう…！\n　この手でお前とマジンガーＺを\n　叩き潰せる事が出来るのだからな！」","translation":"Yes...! Because now I can crush you and Mazinger Z with my own hands!","id":"0024E0"}
+{"text":"「あれが敵の指揮官か！」","translation":"Is that the enemy commander?!","id":"002538"}
+{"text":"「エリア１１でも見たが、男と女が半分ずつとは\n　とんでもない奴だぜ！」","translation":"I saw him in Area 11 too, but half man and half woman... what a freak!","id":"002558"}
+{"text":"「それって…」","translation":"You mean...","id":"0025A8"}
+{"text":"「アタシ達みたいな人間？」","translation":"Someone like us?","id":"0025C0"}
+{"text":"「少し黙ってて！」","translation":"Be quiet for a second!","id":"0025E8"}
+{"text":"「しかし、無残にも破壊された\n　この巨大な顔を持つ魔神達…」","translation":"And yet, these giant-faced demons, so brutally destroyed...","id":"002608"}
+{"text":"「不思議と懐かしいものよ…」","translation":"Strangely enough, it fills me with nostalgia...","id":"002650"}
+{"text":"「だが、今の私の標的は\n　兜甲児とその仲間達…！」","translation":"But now, my targets are Koji Kabuto and his comrades...!","id":"002678"}
+{"text":"「我が主、Ｄｒ．ヘルの命により、\n　ここでお前達を地獄へと送ってくれる！\n　行け、あしゅら軍団よ！！」","translation":"By order of my master, Dr. Hell, I shall send you all to hell right here! Go, Ashura Army!!","id":"0026B8"}
+{"text":"「フン…地球内部での勢力争いか。\n　こちらに手を出してこないのなら、\n　相手をする必要はあるまい」","translation":"Hmph... a power struggle within Earth itself. If they're not going to lay a hand on us, there's no need to deal with them.","id":"002948"}
+{"text":"「機械獣軍団は\n　我々だけを標的とするか…！」","translation":"So the Mechanical Beast Army is targeting only us...!","id":"0029B0"}
+{"text":"「くそっ！\n　機械獣とギシン星人の挟み討ちかよ！」","translation":"Damn it! We're getting pincered by the Mechanical Beasts and the Gishin aliens!","id":"0029E8"}
+{"text":"「ア、アニキ！\n　またたくさん敵が出てきたよ！！」","translation":"B-Bro! More enemies are coming!!","id":"002A20"}
+{"text":"「ビビんじゃねえ、シモン！\n　気持ちで負ければ、そこにつけ込まれる！」","translation":"Don't freak out, Simon! If you lose heart, they'll exploit that!","id":"002A60"}
+{"text":"「でも…」","translation":"But...","id":"002AB0"}
+{"text":"「く…う…」","translation":"Ugh... ah...","id":"002AC8"}
+{"text":"「シェリルさん、大丈夫ですか！？」","translation":"Sheryl, are you alright?!","id":"002AE0"}
+{"text":"「グレイスが…\n　ギリギリで…助けてくれたから…」","translation":"Grace... saved me... at the very last second...","id":"002B10"}
+{"text":"「歌わなくちゃ…あたしは歌わなきゃ…」","translation":"I have to sing... I have to sing...","id":"002B50"}
+{"text":"「こんな時に歌の事を…」","translation":"You're thinking about singing at a time like this...?","id":"002B80"}
+{"text":"「こんな時だからよ。\n　アルト達も生命を懸けて戦っている…。\n　だったら、あたしだって…」","translation":"Precisely because it's a time like this. Alto and the others are fighting with their lives on the line... So I have to as well...","id":"002BA0"}
+{"text":"「シェリルさん…」","translation":"Sheryl...","id":"002C08"}
+{"text":"「ランカちゃん！\n　これ以上は危険です！\n　あたし達も早く逃げましょう！！」","translation":"Ranka! It's too dangerous to stay here any longer! We need to get out of here too, now!!","id":"002C28"}
+{"text":"「シェリルさんは歌おうとしている…。\n　外ではお兄ちゃんやアルト君達が\n　戦っている…」","translation":"Sheryl is trying to sing... And outside, my brother and Alto are fighting...","id":"002C80"}
+{"text":"「逃げなさい、ランカちゃん…。\n　あたしは…」","translation":"Run, Ranka... I...","id":"002CE0"}
+{"text":"「シェリルさん…！\n　私が…歌います…！」","translation":"Sheryl...! I... I'll sing...!","id":"002D18"}
+{"text":"「うわああっ！！」","translation":"Aaaah!!","id":"002FF0"}
+{"text":"「カミナ！\n　今のシモンじゃ戦うのは無理よ！」","translation":"Kamina! Simon isn't in any shape to fight right now!","id":"003010"}
+{"text":"「黙ってろ！\n　俺とシモンに無理なんてもんはねえ！」","translation":"Shut up! There's no such thing as 'can't' for me and Simon!","id":"003048"}
+{"text":"「また歌が流れ始めた…！」","translation":"The song's starting up again...!","id":"003168"}
+{"text":"「この歌…シェリルか…！？\n　いや、違う！」","translation":"This song... is it Sheryl...? No, it's different!","id":"003190"}
+{"text":"「これは…ランカの歌だ！」","translation":"This is... Ranka's song!","id":"0031C0"}
+{"text":"「何をやっている、ランカ！\n　早く逃げろ！！」","translation":"What are you doing, Ranka?! Run, now!!","id":"0031E8"}
+{"text":"（私…逃げない…！\n　私…みんなのために歌いたい…！）","translation":"I... won't run...! I... want to sing for everyone...!","id":"003220"}
+{"text":"「あの子が歌ってる…」","translation":"That girl is singing...","id":"003260"}
+{"text":"「あんなにおどおどしてたのに…\n　こんな状況なのに…」","translation":"Even though she was so timid... and in a situation like this...","id":"003280"}
+{"text":"「これ…誰の歌だ…？」","translation":"Whose song is this...?","id":"0032C0"}
+{"text":"「シェリルじゃない…。\n　でも、気持ちが落ち着いていく…」","translation":"It's not Sheryl's... But somehow, I feel calmer...","id":"0032E0"}
+{"text":"「僕、この歌も好き！」","translation":"I like this song too!","id":"003320"}
+{"text":"「みんながランカの歌を聴いている…」","translation":"Everyone's listening to Ranka's song...","id":"003340"}
+{"text":"（馬鹿な…！\n　エネルギーの発生源が複数あるとでも\n　いうのか…！）","translation":"Impossible...! Could there be multiple energy sources...?!","id":"003370"}
+{"text":"（やはり、ズール皇帝のおっしゃる通り、\n　この星は危険だという事か…！）","translation":"So Emperor Zuul was right after all... This planet really is dangerous...!","id":"0033C0"}
+{"text":"「へ…まだまだシェリルにゃ敵わねえが、\n　けっこう腹にくる声じゃねえか」","translation":"Heh... still no match for Sheryl, but that's one hell of a voice.","id":"003410"}
+{"text":"「こいつは踏ん張らねえと\n　格好つかねえな！」","translation":"If I don't dig in here, I'm gonna look pretty damn lame!","id":"003460"}
+{"text":"「アニキ…！　俺、何とかしてみる！」","translation":"Bro...! I'll figure something out!","id":"003498"}
+{"text":"「シモン…」","translation":"Simon...","id":"0034C8"}
+{"text":"「…わかった。\n　このケンカ、お前に任せた！」","translation":"...Got it. I'll leave this fight to you!","id":"0034E0"}
+{"text":"「うん！」","translation":"Yeah!","id":"003518"}
+{"text":"「奴め…！　何をする気だ！？」","translation":"That bastard...! What is he planning to do!?","id":"003810"}
+{"text":"「シモン！　一人じゃ無理だ！」","translation":"Simon! You can't do it alone!","id":"003838"}
+{"text":"「あの子も頑張ってるんだ…！\n　きっと震えながら、それでも勇気を\n　振り絞って…！」","translation":"She's trying too...! Even when she's scared, she's still mustering up her courage...!","id":"003860"}
+{"text":"「だったら、俺だって！！」","translation":"Then so will I!!","id":"0038C0"}
+{"text":"「うおおおおおおおっ！！」","translation":"Uooooooooooooh!!","id":"0039E8"}
+{"text":"「なっ！？\n　一瞬にしてタロス像が\n　地割れに飲み込まれただと！？」","translation":"What!? The Talos Statue was swallowed by a fissure in the ground in an instant!?","id":"003AB0"}
+{"text":"「やった…！　やったぞ！」","translation":"I did it...! I did it!","id":"003B00"}
+{"text":"「でかしたぞ、シモン！」","translation":"Nice work, Simon!","id":"003B28"}
+{"text":"「ええい、トロスＤ７！\n　お前の角で奴を貫け！！」","translation":"Damn it, Toros D7! Impale him with your horn!!","id":"003B48"}
+{"text":"「代われ、シモン！\n　今度は俺の番だ！！」","translation":"Switch with me, Simon! Now it's my turn!!","id":"003C88"}
+{"text":"「行くぜ、一本角！\n　お前のご自慢の角と俺達のドリル、\n　どっちが上か、勝負だ！！」","translation":"Let's go, One-Horn! Let's see whether your prized horn or our drill is better!!","id":"003CC0"}
+{"text":"「すごい！　すごいよ、アニキ！」","translation":"Amazing! You're amazing, Bro!","id":"003E00"}
+{"text":"「あのチビっ子がお前の魂に火を点け、\n　お前が俺の魂を燃やした！」","translation":"That little kid lit a fire in your soul, and you lit mine!","id":"003E28"}
+{"text":"「そして、そいつが\n　グレンラガンを燃え上がらせた！」","translation":"And that set Gurren Lagann ablaze!","id":"003E78"}
+{"text":"「うん…！　うん！」","translation":"Yeah...! Yeah!","id":"003EB8"}
+{"text":"「ええい、まだだ！\n　立て、トロスＤ７！　立つのだ！！」","translation":"Damn it, not yet! Get up, Toros D7! Rise!!","id":"003ED8"}
+{"text":"「上等だ！\n　立ち上がってくるんなら、\n　何度でも叩きのめしてやるまでだ！」","translation":"Fine by me! If you're gonna get back up, I'll knock you down as many times as it takes!","id":"004040"}
+{"text":"「カミナ、シモン…お前達ばかりに\n　いい格好はさせないぜ」","translation":"Kamina, Simon... I won't let you two have all the glory.","id":"004098"}
+{"text":"「やるぞ！\n　こんな所で負けてたまるか！」","translation":"Let's do this! There's no way we're losing here!","id":"0040D8"}
+{"text":"「覚悟しろよ、あしゅら！\n　俺達の闘志はまだ尽きちゃいないんだ！」","translation":"Get ready, Ashura! Our fighting spirit hasn't burned out yet!","id":"004108"}
+{"text":"「各機、グレンラガンに続け！\n　狙いは敵の中心戦力だ！！」","translation":"All units, follow Gurren Lagann! Target the core of the enemy force!!","id":"004150"}
+{"text":"「ランカ、シェリル…！\n　そこで俺達の勝利を待ってろよ！」","translation":"Ranka, Sheryl...! Just wait there for our victory!","id":"004198"}
+{"text":"「どうやら増援はないようです」","translation":"Looks like there won't be any reinforcements.","id":"004320"}
+{"text":"「ふう…一時はどうなる事かと思ったぜ」","translation":"Phew... for a moment there, I thought we were done for.","id":"004348"}
+{"text":"「よかった…。\n　本当によかった…」","translation":"Thank goodness... I'm really glad...","id":"004438"}
+{"text":"「勝って当然よ。\n　こっちには勝利の女神が二人もいたんだから」","translation":"Of course we won. We had two goddesses of victory on our side.","id":"004468"}
+{"text":"「いい歌だったわよ、ランカちゃん。\n　この調子なら、デビューももうすぐね」","translation":"That was a great song, Ranka-chan. At this rate, your debut's just around the corner.","id":"0044B0"}
+{"text":"「はい…！\n　ありがとうございます！」","translation":"Yes...! Thank you very much!","id":"004508"}
+{"text":"（ふふ…怪我の功名ね…。\n　間近で、この子の本気の歌が聴けたのは…）","translation":"Heh... a blessing in disguise... Getting to hear this girl's true singing up close...","id":"004538"}
+{"text":"「各員、よくやった。\n　クォーターに帰還しろ」","translation":"Good work, everyone. Return to the Quarter.","id":"004588"}
+{"text":"（ありがとうな、シェリル、ランカ…。\n　またお前達に助けられたよ…）","translation":"Thanks, Sheryl, Ranka... You saved us again...","id":"0045C0"}
+{"text":"「くっ…！\n　地球人め、よくも…よくも！！」","translation":"Damn...! You Earthlings... how dare you... how dare you!!","id":"004790"}
+{"text":"「答えろ！\n　何故、お前達はシェリルを狙った！？」","translation":"Answer me! Why did you target Sheryl?!","id":"0047C8"}
+{"text":"「黙れ、マーズ！\n　…貴様はいずれ知る…！\n　ズール皇帝の恐ろしさを…！」","translation":"Silence, Mars! ...Soon enough, you'll learn... the terror of Emperor Zuul...!","id":"004808"}
+{"text":"「そして、ズール皇帝に反逆した事を\n　地球人共と地獄で後悔するがいい！！」","translation":"And in hell, alongside these Earthlings, you can regret your rebellion against Emperor Zuul!!","id":"004858"}
+{"text":"（皇帝ズール…\n　何故、奴は地球をそこまで危険視する…？）","translation":"Emperor Zuul... Why does he see Earth as such a threat...?","id":"0049B0"}
+{"text":"（そして、その事とシェリルを狙った事は\n　関係しているのか…？）","translation":"And is that connected to why they targeted Sheryl...?","id":"0049F8"}
+{"text":"「ええい、ここまでか！\n　退け！　全軍、退くのだ！！」","translation":"Damn it, this is as far as we go! Retreat! All forces, withdraw!!","id":"004B00"}
+{"text":"「覚えているがいい、兜甲児！\n　この屈辱…次の機会に必ず晴らすぞ！」","translation":"Remember this, Koji Kabuto! This humiliation... I'll make you pay for it next time!","id":"004B40"}
+{"text":"「相変わらず逃げ足の速い奴だなぁ」","translation":"He's as quick to run away as ever.","id":"004C50"}
+{"text":"「来るなら来い、あしゅら。\n　お前とＤｒ．ヘルの野望は\n　必ず俺と仲間達が打ち砕いてやるからな」","translation":"Come if you dare, Ashura. My friends and I will crush your and Dr. Hell's ambitions for good.","id":"004C80"}
+{"text":"「あしゅら男爵！\n　近頃、大人しくしていると思ったら、\n　また動き出したようだな！」","translation":"Baron Ashura! I thought you'd been keeping quiet lately, but it looks like you're on the move again!","id":"004DA8"}
+{"text":"「全ては我が主、Ｄｒ．ヘルの悲願のため！\n　その成就のためには、邪魔者は\n　全てこのあしゅらが排除する！」","translation":"All of this is for my master, Dr. Hell's cherished ambition! To see it fulfilled, I, Ashura, shall eliminate every last obstacle!","id":"004E00"}
+{"text":"「やれるもんなら、やってみろ！\n　お前と戦う力は、俺とマジンガーＺだけじゃ\n　ないぜ！」","translation":"If you think you can, then try it! It's not just me and Mazinger Z you've got to fight!","id":"004E78"}
+{"text":"「俺達$cが\n　お前達の野望を叩き潰してやる！」","translation":"We $c will crush your ambitions!","id":"004ED8"}
+{"text":"「獣人やギシン星人のどさくさにまぎれて\n　攻めてくるなんて、相変わらずやり方が\n　汚いんだよ！」","translation":"Taking advantage of the chaos caused by the Beastmen and the Gishin to attack... your methods are as dirty as ever!","id":"005010"}
+{"text":"「戦いに綺麗も汚いもない！\n　Ｄｒ．ヘルの命令とあらば、\n　私はどのような事でもやってみせる！」","translation":"There is no such thing as clean or dirty in battle! If it's Dr. Hell's order, I'll do whatever it takes!","id":"005078"}
+{"text":"「だったら、帰って、お前の親分に伝えろ！\n　人の迷惑を考えろってな！」","translation":"Then go home and tell your boss this: think about the trouble you cause other people!","id":"0050E0"}
+{"text":"「気をつけて、赤木君！\n　こいつの突進のパワー、かなりのものよ！」","translation":"Be careful, Akagi! The power behind this thing's charge is incredible!","id":"005210"}
+{"text":"「戦術と言えば、突っ込むだけ…。\n　どこかの誰かと同じだな」","translation":"If you can even call it tactics, all it does is charge straight in... Just like a certain someone I know.","id":"005260"}
+{"text":"「だったら、負けちゃいられない！\n　正面から受け止めてやる！」","translation":"Then I can't afford to lose! I'll take it head-on!","id":"0052A8"}
+{"text":"「イヤミがヤブヘビになっちまったか…。\n　毎度の事ながら、無茶な戦いになりそうだ」","translation":"Guess my sarcasm came back to bite me... As usual, this is shaping up to be one reckless fight.","id":"0052F0"}
+{"text":"「しかし、機械獣ってのは\n　色んなバリエーションがあるもんだ。\n　どうやら全てワンオフのようだな」","translation":"Still, these Mechanical Beasts really do come in all kinds of variations. Looks like every last one of them is a one-off.","id":"005448"}
+{"text":"「俺としちゃ、売り物になるデータが多いのは\n　喜ばしい事だが、こいつはコンプリートが\n　大変そうだぜ」","translation":"I, for one, am glad there's plenty of sellable data, but this one's going to be a pain to complete.","id":"0054B0"}
+{"text":"「アニキ！\n　今度こそ、俺達の手でこいつにとどめを\n　刺してやろうよ！」","translation":"Bro! This time, let's finish it ourselves!","id":"0055D8"}
+{"text":"「気合十分だな、シモン！\n　あのチビっ子の歌が\n　よっぽど気に入ったようじゃねえか！」","translation":"You're really fired up, Simon! Looks like you really took a liking to that little girl's song!","id":"005628"}
+{"text":"「あの子だって勇気を振り絞って頑張ったんだ…。\n　俺だってやらなきゃ…！」","translation":"She worked up all her courage and did her best... So I've gotta do my part too...!","id":"005688"}
+{"text":"「よっしゃ！\n　二人の歌姫にお返しだ！\n　俺達、グレン団の魂の一撃を見せてやるぞ！」","translation":"Alright! Let's repay our singers! We'll show them Team Gurren's soul strike!","id":"0056E0"}
+{"text":"「ズール皇帝に逆らう愚か者マーズ！\n　地球と共に滅びるがいい！」","translation":"Mars, you fool for defying Emperor Zuul! Perish along with the Earth!","id":"005840"}
+{"text":"「何故だ！？\n　何故、お前達はそこまでズールに\n　心酔している！？」","translation":"Why!? Why are you all so utterly devoted to Zuul!?","id":"005888"}
+{"text":"「ここで俺が死んで、地球が爆発すれば、\n　お前も死ぬんだぞ！」","translation":"If I die here and the Earth explodes, you'll die too!","id":"0058D8"}
+{"text":"「この命は既にズール皇帝に捧げた！\n　お前と共に死ぬ事に何の恐れもない！」","translation":"I've already offered this life to Emperor Zuul! I have no fear of dying with you!","id":"005920"}
+{"text":"「目を覚ませ！\n　部下の生命を捨て駒にするような奴が\n　まともな指導者であるものか！」","translation":"Wake up! How can someone who throws away his subordinates' lives like pawns be any kind of decent leader?!","id":"005978"}
+{"text":"「シェリル、ランカ…！\n　お前達の生命が歌うためにあるなら、\n　俺の生命はそれを守るためにある！」","translation":"Sheryl, Ranka...! If your lives exist so you can sing, then mine exists to protect that!","id":"005AF8"}
+{"text":"「俺はパイロットだ…！\n　$cとして、\n　必ずお前達を守ってみせるぞ！」","translation":"I'm a pilot...! As a $c, I'll protect you no matter what!","id":"005B60"}
+{"text":"「待っていろよ、ランカ…！\n　お前の夢はお兄ちゃんが守ってやるからな！」","translation":"Just wait, Ranka...! Your big brother will protect your dream!","id":"005C70"}
+{"text":"「それが１１年前にお前の家族を守れなかった\n　俺が唯一出来る償いだ！」","translation":"That's the only atonement I can make for failing to protect your family eleven years ago!","id":"005CC0"}
+{"text":"「あ！」","translation":"Ah!","id":"005DD0"}
+{"text":"シェリル街","translation":"Sheryl Street","id":"005FA0"}
+{"text":"　\n　　\n　　　　　　　　　　～渋谷～","translation":"~Shibuya~","id":"005FB0"}
+{"text":"「よかったね、アルトさん。\n　新宿のヘテロダインがいなくなってさ」","translation":"I'm glad, Alto-san. The Heterodyne in Shinjuku is gone now.","id":"005FD8"}
+{"text":"「ああ…」","translation":"Yeah...","id":"006028"}
+{"text":"「もうちょっと喜べよ」","translation":"Try to look a little happier.","id":"006040"}
+{"text":"「あのままヘテロダインが居座ってたら、\n　フロンティア船団と日本の国交記念イベントが\n　延期になってたかも知れないんだからな」","translation":"If that Heterodyne had stayed put, the Frontier fleet's Japan friendship event might've been postponed.","id":"006060"}
+{"text":"「シェリルのライブと\n　『ＢＩＲＤ－ＨＵＭＡＮ』の予告編の上映か…。\n　こいつは楽しみだぜ」","translation":"Sheryl's live show and a preview screening of \"BIRD-HUMAN\"... This is gonna be great.","id":"0060E8"}
+{"text":"「そう思ってるのは甲児君だけじゃないわよ。\n　ほら…街はもうシェリル一色で\n　染まってるもの」","translation":"You're not the only one thinking that, Koji-kun. Look... the whole city is already painted in Sheryl's colors.","id":"006148"}
+{"text":"「………」","translation":".........","id":"0061B0"}
+{"text":"「さっきから熱心に見てるけど、\n　アニキもシェリル・ノームのファンに\n　なったの？」","translation":"You keep staring, Bro. Are you a Sheryl Nome fan now?","id":"0061C8"}
+{"text":"「気に食わねえ…」","translation":"I don't like it...","id":"006228"}
+{"text":"「え…」","translation":"Huh...?","id":"006248"}
+{"text":"「どうにも、この女…\n　気に食わねえ匂いがする」","translation":"There's just something about this woman... something about her rubs me the wrong way.","id":"006258"}
+{"text":"「訳のわからない事、言ってないの。\n　下手な事言ってると、彼女のファンに\n　殴られるわよ」","translation":"Don't say weird things. If you keep talking like that, her fans are gonna hit you.","id":"006290"}
+{"text":"「そうそう。\n　うちの木下さんに青山さん、谷川さんに\n　伊集院さん、ナオトさんにアキラさん…」","translation":"That's right. Kinoshita-san, Aoyama-san, Tanigawa-san, Ijuin-san, Naoto-san, Akira-san...","id":"0062F0"}
+{"text":"「$cだけじゃない。\n　今や彼女のファンは世界中にいるさ」","translation":"It's not just $c. Her fans are all over the world now.","id":"006358"}
+{"text":"「あいつの人気…\n　今じゃ地球規模ってわけか…」","translation":"Her popularity... so it's on a global scale now, huh...?","id":"006398"}
+{"text":"「少しはあたしの実力を思い知った？」","translation":"Have you finally realized how good I am?","id":"0063D0"}
+{"text":"「お前…！」","translation":"You...!","id":"006400"}
+{"text":"「シェリル！　シェリル・ノームだ！！」","translation":"Sheryl! It's Sheryl Nome!!","id":"006418"}
+{"text":"「ほ、本物だーっ！！」","translation":"I-it's really her!!","id":"006448"}
+{"text":"「あんまり騒がないでね。\n　今日はお忍びで来てるんだから」","translation":"Don't make too much of a fuss, okay? I'm here incognito today.","id":"006468"}
+{"text":"「は、はい！」","translation":"Y-yes!","id":"0064B0"}
+{"text":"「ま…あたしを前にした健全な男子としては\n　当然の反応だけど」","translation":"Well... I guess that's only natural for a healthy young man standing in front of me.","id":"0064C8"}
+{"text":"「あ…でも、写真は駄目よ。\n　ついでにタッチは絶対に許さないからね」","translation":"Ah... but no photos, okay? And absolutely no touching either.","id":"006510"}
+{"text":"「何か…随分と高飛車だな…」","translation":"Man... she's really full of herself...","id":"006560"}
+{"text":"「う、うん…リモネシアで会った時とは\n　ちょっと違う…」","translation":"Y-yeah... she's a little different from when we met her in Limonesia...","id":"006588"}
+{"text":"「こっちの方が素のシェリルだな」","translation":"This is more like the real Sheryl.","id":"0065C8"}
+{"text":"「リモネシアの時は半分仕事で、今はオフ。\n　こんな時ぐらい自由にさせてよ」","translation":"Back in Limonesia, it was half work. Right now I'm off-duty. Let me be free for once, okay?","id":"0065F8"}
+{"text":"「よく言うぜ。\n　いつも好き勝手に生きてるくせによ」","translation":"Yeah, right. Like you don't always do whatever you want anyway.","id":"006650"}
+{"text":"「それも含めてあたしよ。\n　型にはめられたあたしじゃ、\n　ファンのみんなもつまらないしね」","translation":"That's part of who I am too. If I were some boxed-in version of myself, my fans would be bored.","id":"006690"}
+{"text":"「何よ、あんた…？」","translation":"What is your problem, anyway...?","id":"0066F8"}
+{"text":"「おう…！」","translation":"Oh...!","id":"006718"}
+{"text":"「…！」","translation":"...!","id":"006730"}
+{"text":"「おうおうおう！」","translation":"Oh, oh, oh!","id":"006748"}
+{"text":"「…あんた、あたしを誰だと思ってるのよ？」","translation":"...Who do you think I am?","id":"006768"}
+{"text":"「お前こそ、俺を誰だと思ってやがる！？」","translation":"Who the hell do you think I am?!","id":"0067A0"}
+{"text":"「$cに悪名轟くグレン団！\n　男の魂、背中に背負い！　不撓不屈の！\n　あ！　鬼リーダー！」","translation":"$cThe infamous Team Gurren! With a man's soul on his back! The unbending, unbreakable... ah! Demon Leader!","id":"0067D0"}
+{"text":"「カミナ様たぁ俺の事だ！！」","translation":"That's me, Kamina!!","id":"006830"}
+{"text":"「あたしはシェリル・ノームなのよ！\n　わかってるの、あんた！？」","translation":"I'm Sheryl Nome! Do you understand that!?","id":"006858"}
+{"text":"「どうなってるのよ、これ…？\n　いきなり、いがみ合って…」","translation":"What's going on here...? They started bickering out of nowhere...","id":"0068A8"}
+{"text":"「同じだ…。\n　アニキと竜馬が初めて会った時と…」","translation":"It's just like when Bro and Ryoma first met...","id":"0068F0"}
+{"text":"「あの時も凄かったな…。\n　お互いに一歩も譲らずで」","translation":"That was intense too... neither of them would give an inch.","id":"006930"}
+{"text":"「だけど、あの二人は今は仲がいい。\n　結局、似た者同士故の衝突だったようだが…」","translation":"But those two get along fine now. In the end, it seems they just clashed because they were so alike...","id":"006970"}
+{"text":"「じゃあ、これも…」","translation":"So this is the same, then...?","id":"0069C8"}
+{"text":"「意地とプライドのぶつかり合い…。\n　カミナとシェリルも似た者同士って事だろうな」","translation":"A clash of stubbornness and pride... I guess that means Kamina and Sheryl are the same type too.","id":"0069E8"}
+{"text":"「あたしのどこが、\n　この山猿と似てるってのよ！？」","translation":"What part of me is anything like this mountain ape?!","id":"006A48"}
+{"text":"「俺とこいつを一緒にすんじゃねえ！」","translation":"Don't lump me in with her!","id":"006A88"}
+{"text":"「そっくりだ…」","translation":"They're exactly alike...","id":"006AB8"}
+{"text":"「カミナがシェリルの事を気に食わないって\n　言ったのは、こういうわけだったのね…」","translation":"So that's why Kamina said he couldn't stand Sheryl...","id":"006AD0"}
+{"text":"「この衝突は\n　野生動物の縄張り争いみたいなものだな」","translation":"This clash is like wild animals fighting over territory.","id":"006B30"}
+{"text":"「ふ…どれだけ気取ろうと\n　根っこの部分はカミナと同じで\n　闘争本能のかたまりってわけか」","translation":"Heh... no matter how much you put on airs, deep down you're just like Kamina~ a bundle of fighting instinct.","id":"006B70"}
+{"text":"「何がおかしいのよ、アルト…！？」","translation":"What's so funny, Alto?!","id":"006BD0"}
+{"text":"「シェ、シェリルさん…\n　お忍びなんですから…」","translation":"Sh-Sheryl... We're supposed to be incognito...","id":"006C00"}
+{"text":"「ランカ…お前もいたのか」","translation":"Ranka... you were here too?","id":"006C38"}
+{"text":"「さっきからいたんだけど、\n　声…かけられなくて…」","translation":"I've been here the whole time, but... I couldn't bring myself to say anything...","id":"006C60"}
+{"text":"「駄目だよ、ランカちゃん。\n　これからスターになっていく君が\n　そんなに消極的じゃさ」","translation":"Come on, Ranka-chan. You're going to be a star, so don't be so timid.","id":"006CA0"}
+{"text":"「そうよ。\n　あなたの歌う『ＢＩＲＤ－ＨＵＭＡＮ』の\n　主題歌、とっても素敵なのに」","translation":"That's right. The theme song you sing for \"BIRD-HUMAN\" is absolutely lovely.","id":"006D00"}
+{"text":"「でも…私の歌なんか、\n　みんな、聞いてくれないかもって思うと…」","translation":"But... when I think maybe no one will listen to my songs...","id":"006D60"}
+{"text":"「もっと自信を持てよ、ランカ。\n　ちゃんとお前の事を応援してくれる人達も\n　いるんだから」","translation":"Have more confidence, Ranka. There are people who really do support you.","id":"006DB0"}
+{"text":"「アルト君も…？」","translation":"You too, Alto-kun...?","id":"006E10"}
+{"text":"「当たり前だろ」","translation":"Of course.","id":"006E30"}
+{"text":"「ランカちゃんには優しいのよねぇ～」","translation":"You're so nice to Ranka-chan~","id":"006E48"}
+{"text":"「どっかの可愛げのない誰かと違うからな」","translation":"That's because she's not like a certain someone who's got no charm at all.","id":"006E78"}
+{"text":"「悪かったわね。\n　だけど、あたしは誰かに守られたり、\n　助けられたりってのは性に合わないのよ」","translation":"Well, excuse me. But being protected or helped by someone just isn't my style.","id":"006EA8"}
+{"text":"「あたしはいつだって自分の力で\n　運命を切り拓いてみせるわ」","translation":"I'll always carve out my own destiny with my own power.","id":"006F10"}
+{"text":"「………」","translation":".........","id":"006F58"}
+{"text":"「気にするな、ランカ。\n　人にはそれぞれやり方があるんだ」","translation":"Don't worry about it, Ranka. Everyone has their own way of doing things.","id":"006F70"}
+{"text":"「でも、私…とてもシェリルさんのようには…」","translation":"But I... I could never be like Sheryl...","id":"006FB8"}
+{"text":"「私なんか…私には…。\n　そういうのはやめるって決めたんだろ？」","translation":"\"I'm not good enough... I can't...\" You decided to stop saying things like that, didn't you?","id":"006FF0"}
+{"text":"「でも、シェリルさんと一緒にお仕事してると、\n　時々不安になって…」","translation":"But when I work with Sheryl, I get anxious sometimes...","id":"007038"}
+{"text":"「ははぁ～ん…なるほどね…」","translation":"Aha~n... I see...","id":"007088"}
+{"text":"「どうしたの、ヨーコ？」","translation":"What's wrong, Yoko?","id":"0070B0"}
+{"text":"「ふふ…あのランカって子とアルトを見てると、\n　ちょっと面白くてね」","translation":"Hehe... watching that girl Ranka and Alto is kind of amusing.","id":"0070D0"}
+{"text":"（華やかなシェリルの陰に隠れちゃってる…。\n　あの子…俺に似てるかも…）","translation":"Overshadowed by Sheryl... She might be like me.","id":"007120"}
+{"text":"「せっかくのオフなのに、\n　山猿にからまれるなんて最悪よ…」","translation":"It's my day off, and getting hassled by some mountain ape is the worst...","id":"007170"}
+{"text":"「俺の行く先に現れたお前が悪いんだよ！」","translation":"It's your fault for showing up where I was headed!","id":"0071B8"}
+{"text":"「ここは天下の公道よ！\n　あんたにそんな事を言われる筋合いは\n　ないわよ！」","translation":"This is a public road! You don't have any right to say that to me!","id":"0071E8"}
+{"text":"「全ての道は、この俺様に通じてるのよ！」","translation":"All roads lead to me!","id":"007240"}
+{"text":"「あんた、バカ？\n　いい！？　この世界の全ては\n　あたしのために存在してるのよ！」","translation":"Are you stupid? Listen up! Everything in this world exists for my sake!","id":"007270"}
+{"text":"「すげえ…。\n　子供のケンカみたいだ」","translation":"Whoa... It's like a couple of kids fighting.","id":"0072D0"}
+{"text":"「ここまで二人のレベルが同じとは…」","translation":"I can't believe those two are on exactly the same level...","id":"007300"}
+{"text":"「それ位にしとけよ、シェリル。\n　ライブ前の大事なオフなんだろ」","translation":"That's enough, Sheryl. Isn't this your important day off before the live show?","id":"007330"}
+{"text":"「…そうね。\n　そろそろリハに戻らないと。\n　…行こうか、ランカちゃん」","translation":"...You're right. I should get back to rehearsal soon. ...Let's go, Ranka-chan.","id":"007380"}
+{"text":"「は、はい！」","translation":"Y-Yes!","id":"0073D0"}
+{"text":"「ごめんね。\n　せっかくアルトを追って、街に出たのに、\n　こんな事になっちゃって」","translation":"Sorry. We came out into town to chase after Alto, and it ended up like this...","id":"0073E8"}
+{"text":"「い、いえ！\n　気になさらないで下さい！」","translation":"N-No! Please don't worry about it!","id":"007448"}
+{"text":"「頑張れよ、ランカ。\n　$cはイベントの警備に\n　当たる事になってるから」","translation":"Do your best, Ranka. $c is going to be on security duty for the event.","id":"007480"}
+{"text":"「う、うん…」","translation":"O-Okay...","id":"0074D0"}
+{"text":"「シェリルもな。\n　お前はフロンティア船団の代表みたいな\n　ものなんだから」","translation":"You too, Sheryl. You're basically the face of the Frontier fleet, after all.","id":"0074E8"}
+{"text":"「誰に向かって言ってるのよ？\n　あたしはシェリル・ノームよ」","translation":"Who do you think you're talking to? I'm Sheryl Nome.","id":"007540"}
+{"text":"「そいつが聞ければ、安心だ」","translation":"Hearing you say that puts me at ease.","id":"007588"}
+{"text":"「意地とプライドのぶつかり合い…。\n　似た者同士なだけにお互いの存在が\n　許せないんじゃないか？」","translation":"A clash of stubbornness and pride... Maybe they're so alike they just can't stand each other.","id":"0075B0"}
+{"text":"黒ベタ","translation":"Black screen","id":"007620"}
+{"text":"　\n　　\n　　　～シェリル・ノーム　ライブステージ～","translation":"~ Sheryl Nome Live Stage ~","id":"007628"}
+{"text":"「あたしの歌を聴けーっ！！」","translation":"Listen to my song!","id":"007660"}
+{"text":"シェリル　ステージ","translation":"Sheryl Stage","id":"007688"}
+{"text":"「シェリルーッ！！」","translation":"Sheryl!!","id":"0076A0"}
+{"text":"「いいのかな…。\n　私達、会場の警備をしないで、ライブ観てて…」","translation":"Is this really okay...? We're supposed to be guarding the venue, and instead we're watching the concert...","id":"0076C0"}
+{"text":"「そっちはクジ引きで負けたアキラや\n　赤木さん達がやってくれてるよ」","translation":"Akira, Mr. Akagi, and the others lost the draw, so they're handling that side for us.","id":"007708"}
+{"text":"「しかし、$nは残念だったな。\n　当たりクジを引いて、外れた奴に\n　売りつける気満々だったのに」","translation":"Still, $n, that's a shame. I was all set to draw a winning ticket and sell it to one of the losers.","id":"007758"}
+{"text":"「そんな風に考えてたから、\n　外れたんじゃないかな」","translation":"Maybe that's why you lost.","id":"0077C0"}
+{"text":"「タケル…そういうお前はシェリル見たさに\n　ズルしてないだろうな？」","translation":"Takeru... you didn't cheat just because you wanted to see Sheryl, did you?","id":"007800"}
+{"text":"「そんな事に超能力は使わないさ…！」","translation":"I wouldn't use my ESP for something like that...!","id":"007850"}
+{"text":"「冗談だよ、冗談。\n　ほら…ＭＣが始まるぜ」","translation":"Just kidding, just kidding. Look... the MC's starting.","id":"007880"}
+{"text":"シェリル　アップ","translation":"Sheryl Close-up","id":"0078B8"}
+{"text":"「日本のみんな！\n　今日はサイコーのステージにするよ！！」","translation":"Everyone in Japan! Today I'm gonna make this the best show ever!!","id":"0078D0"}
+{"text":"「時空転移でこっちの世界に来たけど、\n　歌は全ての人の心をつないでくれる…！\n　あたしはそう信じてるから！」","translation":"I came to this world through a space-time transfer, but songs can connect the hearts of all people...! That's what I believe!","id":"007918"}
+{"text":"「素敵ですね、シェリルさん」","translation":"That's wonderful, Sheryl.","id":"007990"}
+{"text":"「この間はあんなに憎まれ口を叩いてたのに\n　今日は素直だな」","translation":"The other day you were talking so much smack, but today you're being honest.","id":"0079B8"}
+{"text":"「俺だって舞台に立っていた人間だ。\n　あいつのすごさはわかっているさ」","translation":"I've stood on a stage myself. I know how amazing she is.","id":"007A00"}
+{"text":"「そうね。\n　カミナもこのステージを見れば、\n　グウの音も出ないよ、きっと」","translation":"Yeah. If Kamina saw this stage, he'd be speechless for sure.","id":"007A50"}
+{"text":"「何だ！？」","translation":"What is it?!","id":"007AA8"}
+{"text":"「聞こえるか、アルト！？\n　会場の周辺に獣人が現れたぞ！」","translation":"Can you hear me, Alto!? Beastmen have appeared around the venue!","id":"007AC0"}
+{"text":"「獣人って…\n　カミナやシモンのいた大陸の奴等か！」","translation":"Beastmen...? You mean the ones from the continent Kamina and Simon were on?!","id":"007B08"}
+{"text":"「奴等はイベント会場を襲撃している。\n　お前達はステージのシェリルを保護しろ。\n　それと…」","translation":"They're attacking the event venue. You guys protect Sheryl on stage. And also...","id":"007B48"}
+{"text":"「わかっている…！\n　ランカも必ず守る！」","translation":"I know...! I'll protect Ranka too!","id":"007BB0"}
+{"text":"「…すまん。\n　頼むぞ」","translation":"...Sorry. I'm counting on you.","id":"007BE8"}
+{"text":"「アルト先輩！\n　獣人が突入してきます！」","translation":"Alto-senpai! The Beastmen are breaking in!","id":"007C08"}
+{"text":"「まずいぞ！\n　奴等、ステージに向かってる！」","translation":"This is bad! They're heading for the stage!","id":"007C38"}
+{"text":"「人間は皆殺しだ！」","translation":"Kill all humans!","id":"007C70"}
+{"text":"「逆らう奴は殺す！\n　逃げる奴も殺す！」","translation":"Kill anyone who resists! Kill anyone who runs!","id":"007C90"}
+{"text":"「あんた達ねえ！\n　いきなり出てきて、何言ってんのよ！！」","translation":"Hey, you guys! Showing up out of nowhere and saying crap like that!!","id":"007CC0"}
+{"text":"「この女だ！」","translation":"It's that woman!","id":"007D08"}
+{"text":"「螺旋王様は、この女を殺せと命じられた！」","translation":"The Spiral King ordered us to kill this woman!","id":"007D20"}
+{"text":"「人のライブを邪魔して、何言ってんのよ！\n　さっさと消えなさいよ、このケダモノ！」","translation":"Interrupting my live show and spouting that nonsense? Get lost already, you beast!","id":"007D50"}
+{"text":"「な、何だ、こいつ！？」","translation":"W-What is with this woman!?","id":"007DB0"}
+{"text":"「お、俺達の事が怖くないのか！？」","translation":"Y-You're not afraid of us!?","id":"007DD0"}
+{"text":"「あんた達！\n　あたしを誰だと思ってるのよ！？」","translation":"You lot! Who do you think I am!?","id":"007DF8"}
+{"text":"「あたしはシェリル・ノーム！！\n　人はあたしを銀河の妖精と呼ぶ！！」","translation":"I'm Sheryl Nome!! People call me the Galactic Fairy!!","id":"007E38"}
+{"text":"「よく言った、高飛車女！！」","translation":"Well said, you stuck-up woman!!","id":"007E88"}
+{"text":"「その声…この間の山猿！！」","translation":"That voice... it's that mountain ape from before!!","id":"007EB0"}
+{"text":"真っ暗","translation":"Pitch black","id":"007ED8"}
+{"text":"「何だ！？　何が起こったんだ！？」","translation":"What!? What's going on!?","id":"007EE0"}
+{"text":"「誰かが照明を落としたんだと\n　思うけど…！」","translation":"I think someone cut the lights...!","id":"007F08"}
+{"text":"「シェリルは！\n　シェリルはどうなったんだ！？」","translation":"Sheryl! What happened to Sheryl!?","id":"007F40"}
+{"text":"「ア、アルト！\n　ステージを見て！！」","translation":"A-Alto! Look at the stage!!","id":"007F78"}
+{"text":"「やいやいやいやい！　獣人共！\n　これ以上の悪行、天が見逃しても\n　この俺が許しちゃおけねえ！！」","translation":"Hey, hey, hey, hey, you beastmen! Even if heaven overlooks your evil deeds, I sure as hell won't!!","id":"007FA8"}
+{"text":"「あ、あんた…！」","translation":"Y-You...!","id":"008010"}
+{"text":"「天にきらめく星々に、誓った夢こそ違えども、\n　同じ星見るその瞳…」","translation":"Our sky-sworn dreams may differ, but our eyes see the same stars...","id":"008030"}
+{"text":"「守って見せよう、男意地！\n　天下に轟くグレン団のカミナ様たぁ、\n　この俺の事よ！！」","translation":"I'll show you the pride of a man! The Kamina of Team Gurren, whose name resounds across the land, is me!!","id":"008080"}
+{"text":"「シモン、ロシウ！\n　もっと俺にスポットを集めろ！！」","translation":"Simon, Rossiu! Get more spotlight on me!!","id":"0080E0"}
+{"text":"「ロシウ！　もうちょっと照明を右に！」","translation":"Rossiu! Move the lights a little more to the right!","id":"008120"}
+{"text":"「どうして僕まで、こんな事に…」","translation":"Why do I have to get dragged into this too...?","id":"008150"}
+{"text":"「いいぞ、カミナ！」","translation":"That's it, Kamina!","id":"008178"}
+{"text":"「かっこいい…」","translation":"So cool...","id":"008198"}
+{"text":"「あいつら…何をやってるんだ…！？」","translation":"What the hell are they doing...!?","id":"0081B0"}
+{"text":"「あたしがカミナを止める！」","translation":"I'll stop Kamina!","id":"0081E0"}
+{"text":"「ヨーコ！\n　ライフル出して、何をする気！？」","translation":"Yoko! What are you planning to do with that rifle?!","id":"008208"}
+{"text":"「あいつの頭蓋骨にかすらせる！\n　そうすれば、このバカ騒ぎも終わるわよ！」","translation":"I'll just graze his skull! That ought to put an end to this stupid circus!","id":"008240"}
+{"text":"「目が完全にスナイパーモードになってる…！」","translation":"Her eyes are totally in sniper mode...!","id":"008298"}
+{"text":"「ま、待てって！\n　一応、カミナはシェリルを守ってるんだ！」","translation":"W-Wait! Kamina is protecting Sheryl, after all!","id":"0082D0"}
+{"text":"「やいやい、獣人共！\n　刀の錆になりたい奴から、かかってこい！！」","translation":"Hey, hey, beastmen! If any of you want to end up as rust on my blade, come at me!!","id":"008318"}
+{"text":"「ぬ、ぬうう…！\n　何だかわからんが、このままでは\n　まずいような気がする…！」","translation":"N-Nghhh...! I don't know what's going on, but I've got a bad feeling about this...!","id":"008368"}
+{"text":"「ええい！　こうなったら、\n　ガンメンで建物ごと破壊してやる！！」","translation":"Damn it! If it's come to this, I'll destroy the whole building with my Ganmen!!","id":"0083C0"}
+{"text":"「へ…口ほどにもねえ奴等だぜ」","translation":"Heh... they're all bark and no bite.","id":"008408"}
+{"text":"「あんた…」","translation":"You...","id":"008430"}
+{"text":"「おっと…何も言うんじゃねえ、高飛車女」","translation":"Hold it... don't say a word, Miss High-and-Mighty.","id":"008448"}
+{"text":"「ちょいとでしゃばらせてもらったが、\n　こいつはいいステージを見せてもらった\n　礼代わりだ」","translation":"I butted in a little, but consider this my thanks for the great show you put on.","id":"008478"}
+{"text":"「ふふん…ちゃんとわかってるじゃない。\n　見直したわよ」","translation":"Heh... so you do understand. I'm impressed.","id":"0084E0"}
+{"text":"「大丈夫か、シェリル！」","translation":"Are you okay, Sheryl?!","id":"008528"}
+{"text":"「山猿が…ううん、カミナが助けてくれたわ。\n　それより、ランカちゃんは…」","translation":"That mountain ape... no, Kamina saved me. More importantly, what about Ranka...?","id":"008548"}
+{"text":"「大丈夫だ。\n　俺が保護した」","translation":"She's safe. I got her to safety.","id":"0085A0"}
+{"text":"「あ、ありがとう、アルト君…」","translation":"Th-thank you, Alto...","id":"0085C8"}
+{"text":"「上出来よ、アルト。\n　ちゃんと仕事してるじゃない」","translation":"Well done, Alto. You're actually doing your job.","id":"0085F0"}
+{"text":"「アニキ！\n　外でガンメンが暴れてるみたいだよ！」","translation":"Bro! Looks like Ganmen are going wild outside!","id":"008630"}
+{"text":"「よっしゃ！\n　グレンラガンの出番だぜ！！」","translation":"Alright! Time for Gurren Lagann to roll out!","id":"008670"}
+{"text":"「ランカ、シェリル…！\n　お前達は早く避難するんだ！」","translation":"Ranka, Sheryl...! You two need to evacuate, now!","id":"0086A8"}
+{"text":"「アルト君…」","translation":"Alto...","id":"0086E8"}
+{"text":"「心配するな。\n　必ずお前達を守ってみせる」","translation":"Don't worry. I'll protect you both, no matter what.","id":"008700"}
+{"text":"「言ったわね、アルト。\n　その約束…必ず守りなさいよ」","translation":"You said it, Alto. You'd better keep that promise.","id":"008738"}
+{"text":"バードス島司令部","translation":"Bardos Island Command Center","id":"00B1B8"}
+{"text":"　\n　\n　　　　　　～バードス島　司令部～","translation":"~Bardos Island Command Center~","id":"00B1D0"}
+{"text":"「…あしゅら男爵は、またも敗れたか…」","translation":"...So Baron Ashura has been defeated again...","id":"00B200"}
+{"text":"「あやつに機械獣を預ける事は\n　戦力の無駄使いです。\n　次は是非、このブロッケンに出撃の命令を」","translation":"Leaving the Machine Beasts in his hands is a waste of our forces. Next time, by all means, order this Brocken to sortie.","id":"00B238"}
+{"text":"「…その話の前に…」","translation":"...Before we discuss that...","id":"00B2A8"}
+{"text":"「そこに隠れている者…！\n　出てくるがいい！！」","translation":"Whoever is hiding there...! Show yourself!!","id":"00B2C8"}
+{"text":"「フフ…この俺の気配に気付くとは\n　さすがと言っておこう」","translation":"Heh... To notice my presence, I'll give you that much.","id":"00B308"}
+{"text":"「貴様…何者だ？」","translation":"You... who are you?","id":"00B350"}
+{"text":"「我が名はサグール。\n　ギシン星のズール皇帝の命により、\n　ここへ来た」","translation":"My name is Sagool. By order of Emperor Zuul of the Gishin Star, I have come here.","id":"00B370"}
+{"text":"「異星人か！\n　貴様…どうやって、このバードス島へと\n　潜り込んだ！？」","translation":"An alien!? You... how did you infiltrate Bardos Island!?","id":"00B3C0"}
+{"text":"「俺はギシン星の諜報長官だ。\n　この程度の事は造作もない」","translation":"I am the Gishin Star's intelligence chief. Something like that is child's play.","id":"00B418"}
+{"text":"「お下がりを、Ｄｒ．ヘル！\n　こやつの相手は、この私が！！」","translation":"Stand back, Dr. Hell! I shall deal with this one myself!!","id":"00B460"}
+{"text":"「邪魔をするな…！」","translation":"Don't interfere...!","id":"00B4A8"}
+{"text":"「ぬうっ！\n　こやつも呪術を使うか！」","translation":"Ngh! So this one uses sorcery too!?","id":"00B4C8"}
+{"text":"「ほう…俺の衝撃波に耐えたか。\n　やはり、この星は面白い」","translation":"Hmm... So you withstood my shockwave. As I thought, this planet is interesting.","id":"00B4F8"}
+{"text":"「双方、そこまでだ。\n　…サグールとやら、貴様の狙い…\n　このワシの生命というわけではなさそうだな」","translation":"Enough, both of you. ...Sagool, was it? It would seem your aim is not this old man's life.","id":"00B540"}
+{"text":"「フ…本気でない事を見抜いたわけですか。\n　改めてさすがと申し上げましょう」","translation":"Heh... So you saw through the fact that I wasn't serious. Once again, I must say, impressive.","id":"00B5B0"}
+{"text":"「ギシン星人は地球の破壊が目的だと聞く。\n　その者がワシに何の用だ？」","translation":"I have heard that the people of Gishin Star seek Earth's destruction. What business would such a one have with me?","id":"00B608"}
+{"text":"「我が主であるズール皇帝は\n　あなたの出方次第では、考え直してもいいと\n　申しております」","translation":"My master, Emperor Zuul, has said that depending on your response, he may be willing to reconsider.","id":"00B660"}
+{"text":"「何…？」","translation":"What...?","id":"00B6C8"}
+{"text":"「ズール皇帝はあなたと手を組む事を考え、\n　その使者として私を送り込んだのです」","translation":"Emperor Zuul is considering joining forces with you, and sent me here as his envoy.","id":"00B6E0"}
+{"text":"「同盟を結ぶという事か…。\n　その見返りは何だ？」","translation":"So, an alliance then... And what do I get in return?","id":"00B740"}
+{"text":"「神々と戦う力…」","translation":"The power to fight the gods...","id":"00B780"}
+{"text":"「…！」","translation":"...!","id":"00B7A0"}
+{"text":"「ズール皇帝は、この言葉を出せば\n　あなたは断らないと申しておりました。\n　…どうやら、その通りのようですな」","translation":"Emperor Zuul said that if I spoke those words, you would not refuse. ...It seems he was right.","id":"00B7B8"}
+{"text":"「よかろう、サグール。\n　まずは貴様の話を聞かせてもらおう」","translation":"Very well, Sagool. First, let me hear what you have to say.","id":"00B830"}
+{"text":"「Ｄｒ．ヘル！\n　このような輩を信用するなど、\n　危険でございます！」","translation":"Dr. Hell! Trusting someone like him is dangerous!","id":"00B878"}
+{"text":"「黙っておれ…！」","translation":"Silence...!","id":"00B8C8"}
+{"text":"「ひ…！」","translation":"Eek...!","id":"00B8E8"}
+{"text":"「どうやら、ズール皇帝なる者…\n　ワシの助けとなってくれると見た」","translation":"It seems this Emperor Zuul... may prove of use to me.","id":"00B900"}
+{"text":"「我が悲願のためには\n　多少の危険にためらってはいられん」","translation":"For the sake of my long-cherished ambition, I cannot afford to hesitate over a little danger.","id":"00B950"}
+{"text":"「賢明な判断です、Ｄｒ．ヘル。\n　この同盟が両者にとって、良きものと\n　ならん事を…」","translation":"A wise decision, Dr. Hell. May this alliance prove beneficial to us both...","id":"00B998"}
+{"text":"螺旋王　玉座","translation":"Spiral King's Throne Room","id":"00B9F8"}
+{"text":"　\n　\n　　　　　　～テッペリン謁見の間～","translation":"~Teppelin Audience Hall~","id":"00BA08"}
+{"text":"「…！」","translation":"...!","id":"00BA38"}
+{"text":"「我が声が聞こえるか、螺旋の戦士よ…」","translation":"Can you hear my voice, warrior of the Spiral...?","id":"00BA50"}
+{"text":"「姿を現せ、愚か者め！\n　ここを螺旋王ロージェノムの居城と知っての\n　狼藉か！」","translation":"Show yourself, fool! Do you dare commit such insolence knowing this is the castle of Lordgenome, the Spiral King!?","id":"00BA80"}
+{"text":"「無駄だ。\n　こやつは遠く離れた場所…星々の海の果てより\n　声のみを送ってきている」","translation":"Useless. He is sending only his voice from a far-off place... from beyond the sea of stars.","id":"00BAD8"}
+{"text":"「な、何と…！？\n　そのような力を持っているとは…」","translation":"W-What...!? To possess such power...","id":"00BB38"}
+{"text":"「フフフ…声だけではない」","translation":"Heh heh heh... It's not just my voice.","id":"00BB78"}
+{"text":"「フフフ…」","translation":"Heh heh heh...","id":"00BBA0"}
+{"text":"「何っ！？」","translation":"What!?","id":"00BBB8"}
+{"text":"「落ち着け、グアーム。\n　こやつ、己の像を送ってきたのだ」","translation":"Calm yourself, Guame. He has sent an image of himself.","id":"00BBD0"}
+{"text":"「無礼者よ…まずは名前を聞かせよ」","translation":"You insolent wretch... First, tell me your name.","id":"00BC18"}
+{"text":"「我が名はズール。\n　ギシン星の皇帝にして、全宇宙の支配者と\n　なるべき者だ」","translation":"My name is Zuul. Emperor of Gishin Star, and the one who shall rule the entire universe.","id":"00BC48"}
+{"text":"「支配か…。\n　下らんな」","translation":"Rule, huh... How dull.","id":"00BCA0"}
+{"text":"「して、ズールよ。\n　このワシに何の用だ？」","translation":"Now then, Zuul. What business do you have with me?","id":"00BCC8"}
+{"text":"「螺旋の戦士ロージェノムよ。\n　貴様もあの力を…忌まわしき力の存在を\n　感じておろう」","translation":"Lordgenome, warrior of the Spiral. You too must have sensed that power... the presence of that accursed power.","id":"00BD08"}
+{"text":"「生命の力か…」","translation":"The power of life...","id":"00BD68"}
+{"text":"「その通りだ。\n　そして、あれが満ちた時、何が起きるかを\n　ワシは知っている」","translation":"Exactly. And I know what will happen when that power reaches its peak.","id":"00BD88"}
+{"text":"「螺旋の行き着く先を知るか…。\n　フン…貴様の正体、見当がついたぞ」","translation":"So you know where the Spiral leads... Hmph... I think I've figured out who you really are.","id":"00BDE0"}
+{"text":"「ならば、話が早い。\n　その日のために、このワシにひれ伏せ」","translation":"Then this will be quick. For the sake of that day, kneel before me.","id":"00BE38"}
+{"text":"「………」","translation":".........","id":"00BE80"}
+{"text":"「そして、貴様は知っている。\n　この銀河における地球の意味を」","translation":"And you know it. You know what Earth means in this galaxy.","id":"00BE98"}
+{"text":"「地球の力を使えば、あの者達との戦いも\n　勝利する事も出来よう」","translation":"With Earth's power, even the war against those beings could be won.","id":"00BEE0"}
+{"text":"「ワシは地球を手に入れ、\n　この位置に居をかまえ、全てを手に入れる」","translation":"I shall claim Earth, make this place my seat of power, and obtain everything.","id":"00BF28"}
+{"text":"「勝利か…。\n　見果てぬ夢だな…」","translation":"Victory, hm...? An unattainable dream...","id":"00BF78"}
+{"text":"「貴様にとっては遥か遠い日の幻か…。\n　だが、このワシの下につけば、\n　その宿願も果たす事が出来よう」","translation":"For you, it may be a distant illusion... But if you serve under me, even that wish can be fulfilled.","id":"00BFA8"}
+{"text":"「消え失せろ…。\n　貴様の力など必要はない」","translation":"Begone... I have no need of your power.","id":"00C018"}
+{"text":"「ワシにはワシのやり方がある」","translation":"I have my own way of doing things.","id":"00C058"}
+{"text":"「知っておる。\n　そのために生命の力を持たぬ獣に\n　人間を襲わせるか」","translation":"I know. And for that, you would have beasts devoid of the power of life set upon mankind?","id":"00C088"}
+{"text":"「そうだ。\n　そして、貴様のような輩に、この星は渡さぬ」","translation":"That's right. And I will not hand this planet over to the likes of you.","id":"00C0D8"}
+{"text":"「後悔するぞ、ロージェノム。\n　あの時のように…」","translation":"You'll regret this, Lordgenome. Just like that time...","id":"00C120"}
+{"text":"「やれるものなら、やってみるがいい。\n　その時はワシの全ての力を以って、\n　貴様を消滅させる」","translation":"If you think you can, then try it. When that time comes, I will use all my power to erase you from existence.","id":"00C160"}
+{"text":"「その言葉…覚えておこう。\n　そして、このワシに歯向かった愚かさを\n　貴様は必ず思い知る」","translation":"I shall remember those words. And you will most certainly learn how foolish it was to defy me.","id":"00C1D0"}
+{"text":"「後悔か…」","translation":"Regret, hm...?","id":"00C230"}
+{"text":"「螺旋王…奴は…」","translation":"The Spiral King... he...","id":"00C250"}
+{"text":"「終わりを知る者の一人だろう。\n　フン…やはり、急がねばならぬようだ」","translation":"He must be one of those who know the end. Hmph... it seems I must make haste after all.","id":"00C270"}
+{"text":"ズール玉座","translation":"Zuul's Throne","id":"00C2C8"}
+{"text":"　\n　　\n　　　　　～ギシン星　皇帝ズールの間～","translation":"~Gishin Star - Emperor Zuul's Chamber~","id":"00C2D8"}
+{"text":"「身の程をわきまえぬ愚か者めが…」","translation":"A fool who does not know his place...","id":"00C308"}
+{"text":"「ズール皇帝、交渉の結果は…」","translation":"Emperor Zuul, what was the result of the negotiations...?","id":"00C338"}
+{"text":"「その前に…」","translation":"Before that...","id":"00C360"}
+{"text":"「そこに隠れている者！\n　姿を現せい！！」","translation":"You there, hiding! Show yourself!!","id":"00C378"}
+{"text":"「うわあっ！」","translation":"Agh!","id":"00C3B0"}
+{"text":"「マーグ…！\n　貴様、何故ここに！？」","translation":"Marg...! Why are you here!?","id":"00C3C8"}
+{"text":"「こやつはうつけを装い、\n　ワシの動きを探っていたのだ」","translation":"He was feigning foolishness to spy on my movements.","id":"00C3F8"}
+{"text":"「フン…サグールが地球に行ったために\n　油断をしたようだな」","translation":"Hmph... You let your guard down after Sagul went to Earth.","id":"00C438"}
+{"text":"「くっ…」","translation":"Tch...","id":"00C480"}
+{"text":"「ワシが憎いか、マーグ？\n　父イデアを殺し、弟であるマーズを\n　地球に送ったこのワシが」","translation":"Do you hate me, Marg? I killed your father, Idea, and sent your brother Mars to Earth.","id":"00C498"}
+{"text":"「………」","translation":"...","id":"00C4F8"}
+{"text":"「お前がうつけのふりをしているのを\n　ワシが気付かぬと思ったか？」","translation":"Did you think I wouldn't notice you were pretending to be a fool?","id":"00C510"}
+{"text":"「今日までお前を見逃していたのは、\n　どこまでやるかを見たかったため…。\n　ワシの気まぐれに過ぎん」","translation":"I spared you until now just to see how far you'd go, on a whim.","id":"00C560"}
+{"text":"「運が悪かったな、マーグ。\n　今日のワシは機嫌が悪い。\n　これ以上、お前の遊びには付き合ってられん」","translation":"Bad luck, Marg. I'm in a foul mood today. I don't have time to indulge your little game any longer.","id":"00C5D0"}
+{"text":"「いかがします、ズール皇帝？\n　すぐにこやつは処刑しますか？」","translation":"What shall we do, Emperor Zuul? Shall I execute him at once?","id":"00C640"}
+{"text":"「待て、ワール。\n　ワシに考えがある」","translation":"Wait, Warl. I have an idea.","id":"00C688"}
+{"text":"「適任の仕事がある。\n　こやつには処刑の代わりに、\n　それを果たしてもらおう」","translation":"I have a task well suited for him. Instead of executing him, we'll have him carry it out.","id":"00C6B8"}
+{"text":"（マーズ…もう俺は\n　いつまで生きていられるかわからない…。\n　父が殺されたように、俺も…）","translation":"Mars... I don't know how much longer I'll live... Just as Father was killed, I too...","id":"00C710"}
+{"text":"（マーズ…。\n　会いたい、我が弟よ…）","translation":"Mars... I want to see you, my little brother...","id":"00C778"}
+{"text":"「やるじゃねえかよ、銀河の妖精」","translation":"Not bad at all, Galactic Fairy.","id":"00C7A8"}
+{"text":"「あんたもね、鬼リーダー。\n　あのケダモノ共を下がらせた気迫、\n　すごかったわよ」","translation":"You too, Boss Man. The sheer force of spirit you used to make those beasts back off was incredible.","id":"00C7D0"}
+{"text":"「俺達の魂に火を点けたお前の歌もな」","translation":"And your song lit a fire in our souls, too.","id":"00C830"}
+{"text":"「どうなってるんです、これ…？」","translation":"What's going on here...?","id":"00C860"}
+{"text":"「お互いの力を認め合った結果だろうさ。\n　ま…一件落着だな」","translation":"They recognized each other's strengths. Well, it's settled.","id":"00C888"}
+{"text":"「やっぱり、シェリルさんの歌…\n　みんなの心をつなぐ力を持ってるんですね」","translation":"Just like I thought, Sheryl's song really does have the power to connect everyone's hearts.","id":"00C8D0"}
+{"text":"「あなたの歌もよかったわよ」","translation":"Your song was great too.","id":"00C928"}
+{"text":"「え…でも…\n　私なんかシェリルさんに比べたら…」","translation":"Eh... but... compared to Sheryl, someone like me...","id":"00C950"}
+{"text":"「自信持ちなさいよ。\n　ほら…あなたのファンよ」","translation":"Have some confidence. Look... you've got a fan right here.","id":"00C990"}
+{"text":"「あの…俺…あなたの歌に感動しました」","translation":"Um... I... I was moved by your song.","id":"00C9C8"}
+{"text":"「え…」","translation":"Eh...?","id":"00C9F8"}
+{"text":"「でも…俺…謝らなくちゃいけないんです。\n　俺…あなたの事…俺と同じだと思ってたから…」","translation":"But... I have to apologize. I... I thought you were just like me...","id":"00CA08"}
+{"text":"「同じ…？」","translation":"The same as you...?","id":"00CA68"}
+{"text":"「誰かの背中に憧れてるだけだって…」","translation":"That you were just admiring someone else's back...","id":"00CA80"}
+{"text":"「でも、違うだろ、ランカ？\n　お前は自分の歌を歌えたんだから」","translation":"But that's not it, is it, Ranka? You were able to sing your own song.","id":"00CAB0"}
+{"text":"「うん…！」","translation":"Yeah...!","id":"00CAF8"}
+{"text":"「シモンもね。\n　ちゃんとあなたは戦った…。\n　カミナやみんなを救ったじゃない」","translation":"You too, Simon. You really did fight... You saved Kamina and everyone else, didn't you?","id":"00CB10"}
+{"text":"「うん…」","translation":"Yeah...","id":"00CB68"}
+{"text":"「誰かの背中に憧れてるだけじゃ駄目だ…。\n　そいつを追い越す気にならなきゃ、\n　前へは進めないさ」","translation":"It's not enough to just admire someone's back... If you're not prepared to overtake them, you can't move forward.","id":"00CB80"}
+{"text":"「ありがとう、ランカさん。\n　俺…あなたの歌に勇気をもらいました」","translation":"Thank you, Ranka. Your song gave me courage.","id":"00CBE8"}
+{"text":"「俺…シモンっていいます。\n　あなたの事…これからも応援させて下さい」","translation":"I... My name is Simon. Please let me keep cheering you on from now on, too.","id":"00CC38"}
+{"text":"「ありがとう、シモン君。\n　…私も頑張るね。\n　あなたに胸を張って応援してもらえるように」","translation":"Thank you, Simon. ...I'll do my best too. So you can cheer me on with your head held high.","id":"00CC88"}
+{"text":"「そろそろ行こうか、ランカちゃん。\n　中断されたイベントが再開されるみたいだから」","translation":"Shall we get going, Ranka? It looks like the interrupted event is about to resume.","id":"00CCE8"}
+{"text":"「はい、シェリルさん」","translation":"Yes, Sheryl.","id":"00CD48"}
+{"text":"「いい目…。\n　やっと、あたしの背中より先を見られるように\n　なったみたいね」","translation":"Good eyes... Looks like you can finally see past my back.","id":"00CD68"}
+{"text":"「は、はい…！」","translation":"Y-Yes...!","id":"00CDC0"}
+{"text":"「じゃあね、アルト。\n　…今日もあなたに助けられちゃったわね」","translation":"See you, Alto. ...Looks like you saved me again today.","id":"00CDD8"}
+{"text":"「それはこっちの台詞だ。\n　…頑張れよ、お前も」","translation":"That's my line. ...You do your best too.","id":"00CE20"}
+{"text":"（ねえ、ランカ…。\n　歌だけじゃなくて、恋の方も\n　シェリルに負けちゃ駄目よ）","translation":"Hey, Ranka... Don't lose to Sheryl when it comes to love, either.","id":"00CE58"}
+{"text":"（え…！　ええっ…！？）","translation":"Huh...!? Wh-What...!?","id":"00CEB0"}
+{"text":"（こういうのは、どっちかを応援するのは\n　本当はフェアじゃないけどね）","translation":"Really, it's not fair to root for one side in something like this, though.","id":"00CED0"}
+{"text":"（あ、ありがとうございます…）","translation":"Th-thank you very much...","id":"00CF20"}
+{"text":"「じゃあね、アルトに鬼リーダー。\n　$cのみんなにもよろしく」","translation":"See you, Alto, you demon leader. Say hi to everyone in $c for me.","id":"00CF48"}
+{"text":"「またね、アルト君。\n　お兄ちゃんに私は元気だって\n　伝えておいてね」","translation":"See you, Alto. Tell my brother I'm doing fine, okay?","id":"00CF90"}
+{"text":"「ああ…。\n　頑張れよ、二人共」","translation":"Yeah... You two do your best.","id":"00CFE0"}
+{"text":"「………」","translation":".........","id":"00D008"}
+{"text":"「残念ね、シモン。\n　せっかく、ランカと話せたのに\n　すぐにお別れだなんて」","translation":"Too bad, Simon. You finally got to talk to Ranka, and now you have to say goodbye so soon.","id":"00D020"}
+{"text":"「え…！\n　別に…そんな事は…」","translation":"Eh...! N-No... it's not like that...","id":"00D078"}
+{"text":"「ふふ…でも、駄目よ。\n　ランカはもう好きな人がいるんだから」","translation":"Hehe... but no. Ranka already has someone she likes.","id":"00D0A0"}
+{"text":"「だから、そんなんじゃないってば…！」","translation":"I told you, it's not like that...!","id":"00D0E8"}
+{"text":"（だって、俺は…）","translation":"Because I...","id":"00D118"}
+{"text":"「どうしたの？」","translation":"What's wrong?","id":"00D138"}
+{"text":"「な、何でもない！\n　何でもないよ！」","translation":"N-Nothing! It's nothing!","id":"00D150"}
+{"text":"「余裕かましてる暇はねえぞ、シモン！\n　$cは次の目的地に\n　出発だとよ！」","translation":"This is no time to be taking it easy, Simon! $c is heading out for the next destination!","id":"00D180"}
+{"text":"「わかったよ、アニキ！」","translation":"Got it, Bro!","id":"00D1D0"}
+{"text":"「おう！　いい返事だ！\n　一皮むけやがったな、お前！」","translation":"Yeah! That's the spirit! You've really grown, kid!","id":"00D1F0"}
+{"text":"（そうだ…。\n　アニキを見てるだけじゃ駄目なんだ。\n　その背中を追いかけなくちゃ）","translation":"That's right... Watching Bro isn't enough. I have to chase after him.","id":"00D230"}
+{"text":"（ありがとう、ランカさん…。\n　俺…頑張るよ）","translation":"Thank you, Ranka... I'll do my best.","id":"00D288"}
+{"text":"執務室","translation":"Office","id":"00D2C0"}
+{"text":"　\n　\n　　　～国連本部　平和維持理事会執務室～","translation":"~UN HQ Peacekeeping Council - Exec. Office~","id":"00D2C8"}
+{"text":"「…以上が$cの次の任務だ」","translation":"...And that's $c's next mission.","id":"00D2F8"}
+{"text":"「了解しました。\n　では、人革連領内で秘密裏に表部隊と裏部隊を\n　合流させます」","translation":"Understood. Then I'll arrange for the public and covert units to link up secretly within HRL territory.","id":"00D320"}
+{"text":"「国際テロリストであるＷＬＦ壊滅に向けて\n　平和維持理事会の会議が開かれる事となった」","translation":"A Peacekeeping Council meeting has been convened to discuss crushing the international terrorist group WLF.","id":"00D378"}
+{"text":"「各国の動きに先立ち、$cは\n　ＷＬＦに攻撃を仕掛ける」","translation":"Before the other nations make their move, $c will launch an attack on the WLF.","id":"00D3D8"}
+{"text":"「しかし、人革連の領内に\n　連中の秘密基地があったとは…」","translation":"But to think they had a secret base inside HRL territory...","id":"00D418"}
+{"text":"「うむ…。\n　早急に奴等の背後の組織を突き止め、\n　その根から断たねばならんだろう」","translation":"Indeed... We must quickly uncover the organization behind them and cut it off at the root.","id":"00D458"}
+{"text":"「その第一歩がタクラマカン砂漠基地への\n　攻撃ですか」","translation":"So the first step is an attack on the Taklamakan Desert base?","id":"00D4B8"}
+{"text":"「その通りだ。\n　$cは、その先頭に立ってもらう」","translation":"Exactly. I want $c to lead the charge.","id":"00D4F8"}
+{"text":"「了解です。\n　では、両部隊の合流を手配します」","translation":"Understood. Then I'll arrange for both units to link up.","id":"00D538"}
+{"text":"「………」","translation":".........","id":"00D570"}
+{"text":"「…わかっている。\n　$cの動きを伺う者が、\n　これを機に仕掛ける事は承知の上だ」","translation":"...I know. I'm fully aware that those watching $c's movements will use this opportunity to strike.","id":"00D588"}
+{"text":"「だが、これもウミを出すための痛みだ。\n　彼等なら、それを跳ね返してくれると\n　私は信じている」","translation":"But this pain, too, is necessary to lance the boil. I believe they can overcome it.","id":"00D5E0"}
+{"text":"「…貴様に言われるまでもない。\n　だが、これしか方法はないのだ…」","translation":"...You needn't tell me that. But this is the only way...","id":"00D648"}

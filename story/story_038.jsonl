@@ -1,0 +1,722 @@
+{"text":"敵の全滅。","translation":"All enemies defeated.","id":"000780"}
+{"text":"ホランドの撃墜。","translation":"Holland shot down.","id":"000798"}
+{"text":"イマージュのヴォダラ宮到達。","translation":"An Image reaches Vodara Palace.","id":"0007B0"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"0007D0"}
+{"text":"ホランド、またはクロウＡの撃墜。","translation":"Holland or Crowe A is shot down.","id":"0007E8"}
+{"text":"６ターン味方フェイズ以内に敵を全滅させる。","translation":"Destroy all enemies within 6 allied turns.","id":"000820"}
+{"text":"「イマージュめ…！\n　エウレカに感づきやがったか！」","translation":"Damn those Images...!$nSo they've sniffed out Eureka, have they!?","id":"000ED0"}
+{"text":"「来やがれ！\n　ヴォダラ宮に近づく奴から\n　叩き落としてやる！」","translation":"Bring it on!$nI'll shoot down anyone who gets near Vodara Palace!","id":"000F10"}
+{"text":"「ホランド…」","translation":"Holland...","id":"000F58"}
+{"text":"「タルホ！\n　お前達は月光号に戻れ！\n　場合によっては離脱するぞ！」","translation":"Talho!$nYou and the others get back to the Gekko-Go!$nDepending on how this goes, we may have to pull out!","id":"000F70"}
+{"text":"「了解！」","translation":"Roger!","id":"000FC0"}
+{"text":"「$c…！\n　どうやって、ここを嗅ぎ付けやがった！？」","translation":"$c...!$nHow the hell did they sniff this place out!?","id":"0010F8"}
+{"text":"「インペリウムもアサキムもいないか…！」","translation":"So neither Imperium nor Asakim is here...!","id":"001138"}
+{"text":"「気をつけろよ。\n　どこから次元獣が出てくるか\n　わからないぜ」","translation":"Be careful.$nYou never know where a Dimensional Beast might pop out.","id":"001168"}
+{"text":"「ホランド、君には聞きたい事がある。\n　この戦いが終わった後、会談を希望する」","translation":"Holland, there are things I want to ask you.$nOnce this battle is over, I request a meeting.","id":"0011B0"}
+{"text":"「こっちにはねえよ」","translation":"Not interested.","id":"001210"}
+{"text":"「何だと…！\n　あの化け物より先にてめえを叩き落として\n　締め上げてやろうか！」","translation":"What did you say...!?$nShould I shoot you down before that monster and beat it out of you?!","id":"001230"}
+{"text":"「ちょっと！\n　少しは落ち着きなよ、センパイ！」","translation":"Hey!$nCalm down a little, Senpai!","id":"001288"}
+{"text":"「あれが獣戦機隊か…」","translation":"So that's the Beast Fighter Team...","id":"0012C0"}
+{"text":"「チームＤの連中に\n　センパイと呼ばれるだけあるぜ」","translation":"No wonder the guys in Team D call him Senpai.","id":"0012E0"}
+{"text":"「ホランド…！　レントンはどこだ！？」","translation":"Holland...! Where's Renton!?","id":"001320"}
+{"text":"「さあな。\n　知りたきゃ、勝手に捜せよ」","translation":"Who knows.$nIf you want to know, go look for him yourself.","id":"001350"}
+{"text":"「あなたという人は…！」","translation":"How could you be like this...!","id":"001388"}
+{"text":"「やめろ、ゲイナー。\n　…あいつはもう俺達の仲間じゃないんだ…」","translation":"Stop it, Gainer.$n...He's not one of us anymore...","id":"0013B0"}
+{"text":"「彼に付き合う必要はないわ。\n　まずはイマージュの迎撃を優先して」","translation":"There's no need to bother with him.$nPrioritize intercepting the Images first.","id":"0013F8"}
+{"text":"「インペリウムが現れる可能性もある…！\n　周辺の警戒を怠るな！」","translation":"Imperium may show up too...!$nStay alert to your surroundings!","id":"001448"}
+{"text":"（くそっ…！\n　こうなりゃ、こいつらを利用して\n　この場を逃げるしかねえ…！）","translation":"Damn it...!$nIf it comes to this, I'll just have to use these guys to get out of here...!","id":"001490"}
+{"text":"「くそっ…！\n　イマージュはいったい何のために\n　あの建物に向かっている…！？」","translation":"Damn it...!$nWhat the hell are the Images heading for that building for...!?","id":"001768"}
+{"text":"「知りたいですか、\n　$F？」","translation":"Would you like to know, $F?","id":"0017C0"}
+{"text":"「アイム！」","translation":"Aim!","id":"0017E8"}
+{"text":"「来たか、インペリウム…！」","translation":"So you've come, Imperium...!","id":"0018D8"}
+{"text":"「マルグリット…あんたもいるのか？」","translation":"Marguerite... you're here too?","id":"001900"}
+{"text":"「………」","translation":".........","id":"001928"}
+{"text":"「あんたがインペリウムの一員として\n　$cに仕掛けてくる以上、\n　相手はしてやる」","translation":"As long as you come after $c as a member of Imperium, I'll take you on.","id":"001940"}
+{"text":"「だが、教えてくれ。\n　弟の仇ってのは、どういう意味だ？」","translation":"But tell me.$nWhat do you mean by avenging your brother?","id":"001998"}
+{"text":"「自らの罪に気付かないふりを\n　しているのですか？」","translation":"Are you pretending not to recognize your own sins?","id":"0019D8"}
+{"text":"「何っ！？」","translation":"What?!","id":"001A18"}
+{"text":"「彼女…マルグリット・ピステールの家族は\n　あなたが所属していた部隊の引き起こした事件で\n　死んだのですよ」","translation":"Her family... Marguerite Pistail's family died in an incident caused by the unit you belonged to.","id":"001A28"}
+{"text":"「！」","translation":"!","id":"001AA0"}
+{"text":"「特殊部隊『ファイヤバグ』…。\n　あなたの拭えない過去です」","translation":"The special forces unit \"Firebug\"... That's your inescapable past.","id":"001AB0"}
+{"text":"「くっ…」","translation":"Tch...","id":"001AF8"}
+{"text":"「$n…」","translation":"$n...","id":"001B08"}
+{"text":"「ファイヤバグって…お前…」","translation":"Firebug... You...","id":"001B20"}
+{"text":"「…奴の言っている事は事実だ…」","translation":"...What he said is true...","id":"001B48"}
+{"text":"「いい反応です…！\n　今、あなたの心の天秤は揺れています！」","translation":"Good reaction...! Right now, the scales in your heart are wavering!","id":"001B70"}
+{"text":"「朝日に輝く７番目の乙女！\n　光の衝撃が、今、天に沈む！」","translation":"The seventh maiden shining in the morning sun! The shock of light now sinks into the heavens!","id":"001E18"}
+{"text":"「逃げろ、$n！\n　奴はお前を狙ってるぞ！」","translation":"Run, $n! He's after you!","id":"001E60"}
+{"text":"「今こそ、その魂を…！\n　スフィアを私に！！」","translation":"Now, your soul...! Give me the Sphere!!","id":"001F50"}
+{"text":"「それを君に渡すわけにはいかないよ、\n　偽りの黒羊」","translation":"I can't let you have that, false Black Sheep.","id":"001F88"}
+{"text":"「アサキム・ドーウィン！」","translation":"Asakim Dowin!","id":"0020A8"}
+{"text":"「その魂を狩る…！」","translation":"I'll hunt that soul...!","id":"0020D0"}
+{"text":"「ちいっ！」","translation":"Tch!","id":"0021B0"}
+{"text":"「仕留め損ねたか…。\n　揺れる天秤よりも覚醒の度合いは\n　進んでいるようだ」","translation":"So I failed to finish him off...? It seems his awakening has progressed beyond the Wavering Scales.","id":"002268"}
+{"text":"「アサキム・ドーウィン…！\n　無限の罪人が…！」","translation":"Asakim Dowin...! You infinite sinner...!","id":"0022C0"}
+{"text":"「浅ましいと笑うかい？\n　だが、僕にはこれしか方法がないんだよ」","translation":"Do you laugh and call me pathetic? But this is the only way left to me.","id":"0022F8"}
+{"text":"「後退します、マルグリット…！\n　お前は私を守りなさい！」","translation":"We're retreating, Marguerite...! You will protect me!","id":"002348"}
+{"text":"「マルグリット！」","translation":"Marguerite!","id":"002390"}
+{"text":"「$F！\n　全て嘘だ！」","translation":"$F! It's all a lie!","id":"0023B0"}
+{"text":"「何…？」","translation":"What...?","id":"0023D8"}
+{"text":"「私の弟はお前に正面から挑んで敗れた！\n　お前が恥じ入る事は何もない！」","translation":"My brother challenged you head-on and lost! You have nothing to be ashamed of!","id":"0023E8"}
+{"text":"「マルグリット…！　貴様！」","translation":"Marguerite...! You dare...!","id":"002440"}
+{"text":"「私は…インサラウムの騎士として\n　弟の死を利用される事は\n　我慢ならないのです…！」","translation":"I... as a knight of Insaraum, cannot tolerate my brother's death being used like this...!","id":"002468"}
+{"text":"「…いいでしょう、マルグリット。\n　帰還後、あなたに処置を下します」","translation":"...Very well, Marguerite. Upon our return, I will pass judgment on you.","id":"0024D0"}
+{"text":"「…はい…」","translation":"...Yes...","id":"002520"}
+{"text":"「くそっ！　アイムの野郎、\n　次元獣を残していきやがったか！」","translation":"Damn it! That bastard Aim left a Dimensional Beast behind!","id":"002760"}
+{"text":"「どうなってんだ、これ…」","translation":"What the hell is going on here...?","id":"0027A8"}
+{"text":"「アイムは$nを狙い、\n　そのアイムと$nをアサキムは狙う…」","translation":"Aim is after $n, and Asakim is after both Aim and $n...","id":"0027D0"}
+{"text":"「つまり、あのアイムと$nは…」","translation":"So that means Aim and $n are...","id":"002818"}
+{"text":"「今はアサキムをとっ捕まえる方が先だ！」","translation":"Right now, catching Asakim comes first!","id":"002840"}
+{"text":"「そうはいかない…！」","translation":"Not a chance...!","id":"002870"}
+{"text":"「くっ…！」","translation":"Tch...!","id":"0029D0"}
+{"text":"「揺れる天秤…！\n　その魂を僕に！」","translation":"Wavering Scales...! Give me that soul!","id":"0029E0"}
+{"text":"「あれは…！」","translation":"That's...!","id":"002AD0"}
+{"text":"「不覚を取ったか…！」","translation":"So I let my guard down...!","id":"002B88"}
+{"text":"「アムロさん！\n　それにクワトロ大尉達も！」","translation":"Amuro! And Captain Quattro too!","id":"002BA8"}
+{"text":"「態勢を立て直せ…！\n　次元獣はこちらに向かって来るぞ！」","translation":"Regroup...! The Dimensional Beasts are heading this way!","id":"002BE0"}
+{"text":"「アサキム・ドーウィン、\n　お前には全てを話してもらう」","translation":"Asakim Dowin, you're going to tell us everything.","id":"002C28"}
+{"text":"「さすがに状況は不利か…」","translation":"Looks like the odds are against me...","id":"002C70"}
+{"text":"「待て、アサキム！\n　お前の目的は何だ！？\n　何故、俺を狙う！？」","translation":"Wait, Asakim! What is your goal!? Why are you after me!?","id":"002DB8"}
+{"text":"「$n、\n　それは君の魂が僕に狩られるに足る存在に\n　なりつつあるからだよ」","translation":"$n, it's because your soul is becoming one worthy of being reaped by me.","id":"002E00"}
+{"text":"「アサキム…！」","translation":"Asakim...!","id":"002F18"}
+{"text":"「追う必要はない、$n」","translation":"No need to chase him, $n.","id":"002F30"}
+{"text":"「どうしてだ…！？」","translation":"Why not...!?","id":"002F50"}
+{"text":"「あいつがお前を狙う理由なら、\n　俺達も知っている」","translation":"We know why he's after you, too.","id":"002F68"}
+{"text":"「何っ…！？」","translation":"What...!?","id":"002FA8"}
+{"text":"「今は目の前の敵を倒す事に集中するんだ。\n　全てはその後に話す」","translation":"For now, focus on defeating the enemy in front of us. We'll talk about everything after that.","id":"002FC0"}
+{"text":"「…わかった」","translation":"...Understood.","id":"003008"}
+{"text":"「アサキムが追い求める力…」","translation":"The power Asakim seeks...","id":"003020"}
+{"text":"「スフィア…。\n　あの人もそれを持っているのか…」","translation":"The Sphere... So he has one too...?","id":"003048"}
+{"text":"「………」","translation":".........","id":"003080"}
+{"text":"「やれるな、クワトロ大尉？」","translation":"Can you handle it, Captain Quattro?","id":"003098"}
+{"text":"「…その覚悟があるから、\n　あの男の下を去ったのだ」","translation":"...I left that man's side because I had already resolved myself to this.","id":"0030C0"}
+{"text":"「自分とロベルトは百式をフォローします」","translation":"Roberto and I will cover the Hyaku Shiki.","id":"003100"}
+{"text":"「了解だ。\n　行くぞ、アムロ」","translation":"Understood. Let's go, Amuro.","id":"003138"}
+{"text":"（シャア…お前は…）","translation":"Char... you...","id":"003160"}
+{"text":"「気をつけろ！\n　側面から突っ込んでくる奴がいる！」","translation":"Watch out! Something's charging in from the flank!","id":"0033E0"}
+{"text":"「しまった！\n　あっちはノーマークだ！」","translation":"Damn it! That side's unguarded!","id":"003420"}
+{"text":"「まずい！　抜かれた！」","translation":"This is bad! They broke through!","id":"003518"}
+{"text":"「ああっ！」","translation":"Ahh!","id":"003540"}
+{"text":"「あそこに人が…！」","translation":"There's someone over there...!","id":"003618"}
+{"text":"「あれは…！」","translation":"That's...!","id":"003638"}
+{"text":"「レントンか！」","translation":"Renton?!","id":"003650"}
+{"text":"「エウレカ！\n　今、行くよ！」","translation":"Eureka! I'm coming!","id":"003670"}
+{"text":"「もきゅ！」","translation":"Mokyu!","id":"003698"}
+{"text":"「はきゅ！」","translation":"Hakyu!","id":"0036B8"}
+{"text":"「うおおおおおおおっ！\n　ねだるな…！」","translation":"Uoooooooh! Don't beg...!","id":"0036D0"}
+{"text":"「ねだるな、勝ち取れ！\n　さすれば与えられん！！」","translation":"Don't beg, earn it! Then it shall be given to you!!","id":"003708"}
+{"text":"「エウレカァァァァッ！！」","translation":"Eurekaaahhh!!","id":"003988"}
+{"text":"「ニルヴァーシュ…！\n　お前…ニルヴァーシュなの…！？」","translation":"Nirvash...! You... you're Nirvash...!?","id":"003A50"}
+{"text":"「エウレカ！」","translation":"Eureka!","id":"003A98"}
+{"text":"「レントン…！」","translation":"Renton...!","id":"003AB0"}
+{"text":"「ごめん、エウレカ…。\n　俺はまだ君を守る術も勇気も\n　持ち合わせていないのかも知れない…！」","translation":"I'm sorry, Eureka... Maybe I still don't have the means or the courage to protect you...!","id":"003AD0"}
+{"text":"「でも先生が教えてくれた！\n　俺は君と一緒に未来を勝ち取りたい！\n　だから…！」","translation":"But the teacher taught me something! I want to win the future together with you! So...!","id":"003B38"}
+{"text":"「一緒に行こう、エウレカ！\n　俺は君が大好きだーっ！！」","translation":"Let's go together, Eureka! I love you!!","id":"003B90"}
+{"text":"「レントン…！　レントン！　レントン！」","translation":"Renton...! Renton! Renton!","id":"003BD8"}
+{"text":"「世の理を越えし者…\n　そのコンパクの声を発し時、二つの童は\n　一つとなりて、白き聖なる者にならんとす…」","translation":"One who has transcended the world's laws... when the Compac speaks, the two children shall become one, the white holy one...","id":"003DD0"}
+{"text":"「お前、あいつらに何をしやがった！」","translation":"What the hell did you do to them?!","id":"003E48"}
+{"text":"「何って…あの子達を応援しただけじゃない」","translation":"What do you mean? I just cheered them on.","id":"003E78"}
+{"text":"「神話を再生させなきゃ、俺達は死ぬんだぞ！\n　それをわかって…」","translation":"If we don't recreate the myth, we're dead! You know that, so...","id":"003EB0"}
+{"text":"「甘えん坊なのね」","translation":"You're such a spoiled child.","id":"003F00"}
+{"text":"「何っ！？」","translation":"What?!","id":"003F20"}
+{"text":"「どうして自分達の神話を作ろうと\n　しなかったの？」","translation":"Why didn't you try to create your own myth?","id":"003F38"}
+{"text":"「！」","translation":"!","id":"003F78"}
+{"text":"「あの子達みたいに」","translation":"Like those two did.","id":"003F88"}
+{"text":"「まさか…これはあいつらが\n　神話の再生を拒否した結果だとでも\n　言うのか！」","translation":"Don't tell me... are you saying this is the result of them rejecting the recreation of the myth?!","id":"003FA8"}
+{"text":"「ホランド…！」","translation":"Holland...!","id":"0041C0"}
+{"text":"「ここは退くしかねえ…！\n　アイムに連絡を取れ！」","translation":"We have no choice but to pull back...! Contact Aim!","id":"0041D8"}
+{"text":"「待て、ホランド！」","translation":"Wait, Holland!","id":"004218"}
+{"text":"「俺達の夢が…！　俺達の未来が…！\n　させねえ…そんな事は…！\n　絶対にさせねえ！」","translation":"Our dream...! Our future...! I won't let that happen...! I absolutely won't!","id":"004238"}
+{"text":"「行っちまったか…」","translation":"So they got away...","id":"004398"}
+{"text":"「レントンとエウレカを失った今、\n　彼等は目的を果たすために\n　アイム・ライアードの力を求めるのだろう」","translation":"Now that they've lost Renton and Eureka, they'll probably seek Aim Liard's power to achieve their goal.","id":"0043B8"}
+{"text":"「………」","translation":".........","id":"004428"}
+{"text":"「髪型変えたんだね。\n　似合うよ」","translation":"You changed your hairstyle. It suits you.","id":"004440"}
+{"text":"「え…」","translation":"Huh...?","id":"004470"}
+{"text":"「もう君に悲しい顔はさせない…！\n　俺は全力で君を守るよ！」","translation":"I won't let you make that sad face ever again...! I'll protect you with everything I've got!","id":"004488"}
+{"text":"「レントン…」","translation":"Renton...","id":"0044D0"}
+{"text":"「行くぞ、ニルヴァーシュ！\n　ねだるな、勝ち取れ！\n　さすれば与えられん！！」","translation":"Let's go, Nirvash! Don't beg, earn it! Then it shall be given to you!!","id":"0044E8"}
+{"text":"「イマージュも次元獣も片付いたわよ」","translation":"The Images and the Dimensional Beasts have both been dealt with.","id":"0046C0"}
+{"text":"「終わったか…」","translation":"So it's over...","id":"0046F0"}
+{"text":"「いいえ」","translation":"No.","id":"004710"}
+{"text":"「え…？」","translation":"Huh...?","id":"004720"}
+{"text":"「あの二人にとっては、\n　これからが始まりなんです」","translation":"For those two, this is where it all begins.","id":"004738"}
+{"text":"「バカだよ…！」","translation":"You're such an idiot...!","id":"004898"}
+{"text":"「え…」","translation":"Huh...?","id":"0048B8"}
+{"text":"「レントンはバカだよ…！\n　いつもいつも無茶ばっかりして…！\n　何考えてるのよ、バカ…！」","translation":"Renton, you're such an idiot...! You're always doing reckless things...! What are you thinking, you idiot...!","id":"0048D0"}
+{"text":"「バカバカ言うなよ」","translation":"Quit calling me an idiot.","id":"004938"}
+{"text":"「しょうがないだろ、バカなんだから…。\n　でも俺はエウレカのためにしか\n　バカになれないんだ…」","translation":"Can't help it, I'm an idiot... But I can only be an idiot for your sake, Eureka...","id":"004958"}
+{"text":"「バカ…」","translation":"Idiot...","id":"0049C0"}
+{"text":"「でも私だけのバカだ…」","translation":"But you're my idiot...","id":"0049D8"}
+{"text":"「その通りだよ」","translation":"That's right.","id":"004A00"}
+{"text":"「これから私達…どこに行くの？」","translation":"Where are we going from here?","id":"004A20"}
+{"text":"「エウレカはどうしたい？」","translation":"What do you want to do, Eureka?","id":"004A50"}
+{"text":"「私はどこでもいい…。\n　レントンと一緒にいられるなら、\n　私はどこでも…」","translation":"I don't care where... As long as I can be with you, Renton, anywhere is fine...","id":"004A78"}
+{"text":"「エウレカ…」","translation":"Eureka...","id":"004AD0"}
+{"text":"「でも、話さなきゃならない…。\n　私の使命を…」","translation":"But I have to tell you... About my mission...","id":"004AE8"}
+{"text":"「使命…」","translation":"Your mission...","id":"004B28"}
+{"text":"「しまった！\n　今、エウレカがイマージュの手に渡れば！」","translation":"Damn it! If Eureka falls into Image's hands now...!","id":"004DE0"}
+{"text":"「この世界は終わる…」","translation":"This world will end...","id":"004E28"}
+{"text":"「こんな所で死んでたまるかよ…！\n　俺は…俺達は絶対に生き延びる…！」","translation":"Like hell I'm gonna die in a place like this...! I... we're going to survive no matter what...!","id":"004F28"}
+{"text":"「世界も人類も知った事かよ…！\n　俺はこの世界を創り変える…\n　タルホのためにな！」","translation":"To hell with the world and humanity...! I'll remake this world... for Talho!","id":"004F78"}
+{"text":"「ファイヤバグ…。\n　汚れた過去は消せねえってわけかよ…」","translation":"Firebug... So my tainted past can't be erased after all...","id":"005098"}
+{"text":"「アイム…！\n　悔しいが、てめえの目論見は\n　ドンピシャのようだぜ！」","translation":"Aim...! Hate to admit it, but your scheme was right on the money!","id":"0050D8"}
+{"text":"「ここがどこだろうと\n　人間が生きている世界には変わりない…！」","translation":"No matter where this is, it's still a world where humans live...!","id":"0051E0"}
+{"text":"「ならば、俺も出来る事をやるまでだ！\n　トレーズの下を去ったからには\n　答えを見つけてみせる！」","translation":"Then I'll do what I can! Now that I've left Treize's side, I'll find my answer!","id":"005228"}
+{"text":"（トレーズ・クシュリナーダ…。\n　私に彼ほどの覚悟があっただろうか…）","translation":"Treize Khushrenada... Did I ever have that kind of resolve?","id":"005350"}
+{"text":"（今の私は一パイロットでしかない。\n　状況に流されるだけのな…）","translation":"Right now, I'm nothing more than a pilot. Just someone being swept along by events...","id":"0053A0"}
+{"text":"「エウレカ…\n　俺とニルヴァーシュが必ず君を守る！」","translation":"Eureka... Nirvash and I will protect you no matter what!","id":"0054B0"}
+{"text":"「相手がイマージュだろうと、\n　ホランドだろうと、俺は戦う！\n　君を守るためなら！」","translation":"Whether it's Image or Holland, I'll fight! If it's to protect you!","id":"0054F0"}
+{"text":"「あ！」","translation":"Ah!","id":"005630"}
+{"text":"執務室","translation":"Office","id":"0057F0"}
+{"text":"　\n　\n　　　～国連本部　平和維持理事会執務室～","translation":"~UN Headquarters, Peacekeeping Council Office~","id":"0057F8"}
+{"text":"「…では、エルガン代表、\n　あなたは第３０３独立愚連隊が\n　本来の人員でないのを知っていたのですね？」","translation":"...So, Representative Elgan, you knew the 303rd Independent Irregulars were not its original personnel?","id":"005828"}
+{"text":"「………」","translation":".........","id":"005898"}
+{"text":"「コーダ・ラベル事務局長…。\n　どうやって、あなたは彼等の真実に\n　たどり着いた？」","translation":"Secretary-General Koda Label... How did you uncover the truth about them?","id":"0058B0"}
+{"text":"「きっかけは国連の対イマージュ部隊に関する\n　内部告発でした」","translation":"It started with an internal whistleblower report concerning the UN's anti-Image unit.","id":"005910"}
+{"text":"「デューイ・ソレンスタム少将の一件か…」","translation":"The matter involving Major General Dewey Sorenstam...","id":"005958"}
+{"text":"「彼が、個人的に保護していた戦災孤児に\n　虐待を行なっていたという告発に対し、\n　我々は調査を進めていました」","translation":"We were investigating allegations that he had been abusing war orphans he was personally sheltering.","id":"005990"}
+{"text":"「その矢先に彼は暗殺され、\n　虐待の事実は闇に葬られる形となったのは\n　ご存知の通りです」","translation":"As you know, he was assassinated shortly after, and the facts of the abuse were buried along with him.","id":"005A08"}
+{"text":"「彼はドーハの悲劇…\n　時空震動実験の関係者でもあったな」","translation":"He was also involved in the Tragedy of Doha... the space-time quake experiment, wasn't he?","id":"005A68"}
+{"text":"「当局の調査では、\n　あの実験に自らの集めた戦災孤児を\n　参加させていたそうです」","translation":"According to the authorities' investigation, he had the war orphans he gathered participate in that experiment.","id":"005AB0"}
+{"text":"「モルモット…というわけか」","translation":"So they were guinea pigs...","id":"005B08"}
+{"text":"「…彼を暗殺したと目される男、\n　ホランド・ノヴァクとその一行…\n　いわゆる第３０３独立愚連隊…」","translation":"...The man believed to have assassinated him, Holland Novak and his group... the so-called 303rd Independent Irregulars...","id":"005B30"}
+{"text":"「しかし、あなたが保護し、\n　$cに参加させている者達は\n　本来の第３０３独立愚連隊とは別人です」","translation":"However, the people you sheltered and had join $c are not the original 303rd Independent Irregulars.","id":"005B98"}
+{"text":"「つまり、彼等は本物のホランド達を\n　何らかの手段で排除し、その位置に\n　収まっています」","translation":"In other words, they somehow eliminated the real Holland and the others, and took their place.","id":"005C00"}
+{"text":"「その通りだ」","translation":"That's right.","id":"005C60"}
+{"text":"「何故です？\n　何故それを知りながら、彼等を\n　支援していたのです？」","translation":"Why? Why did you support them, knowing that?","id":"005C78"}
+{"text":"「…では聞く。\n　あなたは彼等を逮捕するつもりか？」","translation":"...Then let me ask you this. Do you intend to arrest them?","id":"005CC8"}
+{"text":"「…既にデューイ少将の件の犯人は\n　真のホランド・ノヴァクという事で\n　処理が済んでいます」","translation":"...The case of Major General Dewey has already been processed with the real Holland Novak as the culprit.","id":"005D08"}
+{"text":"「真犯人は誰であるかは別として、\n　彼等を告発するとしたら、第３０３独立愚連隊に\n　成りすましている事だけでしょう」","translation":"Whoever the true culprit is, all we could accuse them of is impersonating the 303rd Independent Irregulars.","id":"005D70"}
+{"text":"「だがそれも、彼等が私の管理下にある以上、\n　手出しは出来ないのはわかっていよう」","translation":"But even that, as long as they are under my control, you know you cannot lay a hand on them.","id":"005DF0"}
+{"text":"「それを承知の上で私はここにいます。\n　…私が知りたいのは、この一件に隠された\n　真実です」","translation":"I came here knowing that. ...What I want to know is the truth hidden behind this incident.","id":"005E50"}
+{"text":"「既に彼等は$cから\n　離反したと聞いています」","translation":"I've heard they've already broken away from $c.","id":"005EB8"}
+{"text":"「イマージュのスパイロボット…\n　そして、その幼馴染の少年…」","translation":"An Image spy robot... and the boy who was her childhood friend...","id":"005EF0"}
+{"text":"「彼等はそれらを使い、\n　いったい何をするつもりなのです？」","translation":"What exactly do they intend to do with them?","id":"005F38"}
+{"text":"「ネバーランド…」","translation":"Neverland...","id":"005F80"}
+{"text":"「え…？」","translation":"Huh...?","id":"005FA0"}
+{"text":"「ドーハの悲劇によって\n　常人の何倍ものスピードで年をとっていく彼等が\n　生き残るためには…」","translation":"Because of the Doha Tragedy, they age many times faster than normal people... To survive...","id":"005FB8"}
+{"text":"「永遠に子供でいられる国…\n　すなわち時の止まったネバーランドへ\n　旅立つしかないのだ」","translation":"They have no choice but to set out for Neverland, the land where they can remain children forever... where time stands still.","id":"006020"}
+{"text":"「それは…」","translation":"That is...","id":"006080"}
+{"text":"「彼等はドーハの悲劇で垣間見たのだよ。\n　そのネバーランドを」","translation":"They caught a glimpse of that Neverland in the Doha Tragedy.","id":"006098"}
+{"text":"「それは崩壊しかけた時空が\n　人の意志で再構成された世界…\n　時空修復によって誕生した可能性の一つだ」","translation":"It is a world where collapsing space-time was rebuilt by human will... one possibility born through space-time restoration.","id":"0060E0"}
+{"text":"「時空修復…。\n　世界を創り変える…」","translation":"Space-time restoration... Remaking the world...","id":"006150"}
+{"text":"「イマージュは時空修復によって\n　この世界にたどり着いた存在だ」","translation":"Image is a being that reached this world through space-time restoration.","id":"006180"}
+{"text":"「ホランド達はイマージュ誕生の神話を\n　再現する事で世界を創り変えようとしている」","translation":"Holland and the others are trying to remake the world by reenacting the myth of Image's birth.","id":"0061D0"}
+{"text":"「何ですって…！？」","translation":"What did you say...!?","id":"006230"}
+{"text":"「巨大な時空震動によって\n　次元を崩壊させて、イマージュの力で\n　それを再構成する…」","translation":"By causing a massive space-time shock, they collapse the dimensions and use the power of Image to reconstruct them...","id":"006250"}
+{"text":"「ドーハの悲劇を見ての通り、\n　その膨大なエネルギーによって\n　下手をすれば世界そのものが滅びるだろう」","translation":"As the Doha Tragedy showed, that immense energy could easily destroy the world itself.","id":"0062B0"}
+{"text":"「彼等もそれを知っているはずなのに\n　何故…！？」","translation":"They must know that, so why...!?","id":"006320"}
+{"text":"「彼等にとって自分の生きられない世界など\n　滅んでも構わないのだろう」","translation":"For them, a world they can't live in might as well be destroyed.","id":"006360"}
+{"text":"「彼等は自分達が生き残るためには\n　手段を選ばないつもりだ」","translation":"They'll stop at nothing if it means surviving.","id":"0063B0"}
+{"text":"「そのために時空震動を起こす力を持つ者と\n　手を結んだのだろう」","translation":"To that end, they must have joined forces with those who possess the power to cause a space-time shock.","id":"0063F8"}
+{"text":"「それは…！」","translation":"That means...!","id":"006448"}
+{"text":"「そう…。\n　彼等はインペリウムをも利用するつもりだ」","translation":"Yes... They intend to use the Imperium as well.","id":"006460"}
+{"text":"黒ベタ","translation":"Black screen","id":"0064A0"}
+{"text":"ヴォダラ宮","translation":"Vodara Palace","id":"0064A8"}
+{"text":"　\n　　\n　　　　　　　～ヴォダラ宮　地下～","translation":"~Vodara Palace - Underground~","id":"0064B8"}
+{"text":"「…お客様が来たのね」","translation":"...So, we have a visitor.","id":"0064E8"}
+{"text":"「………」","translation":".........","id":"006508"}
+{"text":"「あなたは希望なき者？\n　それとも希望を持つ者かしら？」","translation":"Are you one without hope? Or are you one who still has hope?","id":"006520"}
+{"text":"「さて…どちらだろうね？」","translation":"Now then... which do you think I am?","id":"006560"}
+{"text":"「あなたの事は知っているわ。\n　いえ…知っていたというべきかしら」","translation":"I know of you. No... perhaps I should say I knew of you.","id":"006588"}
+{"text":"「夢で見たわ。\n　あなたが苦しんでいるところを」","translation":"I saw it in a dream. I saw you suffering.","id":"0065D8"}
+{"text":"「君は彼等の失われた記憶から\n　生まれた存在だからね」","translation":"You're a being born from their lost memories, after all.","id":"006610"}
+{"text":"「もうお休みになったら…。\n　あなたに必要なのは怒りではなく\n　安らぎでなくて？」","translation":"Why don't you rest now...? What you need isn't anger, but peace, isn't it?","id":"006650"}
+{"text":"「僕もそう思っているよ。\n　だが、全ての世界を巡っても、\n　僕に安らぎの場所は見つからない」","translation":"I think so too. But even after traveling through every world, I still haven't found a place of peace.","id":"0066A8"}
+{"text":"「教えてもらうよ。\n　僕を、この無限獄に落とした者の存在を」","translation":"I'll have you tell me. The identity of the one who cast me into this infinite hell.","id":"006710"}
+{"text":"「それを知って、どうするつもり？」","translation":"And what will you do once you know?","id":"006758"}
+{"text":"「答えは決まっている」","translation":"The answer is obvious.","id":"006788"}
+{"text":"「はきゅ…！」","translation":"Hakyu...!","id":"0067A8"}
+{"text":"「いいのよ。\n　幸せを求める権利は誰にでもあるのだから」","translation":"It's all right. Everyone has the right to seek happiness.","id":"0067C8"}
+{"text":"「僕にもかい？」","translation":"Even me?","id":"006808"}
+{"text":"「もちろんよ…。\n　だから、あなたに伝えましょう」","translation":"Of course... So let me tell you.","id":"006828"}
+{"text":"「イマージュの失われた記憶…。\n　この宇宙の成り立ちと共にあった御使いなる\n　存在を…」","translation":"Image's lost memories... and the existence of the Messengers, who have existed since the very birth of this universe...","id":"006868"}
+{"text":"クォーター　ブリーフィングルーム","translation":"Quarter Briefing Room","id":"0068C8"}
+{"text":"　\n　\n～マクロス・クォーター　ブリーフィングルーム～","translation":"~Macross Quarter Briefing Room~","id":"0068F0"}
+{"text":"「…あのぉ…シェリル様はどちらに？」","translation":"...Um... where is Lady Sheryl?","id":"006928"}
+{"text":"「とっくに帰りましたよ。\n　ミス・グレイスと一緒にね」","translation":"She left a long time ago. With Miss Grace.","id":"006958"}
+{"text":"「これは残念…！\n　ファンクラブ会員番号二桁としましては、\n　是非とも直にお話したかったのに…！」","translation":"What a shame...! As a fan club member with a two-digit membership number, I really wanted to speak with her in person...!","id":"006998"}
+{"text":"「あれ？　この間、木下さん…\n　今、時代はランカさんだって言ってなかった？」","translation":"Huh? Didn't you say the other day, Kinoshita, that right now it's all about Ranka?","id":"006A00"}
+{"text":"「俺も聞いたぜ。\n　ファンクラブにも入ったんだろ？」","translation":"I heard that too. You even joined her fan club, didn't you?","id":"006A58"}
+{"text":"「ふ、二股というわけではありませんよ！\n　あまりにもシェリル様もランカちゃんも\n　魅力的で選べないだけですって！」","translation":"I-It's not like I'm two-timing them! It's just that both Lady Sheryl and Ranka-chan are so charming, I can't choose!","id":"006A98"}
+{"text":"「うろたえなくてもいいわよ、木下ちゃん。\n　好きな気持ちは誰にも止められないもの」","translation":"No need to get flustered, Kinoshita-chan. No one can stop feelings of love.","id":"006B10"}
+{"text":"「ねえ、オズマ？」","translation":"Right, Ozma?","id":"006B70"}
+{"text":"「あ…うん…そうだな」","translation":"Ah... yeah... I guess so.","id":"006B90"}
+{"text":"「………」","translation":".........","id":"006BB0"}
+{"text":"「顔色が悪いぞ、アテナ。\n　大丈夫か？」","translation":"You look pale, Athena. Are you okay?","id":"006BC8"}
+{"text":"「ど、どうしてもボビー大尉のアレには\n　慣れる事が出来なくて…」","translation":"I-I just can't get used to Captain Bobby's... that side of him...","id":"006BF8"}
+{"text":"「女好きの男というのは嫌になる程、見てきたが、\n　乙女の心を持つ男というのは…」","translation":"I've seen more than enough womanizing men, but a man with a maiden's heart is...","id":"006C40"}
+{"text":"「あら…乙女の心だなんて\n　ちゃんとわかってるじゃないの、アテナちゃん」","translation":"Oh... so you do understand. A maiden's heart, no less, Athena-chan.","id":"006C98"}
+{"text":"「あ、ありがとうございます！」","translation":"Th-thank you very much!","id":"006CE8"}
+{"text":"「純なんだな、アテナは」","translation":"Athena's so innocent.","id":"006D10"}
+{"text":"「そうやって、お前は\n　アテナを毒牙にかけようとするか！」","translation":"So that's how you're trying to sink your fangs into Athena!","id":"006D38"}
+{"text":"「駄目だぜ、ミシェル。\n　他の女の子はともかく、俺の目の黒いうちは\n　アテナには指一本触れさせない」","translation":"No way, Michel. The other girls are one thing, but as long as I'm around, I won't let you lay a finger on Athena.","id":"006D80"}
+{"text":"「何だよ、桂さん？\n　まるでアテナの保護者だな」","translation":"What's with that, Kei? You sound like Athena's guardian.","id":"006DE8"}
+{"text":"「実はその通りなのさ」","translation":"Actually, that's exactly what I am.","id":"006E28"}
+{"text":"「どういう事だ？」","translation":"What do you mean by that?","id":"006E48"}
+{"text":"「ま…時空震動のイタズラってやつだ。\n　あんまり気にしないでくれ」","translation":"Well... call it a little trick of the space-time quake. Don't worry about it too much.","id":"006E68"}
+{"text":"「では、シェリル様は諦めますが、\n　ランカちゃんはどちらに？」","translation":"Then I'll give up on Lady Sheryl, but where's Ranka-chan?","id":"006EB0"}
+{"text":"「知らん」","translation":"No idea.","id":"006EF8"}
+{"text":"「そうは言わずにお兄様…」","translation":"Oh, don't say that, dear brother...","id":"006F10"}
+{"text":"「お前に兄呼ばわりされる覚えはない！」","translation":"I don't recall ever giving you permission to call me brother!","id":"006F30"}
+{"text":"「こっちの保護者も随分と過保護な事で…」","translation":"This guardian's pretty overprotective too...","id":"006F60"}
+{"text":"「兄が妹の心配をして何が悪い？」","translation":"What's wrong with a brother worrying about his little sister?","id":"006F90"}
+{"text":"「だけど、余計な口出しは\n　妹ちゃんの心を縛る事になるぜ、少佐」","translation":"But butting in too much will only tie your little sister's heart down, Major.","id":"006FB8"}
+{"text":"「『兄の口出し』と書いて、\n　『呪い』ってやつだ」","translation":"You write it as 'a brother meddling,' but you read it as 'a curse.'","id":"007000"}
+{"text":"「むう…」","translation":"Grr...","id":"007038"}
+{"text":"「さて…鬼のオズマ少佐が黙っちまったって事で\n　誰がランカちゃんを街まで送るか決めようか」","translation":"Now then... since the demon Major Ozma's gone quiet, let's decide who's going to take Ranka-chan into town.","id":"007050"}
+{"text":"「それはアルトの役目じゃないのか？」","translation":"Isn't that Alto's job?","id":"0070B0"}
+{"text":"「シェリルがいない所でそれをやるのは\n　アンフェアだな」","translation":"Doing that when Sheryl isn't around would be unfair.","id":"0070E0"}
+{"text":"「さすがだね、桂さん。\n　そういう所にグッと来る」","translation":"As expected of you, Kei. That kind of thing really gets to me.","id":"007120"}
+{"text":"「俺を師匠と呼びな、ミシェル」","translation":"Call me Master, Michel.","id":"007160"}
+{"text":"「ったく…ロクでもない師弟関係だ！」","translation":"Jeez... what a lousy master-apprentice relationship!","id":"007188"}
+{"text":"「さて…今をときめく超時空シンデレラとの\n　デート権を射止めるのは…」","translation":"Now then... who will win the right to a date with the super-dimensional Cinderella of the moment...?","id":"0071B8"}
+{"text":"「何がデートだ！\n　俺はそんなものは許さんぞ！」","translation":"What do you mean, a date?! I won't allow any such thing!","id":"007208"}
+{"text":"「オ、オズマ少佐…」","translation":"M-Major Ozma...","id":"007240"}
+{"text":"「ちょっと、$nちゃん！\n　あんたが余計な事を言うから、\n　オズマが逆噴射しちゃったじゃない！」","translation":"Hey, $n-chan! You had to go and say something unnecessary, and now Ozma's gone into reverse thrust!","id":"007260"}
+{"text":"「え…！　俺のせい…！？」","translation":"Huh...?! This is my fault...?!","id":"0072C8"}
+{"text":"「少佐…気持ちはわかるけど、\n　誰かがランカちゃんを送ってやらないと…」","translation":"Major... I understand how you feel, but somebody has to take Ranka-chan into town...","id":"0072E8"}
+{"text":"「だったら、俺が行く…！」","translation":"Then I'll go...!","id":"007338"}
+{"text":"「少佐は、この後、\n　作戦会議に出席してもらわなくては…」","translation":"Major, you have to attend the strategy meeting after this...","id":"007360"}
+{"text":"「ええい、クラン！\n　お前がランカを送れ！」","translation":"Damn it, Klan! You take Ranka!","id":"0073A8"}
+{"text":"「私のクァドランでは\n　誰かを乗せる事は出来ないぞ」","translation":"My Queadluun-Rhea can't carry a passenger.","id":"0073E0"}
+{"text":"「俺が行くよ。\n　俺ならランカちゃんに手出しする心配も\n　ないだろ？」","translation":"I'll go. You won't have to worry about me making a move on Ranka-chan, right?","id":"007420"}
+{"text":"「駄目だ！\n　お前は借金のカタにランカを売り飛ばすに\n　決まってる！」","translation":"No way! You'd just sell Ranka off to pay your debts!","id":"007468"}
+{"text":"「無茶苦茶だ…」","translation":"That's ridiculous...","id":"0074B8"}
+{"text":"「じゃあ、ここは言い出しっぺの俺が…」","translation":"Then I'll do it, since I was the one who brought it up...","id":"0074D0"}
+{"text":"「絶対に駄目だ！\n　ついでにミシェルとピエールとロアビィと\n　ゲインと青山と雅人と…」","translation":"Absolutely not! And that goes for Michel, Pierre, Roaby, Gain, Aoyama, Masato, and...","id":"007500"}
+{"text":"「アスランは絶対に許さん！」","translation":"And Aslan is absolutely out of the question!","id":"007560"}
+{"text":"「えっ！？」","translation":"Huh?!","id":"007588"}
+{"text":"「何故だかわからんが、俺の勘が言っている！\n　お前には妹は任せられん！」","translation":"I don't know why, but my instincts are telling me this! I can't trust you with my little sister!","id":"0075A0"}
+{"text":"「言われちゃったね、アスラン」","translation":"Well, you got told, Aslan.","id":"0075F0"}
+{"text":"「俺は…そういう目で見られてたのか…」","translation":"So that's... how people see me...?","id":"007618"}
+{"text":"「まあまあ、少佐…。\n　だったら、ここは本人の意見を…」","translation":"Easy, Major... In that case, why don't we hear what the girl herself thinks...?","id":"007648"}
+{"text":"「そう言えば、当のランカちゃんは？」","translation":"Come to think of it, where's Ranka-chan?","id":"007688"}
+{"text":"「さっきペットがどうのと言って、\n　艦内を探し回っていたが…」","translation":"A little while ago she said something about a pet, and went searching all over the ship...","id":"0076B8"}
+{"text":"「ペット…？\n　あいつ…そんなもの飼ってたのか…」","translation":"A pet...? That girl... she kept something like that...?","id":"007700"}
+{"text":"クォーター　格納庫","translation":"Macross Quarter Hangar","id":"007740"}
+{"text":"　\n　　\n　　　　～マクロス・クォーター　格納庫～","translation":"~Macross Quarter Hangar~","id":"007758"}
+{"text":"「いたいた、あい君！」","translation":"There you are, Ai-kun!","id":"007790"}
+{"text":"「………」","translation":".........","id":"0077B0"}
+{"text":"「どうしたの、こんな所で？」","translation":"What are you doing in a place like this?","id":"0077C8"}
+{"text":"「！」","translation":"!","id":"0077F0"}
+{"text":"「…もしかして、\n　このロボットが気に入ったの？」","translation":"...Did you take a liking to this robot?","id":"007800"}
+{"text":"「ニルヴァーシュの事ですか？」","translation":"You mean Nirvash?","id":"007840"}
+{"text":"「きゃっ！」","translation":"Eek!","id":"007868"}
+{"text":"「ご、ごめんなさい！\n　驚かすつもりはなかったんですけど…」","translation":"S-sorry! I didn't mean to scare you...","id":"007880"}
+{"text":"「こちらこそ、ごめんなさい。\n　急に声を掛けられたんで、\n　びっくりしちゃって…」","translation":"No, I'm the one who's sorry. You spoke to me so suddenly, I was just startled...","id":"0078C8"}
+{"text":"「その緑色の子…\n　ランカさんのペットなんですか？」","translation":"That little green one... is it your pet, Miss Ranka?","id":"007920"}
+{"text":"「あい君っていうの。\n　この子…あなたのロボットが好きみたい」","translation":"His name is Ai-kun. This little guy seems to like your robot.","id":"007960"}
+{"text":"「もしかすると、その子…\n　ニルヴァーシュの事がわかるのかも\n　知れませんね」","translation":"Maybe that little guy... can understand Nirvash somehow.","id":"0079A8"}
+{"text":"「わかるって？」","translation":"Understand it?","id":"007A00"}
+{"text":"「ニルヴァーシュは生きているんですよ。\n　俺やエウレカはニルヴァーシュと\n　心を通わせる事が出来るんです」","translation":"Nirvash is alive. Eureka and I can communicate with it through our hearts.","id":"007A18"}
+{"text":"「そのエウレカって人は…？」","translation":"And this Eureka person is...?","id":"007A90"}
+{"text":"「…俺の大事な人です。\n　今は$cにいませんけど…」","translation":"...She's someone very important to me. She's not in $c right now, though...","id":"007AB8"}
+{"text":"「あ…ごめんなさい、私…」","translation":"Oh... I'm sorry, I...","id":"007AF8"}
+{"text":"「いいんです。\n　俺…何があってもエウレカを取り戻すって\n　決めてますから」","translation":"It's okay. No matter what happens, I'm determined to get Eureka back.","id":"007B20"}
+{"text":"「何だよ、レントン。\n　ちゃっかりアイドルと密会か？」","translation":"What's this, Renton? Secretly meeting with an idol?","id":"007B78"}
+{"text":"「違うって！\n　俺、ニルヴァーシュの整備をしていて…」","translation":"It's not like that! I was just maintaining Nirvash...","id":"007BB8"}
+{"text":"「冗談だよ。\n　お前がエウレカにぞっこんだってのは\n　みんなが知ってる事だからな」","translation":"I'm kidding. Everyone knows you're head over heels for Eureka.","id":"007BF8"}
+{"text":"「ここにいたのか、ランカ。\n　さあ、街まで送っていくぞ」","translation":"So you were here, Ranka. Come on, I'll take you back to town.","id":"007C58"}
+{"text":"「お兄ちゃん…もしよかったら、私…\n　レントン君に送ってもらいたいんだけど…」","translation":"Big brother... if it's okay, I'd like Renton-kun to take me back...","id":"007C98"}
+{"text":"「お、俺ですか！？」","translation":"M-me?!","id":"007CF0"}
+{"text":"「ふむ…」","translation":"Hmm...","id":"007D10"}
+{"text":"「あ、あの…俺…その…」","translation":"U-um... I... well...","id":"007D28"}
+{"text":"「まあいいだろう。\n　レントンなら無害だからな」","translation":"Well, all right. Renton's harmless, after all.","id":"007D50"}
+{"text":"「俺は…有害なのか…」","translation":"So I'm... dangerous... ?","id":"007D88"}
+{"text":"「気にし過ぎだよ、アスラン」","translation":"You're overthinking it, Athrun.","id":"007DA8"}
+{"text":"「レントン君…よかったら、\n　エウレカさんって人の事…聞かせてくれる？」","translation":"Renton-kun... if you don't mind, could you tell me about Eureka?","id":"007DD0"}
+{"text":"「は、はい…」","translation":"Y-yes...","id":"007E20"}
+{"text":"公園","translation":"Park","id":"007E38"}
+{"text":"「…ありがとう、レントン君。\n　ここまで送ってもらって」","translation":"...Thank you, Renton-kun. For walking me all the way here.","id":"007E40"}
+{"text":"「いえ…。\n　これも俺の任務ですから」","translation":"No problem... It's part of my mission.","id":"007E80"}
+{"text":"「それに…エウレカの事、聞いてくれて\n　ありがとうございます」","translation":"And... thank you for asking about Eureka.","id":"007EB0"}
+{"text":"「え…」","translation":"Huh...?","id":"007EF8"}
+{"text":"「時々自信がなくなるんです…。\n　俺…エウレカを本当に助ける事が\n　出来るのかって…」","translation":"Sometimes I lose confidence... I wonder if I can really save Eureka...","id":"007F08"}
+{"text":"「でも、こうやって誰かにエウレカの事を話すと\n　自分の中でやらなきゃって気持ちが\n　強くなるんです」","translation":"But when I talk about Eureka to someone like this, it makes me feel even more strongly that I have to do it.","id":"007F68"}
+{"text":"「エウレカちゃんは幸せだね。\n　こんなに強く想ってくれる人がいて」","translation":"Eureka-chan is lucky. She has someone who cares about her so deeply.","id":"007FD8"}
+{"text":"「…私もそんな風になったら、\n　誰かが助けに来てくれるといいな…」","translation":"...I hope that if I ever ended up like that, someone would come and save me too...","id":"008028"}
+{"text":"「ランカさん…」","translation":"Ranka-san...","id":"008078"}
+{"text":"「頑張ってね、レントン君。\n　私も頑張るから」","translation":"Do your best, Renton-kun. I'll do my best too.","id":"008098"}
+{"text":"「ニルヴァーシュも\n　ランカさんの事、応援してるって\n　言ってます」","translation":"Nirvash says it's rooting for you too, Ranka-san.","id":"0080D0"}
+{"text":"「じゃあ、私…行くから。\n　$cの皆さんによろしく伝えてね」","translation":"Well then, I'm going. Please say hello to everyone in $c for me.","id":"008120"}
+{"text":"（ありがとう、ランカさん…）","translation":"Thank you, Ranka-san...","id":"008168"}
+{"text":"「…いいご身分だな」","translation":"...Must be nice.","id":"008190"}
+{"text":"「お前は！」","translation":"You!","id":"0081B0"}
+{"text":"「う！」","translation":"Ugh!","id":"0081C8"}
+{"text":"「ターゲットを確保…。\n　ニルヴァーシュの方はマシュー達が\n　押さえたか」","translation":"Target secured... Looks like Matthew and the others have Nirvash pinned down.","id":"0081E0"}
+{"text":"「そこまでだ、ホランド」","translation":"That's far enough, Holland.","id":"008238"}
+{"text":"「$n。\n　お前、レントンを張ってやがったな？」","translation":"$n. You were tailing Renton, weren't you?","id":"008258"}
+{"text":"「オズマ少佐からの依頼だ。\n　レントンが単独行動すれば、\n　お前等が動くかもってな」","translation":"It was a request from Major Ozma. He figured that if Renton acted on his own, you guys might make a move.","id":"008290"}
+{"text":"「だが、俺の方にも助っ人がいる事までは\n　読めなかったようだな」","translation":"But it seems you didn't foresee that I'd have backup of my own.","id":"0082E8"}
+{"text":"「$F！\n　いざ尋常に勝負！」","translation":"$F! Let us settle this fair and square!","id":"008338"}
+{"text":"「その声…インペリウムの女騎士さんか！」","translation":"That voice... the Imperium's lady knight!","id":"008368"}
+{"text":"「俺はレントンを移送する！\n　後は任せるぞ！」","translation":"I'm taking Renton out of here! The rest is up to you!","id":"008398"}
+{"text":"「待て、ホランド！\n　お前等、インペリウムと組んだのか！？」","translation":"Wait, Holland! You guys teamed up with the Imperium!?","id":"0083D0"}
+{"text":"「それを貴様が知る必要はない…！」","translation":"That's none of your concern...!","id":"008410"}
+{"text":"「乱入しといて言ってくれるじゃねえか、\n　姐さんよ」","translation":"Pretty bold talk for someone butting in, missy.","id":"008440"}
+{"text":"「我が名はマルグリット・ピステール…！\n　貴様ごときに姉呼ばわりされるいわれはない！」","translation":"My name is Marguerite Pistail...! I have no reason to let the likes of you call me \"missy\"!","id":"008478"}
+{"text":"「じゃあ、名前で呼んでやる。\n　…少し落ち着けよ、マルグリット」","translation":"Then I'll call you by name. ...Calm down a little, Marguerite.","id":"0084E0"}
+{"text":"「あんたがホランドのガードだとしたら、\n　その目的は十分に果たしたはずだ。\n　それでも俺を殺る気か？」","translation":"If you're Holland's guard, then you've already done your job. Even so, you still want to kill me?","id":"008528"}
+{"text":"「お前は仇だ！」","translation":"You're my enemy!","id":"008590"}
+{"text":"「…どこかで恨みを買ったか…。\n　だが、黙って討たれるわけにはいかない」","translation":"...I must have earned someone's grudge somewhere... But I can't just stand here and be killed.","id":"0085B0"}
+{"text":"「…私とてわかっている。\n　これが逆恨みである事も…」","translation":"...I know that much myself. I know this is just misplaced resentment...","id":"008600"}
+{"text":"「だが、あの子は\n　私のたった一人の弟だったんだ！」","translation":"But he was my one and only little brother!","id":"008648"}
+{"text":"「ちっ…！」","translation":"Tch...!","id":"008690"}
+{"text":"「覚悟しろ、\n　$F！」","translation":"Prepare yourself, $F!","id":"0086A0"}
+{"text":"「そこまでだよ、インサラウムの騎士」","translation":"That's far enough, knight of Insaraum.","id":"0086C8"}
+{"text":"「お前は…アサキム・ドーウィン！」","translation":"You are... Asakim Dowin!","id":"0086F8"}
+{"text":"「ここで彼を討っても\n　アイム・ライアードは喜ばない…」","translation":"If you kill him here, Aim Liard won't be pleased...","id":"008728"}
+{"text":"「言われたはずだよ。\n　$Fの相手は\n　彼が自ら務めると」","translation":"You were told, weren't you? That he would handle $F himself.","id":"008770"}
+{"text":"（何だ、この男…。\n　アークセイバーである私が\n　ここまで気圧されるとは…）","translation":"What is this man...? To think I, an Ark Saber, would be this overwhelmed...","id":"0087B0"}
+{"text":"「わかったなら、彼に伝えるがいい。\n　いずれその魂をもらい受けると」","translation":"If you understand, then tell him this: one day, I shall claim his soul.","id":"008808"}
+{"text":"「貴様は何者なのだ…！？」","translation":"Who are you...!?","id":"008858"}
+{"text":"「呪われし放浪者…。\n　だけど、その呪いの主は既に捉えた」","translation":"A cursed wanderer... But I've already captured the source of that curse.","id":"008880"}
+{"text":"「くっ…！」","translation":"Kuh...!","id":"0088C8"}
+{"text":"「行っちまったか…」","translation":"So she's gone...","id":"0088E8"}
+{"text":"「待てよ、アサキム・ドーウィン。\n　とりあえず、助けてもらった礼を言うぜ」","translation":"Wait, Asakim Dowin. For now, I'll thank you for the help.","id":"008900"}
+{"text":"「それには及ばないよ。\n　僕としても君をこんな所で討たせるわけには\n　いかないしね」","translation":"There's no need for that. I couldn't very well let you be killed in a place like this, either.","id":"008950"}
+{"text":"「俺があの女にやられると思ったか…。\n　だったら、余計なお世話だ」","translation":"You thought that woman could take me down...? If so, that's none of your business.","id":"0089B0"}
+{"text":"「隠さなくてもいい。\n　彼女に仇と言われた事で君の天秤は\n　揺れ始めていた」","translation":"No need to hide it. When she called you her enemy, your scales began to waver.","id":"0089F8"}
+{"text":"「俺が動揺してるって言いたいのか？」","translation":"You're saying I'm rattled?","id":"008A50"}
+{"text":"「図星だが、面と向かって言われると\n　あまりいい気分じゃねえな」","translation":"You're right, but it doesn't feel too great having it said to my face.","id":"008A78"}
+{"text":"「僕を好いてもらう必要はないよ。\n　なぜなら、僕は君の敵なのだから」","translation":"You don't need to like me. Because I am your enemy.","id":"008AC0"}
+{"text":"「何…！？」","translation":"What...!?","id":"008B10"}
+{"text":"「だが、安心していい。\n　ここでは手は出さないよ」","translation":"But rest assured. I won't make a move here.","id":"008B20"}
+{"text":"「そんな事をしても何の意味もないからね」","translation":"Because doing that would serve no purpose.","id":"008B60"}
+{"text":"「お前…いったい何者だ？」","translation":"You... just who are you?","id":"008B98"}
+{"text":"「言ったはずだよ。\n　呪われし放浪者だと」","translation":"I told you. A cursed wanderer.","id":"008BB8"}
+{"text":"「$n…その永遠の旅路を終わらせるために\n　君の魂が欲しい」","translation":"$n... To end that eternal journey, I want your soul.","id":"008BF0"}
+{"text":"「………」","translation":".........","id":"008C38"}
+{"text":"「君の仲間はヴォダラ宮へと向かっている」","translation":"Your companions are heading to Vodara Palace.","id":"008C48"}
+{"text":"「何故それを俺に？」","translation":"Why are you telling me that?","id":"008C80"}
+{"text":"「君とアイム…。\n　その魂をまとめて狩るためさ」","translation":"You and Aim... So I can hunt down both your souls at once.","id":"008C98"}
+{"text":"「待っているよ、$n。\n　そこで君と僕…そして、アイムの因縁に\n　決着をつけようじゃないか」","translation":"I'll be waiting, $n. There, let's settle the fate binding you, me... and Aim once and for all.","id":"008CD8"}
+{"text":"「道が示された以上、\n　僕はそこをひたすらに進むだけだよ」","translation":"Now that the path has been shown, all I can do is press onward along it.","id":"008D40"}
+{"text":"「…俺が一歩も動けなかった…」","translation":"...I couldn't move a single step...","id":"008D88"}
+{"text":"「アサキムとアイム…\n　そして、ホランドとレントン…。\n　いったいヴォダラ宮に何があるってんだ…」","translation":"Asakim and Aim... and Holland and Renton... Just what the hell is at Vodara Palace...?","id":"008DB0"}
+{"text":"月光号　格納庫","translation":"Gekko-Go Hangar","id":"008E18"}
+{"text":"　\n　\n　　　　　　　～月光号　格納庫～","translation":"~Gekko-Go Hangar~","id":"008E28"}
+{"text":"「ぐっ…！」","translation":"Guh...!","id":"008E50"}
+{"text":"「強情な奴だな…。\n　少しは俺達に協力する気になったか？」","translation":"You're a stubborn one... Are you finally ready to cooperate with us?","id":"008E68"}
+{"text":"「エウレカは…どこだ？」","translation":"Where's Eureka?","id":"008EB0"}
+{"text":"「がっ！」","translation":"Gah!","id":"008ED8"}
+{"text":"「質問する権利はないんだよ。\n　お前に求めているのは服従する事だけだ」","translation":"You don't have the right to ask questions. All we want from you is obedience.","id":"008EF0"}
+{"text":"「まあ待てよ、ハップ。\n　やり過ぎは、さすがにまずい」","translation":"Hold it, Hap. Going too far is a bad idea.","id":"008F40"}
+{"text":"「構うもんか。\n　ホランドは、こいつの扱いを俺に任せて\n　その間に６号の所へ行ってるんだ」","translation":"Who cares? Holland left this brat to me while he went to see No. 6.","id":"008F80"}
+{"text":"「奴が戻ってくる前に\n　俺がこいつを矯正してやるさ」","translation":"Before he gets back, I'll straighten him out.","id":"008FE0"}
+{"text":"「くっ…」","translation":"Ngh...","id":"009020"}
+{"text":"「選ばれし乙女と男…\n　ウェンディとピーターか」","translation":"The chosen maiden and man... Wendy and Peter, huh.","id":"009038"}
+{"text":"「あんたらが世界を好き勝手に\n　創り変えようとしているのはわかった。\n　だけど、どうして俺を必要とする？」","translation":"I get that you're trying to remake the world however you please. But why do you need me?","id":"009078"}
+{"text":"「あんたらは俺とエウレカに\n　何をさせようとしているんだ！？」","translation":"What are you trying to make Eureka and me do!?","id":"0090F0"}
+{"text":"「ガキが…！\n　まだ自分の立場ってのが\n　わかってないようだな！」","translation":"You little brat...! Looks like you still don't know your place!","id":"009138"}
+{"text":"「やめろ。\n　こいつも何も知らないままで\n　協力も出来まい」","translation":"Stop it. He can't be expected to cooperate when he doesn't know anything.","id":"009180"}
+{"text":"「………」","translation":".........","id":"0091C8"}
+{"text":"「ホランドが言ったと思うが、\n　俺達の目的は自分達の寿命が尽きる前に\n　再び緑の星ネバーランドにたどり着く事だ」","translation":"I think Holland already told you, but our goal is to reach the green star Neverland again before our lifespans run out.","id":"0091E0"}
+{"text":"「そのためには俺達が参加させられた実験…\n　神話再生計画に基づくあのドーハの悲劇と\n　同じ事を行なわなくてはならない」","translation":"To do that, we have to repeat the experiment we were forced into... the Doha Tragedy based on the Myth Rebirth Plan.","id":"009258"}
+{"text":"「同じ事…？」","translation":"The same thing...?","id":"0092D8"}
+{"text":"「そうだ。\n　あいにく、俺達が参加した作戦は失敗に\n　終わったが…」","translation":"That's right. Unfortunately, the operation we took part in ended in failure...","id":"0092F0"}
+{"text":"「俺達はその後、ワルサワの連中が\n　より成功確率が高いアイテムを使った新たな\n　計画を進めていた事を知った」","translation":"We later learned that the folks in Warsaw were pushing forward with a new plan using an item with a higher success rate.","id":"009340"}
+{"text":"「第７次Ｅ懸案神話再生計画…\n　通称エウレカセブンだ」","translation":"The 7th E Contingency Myth Reproduction Plan... also known as Eureka Seven.","id":"0093B8"}
+{"text":"「！」","translation":"!","id":"0093F8"}
+{"text":"「イマージュが生み出したスパイロボットである\n　エウレカの体内のクリスタル…」","translation":"The crystal inside Eureka's body... a spy robot created by Image...","id":"009408"}
+{"text":"「それにはイマージュと融合するための\n　パスワードが記憶されている」","translation":"It contains the password needed to merge with Image.","id":"009460"}
+{"text":"「エウレカが融合すれば、\n　イマージュの中にある異次元の扉が開く。\n　その鍵がレントン…お前なんだ」","translation":"If Eureka merges, the door to another dimension within Image will open. And you, Renton... are the key.","id":"0094B0"}
+{"text":"「俺とエウレカが異次元の扉を開く…」","translation":"Eureka and I... opening the door to another dimension...","id":"009520"}
+{"text":"「俺達がこの世界で生きていけないように\n　エウレカとお前も運命を共に出来ない」","translation":"Just as we can't live in this world, Eureka and you can't share the same fate.","id":"009550"}
+{"text":"「どういう事だ！？」","translation":"What do you mean!?","id":"0095A8"}
+{"text":"「それはお前が協力を約束したら話してやる。\n　だが、お前達にとってもネバーランドに\n　行くしか道はないんだ」","translation":"I'll tell you that once you promise to cooperate. But for you two as well, the only path left is to go to Neverland.","id":"0095C8"}
+{"text":"「だから、ネバーランドって何なんだ！？\n　ネバーランドに行ったら、俺達は\n　どうなる！？」","translation":"So what the hell is Neverland!? What happens to us if we go there!?","id":"009640"}
+{"text":"「ネバーランドは\n　時の止まった世界だと言われている。\n　永遠に今の自分でいられる世界だ」","translation":"Neverland is said to be a world where time stands still. A world where you can remain as you are forever.","id":"0096A8"}
+{"text":"「これで納得したか？\n　だったら、とっとと首を縦に振れ」","translation":"Are you convinced now? If so, hurry up and nod already.","id":"009710"}
+{"text":"「横に振った場合は\n　もう少し痛い目に遭うか、薬を使わせて\n　もらうがな…！」","translation":"If you shake your head no, you'll be in for a little more pain... or we'll just have to use drugs on you...!","id":"009750"}
+{"text":"「３０分だけ考える時間をやる。\n　俺達が戻ってくる前に心を決めろ」","translation":"I'll give you thirty minutes to think it over. Make up your mind before we come back.","id":"0097A8"}
+{"text":"「くそっ…！\n　何がウェンディとピーターだ…！」","translation":"Damn it...! What the hell do they mean, Wendy and Peter...!?","id":"0097F8"}
+{"text":"「どうして俺とエウレカが\n　この世界で一緒に生きていく事が\n　出来ないんだ！？」","translation":"Why can't Eureka and I live together in this world!?","id":"009838"}
+{"text":"「もきゅ…」","translation":"Mokyu...","id":"009890"}
+{"text":"「ニルヴァーシュ！\n　お前…幼生に戻っちゃったのか！？」","translation":"Nirvash! You... reverted to a larval form!?","id":"0098B0"}
+{"text":"「もきゅ…！　もきゅ！」","translation":"Mokyu...! Mokyu!","id":"0098F8"}
+{"text":"「え…あいつらをぶっ飛ばすって…？」","translation":"Huh... you're saying you'll smash those guys...?","id":"009920"}
+{"text":"「気持ちはわかるけど、\n　その姿じゃ無理だって…」","translation":"I get how you feel, but in that form, there's no way you can do it...","id":"009950"}
+{"text":"「もきゅ！？」","translation":"Mokyu!?","id":"009990"}
+{"text":"「え…何か来るって…」","translation":"Huh... something's coming...","id":"0099B0"}
+{"text":"「な、何だよ、お前は…！？」","translation":"W-What are you...!?","id":"0099D0"}
+{"text":"「もきゅ～！」","translation":"Mokyu~!","id":"0099F8"}
+{"text":"「はきゅ～！」","translation":"Hakyu~!","id":"009A18"}
+{"text":"「…い、いったい何が起こるんだ…？」","translation":"...W-What in the world is about to happen...?","id":"009A38"}
+{"text":"「…ここ、廃棄されたヴォダラ宮の地下、\n　およそ７００メートルに６号の幽閉施設を\n　造ったのは…」","translation":"...So they built Number 6's confinement facility here, about 700 meters beneath the abandoned Vodara Palace...","id":"009A68"}
+{"text":"「どうやらイマージュの干渉波に\n　６号を探知されないようにするためらしい」","translation":"Apparently, it was to keep Number 6 from being detected by the Image's interference waves.","id":"009AD0"}
+{"text":"「それだけ桃色の髪の女の…\n　６号の能力を恐れていたというわけか」","translation":"So they were that afraid of the power of that pink-haired woman... Number 6.","id":"009B28"}
+{"text":"「ドーハの悲劇の二の舞を恐れたんだろう」","translation":"They were probably trying to avoid a repeat of the Doha tragedy.","id":"009B78"}
+{"text":"「しかし、ここまで巨大だとはな…。\n　呆れて物も言えねえ…」","translation":"But I never imagined it was this huge... I'm too stunned to say a word...","id":"009BA8"}
+{"text":"「…よく来たわね…」","translation":"...So you finally came...","id":"009BF0"}
+{"text":"「その髪の色…もしかして…」","translation":"That hair color... could it be...?","id":"009C10"}
+{"text":"「そう…。\n　ドミニク先生のフィアンセよ」","translation":"Yes... I'm Dr. Dominic's fiancée.","id":"009C38"}
+{"text":"「あなた達人間が６号と名付けた存在…」","translation":"The being you humans named Number 6...","id":"009C70"}
+{"text":"「私にはわかる…。\n　あの人と私は同じだから…」","translation":"I can tell... because she and I are the same...","id":"009CA0"}
+{"text":"「………」","translation":".........","id":"009CE0"}
+{"text":"「あの人はドミニク先生の愛した人…\n　アネモネよ」","translation":"She's the one Dr. Dominic loved... Anemone.","id":"009CF8"}
+{"text":"「…ようやく会えたわ…」","translation":"...At last, we've met...","id":"009D38"}
+{"text":"「そこで何をしている？\n　俺達が来るのを知っていたかのようだな、\n　アネモネ」","translation":"What are you doing there? It's almost as if you knew we were coming, Anemone.","id":"009D60"}
+{"text":"「…ドミニクと約束したのよ」","translation":"...I made a promise to Dominic.","id":"009DB8"}
+{"text":"「約束？」","translation":"A promise?","id":"009DE0"}
+{"text":"「もし私の前に希望なき者が現れたら\n　封印はそのままに…」","translation":"If someone without hope were to appear before me, then the seal was to remain unbroken...","id":"009DF8"}
+{"text":"「もし希望を持つ者が現れたら、\n　その望みのために封印を解き…」","translation":"If someone with hope were to appear, then I was to break the seal for the sake of that wish...","id":"009E40"}
+{"text":"「白き聖なる者の出現をもって、\n　その者の力とし、希望を未来へと通ずる道に\n　せん…ってね」","translation":"And with the white holy one's appearance, its power would become theirs, and hope a path to the future... or something like that.","id":"009E90"}
+{"text":"「その目…覚悟は出来たのね？」","translation":"Those eyes... You've made up your mind, haven't you?","id":"009EF8"}
+{"text":"「ねえ、知ってる？\n　私達は本当は夢を見る事が出来ないって事…」","translation":"Hey, did you know? We can't actually dream...","id":"009F20"}
+{"text":"「何故って、それは私達自身が\n　夢そのものだから」","translation":"Why? Because we ourselves are dreams.","id":"009F70"}
+{"text":"「！」","translation":"!","id":"009FB0"}
+{"text":"「私達はイマージュが人間の夢に反応して\n　造り出した架空の存在…」","translation":"We are fictional beings created by Image in response to human dreams...","id":"009FC0"}
+{"text":"「だから、ドミニクは実験を止めてくれたのよ。\n　私が消えてしまわないようにね」","translation":"That's why Dominic stopped the experiment, so I wouldn't disappear.","id":"00A010"}
+{"text":"「イマージュがどこからやってきたのか\n　わからない…」","translation":"We don't know where Image came from...","id":"00A068"}
+{"text":"「何をしようとしてるのかもわからない。\n　でも、一つだけ確実に言えるのは…」","translation":"We don't know what it's trying to do, either. But there's one thing I can say for sure...","id":"00A0A8"}
+{"text":"「人がイマージュに接触しても\n　夢は夢でしかない事…。\n　現実は現実でしか変えられないって事」","translation":"Even if humans come into contact with Image, dreams are still just dreams... Reality can only be changed by reality.","id":"00A100"}
+{"text":"「待って！\n　それじゃあ、どうして私達は\n　ここに存在しているの！？」","translation":"Wait! Then why do we even exist here!?","id":"00A168"}
+{"text":"「…理由はわからないわ。\n　でも、私もあなたも、イマージュも生きている。\n　生きてしまっている…」","translation":"...I don't know why. But you, me, and Image are all alive. We've ended up alive...","id":"00A1B8"}
+{"text":"「この恐怖と憎悪に満ちた世界の一部として\n　生きてしまっている…」","translation":"We're living as part of this world, filled with fear and hatred...","id":"00A228"}
+{"text":"「私達の死は、\n　そのままこの世界の死でもあるのよ」","translation":"Our deaths would mean the death of this world as well.","id":"00A278"}
+{"text":"「ちょっと待って！\n　そんな…！　それじゃあ…！\n　私、どうしたらいいの！？」","translation":"Wait! No...! Then...! What am I supposed to do!?","id":"00A2B8"}
+{"text":"「エウレカは覚悟したんでしょう？」","translation":"Eureka, you've made up your mind, haven't you?","id":"00A310"}
+{"text":"「自分で夢を見る事を…」","translation":"To dream for yourself...","id":"00A340"}
+{"text":"「さっきから何を言ってやがる！\n　俺が知りたいのは、どうやってイマージュを\n　制御すれば…」","translation":"What the hell are you talking about!? What I want to know is how to control Image...","id":"00A368"}
+{"text":"「何が起こってやがる！？」","translation":"What the hell is going on!?","id":"00A3D0"}
+{"text":"「上で待ってるハップから連絡が入った！\n　イマージュの大群が現れたそうだ！」","translation":"We just got a call from Hap up top! Apparently a huge swarm of Image has appeared!","id":"00A3F8"}
+{"text":"「奴等…エウレカを取り返しに来やがったか！」","translation":"Those bastards... They came to take Eureka back!","id":"00A458"}
+{"text":"無機質な部屋","translation":"A sterile room","id":"00DD50"}
+{"text":"　\n　　\n　　　　　　　　～ヴォダラ宮内～","translation":"~Inside the Vodara Palace~","id":"00DD60"}
+{"text":"「もきゅーん！　もきゅ！」","translation":"Mokyuuun! Mokyu!","id":"00DD90"}
+{"text":"「はきゅーん！　はきゅ！」","translation":"Hakyuuun! Hakyu!","id":"00DDC0"}
+{"text":"「もきゅ～！　もきゅ、もきゅ！！」","translation":"Mokyuu~! Mokyu, mokyu!!","id":"00DDE8"}
+{"text":"「はきゅ～！　はきゅ、はきゅ！！」","translation":"Hakyuu~! Hakyu, hakyu!!","id":"00DE20"}
+{"text":"「ああ…！\n　ニルヴァーシュもそっちのお前も\n　ケンカしてる場合じゃないだろ！」","translation":"Ah...! Nirvash, and you over there too, this isn't the time to be fighting!","id":"00DE50"}
+{"text":"「早くエウレカを見つけて、\n　ここを脱出しないと…」","translation":"We have to find Eureka and get out of here, fast...","id":"00DEA8"}
+{"text":"「うわああああああっ！！」","translation":"Aaaaaaah!!","id":"00DEE8"}
+{"text":"雪山","translation":"Snowy mountains","id":"00DF10"}
+{"text":"「…何だよ、ここ…？\n　俺…さっきの爆発で…」","translation":"...What is this place...? I... after that explosion...","id":"00DF18"}
+{"text":"「大丈夫だ、レントン…。\n　君は夢を見ているだけだ」","translation":"It's all right, Renton... You're just dreaming.","id":"00DF50"}
+{"text":"「先生…！　ドミニク先生！？」","translation":"Teacher...! Dr. Dominic!?","id":"00DF90"}
+{"text":"「久しぶりだな、レントン。\n　ワルサワの研究所以来か…」","translation":"It's been a while, Renton. Since the lab in Walsawa, I suppose...","id":"00DFB8"}
+{"text":"「先生、ごめんなさい…」","translation":"I'm sorry, sir...","id":"00E000"}
+{"text":"「何故、謝る？」","translation":"Why are you apologizing?","id":"00E028"}
+{"text":"「僕…約束を守れそうにないんだ…」","translation":"I... don't think I can keep my promise...","id":"00E048"}
+{"text":"「あの日…ワルサワでした約束…\n　エウレカと二人で雪月花の咲く丘を\n　守るって…」","translation":"That promise we made in Walsawa that day... that Eureka and I would protect the hill where the Setsugekka bloom...","id":"00E078"}
+{"text":"「どうして？」","translation":"Why?","id":"00E0D8"}
+{"text":"「だって、僕…何の力も無いし…。\n　今だって、逃げるしか出来なくて…」","translation":"Because I... I don't have any power... Even now, all I can do is run away...","id":"00E0F0"}
+{"text":"「まだ頭で考えているのか…」","translation":"Are you still trying to think your way through it...?","id":"00E140"}
+{"text":"「え…？」","translation":"Huh...?","id":"00E168"}
+{"text":"「それが、この８年で学んだ事なのか、\n　レントン…？」","translation":"Is that all you've learned in these eight years, Renton...?","id":"00E180"}
+{"text":"「先生…」","translation":"Teacher...","id":"00E1C0"}
+{"text":"雪月花","translation":"Setsugekka","id":"00E1D8"}
+{"text":"「人間は愚かだ…。\n　安易な想像で未来への可能性を…\n　その芽を摘んでしまった」","translation":"Humans are foolish... With careless assumptions, they snuffed out the future's possibilities... its budding promise.","id":"00E1E0"}
+{"text":"「その結果が、この世界だ」","translation":"And the result is this world.","id":"00E238"}
+{"text":"「わかるかい、レントン？\n　イマージュは鏡だ。\n　そこに映る者の本当の姿を映す鏡だ」","translation":"Do you understand, Renton? Image is a mirror. A mirror that reflects the true nature of whoever looks into it.","id":"00E260"}
+{"text":"「先生、わからないよ…。\n　僕、どうしたらいいの？\n　教えてよ、先生…」","translation":"I don't understand, Teacher... What am I supposed to do? Tell me, Teacher...","id":"00E2C0"}
+{"text":"「もうわかっているだろう？」","translation":"You already know, don't you?","id":"00E310"}
+{"text":"「お前の頭じゃなくて、心でね…」","translation":"Not with your head, but with your heart...","id":"00E338"}
+{"text":"「先生、どこ行くの！？\n　先生…！　先生！」","translation":"Teacher, where are you going!? Teacher...! Teacher!","id":"00E368"}
+{"text":"「私はお前のその不器用な生き様が好きだ。\n　その生き様を支えるはずの言葉を\n　最後に教えよう」","translation":"I like your clumsy way of living. I'll teach you, one last time, the words that should support that way of life.","id":"00E3A0"}
+{"text":"「それは…」","translation":"That is...","id":"00E408"}
+{"text":"「先生ーっ！」","translation":"Teacherrr!","id":"00E420"}
+{"text":"荒地","translation":"Wasteland","id":"00ECF8"}
+{"text":"　\n　　\n　　　　　　　　～ヴォダラ宮前～","translation":"~In front of Vodara Palace~","id":"00ED00"}
+{"text":"「聞かせてよ、エウレカ…。\n　君の使命について」","translation":"Tell me, Eureka... about your mission.","id":"00ED30"}
+{"text":"「その…話したくないのなら…」","translation":"If you don't want to talk about it...","id":"00ED70"}
+{"text":"「ううん、聞いて欲しい。\n　レントンだけじゃなく、\n　ここにいるみんなに」","translation":"No, I want you to hear it. Not just you, Renton, but everyone here.","id":"00ED98"}
+{"text":"「エウレカ…」","translation":"Eureka...","id":"00EDF0"}
+{"text":"「………」","translation":".........","id":"00EE08"}
+{"text":"「わかったよ、エウレカ。\n　$cの全員がここにいる」","translation":"Okay, Eureka. Everyone from $c is here.","id":"00EE20"}
+{"text":"「君の話をみんなで聞くよ」","translation":"We'll all listen to what you have to say.","id":"00EE60"}
+{"text":"「…私はイマージュから送り込まれた\n　スパイロボット…」","translation":"...I'm a spy robot sent by Image...","id":"00EE88"}
+{"text":"「私の身体の中のクリスタルには\n　私がこの世界で生きてきた全ての情報が\n　詰まっているんだって…」","translation":"They said the crystal inside my body contains all the information about everything I've experienced in this world...","id":"00EED0"}
+{"text":"「それをイマージュは欲しがっているって\n　研究所の人は言ってた」","translation":"The people at the lab said Image wants it.","id":"00EF40"}
+{"text":"「どうして、イマージュはそれを欲しがるの？」","translation":"Why does Image want it?","id":"00EF90"}
+{"text":"「人間の弱点を知るためだって…。\n　どうやったら人類を滅亡させられるか\n　調べるためだって…」","translation":"They said it's to learn humanity's weaknesses... to find out how they can wipe out the human race...","id":"00EFC8"}
+{"text":"「そのために彼女は\n　人間社会へと送り込まれたのか」","translation":"So that's why she was sent into human society.","id":"00F030"}
+{"text":"「そして、情報収集が完了した今、\n　それを入手するために彼女を求めると…」","translation":"And now that the information gathering is complete, they want her so they can get their hands on it...","id":"00F070"}
+{"text":"（もしかして、これまでのイマージュの出現も\n　人間を調査するためだったのかも\n　知れないわね）","translation":"Maybe all those previous Image appearances were also for the sake of studying humans.","id":"00F0C0"}
+{"text":"「だからね…私…死のうと思った」","translation":"That's why... I thought I should die.","id":"00F128"}
+{"text":"「月光号と一緒に行けば、\n　$cの人達が\n　私達を倒してくれると思った」","translation":"I thought if I went along with the Gekko-Go, the people in $c would destroy us.","id":"00F158"}
+{"text":"「私が死ねば、イマージュは\n　人類を滅ぼす事が出来ない」","translation":"If I die, Image won't be able to destroy humanity.","id":"00F1A8"}
+{"text":"「そうすれば、もうレントンも\n　月光号の人達に狙われる事もない…。\n　だから…」","translation":"That way, Renton won't be targeted by the people on the Gekko-Go anymore either... So...","id":"00F1F0"}
+{"text":"「お願いです、皆さん…。\n　私を…」","translation":"Please, everyone... kill me...","id":"00F248"}
+{"text":"「そんな事を言っちゃ駄目だ！」","translation":"Don't say that!","id":"00F278"}
+{"text":"「だって…」","translation":"But...","id":"00F2A0"}
+{"text":"「エウレカがロボットだろうが、\n　イマージュだとか関係ない！\n　どんな運命を背負ってようが関係ない！」","translation":"I don't care if Eureka's a robot or if she's with Image! I don't care what kind of fate she's burdened with!","id":"00F2B8"}
+{"text":"「一緒にいるとドキドキする\n　僕の気持ちは本物だ…！\n　これが僕の気持ちなんだ！」","translation":"The way my heart races when I'm with you is real...! These are my true feelings!","id":"00F328"}
+{"text":"「僕の気持ちを壊そうとする奴と僕は戦う…！」","translation":"I'll fight anyone who tries to crush how I feel...!","id":"00F388"}
+{"text":"「君を利用しようとするホランド達やイマージュと\n　戦う…！」","translation":"I'll fight Holland and the others, and Image, if they try to use you...!","id":"00F3C0"}
+{"text":"「世界を守るためだって言って\n　$cが君を殺そうとするなら\n　僕は独りでもみんなと戦う！」","translation":"If $c tries to kill you in the name of protecting the world, I'll fight them all, even if I'm alone!","id":"00F408"}
+{"text":"「独りじゃないぜ、レントン。\n　そんな事になったら、俺も$cを\n　抜ける」","translation":"You're not alone, Renton. If it comes to that, I'll leave $c too.","id":"00F468"}
+{"text":"「僕もだよ、レントン」","translation":"Me too, Renton.","id":"00F4B8"}
+{"text":"「ガロード…それにゲイナーさんも…」","translation":"Garrod... and Gainer too...","id":"00F4D8"}
+{"text":"「要するにエウレカをイマージュに\n　渡さなけりゃ、いいんだろうが」","translation":"So basically, all we have to do is keep Eureka out of Image's hands, right?","id":"00F508"}
+{"text":"「だったら、俺達全員の力で\n　エウレカを守ってみせるさ」","translation":"Then we'll use all our strength to protect Eureka.","id":"00F550"}
+{"text":"「天下の$cがついてるんだ。\n　大船に乗った気でいろよ、レントン」","translation":"You've got the mighty $c on your side. Just relax and leave it to us, Renton.","id":"00F590"}
+{"text":"「何驚いてんだ？\n　そんなに俺達の言ってる事が\n　信じられねえのかよ」","translation":"What're you so surprised about? You seriously can't believe what we're saying?","id":"00F5D8"}
+{"text":"「罪もない女の子の生命を奪って得られる\n　平和なんて何の価値もないよ」","translation":"A peace bought by taking the life of an innocent girl isn't worth a thing.","id":"00F620"}
+{"text":"「俺達は大切なものを守るために戦ってるんだ。\n　…要するにお前と同じなんだよ」","translation":"We're fighting to protect what's precious to us... In other words, we're just like you.","id":"00F670"}
+{"text":"「彼女がロボットであろうとなかろうと\n　関係ない」","translation":"It doesn't matter whether she's a robot or not.","id":"00F6C8"}
+{"text":"「その生命を利用しようとする者がいるなら、\n　それは我々の敵だ」","translation":"If anyone tries to use that life, then they're our enemy.","id":"00F700"}
+{"text":"「皆さん…」","translation":"Everyone...","id":"00F748"}
+{"text":"「理屈じゃない。\n　俺はレントンとエウレカを応援する」","translation":"This isn't about logic. I'm rooting for Renton and Eureka.","id":"00F760"}
+{"text":"「人の恋路を邪魔する奴は\n　俺達が蹴ってやるさ」","translation":"Anyone who gets in the way of love gets kicked aside by us.","id":"00F7A0"}
+{"text":"「だから、しけた面してんじゃねえ。\n　お前もエウレカも俺達の仲間だ」","translation":"So don't look so glum. You and Eureka are our friends.","id":"00F7D8"}
+{"text":"「うん！」","translation":"Yeah!","id":"00F828"}
+{"text":"「私…いいの？\n　生きてもいいの…」","translation":"I... is it really okay? Is it okay for me to live...?","id":"00F840"}
+{"text":"「うん…」","translation":"Yes...","id":"00F870"}
+{"text":"「レントンの事が好きなんでしょ！\n　だったら、生きなきゃ！」","translation":"You love Renton, don't you?! Then you have to live!","id":"00F888"}
+{"text":"「そうそう。\n　あんたが死んだら、レントンも\n　きっと後を追うよ」","translation":"That's right. If you die, Renton'll probably follow right after you.","id":"00F8D0"}
+{"text":"「大丈夫！\n　あたし達がついてるから！」","translation":"It's okay! We're here for you!","id":"00F920"}
+{"text":"「だからさ…。\n　生命の限りに恋をしなよ」","translation":"So... love with everything you've got, for as long as you live.","id":"00F950"}
+{"text":"「はい…！」","translation":"Yes...!","id":"00F988"}
+{"text":"「ステキなお友達ね…」","translation":"What wonderful friends you have...","id":"00F9A0"}
+{"text":"「はい…」","translation":"Yes...","id":"00F9C0"}
+{"text":"「あなたの覚悟はお預けね。\n　…でも、それでいいと思うわ」","translation":"We'll put your resolve on hold for now... but I think that's for the best.","id":"00F9D8"}
+{"text":"「あの…あなたは…」","translation":"Um... and you are...?","id":"00FA20"}
+{"text":"「あなたがエウレカの選んだ子ね…。\n　あの人が言っていた通りの少年だわ」","translation":"So you're the boy Eureka chose... You're just like he said you were.","id":"00FA40"}
+{"text":"「あの人って…」","translation":"He... ?","id":"00FA98"}
+{"text":"「私の大切な人よ…。\n　ずっとずっと心の中にいる…」","translation":"Someone precious to me... Someone who's always, always in my heart...","id":"00FAB8"}
+{"text":"「レントン…。\n　エウレカを守ってあげてね。\n　何があっても」","translation":"Renton... Please protect Eureka. No matter what happens.","id":"00FAF8"}
+{"text":"「はい…！」","translation":"Yes...!","id":"00FB40"}
+{"text":"「エウレカ…。\n　私はここであなた達を信じているわ」","translation":"Eureka... I'll be here, believing in both of you.","id":"00FB58"}
+{"text":"「アネモネ…」","translation":"Anemone...","id":"00FB98"}
+{"text":"「えっ！？」","translation":"Huh!?","id":"00FBB0"}
+{"text":"「この人がアネモネ…」","translation":"So this is Anemone...","id":"00FBC8"}
+{"text":"「あは！　あの子って\n　こんな可愛いおばあちゃんになるんだ！」","translation":"Ahaha! So that girl grows up to be such a cute old lady!","id":"00FBE8"}
+{"text":"「ふふ…あなた達は別の私を知ってるみたいね」","translation":"Hehe... It seems you know another version of me.","id":"00FC30"}
+{"text":"「忘れないでね、エウレカ。\n　神話は再生するものじゃない…。\n　自分達で紡いでいくものよ」","translation":"Don't forget, Eureka. Myths aren't something that can be restored... They're something you weave for yourselves.","id":"00FC68"}
+{"text":"「あなたとレントン…\n　そして、仲間達の創る世界…。\n　私に見せてね」","translation":"The world you and Renton... and your friends create... show it to me.","id":"00FCD0"}
+{"text":"プトレマイオス　ブリーフィングルーム","translation":"Ptolemaios Briefing Room","id":"00FD20"}
+{"text":"　\n　　\n　　～プトレマイオス　ブリーフィングルーム～","translation":"~Ptolemaios Briefing Room~","id":"00FD48"}
+{"text":"「…驚いたぜ、$n。\n　あんたが、あのファイヤバグにいたとはな」","translation":"...I'm surprised, $n. I never thought you were with that Firebug unit.","id":"00FD80"}
+{"text":"「まあな…」","translation":"Yeah...","id":"00FDC8"}
+{"text":"「なあ…そのファイヤバグってのは\n　いったい何だ？」","translation":"Hey... just what is this Firebug thing, anyway?","id":"00FDD8"}
+{"text":"「話の内容からして\n　どこかの特殊部隊のようだけど…」","translation":"From the sound of it, it's some kind of special forces unit...","id":"00FE18"}
+{"text":"「ブリタニア・ユニオンの人でなしの集まり…。\n　その名の通りの最低最悪の部隊さ」","translation":"A bunch of heartless bastards from the Britannia Union... Just like the name says, they're the worst of the worst.","id":"00FE58"}
+{"text":"「ファイヤバグ…。\n　つまり、放火…」","translation":"Firebug... So, arson...","id":"00FEB0"}
+{"text":"「それ以上は勘弁してくれ。\n　さすがに思い出したくないんでな」","translation":"Please, spare me the rest. I'd really rather not remember it.","id":"00FEE0"}
+{"text":"「了解だ。\n　スネに傷を持つのは、ここにいる奴等は\n　みんな似たようなものだからな」","translation":"Got it. Everyone here has skeletons in the closet, so we're all pretty much the same.","id":"00FF28"}
+{"text":"「で、ＺＥＵＴＨの面々は\n　アサキムが俺を狙う理由を知ってるって\n　話だが…」","translation":"So the people from ZEUTH know why Asakim is after me, huh...","id":"00FF88"}
+{"text":"「………」","translation":"...","id":"00FFD8"}
+{"text":"「………」","translation":"...","id":"00FFE8"}
+{"text":"「何だよ？\n　話を振ってきたのは、そっちだぜ」","translation":"What? You're the one who brought it up.","id":"00FFF8"}
+{"text":"「一つ聞く、$n。\n　身体に不調はないか？」","translation":"Let me ask you one thing, $n. Are you feeling all right?","id":"010030"}
+{"text":"「借金を考えると胃が痛くなる」","translation":"Thinking about my debts gives me a stomachache.","id":"010068"}
+{"text":"「聞くだけ無駄だったようね」","translation":"Looks like asking was a waste of time.","id":"010090"}
+{"text":"「いや…今ならまだ引き返す事が出来る事が\n　わかった」","translation":"No... I've realized that even now, it's still possible to turn back.","id":"0100B8"}
+{"text":"「おいおい…おどかしっこ無しだぜ」","translation":"Hey, hey... don't go scaring me like that.","id":"0100F8"}
+{"text":"「今日のアサキムの行動で確信したよ」","translation":"After what Asakim did today, I'm certain of it.","id":"010120"}
+{"text":"「$n…\n　君のブラスタに搭載されているＶＸなる機関の\n　正体…」","translation":"$n... the true nature of the VX engine installed in your Brasta...","id":"010150"}
+{"text":"「それはスフィアと呼ばれるものだ」","translation":"It's something called a Sphere.","id":"010198"}
+{"text":"「スフィア…？」","translation":"A Sphere...?","id":"0101C8"}
+{"text":"「詳しい事は僕達もわかっていない。\n　唯一判明している事は高エネルギーの\n　出力機関である事ぐらいだ」","translation":"We don't know the details either. The only thing we've confirmed is that it's a high-energy power source.","id":"0101E0"}
+{"text":"「そして、アサキム・ドーウィンは\n　それを発動させる者の生命を狙っている」","translation":"And Asakim Dowin is after the life of whoever activates it.","id":"010250"}
+{"text":"「だが、奴は俺を助けてくれた事もあるぞ」","translation":"But he's saved me before.","id":"0102A0"}
+{"text":"「$n…。\n　その時、お前はＶＸを使いこなして\n　いなかったんじゃないか？」","translation":"$n... Back then, you hadn't mastered the VX yet, had you?","id":"0102D0"}
+{"text":"「あ、ああ…その通りだ」","translation":"Y-Yeah... that's right.","id":"010320"}
+{"text":"「スフィアの力を発動させるためには\n　何らかの条件が必要らしい」","translation":"It seems some kind of condition is needed to activate the Sphere's power.","id":"010340"}
+{"text":"「我々の知るスフィアの使い手は\n　それぞれ『悲しみ』と『痛み』を\n　キーにしていた」","translation":"The Sphere users we know of each used \"sorrow\" and \"pain\" as their keys.","id":"010390"}
+{"text":"「チーフも言っていたな。\n　ＶＸの起動には、精神的な何かが\n　鍵になっているって…」","translation":"The Chief said that too. That something mental is the key to activating the VX...","id":"0103F0"}
+{"text":"「アサキムはスフィアを発動させた者を\n　『悲しみの乙女』と『傷だらけの獅子』と\n　呼んでいた」","translation":"Asakim called those who activated their Spheres \"the Maiden of Sorrow\" and \"the Wounded Lion.\"","id":"010448"}
+{"text":"「じゃあ、奴が俺を『揺れる天秤』と\n　呼ぶのは…」","translation":"Then the reason he calls me the \"Wavering Scales\" is...","id":"0104B0"}
+{"text":"「同じ意味合いなのだろう。\n　もっとも、その言葉だけでは\n　何が発動キーになっているのかはわからないが」","translation":"It probably means the same thing. Though just from that alone, we still can't tell what the activation key is.","id":"0104E8"}
+{"text":"「アサキムが君の生命を助けたのは\n　君がスフィアを発動させる条件を満たすのを\n　待っていたのだろう」","translation":"Asakim probably spared your life because he was waiting for you to meet the conditions to activate the Sphere.","id":"010558"}
+{"text":"「奴の目的はスフィアを発動させた状態で\n　その所持者の生命を奪う事にあるのだから」","translation":"Because his goal is to take the life of the Sphere's bearer while it's in an activated state.","id":"0105C0"}
+{"text":"「つまり、俺を食うために育てたってわけか…。\n　で、そうする事で奴に何のメリットがある？」","translation":"So he raised me just to eat me...? And what does he gain from doing that?","id":"010618"}
+{"text":"「それは不明だ。\n　彼の言葉は詩的過ぎて、常人の理解の外にある」","translation":"That is unclear. His words are too poetic, beyond the understanding of ordinary people.","id":"010678"}
+{"text":"「だが、アイム・ライアードが君を狙う事も\n　スフィアに関係していると見ていいだろう」","translation":"But it's safe to say that Aim Liard targeting you is also connected to the Sphere.","id":"0106C8"}
+{"text":"「ついでにわかったぜ。\n　アイムの奴も、そのスフィア持ちなんだな」","translation":"So that means Aim has a Sphere too.","id":"010728"}
+{"text":"「アサキムが生命を狙っている以上、\n　そう見るのが妥当だろう」","translation":"If Asakim is after his life too, that's the most reasonable conclusion.","id":"010770"}
+{"text":"「『偽りの黒羊』…。\n　それがアイムのキャッチコピーか…」","translation":"\"The False Black Sheep\"... So that's Aim's catchphrase...","id":"0107B8"}
+{"text":"「乙女に獅子に天秤に羊…。\n　黄道の１２星座がモチーフとは\n　随分とロマンティックなんだな」","translation":"Maiden, Lion, Scales, Sheep... Using the twelve signs of the zodiac as a motif is pretty romantic.","id":"0107F8"}
+{"text":"「で、ロジャー…\n　さっき俺の体調を聞いた理由は？」","translation":"So, Roger... Why did you ask about my condition earlier?","id":"010858"}
+{"text":"「スフィアを発動させた者は\n　徐々に身体に変化をきたしていく」","translation":"Those who activate a Sphere gradually undergo physical changes.","id":"010890"}
+{"text":"「五感を失ったり、激痛に苛まれたり…。\n　その症状は人それぞれだ」","translation":"They may lose their five senses, or be tormented by intense pain... The symptoms differ from person to person.","id":"0108D8"}
+{"text":"「なるほど…。\n　特に変化のない俺は、まだまだ目覚めの\n　最中って事か」","translation":"I see... Since I haven't changed at all, I guess I'm still in the middle of awakening.","id":"010928"}
+{"text":"「$n…。\n　アサキムの攻撃は執拗だ。\n　君はブラスタを…」","translation":"$n... Asakim's attacks are relentless. You should get out of the Brasta...","id":"010978"}
+{"text":"「それがどうした？」","translation":"So what?","id":"0109C0"}
+{"text":"「君は…」","translation":"You...","id":"0109D8"}
+{"text":"「皆まで言うな。\n　俺だって生命は惜しいし、ストーカーには\n　うんざりだ」","translation":"Don't say any more. I value my life too, and I'm sick of that stalker.","id":"0109E8"}
+{"text":"「だが、ブラスタを降りたら、\n　借金を返す当てがない」","translation":"But if I get out of the Brasta, I've got no way to pay back my debt.","id":"010A38"}
+{"text":"「君は借金返済のために\n　生命を懸けるのか？」","translation":"You'd risk your life just to pay off your debt?","id":"010A78"}
+{"text":"「当たり前だろ。\n　金を借りるってのは、そういうもんだ」","translation":"Of course. That's what it means to borrow money.","id":"010AB0"}
+{"text":"「ふ…ふふ…」","translation":"Heh... hehe...","id":"010AF0"}
+{"text":"「こいつは参った」","translation":"Well, I'll be damned.","id":"010B08"}
+{"text":"「スフィアの所有者は\n　それぞれに理由があって、機体から\n　離れようとしなかったけど…」","translation":"Each Sphere owner had their own reasons for refusing to leave their machine, but...","id":"010B20"}
+{"text":"「君の場合は借金返済のためか」","translation":"In your case, it's to pay off your debt.","id":"010B80"}
+{"text":"「おかしいか？」","translation":"Is that strange?","id":"010BA8"}
+{"text":"「いや…君は誠実な人間だ、\n　$F」","translation":"No... you're an honest man, $F.","id":"010BC0"}
+{"text":"「乗りかかった船だ。\n　アサキムの事もある以上、とことん付き合うぜ、\n　$n」","translation":"We're already in this deep. And with Asakim involved, I'll stick with you to the bitter end, $n.","id":"010BF0"}
+{"text":"「ありがとうよ。\n　借金を全額返済して、インペリウムを倒したら\n　俺もブラスタを降りるつもりだ」","translation":"Thanks. Once I've paid off my debt in full and taken down the Imperium, I plan to get out of the Brasta too.","id":"010C40"}
+{"text":"「了解だ。\n　なるべく早くその日が来るように\n　僕達も全力を尽くすよ」","translation":"Understood. We'll do everything we can to make that day come as soon as possible.","id":"010CA8"}
+{"text":"「驚いたよ。\n　同じスフィアの所有者でもセツコやランドとは\n　またタイプが違うんだな」","translation":"I'm surprised. Even among Sphere owners, you're a different type from Setsuko and Rand.","id":"010CF8"}
+{"text":"「だが、強い生命力を感じる点は\n　共通しているか」","translation":"But I suppose what they have in common is that strong life force.","id":"010D58"}
+{"text":"「安心しましたよ。\n　大尉達が無事で」","translation":"I'm relieved to see that you and the others are safe, Captain.","id":"010D98"}
+{"text":"「今まではどこにいたんです？」","translation":"Where have you been all this time?","id":"010DC8"}
+{"text":"「ＯＺのトレーズ・クシュリナーダに\n　保護されていた」","translation":"I was under the protection of Treize Khushrenada of OZ.","id":"010DF0"}
+{"text":"「何っ…！？」","translation":"What...!?","id":"010E30"}
+{"text":"「誰なんだ？\n　そのトレーズってのは」","translation":"Who is this Treize guy, anyway?","id":"010E48"}
+{"text":"「ＡＥＵの特殊部隊ＯＺの総帥です。\n　正規軍がＯＺに掌握されつつある今、\n　ＡＥＵの軍事のトップとも言える人間です」","translation":"He's OZ's leader, the AEU's special forces.\nWith the regular army under OZ, he's now\nAEU's top military man.","id":"010E78"}
+{"text":"「俺の上の人間の調査じゃ、\n　今回の国連軍結成も、そのトレーズと…」","translation":"According to my superiors' investigation, the formation of this U.N. force was also orchestrated by that Treize and...","id":"010EF8"}
+{"text":"「ブリタニア・ユニオンの\n　シュナイゼル・エル・ブリタニアが積極的に\n　動いたって話だ」","translation":"Word is that Schneizel el Britannia of the Britannia Union was actively involved as well.","id":"010F48"}
+{"text":"「もっとも、それは彼個人ではなく、\n　そのバックにいるロームフェラ財団の力が\n　大きいのでしょうけどね」","translation":"Though really, it was probably less him personally and more the power of the Romefeller Foundation backing him.","id":"010FA8"}
+{"text":"「ＯＺのスポンサーにして、\n　ＡＥＵの影の支配者、ロームフェラか…」","translation":"Romefeller... OZ's sponsor, and the shadow ruler of the AEU...","id":"011018"}
+{"text":"「そんな大物の所で何をしてたんですか？」","translation":"What were you doing with someone that important?","id":"011068"}
+{"text":"「別世界から来た第三者として\n　アドバイザー役をやっていた」","translation":"I served as an advisor, as a third party from another world.","id":"011098"}
+{"text":"「いったい何のためにだ？」","translation":"What for, exactly?","id":"0110E0"}
+{"text":"「正直に言えば、よくわからんな」","translation":"To be honest, I don't really know.","id":"011100"}
+{"text":"「俺達のやった事と言えば、\n　世の中の出来事に対して、感じた事を\n　しゃべったぐらいだ」","translation":"All we really did was speak our minds about the events happening in the world.","id":"011130"}
+{"text":"「それが何のアドバイスになるんです？」","translation":"How is that supposed to be advice?","id":"011190"}
+{"text":"「彼は世界の在り方に迷いを持っていた」","translation":"He had doubts about the way the world should be.","id":"0111C0"}
+{"text":"「迷い？」","translation":"Doubts?","id":"0111F0"}
+{"text":"「それに対する決意を固めるために\n　彼は我々という異邦人の言葉を\n　求めたのだろう」","translation":"To steel his resolve on that matter, he likely sought the words of outsiders like us.","id":"011208"}
+{"text":"「トレーズ・クシュリナーダ…。\n　確かに一筋縄でいかないものを感じさせる\n　人物だった」","translation":"Treize Khushrenada... He certainly struck me as no ordinary man.","id":"011268"}
+{"text":"「だが、彼なりに世界の行く末を憂い、\n　特にインペリウムへの対処については\n　相当の覚悟を持っていた」","translation":"But in his own way, he did worry about the world's future, and was especially prepared to deal with the Imperium.","id":"0112C8"}
+{"text":"「三大国家の軍事のトップだ。\n　そうでなけりゃ困るぜ」","translation":"He's the top military man of one of the three major powers. If he weren't, we'd be in trouble.","id":"011338"}
+{"text":"「トゲのある言い方だな」","translation":"That's a pretty pointed way of putting it.","id":"011378"}
+{"text":"「そのトレーズ閣下とシュナイゼル殿下は\n　どうにも怪しくてよ…」","translation":"That Lord Treize and Prince Schneizel just don't sit right with me...","id":"0113A0"}
+{"text":"「前にブリタニア・ユニオンとＡＥＵに\n　挟撃された事があったんだが、あれも\n　あの二人の差し金だったと踏んでいる」","translation":"We were once caught in a pincer attack by the Britannia Union and the AEU, and I'm convinced those two were behind it.","id":"0113E8"}
+{"text":"「敵対している国の人間が、\n　水面下で結託して部隊を動かしたって\n　言うのか？」","translation":"You're saying people from enemy nations colluded behind the scenes to move their troops?","id":"011460"}
+{"text":"「その可能性も否定できん。\n　…もっとも、国連軍が編成された今、\n　秘密裏に動く必要もなくなっただろうがな」","translation":"I can't rule that out. ...Though now that the U.N. force has formed, they probably don't need to operate in secret anymore.","id":"0114B8"}
+{"text":"「ついでにトレーズ閣下の方は\n　ＰＭＣトラストを使っているって噂もある」","translation":"And there's also a rumor that Lord Treize is using PMC Trust.","id":"011528"}
+{"text":"「ソレスタルビーイングの離反者も\n　そこにつながりがあると聞いている」","translation":"I've also heard that defectors from Celestial Being have ties to them as well.","id":"011578"}
+{"text":"「ＰＭＣトラスト…。\n　そこに世界の陰で動く者が集約されているのか」","translation":"PMC Trust... So that's where those who move in the shadows of the world have gathered?","id":"0115C8"}
+{"text":"「いい機会だ。\n　こっちから攻勢に出て、奴等の首根っこを\n　押さえればいい！」","translation":"This is our chance. Let's go on the offensive and grab them by the throat!","id":"011618"}
+{"text":"「だが、相手が民間軍事会社である以上、\n　理由もなく攻撃するわけにはいかない」","translation":"But since they're a private military company, we can't just attack them without cause.","id":"011670"}
+{"text":"「話はわかるが、後手に回るのはまずいぜ。\n　多少強引でも、ここは行くべきだ」","translation":"I get that, but we can't afford to stay on the back foot. Even if we have to be a little forceful, we should move now.","id":"0116C8"}
+{"text":"「みんな…すぐに出発だそうだ」","translation":"Everyone... it looks like we're leaving right away.","id":"011720"}
+{"text":"「どうした、アレルヤ？\n　何かあったのか？」","translation":"What's wrong, Allelujah? Did something happen?","id":"011748"}
+{"text":"「キリコの昔の仲間からの連絡で\n　レッドショルダーの秘密基地が判明したんだ」","translation":"We got word from one of Chirico's old comrades, and we've located the Red Shoulders' secret base.","id":"011780"}
+{"text":"「ナイスタイミングだ。\n　ＰＭＣトラストの尻尾を捕まえたぜ」","translation":"Perfect timing. We've got hold of PMC Trust's trail.","id":"0117D8"}
+{"text":"「これまでの戦闘でも\n　彼等がＰＭＣトラストと関係しているのは\n　明らかだしね」","translation":"It's already clear from the battles so far that they're connected to PMC Trust.","id":"011820"}
+{"text":"「スメラギさん達も同じように判断した。\n　僕達は彼等の基地を強襲する」","translation":"Sumeragi and the others came to the same conclusion. We're launching a surprise assault on their base.","id":"011878"}
+{"text":"「秘密基地か…。\n　テロリストのアジトとでもでっち上げれば、\n　仕掛ける口実はあるな」","translation":"A secret base, huh... If we frame it as a terrorist hideout, we'll have a pretext to attack.","id":"0118C8"}
+{"text":"「叩けばホコリが出る連中だ。\n　ここはやるしかないぜ」","translation":"They're the kind of people who'll turn up dirt if you dig. We've got no choice but to do this.","id":"011928"}
+{"text":"「どうしたんですか、大尉？」","translation":"What's wrong, Captain?","id":"011968"}
+{"text":"「いや…何でもない。\n　少し疲れを感じただけだ」","translation":"No... it's nothing. I'm just feeling a little tired.","id":"011990"}
+{"text":"「すまないが、先に休ませてもらう」","translation":"Sorry, but I'll go get some rest first.","id":"0119D0"}
+{"text":"「クワトロ大尉…」","translation":"Captain Quattro...","id":"011A00"}
+{"text":"（シャア…トレーズ・クシュリナーダとの出会いに\n　お前は何を感じたんだ…）","translation":"Char... what did you feel when you met Treize Khushrenada...?","id":"011A20"}
+{"text":"プトレマイオス　ブリッジ","translation":"Ptolemaios Bridge","id":"011A78"}
+{"text":"　\n　　\n　　　　　～プトレマイオス　ブリッジ～","translation":"~Ptolemaios Bridge~","id":"011A98"}
+{"text":"「…それで、その情報提供者は\n　こちらに合流したいと言っているんだな？」","translation":"...So, this informant wants to join up with us here?","id":"011AC8"}
+{"text":"「彼等は、キリコがエリア１１にいるとの\n　情報を聞きつけ、黒の騎士団に接触を\n　求めてきました」","translation":"They heard Chirico was in Area 11 and requested contact with the Black Knights.","id":"011B18"}
+{"text":"「こちらとしても好都合だ。\n　彼等に合流ポイントを指示し、\n　そちらに向かってもらってくれ」","translation":"That works in our favor as well. Give them a rendezvous point and have them head there.","id":"011B88"}
+{"text":"「了解しました」","translation":"Understood.","id":"011BE8"}
+{"text":"「あの無口な傭兵さんに\n　戦友がいたなんて驚きね」","translation":"I'm surprised that taciturn mercenary had comrades-in-arms.","id":"011C08"}
+{"text":"「あいつの昔のお仲間って事は\n　元レッドショルダーってわけか」","translation":"If they're his old comrades, that means they're former Red Shoulders, huh?","id":"011C48"}
+{"text":"「それがレッドショルダーを潰すために動くとは\n　何か事情がありそうだな」","translation":"If they're moving to wipe out the Red Shoulders, there must be some reason behind it.","id":"011C90"}
+{"text":"「もしかして、あのＰＳの彼女も\n　その基地にいるかも…！」","translation":"Maybe that PS woman is at that base too...!","id":"011CE0"}
+{"text":"「ＰＳ…？」","translation":"PS...?","id":"011D28"}
+{"text":"「パーフェクトソルジャーと呼ばれる兵士だ。\n　その名の通り、完全なる兵士として\n　人体改造を受けている」","translation":"A soldier known as a Perfect Soldier. Just as the name suggests, she underwent modifications to become a perfect soldier.","id":"011D40"}
+{"text":"「元々はギルガメス軍が開発したのだが、\n　何者かが彼女を強奪し、その現場に\n　キリコは居合わせたそうだ」","translation":"She was originally developed by the Gilgamesh military, but someone stole her, and Chirico was there when it happened.","id":"011DB0"}
+{"text":"「そして、その女の人は\n　エリア１１を牛耳っていた治安警察に\n　使われていたんです」","translation":"And that woman was being used by the Public Security Police that controlled Area 11.","id":"011E20"}
+{"text":"「その人って、キリコの恋人？」","translation":"Is that person Chirico's lover?","id":"011E80"}
+{"text":"「…そのような簡単な言葉で\n　言い表す事が正しいかはわからないがな」","translation":"...I'm not sure it's right to describe it with such a simple word.","id":"011EA8"}
+{"text":"「彼の事情はひとまず置いておくとして、\n　かなりシビアなミッションになりそうね」","translation":"Setting his circumstances aside for now, this is shaping up to be a pretty severe mission.","id":"011EF8"}
+{"text":"「送られてきた基地の図面を見る限り、\n　内部には２０メートル級以下の機体しか\n　侵入できそうにないわ」","translation":"Judging from the base schematics we were sent, it looks like only units 20 meters and under can get inside.","id":"011F58"}
+{"text":"「ＳサイズとＭサイズに\n　分類される機体のみですか…」","translation":"So only units classified as S-size and M-size...","id":"011FC8"}
+{"text":"「それ以外の機体は外部で牽制。\n　その間に部隊を突入させるしかあるまい」","translation":"The rest of the units will have to hold them off from outside. Meanwhile, we'll have to send the team in.","id":"012008"}
+{"text":"「Ｍサイズ以下の機体のみでの突入作戦…。\n　そして、相手は一騎当千のレッドショルダー…」","translation":"An infiltration operation using only M-size and smaller units... And our opponents are the peerless Red Shoulders...","id":"012058"}
+{"text":"「苦戦は必至だろうな…」","translation":"A hard fight is inevitable...","id":"0120C0"}

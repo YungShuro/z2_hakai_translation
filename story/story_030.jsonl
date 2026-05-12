@@ -1,0 +1,575 @@
+{"text":"敵の全滅。","translation":"All enemies defeated.","id":"000580"}
+{"text":"次元獣ライノダモンＭＤの撃墜。","translation":"Dimensional Beast Rhino DAMON MD shot down.","id":"000590"}
+{"text":"クロウＡの撃墜。","translation":"Crow A shot down.","id":"0005B8"}
+{"text":"味方戦艦の撃墜。","translation":"Allied battleship shot down.","id":"0005D0"}
+{"text":"？？？","translation":"???","id":"0005F0"}
+{"text":"アリエティスを撃墜する。\nただし、アリエティスはＨＰが１００００以下で撤退する。","translation":"Shoot down Arietis. However, Arietis will retreat if its HP drops to 10,000 or below.","id":"0005F8"}
+{"text":"主人公フルネーム・主人公フルネーム","translation":"$F","id":"000B18"}
+{"text":"残り借金額　１，９８９，９９０Ｇ","translation":"Debt: 1,989,990 G","id":"000B40"}
+{"text":"『スーパーリペアキット』を入手しました。","translation":"Got \"Super Repair Kit\".","id":"000BA8"}
+{"text":"「ひえ！　じ、次元獣が出やがった！」","translation":"Yikes! A-a Dimensional Beast showed up!","id":"000C28"}
+{"text":"「$Fは\n　ここにいる…」","translation":"$F is here...","id":"000C58"}
+{"text":"「$cと別行動をとっている\n　今こそが好機か…」","translation":"Now that $c is acting separately, this is our chance...","id":"000C80"}
+{"text":"「使える機体が、こいつしかないとはな…」","translation":"So this is the only machine I can use, huh...","id":"000DA0"}
+{"text":"「しっかり戦いな、$n。\n　そいつは私がチューンした\n　アクシオ・スコートＳＰ・ＶＲマキシマだ」","translation":"Fight well, $n. That's the Axio Scott SP VR Maxima I tuned myself.","id":"000DD0"}
+{"text":"「名前だけは立派だな…」","translation":"At least the name sounds impressive...","id":"000E38"}
+{"text":"「…っと、機体を選り好みするとは\n　俺も随分と偉くなったもんだぜ」","translation":"...Getting picky about my machine... I must've gotten pretty full of myself.","id":"000E58"}
+{"text":"「奴め…。\n　どうやら、機体の修理が\n　間に合わなかったようだな」","translation":"That fool... It seems the repairs to his machine weren't finished in time.","id":"000EA0"}
+{"text":"「だが、手心は加えぬ…！\n　それが、このような役目を課せられた\n　私の最後の誇りだ！」","translation":"But I will show no mercy...! That is the last pride left to me, burdened with a role such as this!","id":"000EF0"}
+{"text":"「………」","translation":".........","id":"000F58"}
+{"text":"「…お前は手を出さなくていい。\n　奴は私が討つ」","translation":"...You need not interfere. I will defeat him myself.","id":"000F70"}
+{"text":"「聞こえるはずもないか…。\n　だが、それでも私はお前を守る…」","translation":"I suppose you can't hear me... But even so, I will protect you...","id":"000FB0"}
+{"text":"「戦局は圧倒的に不利だ…。\n　こうなりゃ、一点突破で\n　あの女騎士を狙うしかねえか…」","translation":"The battle's overwhelmingly against us... At this point, our only shot is to break through and target that female knight...","id":"001000"}
+{"text":"「やるぜ…！\n　アクシオ・スコートＳＰ・ＶＡマックス！」","translation":"Let's do this...! Axio Scott SP VA Max!","id":"001058"}
+{"text":"「名前、違うんだけどな…」","translation":"That's not actually its name...","id":"001098"}
+{"text":"「ちっ…！　\n　さすがにどうにも無理ってもんか！」","translation":"Tch...! Guess this really isn't gonna work!","id":"0012E0"}
+{"text":"「心配しなさんな、$n。\n　間に合ったよ」","translation":"Don't worry, $n. I made it in time.","id":"001318"}
+{"text":"「ブラスタの修理が終わったか！」","translation":"The Brasta's repairs are done?!","id":"001350"}
+{"text":"「好きにはさせん！」","translation":"I won't let you have your way!","id":"001458"}
+{"text":"「この状況じゃ、ラボに戻れねえか…！」","translation":"At this rate, I can't get back to the lab...!","id":"001520"}
+{"text":"「あたしが行く！」","translation":"I'll go!","id":"001550"}
+{"text":"「エスター！\n　あんたじゃ、ブラスタは無理だ！」","translation":"Esther! You can't handle the Brasta!","id":"001630"}
+{"text":"「やるんだ…！\n　みんなの仇はあたしが討つんだ！！」","translation":"I have to do it...! I'll avenge everyone!!","id":"001670"}
+{"text":"「父さん、母さん…みんな…！\n　あたし…やるよ！！」","translation":"Dad, Mom... everyone... I... I'll do it!!","id":"0016B0"}
+{"text":"「ちっ！」","translation":"Tch!","id":"0016F0"}
+{"text":"「無茶するな。\n　世の中には出来る事と出来ない事がある」","translation":"Don't be reckless. There are things in this world you can do, and things you can't.","id":"001800"}
+{"text":"「そこをどけ！\n　お前が出来ないなら、あたしが…」","translation":"Get out of my way! If you can't do it, then I will...","id":"001840"}
+{"text":"「死にたいのか！」","translation":"Do you want to die?!","id":"001880"}
+{"text":"「！」","translation":"!","id":"001898"}
+{"text":"「俺はお前を死なせたくない。\n　…そういう人間を残して死ぬ事が\n　どれだけ罪な事か、わかるよな？」","translation":"I don't want you to die. ...You know how wrong it is to die and leave behind someone who feels that way, right?","id":"0018A8"}
+{"text":"「だって…だって………」","translation":"But... but...","id":"001910"}
+{"text":"「もういい。\n　お前の気持ちだけで俺は満足だ」","translation":"That's enough. Just knowing how you feel is enough for me.","id":"001938"}
+{"text":"「…早く本来の機体に乗り換えろ、\n　$F」","translation":"...Hurry up and switch to your original machine, $F.","id":"001970"}
+{"text":"「わざわざ待ってくれるのか？」","translation":"You're actually going to wait for me?","id":"0019A8"}
+{"text":"「騎士は正々堂々戦うものだ」","translation":"A knight fights fair and square.","id":"0019D0"}
+{"text":"「ありがとうよ。\n　俺の事は$nと呼んでいいぜ」","translation":"Thanks. You can call me $n.","id":"001A00"}
+{"text":"「私は敵と馴れ合うつもりはない…！」","translation":"I have no intention of fraternizing with the enemy...!","id":"001A38"}
+{"text":"「俺もだ。\n　特に気の強い女とはな」","translation":"Neither do I. Especially not with a strong-willed woman.","id":"001A70"}
+{"text":"「早くしろ。\n　その機体に乗り換えた時が貴様の最期だ」","translation":"Hurry up. The moment you switch to that machine will be your last.","id":"001A98"}
+{"text":"「それでは遅いのですよ」","translation":"That will be too late.","id":"001AE0"}
+{"text":"「アイム！」","translation":"Aim!","id":"001D60"}
+{"text":"「マルグリット・ピステール。\n　あなたに任せたのは、やはり間違いでした」","translation":"Marguerite Pistail. It seems entrusting this to you was a mistake after all.","id":"001D70"}
+{"text":"「まだ任務に失敗したわけでは…」","translation":"I haven't failed the mission yet...","id":"001DC0"}
+{"text":"「私は余計な感情を挟むのは好みません。\n　あなたの矜持など不要なのです」","translation":"I do not care for bringing unnecessary emotions into this. Your pride is of no use to me.","id":"001DF0"}
+{"text":"「………」","translation":"...","id":"001E40"}
+{"text":"「シュバル・レプテールは己の分を理解したのに、\n　あなたは何故それがわからないのです？」","translation":"Cheval Reptail understood his place, so why can't you?","id":"001E58"}
+{"text":"「そっちの姐さんに俺を狙わせたのは\n　やっぱりお前か」","translation":"So it was you who sent that lady after me after all.","id":"001EB8"}
+{"text":"「自分の手を汚したくないってのか？\n　随分と出世したもんだぜ」","translation":"Don't want to get your own hands dirty? You've certainly moved up in the world.","id":"001EF8"}
+{"text":"「何を勘違いしているのです。\n　あなたは私が殺す価値もないだけです」","translation":"What are you misunderstanding? You're simply not worth killing with my own hands.","id":"001F40"}
+{"text":"「私は結果だけを求めます。\n　あなたが死ねば、世界が救われるのです」","translation":"I seek only results. If you die, the world will be saved.","id":"001F90"}
+{"text":"「さあ、マルグリット。\n　ブラスタに乗る前に、あの男の\n　生命を奪うのです」","translation":"Now then, Marguerite. Before you board Brasta, take that man's life.","id":"001FE0"}
+{"text":"「またわからねえ事を言い出しやがった。\n　お前のホラ話は飽き飽きなんだよ…！」","translation":"There you go spouting nonsense again. I'm sick and tired of your tall tales...!","id":"002038"}
+{"text":"「$F！\n　お前の相手は私だ！」","translation":"$F! I'm your opponent!","id":"002090"}
+{"text":"「下がってな、姐さん。\n　あんたは理由も無しに無抵抗な奴を\n　殺せるような人間じゃない」","translation":"Back off, lady. You're not the kind of person who could kill a defenseless man for no reason.","id":"0020C0"}
+{"text":"「私はインペリウムだ！\n　戦う理由はある！」","translation":"I am Imperium! I have a reason to fight!","id":"002120"}
+{"text":"「やめとけ。\n　そんな風に無理して自分を納得させてる奴と\n　俺は戦いたくない」","translation":"Forget it. I don't want to fight someone who's forcing herself to believe that.","id":"002160"}
+{"text":"「な…ならば、選べ！\n　ここで私に殺されるか、自決するかを！」","translation":"Th-Then choose! Will you be killed by me here, or take your own life!","id":"0021B0"}
+{"text":"「無茶言ってくれる…」","translation":"You're asking for the impossible...","id":"002200"}
+{"text":"「それを選ばなければ、そちらの娘を撃つ！」","translation":"If you won't choose, then I'll shoot that girl!","id":"002220"}
+{"text":"「…俺の生命とエスターの生命を\n　秤にかけろってわけか…」","translation":"...So you're telling me to weigh my life against Esther's...","id":"002258"}
+{"text":"「$n！\n　あたしなんかに構うな！\n　ここは一度、退け！」","translation":"$n! Don't worry about me! Fall back for now!","id":"002298"}
+{"text":"「………」","translation":"...","id":"0022D8"}
+{"text":"「早く選べ！\n　私は本気だぞ！」","translation":"Choose quickly! I'm serious!","id":"0022E8"}
+{"text":"「自分の生命と他人の生命…。\n　俺の答えは決まっている」","translation":"My life or someone else's... I've already made my choice.","id":"002318"}
+{"text":"「そんな下らねえ選択をさせる奴を\n　ぶちのめす事だ！」","translation":"I'll crush the bastard trying to force me into that stupid choice!","id":"002358"}
+{"text":"「！」","translation":"!","id":"002738"}
+{"text":"「な、何だ、これは！？」","translation":"W-What is this!?","id":"002748"}
+{"text":"「まさか、ＶＸが起動した！？」","translation":"No way, did the VX activate!?","id":"002770"}
+{"text":"「今だ！　代われ、エスター！！」","translation":"Now! Switch out, Esther!!","id":"002798"}
+{"text":"「アイム！\n　俺の標的はお前だ！！」","translation":"Aim! You're my target!!","id":"0028C0"}
+{"text":"「マルグリット！」","translation":"Marguerite!","id":"0028E8"}
+{"text":"「わかっている！\n　あの男は私が…」","translation":"I know! That man is mine...","id":"002908"}
+{"text":"「邪魔するんじゃねえ！！」","translation":"Don't get in my way!!","id":"002940"}
+{"text":"「いける！\n　ＳＰＩＧＯＴ、射出！」","translation":"It'll work! SPIGOT, launch!","id":"002960"}
+{"text":"「ああっ！」","translation":"Aah!","id":"002AB0"}
+{"text":"「許せよ、姐さん！\n　奴を守るってんなら、先にあんたを潰す！」","translation":"Forgive me, lady! If you're going to protect him, I'll take you out first!","id":"002AD0"}
+{"text":"「！」","translation":"!","id":"002B18"}
+{"text":"「ＭＤ…！」","translation":"MD...!","id":"002C10"}
+{"text":"「お前…私をかばうのか…」","translation":"You... you're protecting me...?","id":"002C20"}
+{"text":"「ごめん…ごめんね…」","translation":"I'm sorry... I'm so sorry...","id":"002C48"}
+{"text":"「邪魔です、マルグリット。\n　下がりなさい」","translation":"You're in the way, Marguerite. Step back.","id":"002C70"}
+{"text":"「しかし…」","translation":"But...","id":"002CA8"}
+{"text":"「美しいのです！」","translation":"It's beautiful!","id":"002CC8"}
+{"text":"「光の雨は清く崩壊し、\n　花は散り、海は燃えているのです！」","translation":"The rain of light collapses in purity, the flowers scatter, and the sea burns!","id":"002CE8"}
+{"text":"「何を言ってんだ、奴は…！？」","translation":"What the hell is he talking about...!?","id":"002D30"}
+{"text":"「銀河が泣く夕べ！\n　箱の中身は青く数億の潤いだから！\n　そう！　それが人の見た悪夢の果てに！」","translation":"The galaxy weeps at dusk! The box's contents are blue by the billions! Yes! At the end of mankind's nightmare!","id":"002D58"}
+{"text":"「彼女には退場してもらいました。\n　ここからは私がやりましょう」","translation":"I've had her removed from the stage. From here on, I'll handle this myself.","id":"003020"}
+{"text":"「何なんだ、お前は…？\n　ぶっ壊れちまったのか…！？」","translation":"What the hell are you...? Have you completely lost it...!?","id":"003068"}
+{"text":"「フ…あれが私の力なのですよ。\n　あなたが天秤を揺らしながらも\n　その支点が折れなかったように」","translation":"Heh... that is my power. Just as you shook the scales, yet the fulcrum did not break.","id":"0030A8"}
+{"text":"「あなたはやっと私に殺される価値が\n　出てきたのです！」","translation":"You’ve finally become worthy of being killed by me!","id":"003110"}
+{"text":"「次元獣を呼びやがったか…！」","translation":"So he called in Dimensional Beasts...!","id":"003250"}
+{"text":"「だが、こっちも俺一人じゃねえ！」","translation":"But I’m not alone here, either!","id":"003278"}
+{"text":"「よう！　やってるな、$n！」","translation":"Yo! You're really going at it, $n!","id":"003360"}
+{"text":"「遅れてすいません！\n　俺達も援護します！」","translation":"Sorry we're late! We'll back you up too!","id":"003388"}
+{"text":"「気にすんな。\n　ナイスタイミングだ」","translation":"Don't sweat it. Perfect timing.","id":"0033C0"}
+{"text":"「インペリウム…。\n　$Fを\n　狙って、動いたか」","translation":"Imperium... So they made their move for $F.","id":"0033F0"}
+{"text":"「悪いな、$n。\n　お前には囮になってもらった」","translation":"Sorry, $n. I had to use you as a decoy.","id":"003428"}
+{"text":"「フ…これだけ活きのいいエサだからな。\n　ばっちりの食いつきだ」","translation":"Heh... With bait this lively, of course they'd bite.","id":"003468"}
+{"text":"「ほう…。\n　この私を罠にはめたと言うのですか」","translation":"Oh? So you're saying you set a trap for me.","id":"0034B0"}
+{"text":"「あの機体にアイム・ライアードが\n　乗っているのか」","translation":"So Aim Liard is in that machine?","id":"0034E8"}
+{"text":"「奴が時空震動を起こす力を持っているのなら、\n　我々の帰還の助けとなる」","translation":"If he has the power to cause space-time quakes, then he could help us return home.","id":"003520"}
+{"text":"（そして、その力と神話の再生を重ねれば…）","translation":"(And if we combine that power with the rebirth of the myth...)","id":"003578"}
+{"text":"「アイムは任せるぜ。\n　俺には先に倒さなきゃならない奴がいる」","translation":"Leave Aim to me. There’s someone else I need to take down first.","id":"0035B0"}
+{"text":"「$n、ＶＸが起動した！\n　これでＳＰＩＧＯＴが生きるよ！」","translation":"$n, the VX has activated! Now SPIGOT can come online!","id":"0035F8"}
+{"text":"「スピゴット？」","translation":"SPIGOT?","id":"003640"}
+{"text":"「物体の移動と変換のための空間確率干渉器…。\n　要するにＶＸの超出力を制御するための\n　システムだよ」","translation":"It's a spatial probability interferometer for moving and converting objects... In short, a system to control the VX's output.","id":"003658"}
+{"text":"「ＳＰＩＧＯＴを使えば、\n　ＶＸのエネルギーを暴発する事なく、\n　ダイレクトに武装に転換できる！」","translation":"With SPIGOT, we can directly convert the VX’s energy into weapons without causing it to run wild!","id":"0036C8"}
+{"text":"「さっきのあれか…！」","translation":"So that’s what that was...!","id":"003738"}
+{"text":"「エスターはこっちで収容した。\n　思い切りやんな！」","translation":"We’ve secured Esther here. Go all out!","id":"003758"}
+{"text":"「$n…！」","translation":"$n...!","id":"003798"}
+{"text":"「見てな、エスター、チーフ。\n　完成したブラスタの力で\n　今日こそ依頼を果たすぜ」","translation":"Watch me, Esther, Chief. With the power of the completed Brasta, I’m finishing this job today.","id":"0037B0"}
+{"text":"「私を見ていないだと…？」","translation":"You’re not even looking at me...?","id":"003808"}
+{"text":"「俺の標的はＭＤだ！\n　アイム、お前の相手は後でしてやる！」","translation":"My target is the MD! Aim, I’ll deal with you later!","id":"003830"}
+{"text":"「！！！！！」","translation":"!!!!!!!","id":"003B90"}
+{"text":"「やったな、$n」","translation":"You did it, $n.","id":"003CA8"}
+{"text":"「どうしたんだ？\n　嬉しくないのか？」","translation":"What’s wrong? Aren’t you happy?","id":"003CC0"}
+{"text":"「そうじゃねえよ…」","translation":"No, that’s not it...","id":"003CF0"}
+{"text":"「ただちょっとだけ寂しいのさ。\n　ここまで付き合いが長いとな…」","translation":"I’m just feeling a little lonely. We’ve been together for a long time, after all...","id":"003D08"}
+{"text":"（フフ…よくやりました。\n　$F）","translation":"Heh heh... Well done, $F.","id":"003E70"}
+{"text":"（あなたの目覚めは始まりました。\n　後は私があなたを殺すだけです）","translation":"Your awakening has begun. All that’s left is for me to kill you.","id":"003E98"}
+{"text":"「アイム…！　次はお前の番だ！」","translation":"Aim...! You’re next!","id":"003EE8"}
+{"text":"「それはまた次の機会にしましょう、\n　$F」","translation":"Let’s save that for another time, $F.","id":"003F10"}
+{"text":"「いえ…揺れる天秤」","translation":"No... wavering scales.","id":"003F48"}
+{"text":"「ちっ…都合が悪くなれば、逃げの一手か。\n　喰えねえ奴だぜ」","translation":"Tch... the moment things turn against him, all he does is run. What a slippery bastard.","id":"004088"}
+{"text":"「アイム・ライアード…\n　許し難い存在だな」","translation":"Aim Liard... He is utterly unforgivable.","id":"0040C8"}
+{"text":"（だが、俺達の計画には奴の力が必要だ。\n　そのためには…）","translation":"But we need his power for our plan. And for that...","id":"004100"}
+{"text":"「よくやったね、$n」","translation":"Well done, $n.","id":"004228"}
+{"text":"「チーフもな。\n　ついにＶＸを解明したってわけか」","translation":"You too, Chief. So you finally figured out VX, huh?","id":"004248"}
+{"text":"「…その辺りについては、\n　説明しなきゃならない。\n　まずはラボに戻ってきな」","translation":"...I've got some explaining to do about that. First, come back to the lab.","id":"004280"}
+{"text":"「じゃあ、あたし達は\n　先に国連の本部へ行っている」","translation":"In that case, we'll head to the UN headquarters first.","id":"0042D8"}
+{"text":"「それなんだけどよ…」","translation":"About that...","id":"004318"}
+{"text":"「どうした？」","translation":"What is it?","id":"004338"}
+{"text":"「いや、いい…。\n　また会えたなら、その時に話すわ」","translation":"No, never mind... If we meet again, I'll tell you then.","id":"004358"}
+{"text":"「何だか、ここでお別れみたいな言い方ですね」","translation":"The way you say that, it sounds like this is goodbye.","id":"004390"}
+{"text":"「フ…気にしないでくれ」","translation":"Heh... Don't worry about it.","id":"0043C8"}
+{"text":"「じゃあな、$n。\n　また後でな」","translation":"See ya, $n. Catch you later.","id":"0043E8"}
+{"text":"「もう俺は借金のない自由の身…。\n　さて、どうするかな…」","translation":"I'm finally free of debt... Now, what should I do...?","id":"0045D0"}
+{"text":"（揺れる天秤…。\n　ついに目覚めたようだね）","translation":"The wavering scales... It seems you've finally awakened.","id":"0046B0"}
+{"text":"（君の魂を奪うのは、偽りの黒羊ではない。\n　それはこの僕…アサキム・ドーウィンだ）","translation":"The one who will take your soul is not the false black sheep. It is I... Asakim Dowin.","id":"0046E8"}
+{"text":"「とどめだ、アイム…！　\n　ここで決着をつける！」","translation":"This is the end, Aim...! We'll settle this here!","id":"004808"}
+{"text":"（$F…。\n　お前に個人的な恨みも憎しみもない…）","translation":"$F... I bear you no personal grudge or hatred...","id":"004A40"}
+{"text":"（だけど、私はお前を殺さねばならない…！\n　私に残された唯一のものを守るために！）","translation":"But I must kill you...! To protect the only thing I have left!","id":"004A80"}
+{"text":"「ＭＤ…ついに決着をつける日が来たぜ」","translation":"MD... the day has finally come to settle this.","id":"004BA0"}
+{"text":"「それで世界が変わるわけじゃない…。\n　だけど、お前を倒す事で\n　少しは前に進める人間がいるんだよ」","translation":"That won't change the world... But by defeating you, there are people who can move forward, even if only a little.","id":"004BD0"}
+{"text":"「ってな話をお前にしても仕方ないよな」","translation":"Though I guess there's no point saying any of that to you.","id":"004C38"}
+{"text":"「ここからはやるか、やられるかだ…！\n　この世界で生きるのは俺達か、お前達か、\n　それを決める！」","translation":"From here on out, it's kill or be killed...! We'll decide who gets to live in this world—us or you!","id":"004C68"}
+{"text":"「$F、\n　あなたは私がやっと巡り会えた存在です」","translation":"$F, you are the one I finally managed to find.","id":"004DD0"}
+{"text":"「気持ち悪いんだよ、お前は…！\n　一方的に人を追い回して、\n　要らないって言ったり、要るって言ったり！」","translation":"You're disgusting...! You chase people around on your own terms, then say you don't need them, then say you do!","id":"004E08"}
+{"text":"「では、改めて言いましょう。\n　あなたの生命が欲しいのです…！」","translation":"Then let me say it again. I want your life...!","id":"004E78"}
+{"text":"「お断りだ！\n　俺の生命は俺のものだ！\n　幾ら金を積まれても、くれてやるものか！」","translation":"No way! My life is mine! No amount of money could make me give it up!","id":"004EC0"}
+{"text":"「見つけたぞ、アイム・ライアード！\n　俺達が元の世界に帰る方法を\n　教えてもらうぜ！」","translation":"Found you, Aim Liard! You're going to tell us how to get back to our original world!","id":"005018"}
+{"text":"「この多元世界において、\n　一つの世界にこだわる事に何の意味が\n　あるんです？」","translation":"In this multiverse, what meaning is there in clinging to just one world?","id":"005078"}
+{"text":"「うるせえ！\n　父ちゃんや母ちゃん、イチ兄ちゃん達が\n　きっと俺を待ってんだよ！」","translation":"Shut up! My dad, my mom, and Big Brother Ichi are all waiting for me!","id":"0050D0"}
+{"text":"「こうなりゃ、お前を倒して\n　力ずくでも聞きだすまでだ！」","translation":"If it comes to this, I'll beat you down and force the answer out of you!","id":"005128"}
+{"text":"「アーリーオーバーマンですか。\n　こうして戦うのは初めてですよ」","translation":"An Early Overman, is it? This is the first time I've fought one like this.","id":"005268"}
+{"text":"「キングゲイナーを知っているのか…！？」","translation":"You know King Gainer...!?","id":"0052B0"}
+{"text":"「当然です。\n　そのオーバーマンは私が造ったのですから」","translation":"Of course. I created that Overman, after all.","id":"0052E8"}
+{"text":"「えっ！？」","translation":"What!?","id":"005328"}
+{"text":"「いい反応です。\n　その動揺の隙を突かせてもらいましょうか」","translation":"Excellent reaction. I'll use that moment of shock against you.","id":"005340"}
+{"text":"「どうも、俺はあんたという人間は\n　好きになれそうもないな…！」","translation":"I don't think I'm ever going to like a guy like you...!","id":"0054A8"}
+{"text":"「私があなたの死んだ父親の生まれ変わりだと\n　してもですか？」","translation":"Even if I told you I'm the reincarnation of your dead father?","id":"0054F0"}
+{"text":"「何だって！？」","translation":"What did you say!?","id":"005538"}
+{"text":"「ハハハ、いい反応です。\n　どうやら、あなたにとって父親は\n　非常に大きな存在のようですね」","translation":"Ha ha ha, excellent reaction. It seems your father was a very important person to you.","id":"005550"}
+{"text":"「こいつ…！\n　よくも俺を騙しやがったな！」","translation":"You...! How dare you trick me!","id":"0055B8"}
+{"text":"「単純な人ですね。\n　あなたのような人間は好ましく思いますよ」","translation":"You're a simple one, aren't you? I rather like people like you.","id":"0055F0"}
+{"text":"「取り引きをしませんか？\n　あなたにディアナ・ソレルの情報を\n　教えましょう」","translation":"Shall we make a deal? I'll tell you what I know about Diana Sorel.","id":"005778"}
+{"text":"「ディアナ様を知っているんですか！？」","translation":"You know Lady Diana!?","id":"0057D0"}
+{"text":"「彼女は私の妹ですから」","translation":"Because she's my younger sister.","id":"005800"}
+{"text":"「僕をからかっている…！？」","translation":"Are you mocking me...!?","id":"005820"}
+{"text":"「あなたはいったい何なんです！？\n　そんな事をして楽しいのですか！」","translation":"Just what are you!? Do you enjoy doing things like this!?","id":"005848"}
+{"text":"「ついに見つけたぜ、アイム・ライアード！\n　今日は逃がさねえからな！」","translation":"Finally found you, Aim Liard! You're not getting away today!","id":"0059B8"}
+{"text":"「私の下につけば、元の世界に帰る方法を\n　教えてさしあげますが」","translation":"If you join me, I'll tell you how to return to your original world.","id":"005A08"}
+{"text":"「あいにくだったな！\n　俺はお前みたいに自分勝手な奴とも\n　戦った事があるんだ！」","translation":"Too bad for you! I've fought selfish guys like you before!","id":"005A50"}
+{"text":"「そういう奴の言葉は少しも信じねえ！\n　お前は俺の敵だ！」","translation":"I don't believe a word from a guy like you! You're my enemy!","id":"005AB0"}
+{"text":"「つまらない子供ですよ、あなたは。\n　少し罰を与えねばなりませんね」","translation":"You're a tiresome child. I suppose I'll have to punish you a little.","id":"005AF8"}
+{"text":"「特異点の中の特異点…。\n　太極に背いたあなたに出会えるとは\n　光栄の極みです」","translation":"A singularity among singularities... To meet one such as you, who has defied Taikyoku, is the highest honor.","id":"005C68"}
+{"text":"「やはり、ＺＥＵＴＨの転移は\n　俺達が特異点化した事が原因か」","translation":"So ZEUTH's transfer was caused by us becoming singularities.","id":"005CC0"}
+{"text":"「ならば、ついでに教えてもらうぞ。\n　俺達が帰る方法をな」","translation":"Then while you're at it, tell me this too: how do we get back?","id":"005D08"}
+{"text":"「それは無理です。\n　なぜなら、あなた方の世界は既に\n　消滅していますから」","translation":"That's impossible. Because your world has already been destroyed.","id":"005D48"}
+{"text":"「そんなつまらない嘘を信じるか…！\n　俺には待っている人達がいるんだ！\n　必ず帰ってみせるぞ！」","translation":"You think I'd believe such a stupid lie...! There are people waiting for me! I'll make it back no matter what!","id":"005DA0"}
+{"text":"「何だ、この男は…。\n　まるで暗い穴を覗きこんでいるようだ…」","translation":"What is this man...? It's like staring into a dark abyss...","id":"005F28"}
+{"text":"「アサキムとも違う…！\n　これは、この男の悪意なのか！？」","translation":"He's different from Asakim too...! Is this... this man's malice!?","id":"005F70"}
+{"text":"「ニュータイプ…私の心に触れましたか。\n　ならば、あなたには罰を与えねば\n　なりませんね」","translation":"A Newtype... so you touched my heart. In that case, I shall have to punish you.","id":"005FB8"}
+{"text":"「アイム・ライアード！\n　あんたから元の世界に帰る方法を\n　聞きだす！」","translation":"Aim Liard! I'm going to make you tell me how to get back to my original world!","id":"0060F8"}
+{"text":"「その必要はありませんよ。\n　なぜなら、あなたの妹さんは\n　この世界で生きているのですから」","translation":"There's no need for that. After all, your little sister is alive in this world.","id":"006148"}
+{"text":"「マユが…生きている…」","translation":"Mayu... is alive...","id":"0061B0"}
+{"text":"「フフ…ハハハ！\n　いい反応です、それも最高級の！」","translation":"Heh... Hahaha! What a wonderful reaction. Top-class, in fact!","id":"0061D0"}
+{"text":"「お前…俺を騙したのか！？」","translation":"You... you tricked me!?","id":"006210"}
+{"text":"「それが何か？」","translation":"And if I did?","id":"006238"}
+{"text":"「許さない…！\n　俺を動揺させる事が目的だとしても\n　お前は絶対に許さないぞ！」","translation":"I'll never forgive you...! Even if your goal was just to shake me up, I'll never forgive you!","id":"006250"}
+{"text":"「あなたも元の世界に帰りたいのですね？\n　でしたら、私の下へ来なさい」","translation":"You want to return to your original world too, don't you? Then come to my side.","id":"006408"}
+{"text":"「…何故だろう。\n　あなたの言葉は少しも心に響かない」","translation":"...I wonder why. Your words don't resonate with me at all.","id":"006458"}
+{"text":"「あなたの言葉にあるのは\n　他人を騙そうとする悪意だけだ。\n　そんな人間を信用する事など出来ない…！」","translation":"All I hear in your words is malice meant to deceive others. I could never trust someone like that...!","id":"006498"}
+{"text":"「素直な青年かと思ったのは\n　私の思い違いだったようです。\n　あなたには消えてもらいましょう」","translation":"I thought you were an honest young man, but it seems I was mistaken. You'll have to disappear.","id":"006508"}
+{"text":"「元の世界に帰りたいのなら\n　インペリウムに来ませんか？」","translation":"If you want to return to your original world, why not come to Imperium?","id":"006670"}
+{"text":"「………」","translation":".........","id":"0066B8"}
+{"text":"「あなた方は事故でこちらの世界に来たのですから\n　速やかに帰還のお手伝いをしましょう」","translation":"Since you came to this world by accident, I shall help you return at once.","id":"0066C8"}
+{"text":"「騙されないで、斗牙。\n　この男…とても真人間とは思えないわ」","translation":"Don't be fooled, Toga. This man... I can't believe he's anything close to decent.","id":"006728"}
+{"text":"「サンドマンが言っていた。\n　言葉巧みに近づいてくる者は\n　信用してはならないと」","translation":"Sandman said it himself: never trust those who approach you with honeyed words.","id":"006770"}
+{"text":"「ほう…孔子ですか」","translation":"Oh... Confucius, is it?","id":"0067C8"}
+{"text":"「俺の勘も言ってるぜ！\n　こいつは底無しの悪党だってな！」","translation":"My gut's telling me the same thing! This guy's rotten to the core!","id":"0067E8"}
+{"text":"「僕達はお前を討つ！\n　元の世界に帰るため…\n　そして、この世界の悪を滅するために！」","translation":"We'll defeat you! To return to our own world... and to wipe out the evil in this one!","id":"006830"}
+{"text":"「…お前、嫌な臭いがしやがるな」","translation":"...You reek of something rotten.","id":"006A10"}
+{"text":"「本能で私の危険さを感じ取ったとでも\n　言うのですか？」","translation":"Are you saying your instincts sensed how dangerous I am?","id":"006A38"}
+{"text":"「私の嘘が通用しないのならば、\n　あなたは真っ先に排除しなければなりません」","translation":"If my lies won't work on you, then you must be eliminated first.","id":"006A78"}
+{"text":"「はい、そうですかって、やられてたまるかよ！\n　俺がお前の嫌な臭いを止めてやるぜ！！」","translation":"Like hell I'll let you do that! I'll put an end to that nasty stench of yours!!","id":"006AD0"}
+{"text":"「ロジャー・スミス、\n　今からでも遅くはありません。\n　私の下へ戻りなさい」","translation":"Roger Smith, it's not too late. Come back to my side.","id":"006C30"}
+{"text":"「そして、共に太極の力を解き明かそうでは\n　ありませんか」","translation":"And let us unravel the power of Taiji together.","id":"006C88"}
+{"text":"「結局、お前という男は\n　他人を利用する事しか考えていないようだ」","translation":"In the end, you're just a man who thinks only of using others.","id":"006CD0"}
+{"text":"「そんな人間が私の愛する誠意という言葉を\n　使った事は許し難い！\n　お前と私は水と油のような存在なのだよ！」","translation":"I can't forgive a man like you for using the word sincerity, which I hold so dear! You and I are like oil and water!","id":"006D20"}
+{"text":"（時空震動を発生させる力を持つ男、\n　アイム・ライアード…）","translation":"The man with the power to cause space-time tremors... Aim Liard...","id":"006E98"}
+{"text":"（こいつの力を手に入れれば、\n　俺達は生き延びる事が出来る…！）","translation":"If we can get our hands on his power, we'll be able to survive...!","id":"006EE0"}
+{"text":"「その白い機体に乗ってんのは…！」","translation":"The one piloting that white machine is...!","id":"006FF0"}
+{"text":"「あんた…！\n　あの時の借金取りか！」","translation":"You...! You're that debt collector from back then!","id":"007020"}
+{"text":"「そいつに乗ってるって事は\n　セコセコと借金を返してるようだな」","translation":"If you're riding that thing, looks like you've been paying back your debts bit by bit.","id":"007050"}
+{"text":"「それも昨日までの話よ。\n　今の俺は自由という翼を手に入れたのさ」","translation":"That was true until yesterday. Now I've got the wings of freedom.","id":"0070A0"}
+{"text":"「そいつはめでたいな。\n　んじゃ、ここで会ったのも何かの縁だ。\n　あの時の礼に、こいつをくれてやるぜ」","translation":"Well, isn't that great. Since fate brought us together here, I'll give you this as thanks for back then.","id":"0070E8"}
+{"text":"「いいのか、おい？」","translation":"You sure about that?","id":"007278"}
+{"text":"「気にすんな。\n　借金の片に差し押さえた品だ。\n　このドサクサで壊れちまった事にすればいい」","translation":"Don't worry about it. I seized it as collateral for a debt. I'll just say it got wrecked in all this chaos.","id":"007290"}
+{"text":"「ありがとよ。\n　もらえるものなら、何でももらうのが\n　俺の主義だ」","translation":"Thanks. I'll take whatever I can get—that's my policy.","id":"0072F8"}
+{"text":"「だが、タダじゃねえぞ。\n　兄さんにゃ、あの時みたいに\n　次元獣共を叩き潰してもらうぜ」","translation":"But it ain't free. I'm gonna have you smash those Dimensional Beasts like you did back then, big bro.","id":"007340"}
+{"text":"「任せとけ。\n　今日の俺はちょいとやる気が違うからな！」","translation":"Leave it to me. I'm a little more fired up than usual today!","id":"0073A8"}
+{"text":"「あ！」","translation":"Ah!","id":"007508"}
+{"text":"プトレマイオス格納庫","translation":"Ptolemaios Hangar","id":"007728"}
+{"text":"　\n　\n　　　　　～プトレマイオス　格納庫～","translation":"~Ptolemaios Hangar~","id":"007740"}
+{"text":"「………」","translation":".........","id":"007770"}
+{"text":"「…リリーナと一緒にいた君が、\n　ガンダムのパイロットだったなんて…」","translation":"...To think that you, who were with Relena, were a Gundam pilot...","id":"007788"}
+{"text":"「この事を彼女は知っているのか？」","translation":"Does she know about this?","id":"0077D8"}
+{"text":"「さあな…」","translation":"Who knows...","id":"007808"}
+{"text":"「枢木スザク…\n　ここでヒイロに手を出す事は許されない」","translation":"Suzaku Kururugi... you will not be allowed to lay a hand on Heero here.","id":"007820"}
+{"text":"「ソレスタルビーイング…」","translation":"Celestial Being...","id":"007860"}
+{"text":"「お前がこいつの監視役か、刹那？」","translation":"So you're the one watching him, Setsuna?","id":"007888"}
+{"text":"「スメラギ・李・ノリエガの指示だ。\n　…枢木スザク…当分の間、お前には俺が\n　監視として付く」","translation":"Those are Sumeragi Lee Noriega's orders. ...Suzaku Kururugi... for the time being, I'll be assigned to watch you.","id":"0078B8"}
+{"text":"「やはり、警戒されているのか…」","translation":"So I am being watched after all...","id":"007920"}
+{"text":"「もっとも…俺がいる意味はないだろうがな」","translation":"Though... there's probably no point in me being here.","id":"007948"}
+{"text":"「どういう事だ？」","translation":"What do you mean?","id":"007978"}
+{"text":"「お…いたいた！」","translation":"Oh... there you are!","id":"007998"}
+{"text":"「君達は日本の…」","translation":"You two are from Japan...","id":"0079B0"}
+{"text":"「もう一方の日本の方だけどな」","translation":"Well, from the other Japan, anyway.","id":"0079D0"}
+{"text":"「駄目だよ、スザクさん。\n　$cに入ったんだから、\n　ちゃんとみんなに挨拶しなきゃ」","translation":"Come on, Suzaku. Now that you've joined $c, you should properly introduce yourself to everyone.","id":"0079F8"}
+{"text":"「え…」","translation":"Huh...?","id":"007A50"}
+{"text":"「お姫様の騎士だか何だか知らないが、\n　ここでは一番の新入りなんだからな。\n　覚悟しろよ」","translation":"I don't know if you're some princess's knight or whatever, but you're the newest rookie here. Brace yourself.","id":"007A60"}
+{"text":"「おうおう、アルト。\n　後輩が出来たからって張り切っちゃって」","translation":"Hey, Alto. Getting all fired up now that you've got a junior, huh?","id":"007AC0"}
+{"text":"「わかるな、その気持ち。\n　僕もＺＥＵＴＨにいた頃、\n　弟分が出来た時は嬉しかったから」","translation":"I know how that feels. Back when I was in ZEUTH, I was happy too when I got a little brother figure.","id":"007B08"}
+{"text":"「弟分か…。\n　カミナとシモンみたいですね」","translation":"A little brother figure...? Just like Kamina and Simon.","id":"007B68"}
+{"text":"「すごかったんだぜ、ゲイナーは。\n　敵を前にして魂の叫びを聞かせてさ」","translation":"Gainer was amazing. He stood right in front of the enemy and let out a cry from the soul.","id":"007BA0"}
+{"text":"「ますます、カミナにそっくりだ！」","translation":"He's even more like Kamina!","id":"007BF0"}
+{"text":"「人は見かけによらないもんだな」","translation":"You really can't judge people by appearances.","id":"007C20"}
+{"text":"「そういうのとは違うって…！」","translation":"It's not like that...!","id":"007C48"}
+{"text":"「そりゃそうだ。\n　なんたって、愛の告白だったんだからな」","translation":"Well, yeah. It was a love confession, after all.","id":"007C70"}
+{"text":"「愛の…」","translation":"Love...?","id":"007CB0"}
+{"text":"「告白…」","translation":"A confession...?","id":"007CC8"}
+{"text":"「あれ～？\n　レントンさんとエウレカさんが\n　真っ赤になってら」","translation":"Huh~? Renton and Eureka are both bright red.","id":"007CE0"}
+{"text":"「お熱いねぇ、お二人さん！」","translation":"You two sure are lovey-dovey!","id":"007D28"}
+{"text":"「こ、こら！\n　ワッ太も勝平も！！」","translation":"H-Hey! Cut it out, Watta and Kappei!!","id":"007D50"}
+{"text":"「日本人だけじゃない…。\n　フロンティア船団やＺＥＵＴＨの人間まで…」","translation":"It's not just the Japanese... Even people from the Frontier Fleet and ZEUTH...","id":"007D80"}
+{"text":"「この$cってのは\n　そういう部隊だからな」","translation":"That's just the kind of unit this $c is.","id":"007DD0"}
+{"text":"「そういう事。\n　だから、お前もそうやって壁を作ってないで\n　馴染む努力をしろよ」","translation":"Exactly. So instead of putting up walls like that, make an effort to fit in.","id":"007E08"}
+{"text":"「あ…うん…」","translation":"Ah... yeah...","id":"007E60"}
+{"text":"「言うじゃねえか、シン。\n　初めて会った時から随分と成長したもんだ」","translation":"Listen to you, Shin. You've really grown a lot since we first met.","id":"007E78"}
+{"text":"「いいだろ！　昔の事は！」","translation":"Give it a rest! That's all in the past!","id":"007EC8"}
+{"text":"「そうそう。\n　昔の事より、今の事。\n　さらにこれからの事だって」","translation":"That's right. More than the past, it's the present. And the future, too.","id":"007EE8"}
+{"text":"「そういうわけだ、兄ちゃん。\n　仲良くやっていこうじゃないの！」","translation":"That's how it is, bro. Let's all get along!","id":"007F30"}
+{"text":"「うん…」","translation":"Yeah...","id":"007F78"}
+{"text":"「そのよ…。\n　国同士の事をとやかく言うつもりはないが、\n　今はそれは無しにしようぜ」","translation":"Look... I don't mean to go on about things between our countries, but let's leave that aside for now.","id":"007F90"}
+{"text":"「今はそういうのを越えて、\n　戦わなくちゃならない敵がいるんだ」","translation":"Right now, we've got an enemy we have to fight that's beyond all that.","id":"007FF0"}
+{"text":"「わかっている」","translation":"I understand.","id":"008038"}
+{"text":"「カレンとは気まずいかも知れないが、\n　そこらは俺達もフォローするからよ」","translation":"Things might be awkward with Kallen, but we'll help smooth that over too.","id":"008050"}
+{"text":"「ありがとう。\n　みんなを紹介してくれるかい？」","translation":"Thanks. Could you introduce me to everyone?","id":"0080A0"}
+{"text":"「任しといてよ。\n　それじゃ、ブリーフィングルームに行こうか」","translation":"Leave it to me. All right, let's head to the briefing room.","id":"0080D8"}
+{"text":"「よろしく頼むよ」","translation":"I'm counting on you.","id":"008120"}
+{"text":"「…お前の言いたかった事は\n　そういう事か」","translation":"...So that's what you were trying to say.","id":"008140"}
+{"text":"「ここにはおせっかいな人間が多いからな」","translation":"There are a lot of meddlesome people here.","id":"008178"}
+{"text":"「………」","translation":".........","id":"0081A8"}
+{"text":"「…今日は格納庫に来る人間が少ないようだな」","translation":"...There don't seem to be many people coming to the hangar today.","id":"0081B8"}
+{"text":"「入れ代わり立ち代わりで\n　医務室に人が来ている」","translation":"People have been coming and going at the infirmary.","id":"0081F0"}
+{"text":"「そうか…。\n　$nが目を覚ましたか」","translation":"I see... So $n has woken up.","id":"008228"}
+{"text":"プトレマイオス医務室","translation":"Ptolemaios Infirmary","id":"008258"}
+{"text":"　\n　\n　　　　　～プトレマイオス　医務室～","translation":"~Ptolemaios Infirmary~","id":"008270"}
+{"text":"「…どうした、雁首揃えて？」","translation":"...What's with all of you gathered here?","id":"0082A0"}
+{"text":"「せっかく見舞いに来てやったのに\n　可愛げがないな」","translation":"We came all this way to visit you, and you're not very friendly.","id":"0082C0"}
+{"text":"「すまん、すまん。\n　本当は感謝してるって」","translation":"Sorry, sorry. I really am grateful.","id":"008300"}
+{"text":"「それに心配かけたみたいだな…。\n　悪かったよ」","translation":"And I guess I made you worry, too... Sorry about that.","id":"008330"}
+{"text":"「しかし、あのインペリウムの騎士の\n　力自慢の的になるとは、\n　つくづく貧乏クジ役だな」","translation":"Still, ending up as the target of that Imperium knight's little test of strength... you really do draw the short straw.","id":"008368"}
+{"text":"「まあな。\n　慣れた事とはいえ、たまったもんじゃないぜ」","translation":"Yeah. I'm used to it, but it's still a pain.","id":"0083C8"}
+{"text":"「あなたの借金を肩代わりしたラボの方も\n　心配してるんじゃない？」","translation":"Isn't the lab that took on your debt worried too?","id":"008408"}
+{"text":"「あそこが興味あるのは、\n　俺の持ってくるデータの方さ」","translation":"The only thing they're interested in is the data I bring back.","id":"008458"}
+{"text":"「しかし、$nさん。\n　この度の撃墜は業務中の事ですから、\n　労災が降りるのではないですかな？」","translation":"However, $n, since this shoot-down happened in the line of duty, wouldn't workers' compensation apply?","id":"008498"}
+{"text":"「マジで…！？」","translation":"Seriously...!?","id":"008500"}
+{"text":"「マジもマジの大マジですよ。\n　身体を張ってる以上、当然の権利です」","translation":"Dead serious. If you're putting your body on the line, that's your right.","id":"008518"}
+{"text":"「今後はリスクマネージメントの観点から\n　保険に加入されるのもよろしいでしょうな」","translation":"From a risk management standpoint, it would be wise to sign up for insurance as well.","id":"008568"}
+{"text":"「いいねぇ…そういう堅実な生き方。\n　俺の理想だよ」","translation":"Nice... that kind of steady life. That's my ideal.","id":"0085C0"}
+{"text":"「テストパイロットなんて博打な商売を\n　してるのにか？」","translation":"Even though you're in the risky business of being a test pilot?","id":"0085F8"}
+{"text":"「やむを得ずなのは知っての通りだ。\n　俺としちゃ、平和で自由な暮らしを希望だ」","translation":"You know as well as I do that I'm only doing it because I have to. Me, I'd rather have a peaceful, free life.","id":"008638"}
+{"text":"「もっとも、それには借金返済と\n　人類の敵打倒の両方のカードが必要だがな」","translation":"Of course, for that I'd need both to pay off my debts and to defeat humanity's enemies.","id":"008690"}
+{"text":"「それには身体を早く治さないとなりませんね。\n　はい…リンゴをどうぞ」","translation":"Then you'll need to get well soon first. Here... have an apple.","id":"0086E0"}
+{"text":"「ありがとうな、郁絵ちゃん。\n　世界中の女が君みたいなら、\n　俺ももっと気楽に生きられそうだ」","translation":"Thanks, Ikue-chan. If every woman in the world were like you, I think I could live a whole lot easier.","id":"008730"}
+{"text":"「何かひっかかる言い方…」","translation":"There's something about the way you said that...","id":"008790"}
+{"text":"「こりゃ、ベッドから起きられるようになったら、\n　お仕置きが必要ね」","translation":"Well, once you're able to get out of bed, you're going to need a little punishment.","id":"0087B8"}
+{"text":"「トイレ掃除、甲板みがき、食事の後片付け…\n　色々と用意しましょう」","translation":"Toilet duty, deck polishing, cleaning up after meals... We'll make sure there's plenty for you to do.","id":"008808"}
+{"text":"「…勘弁してくれ。\n　せっかく収まってた持病が再発しちまうぜ」","translation":"...Give me a break. My chronic condition only just settled down, and you're gonna make it flare up again.","id":"008858"}
+{"text":"「で、俺の身体はともかく、\n　ブラスタはどうなんだ？」","translation":"Anyway, never mind my body. How's Brasta?","id":"0088A0"}
+{"text":"「残念だが、ワシ達では完全には修理は出来ん。\n　開発者でもなければ、無理だろうな」","translation":"I'm afraid we can't repair it completely. Unless you're the developer, it's probably impossible.","id":"0088E0"}
+{"text":"「心配するな、$n。\n　$cはエルガン代表に\n　呼ばれてるんだ」","translation":"Don't worry, $n. $c's been summoned by Representative Elgan.","id":"008938"}
+{"text":"「そういう事でして、\n　今、我々はブリタニア・ユニオンに\n　向かっております」","translation":"That's right. Right now, we're heading for the Britannia Union.","id":"008978"}
+{"text":"「つまり、スコート・ラボにも寄れる…。\n　ブラスタの修理をチーフに頼めるってわけか」","translation":"So that means we can stop by Scott Lab too... and ask the Chief to repair Brasta.","id":"0089D0"}
+{"text":"「チーフって…\n　ブラスタを開発した女博士よね」","translation":"Chief... you mean the woman doctor who developed Brasta, right?","id":"008A28"}
+{"text":"「何度も話に出てるが、\n　ちゃんと顔を見た事はないな。\n　…美人か？」","translation":"I've heard her mentioned plenty of times, but I've never actually seen her face. ...Is she pretty?","id":"008A60"}
+{"text":"「ああ…。\n　色々とがっかりなベッピンさんだよ」","translation":"Yeah... she's a beauty, but a disappointment in a lot of ways.","id":"008AB0"}
+{"text":"「減らず口ってのは、死ななきゃ\n　治らないみたいだな」","translation":"Looks like that smart mouth of yours won't be cured till you're dead.","id":"008AE8"}
+{"text":"「すまん、すまん。\n　見舞いに来てくれた事は感謝してるって」","translation":"Sorry, sorry. I really am grateful you came to visit me.","id":"008B30"}
+{"text":"「しかし、あのインペリウムの騎士の\n　力自慢の的になるとは、\n　つくづく貧乏クジ役だな」","translation":"Still, ending up as the target for that Imperium knight to show off his strength... you really do draw the short straw.","id":"008B70"}
+{"text":"「だからって、いつまでもトレミーの\n　医療ベッドを占拠されてると困るんだよね」","translation":"Even so, we can't have you hogging one of the Ptolemy's medical beds forever.","id":"008BD8"}
+{"text":"「お前って…時々厳しいね」","translation":"You can be pretty harsh sometimes...","id":"008C30"}
+{"text":"「いつも厳しいのがご希望だったら、\n　くららさんなんていかが？」","translation":"If you want someone who's always harsh, how about Kurara?","id":"008C50"}
+{"text":"「あら？　葵さんもなかなかのものよ」","translation":"Oh? Aoi-san's no slouch in that department either.","id":"008C98"}
+{"text":"「頼むから、俺の女嫌いを加速させないでくれ。\n　こういう時は白衣の天使ってのが\n　相場じゃないのか？」","translation":"Please, don't make me hate women even more. At a time like this, shouldn't there be a white-clad angel around?","id":"008CC8"}
+{"text":"「無茶言うんじゃねえよ」","translation":"Don't be ridiculous.","id":"008D30"}
+{"text":"「お前の場合は荒療治がお似合いだ」","translation":"In your case, rough treatment suits you just fine.","id":"008D50"}
+{"text":"「お前等のどアップはゲップが出る程、荒いが\n　とても治療にはならねえ」","translation":"Seeing your mugs up close is enough to make me sick, and it sure as hell doesn't count as treatment.","id":"008D78"}
+{"text":"「それだけ元気なら、もう大丈夫ね。\n　さ…ベッドを空けてもらうわよ」","translation":"If you've got that much energy, then you're fine now. Come on... vacate the bed.","id":"008DC8"}
+{"text":"「はいよ。\n　出来れば、もう２、３日、寝ていたかったが、\n　そうも言ってられないようだ」","translation":"Sure thing. If possible, I'd have liked to stay in bed another two or three days, but I guess that's not happening.","id":"008E18"}
+{"text":"「あ…ベッドの使用費は\n　給料から天引きしておくから」","translation":"Oh, and I'll be deducting the bed fee from your pay.","id":"008E78"}
+{"text":"「…そんな事になるんなら、\n　もう少し早く起こして欲しかったぜ」","translation":"...If that's how it was gonna be, you should've woken me up a little earlier.","id":"008EB8"}
+{"text":"「文句を言いなさんな。\n　瀕死の重傷だったのは事実だったんだ」","translation":"Quit complaining. It's a fact you were critically injured.","id":"008F00"}
+{"text":"「で、ブラスタの方は？」","translation":"So, how's Brasta?","id":"008F50"}
+{"text":"「イアンさんの話では、\n　一通りの修理は終わったけれど、\n　完全に元通りとはいかなかったそうだよ」","translation":"According to Ian, the basic repairs are finished, but it hasn't been completely restored to its original state.","id":"008F70"}
+{"text":"「あそこまでダメージを受けましたからね。\n　開発元でなければ、完全な修理は無理でしょう」","translation":"It took that much damage, after all. Unless it's the original developer, a full repair is probably impossible.","id":"008FE0"}
+{"text":"「参ったな…。\n　騙し騙しでやるしかねえのか…」","translation":"Damn... I guess I'll just have to make do with it as is...","id":"009048"}
+{"text":"「心配すんな。\n　ラッキーな事に俺達は今、\n　ブリタニア・ユニオンへ向かってるんだ」","translation":"Don't worry. As luck would have it, we're headed to the Britannia Union right now.","id":"009080"}
+{"text":"「エルガン代表に呼ばれたのよ。\n　今後の事を検討するためにってね」","translation":"Representative Elgan called us. He wants to discuss what we'll do from here on out.","id":"0090D8"}
+{"text":"「って事は、スコート・ラボに寄って\n　チーフに修理を頼めるってわけか」","translation":"So that means we can stop by Scott Lab and ask the Chief to handle the repairs?","id":"009128"}
+{"text":"「お前のブラスタの開発者か」","translation":"The one who developed your Brasta, huh?","id":"009178"}
+{"text":"「そう言えば、何度も話には出てるが、\n　まともに顔を見るのは初めてだな。\n　…美人か？」","translation":"Come to think of it, I've heard about her plenty, but this'll be my first time seeing her properly. ...Is she pretty?","id":"0091A0"}
+{"text":"「お前等のどアップはお釣りが来る程、荒いが\n　とても治療にはならねえ」","translation":"Seeing your mugs up close is rough enough to more than make up for it, but it sure as hell doesn't count as treatment.","id":"009208"}
+{"text":"「…どうした、雁首揃えてよ？」","translation":"...What's with all of you gathered here?","id":"009258"}
+{"text":"「何て言い草だ、てめえは！\n　せっかく見舞いに来てやったってのによ！」","translation":"What kind of way is that to talk, you bastard! We came all this way to visit you!","id":"009280"}
+{"text":"「すまん、すまん。\n　本当は感謝してるって、マジで」","translation":"Sorry, sorry. I really am grateful, I mean it.","id":"0092D0"}
+{"text":"「でも、よかったよ。\n　何とか無事のようで」","translation":"Still, I'm glad. Looks like you pulled through somehow.","id":"009308"}
+{"text":"「減らず口の方もついでに治ってりゃ\n　よかったんだけどな」","translation":"Would've been nice if your smart mouth had healed up too.","id":"009338"}
+{"text":"「しかし、あのインペリウムの騎士の\n　力自慢の的になるとは、\n　つくづく貧乏クジ役だぜ」","translation":"Still, ending up as the target for that strength-boasting Imperium knight... you really do draw the short straw.","id":"009380"}
+{"text":"「さてと…。\n　もう少しゆっくりしたかったんだが、\n　そろそろ起きないとな」","translation":"Well then... I would've liked to take it easy a little longer, but it's about time I got up.","id":"0093E0"}
+{"text":"「インペリウムの事が気になるんですね」","translation":"You're worried about the Imperium, aren't you?","id":"009430"}
+{"text":"「いや…借金返済の方だ」","translation":"No... I'm more worried about paying back my debt.","id":"009460"}
+{"text":"「はあ…」","translation":"Oh dear...","id":"009480"}
+{"text":"「そんな目で見るなよ、カトル。\n　お前にまで呆れられると\n　さすがに俺も厳しい」","translation":"Don't look at me like that, Quatre. If even you get fed up with me, I'm really in trouble.","id":"009498"}
+{"text":"「仕方ないんじゃない？\n　世界の危機に小さい事を言ってるから」","translation":"Can you blame him? You're talking small potatoes in the middle of a world crisis.","id":"0094F0"}
+{"text":"「前にも言ったかも知れないが、\n　戦う理由は人それぞれで、\n　大きい小さいは関係ないのさ」","translation":"I may have said this before, but everyone has their own reasons for fighting. Big or small, it doesn't matter.","id":"009538"}
+{"text":"「俺はこれでも平和と自由を愛するからな。\n　インペリウムを倒して平和を、\n　借金を返済して自由を手に入れるつもりだ」","translation":"I do love peace and freedom, you know. I'll bring peace by defeating the Imperium, and freedom by paying off my debts.","id":"009598"}
+{"text":"「しっかりしてらっしゃるんですね、\n　$nさん」","translation":"You're quite dependable, $n.","id":"009610"}
+{"text":"「騙されるな。\n　こういうヘラヘラした男は最後の最後で\n　自分の利をとる」","translation":"Don't be fooled. Guys who grin like that always look out for themselves in the end.","id":"009648"}
+{"text":"「そんな選択をしなきゃならない\n　最後の最後の時ってのが来ないのを\n　祈るとするか」","translation":"Let's just pray we never reach the point where we have to make that kind of choice at the very end.","id":"009698"}
+{"text":"「で、俺のブラスタは？」","translation":"So, what about my Brasta?","id":"0096F0"}
+{"text":"「あのロイドって人まで動員して\n　修理をしたけれど、完全に元通りには\n　ならなかったそうだ」","translation":"They even brought in that Lloyd guy to help with the repairs, but apparently it still couldn't be fully restored.","id":"009710"}
+{"text":"「これ以上は開発元に送るしかないって」","translation":"They said there's nothing more they can do except send it back to the developer.","id":"009770"}
+{"text":"「参ったな…。\n　騙し騙しでいくしかないか」","translation":"Damn... Guess I'll just have to keep it going with patchwork fixes.","id":"0097A0"}
+{"text":"「そうでもないぜ、$n。\n　あんた、ツイてるな」","translation":"Not necessarily, $n. You're in luck.","id":"0097D0"}
+{"text":"「俺達はエルガン代表に呼ばれて、\n　ブリタニア・ユニオンへ向かっているんだ」","translation":"We've been summoned by Representative Elgan, and we're on our way to the Britannia Union.","id":"009808"}
+{"text":"「つまり、スコート・ラボによって\n　チーフに修理を頼めるってわけか」","translation":"So that means I can ask the Chief at Scott Lab to repair it, huh?","id":"009858"}
+{"text":"「スコート・ラボ…。\n　ブラスタが生まれた場所ね」","translation":"Scott Lab... That's where the Brasta was born.","id":"0098A0"}
+{"text":"「なあ、そのチーフって女博士なんだろ？\n　美人なのか？」","translation":"Hey, that Chief is a lady scientist, right? Is she pretty?","id":"0098E0"}
+{"text":"黒ベタ","translation":"Black screen","id":"009920"}
+{"text":"輸送機","translation":"Transport plane","id":"009928"}
+{"text":"　\n　\n　　　　　～スコート・ラボ　格納庫～","translation":"~Scott Lab Hangar~","id":"009930"}
+{"text":"「$n！」","translation":"$n!","id":"009960"}
+{"text":"「…すまんな、チーフ。\n　心配かけたみたいで…」","translation":"...Sorry, Chief. Looks like I made you worry.","id":"009978"}
+{"text":"「バカ…」","translation":"Idiot...","id":"0099B0"}
+{"text":"「チーフ…」","translation":"Chief...","id":"0099C8"}
+{"text":"「バカバカバカバカ…」","translation":"Idiot, idiot, idiot, idiot...","id":"0099D8"}
+{"text":"「ド阿呆、ド下手、ド間抜け！\n　ド愚図、ド無能、ド鈍足！！\n　ド借金持ち、ド格好つけ、ド風来坊！！」","translation":"You big idiot, lousy pilot, total moron! Lazy bum, useless hack, slowpoke!! Debt-ridden show-off drifter!!","id":"0099F8"}
+{"text":"「へ…」","translation":"Heh...","id":"009A68"}
+{"text":"「よくもブラスタをぶっ壊してくれたね！\n　覚悟はいいだろうな、$n！」","translation":"How dare you wreck the Brasta! You'd better be ready for this, $n!","id":"009A78"}
+{"text":"「…やっぱり、こうなるか…」","translation":"...Yeah, I figured this would happen...","id":"009AC8"}
+{"text":"「よかったよ、単独行動にしてもらって。\n　美人って噂のチーフの\n　こんな姿を見せなくて済んだ」","translation":"I'm glad they had me come alone. At least nobody else had to see the supposedly beautiful Chief like this.","id":"009AE8"}
+{"text":"「やだ…！　もう…何言ってんのよ！」","translation":"Oh, stop...! Jeez, what are you saying?!","id":"009B48"}
+{"text":"「…何て言うわきゃねえだろうが！\n　そんなのに誤魔化される程、\n　甘かねえんだよ、おら！」","translation":"...Like hell I'd say that! You think I'd be fooled by something like that? I'm not that soft, damn it!","id":"009B78"}
+{"text":"「ごもっともで…」","translation":"Fair enough...","id":"009BE0"}
+{"text":"「しかし、ここのラボも随分と寂れたな…。\n　前はもっと人もいたのに…」","translation":"Still, this lab's gotten pretty run-down... There used to be more people here...","id":"009BF8"}
+{"text":"「仕方ないさね。\n　うちはアクシオンの中でも\n　冷や飯食いの立場だから」","translation":"Can't be helped. Even within Axion, we're treated like unwanted stepchildren.","id":"009C48"}
+{"text":"「今じゃ世界中の鼻つまみ者のアクシオンに\n　意趣返しをしたい連中にとっちゃ、\n　ここは格好の標的になりつつある」","translation":"Now that Axion's hated all over the world, this place is becoming a prime target for people looking to settle scores.","id":"009C98"}
+{"text":"「何かやられたのか？」","translation":"Did something happen here?","id":"009D10"}
+{"text":"「いや…対襲撃者用にメーザーバリアと\n　護衛バイオビーストと指向性殺人ナノマシンを\n　用意したら、スタッフが逃げ出した」","translation":"No... I set up a maser barrier, guard biobeasts, and killing nanomachines for attackers, and the staff ran off.","id":"009D30"}
+{"text":"「そりゃ身内もドン引きだろうな…。\n　自業自得ってやつだ」","translation":"Yeah, no wonder even your own people were horrified... You brought that on yourself.","id":"009DB0"}
+{"text":"「こんなご時勢だからね…。\n　アクシオンの看板の下で働かないで済むなら、\n　その方がいい」","translation":"That's just the kind of times we're living in... If they can avoid working under the Axion banner, they'd rather do that.","id":"009DF0"}
+{"text":"「チーフは逃げ出さないのか？」","translation":"Aren't you going to run too, Chief?","id":"009E58"}
+{"text":"「私はブラスタを完成させるって目的がある。\n　それにＶＸの謎を解明し、カルロスの奴に\n　突きつけてやらなきゃならないからね」","translation":"I have a goal: to complete the Brasta. Besides, I have to unravel the mystery of VX and shove the truth in Carlos's face.","id":"009E80"}
+{"text":"「相変わらず、派手に屈折してるな、\n　あんたらは…」","translation":"You two are still spectacularly twisted, as ever...","id":"009F08"}
+{"text":"「で、エスターは？」","translation":"So, where's Esther?","id":"009F40"}
+{"text":"「さすがに引きこもりは脱したよ。\n　私の研究を手伝ってくれてる」","translation":"She finally got over being a shut-in. She's helping with my research now.","id":"009F58"}
+{"text":"「ただ殺気は今まで以上だ。\n　側にいる私が怖いぐらいだからね」","translation":"But her killing intent is stronger than ever. Even I get scared being around her.","id":"009FA8"}
+{"text":"「あいつも行く所がないしな…」","translation":"She doesn't have anywhere else to go either...","id":"009FF0"}
+{"text":"「あんたには会いたくないそうだ。\n　今は部屋にいるよ」","translation":"She says she doesn't want to see you. She's in her room right now.","id":"00A018"}
+{"text":"「そうか…」","translation":"I see...","id":"00A058"}
+{"text":"「それでだ…$n…\n　こんな時に何だが、あんたの査定だ…」","translation":"And so...$n... Sorry to bring this up at a time like this, but here's your assessment...","id":"00A068"}
+{"text":"「報酬額は５０万Ｇ。\n　借金を返して、１万Ｇのお釣りだ」","translation":"Your reward is 500,000 G. After paying off your debt, you'll still have 10,000 G left over.","id":"00A0B0"}
+{"text":"「マジで！？」","translation":"Seriously!?","id":"00A0F8"}
+{"text":"「スタッフが減った分、\n　そっちに報酬を回せたのさ。\n　これであんたは晴れて自由の身だ」","translation":"With fewer staff, I could redirect that money to your pay. That means you're finally free and clear.","id":"00A110"}
+{"text":"「嬉しくないのかい？」","translation":"Aren't you happy?","id":"00A170"}
+{"text":"「なあ、チーフ…本当はあんた、\n　ラボを閉める気じゃないのか？」","translation":"Hey, Chief... you're really planning to shut the lab down, aren't you?","id":"00A190"}
+{"text":"「まさか…！」","translation":"No way...!","id":"00A1D8"}
+{"text":"「俺はこれでも人の生き死にを見てきた。\n　誤魔化しても無駄だぜ」","translation":"I've seen my share of people live and die. No point trying to hide it from me.","id":"00A1F0"}
+{"text":"「…降参だよ。\n　あんたの指摘通りさ」","translation":"...I give up. You were right.","id":"00A238"}
+{"text":"「このラボの経営は独立採算制だけど、\n　さすがに、この状況じゃね…」","translation":"This lab runs on an independent budget, but even so, in a situation like this...","id":"00A268"}
+{"text":"「私の意地もエスターの怒りも\n　金の力の前には沈黙だ」","translation":"My pride and Esther's anger both fall silent before the power of money.","id":"00A2B8"}
+{"text":"「せっかく設計したブラスタの新装備も\n　夢に終わったよ」","translation":"Even the new equipment I designed for Brasta ended up as nothing but a dream.","id":"00A2F8"}
+{"text":"「チーフ…俺の金を使えよ」","translation":"Chief... use my money.","id":"00A340"}
+{"text":"「え…」","translation":"Huh...?","id":"00A360"}
+{"text":"「俺はエスターに会ってくる。\n　頼んだぜ」","translation":"I'll go see Esther. I'm counting on you.","id":"00A378"}
+{"text":"「随分と優しいじゃないのさ。\n　あの子は特別なのかい？」","translation":"You're awfully kind. Is that girl special to you?","id":"00A3A8"}
+{"text":"「まあな。\n　…言っておくが、女嫌いが治ったわけじゃ\n　ないぜ」","translation":"Yeah. ...But don't get me wrong, it's not like I've gotten over hating women.","id":"00A3F0"}
+{"text":"「プロメテウス・エクスペリメント…」","translation":"The Prometheus Experiment...","id":"00A438"}
+{"text":"「…！」","translation":"...!","id":"00A468"}
+{"text":"「その罪滅ぼしってわけかい？」","translation":"So this is your way of making up for it?","id":"00A478"}
+{"text":"「かもな…」","translation":"Maybe...","id":"00A4A0"}
+{"text":"「わかったよ。\n　ブラスタの事は任せておきな」","translation":"Got it. Leave Brasta to me.","id":"00A4B0"}
+{"text":"個室","translation":"Private room","id":"00A4E8"}
+{"text":"　\n　　\n　　　　　　～スコート・ラボ　個室～","translation":"~Scott Lab Private Room~","id":"00A4F0"}
+{"text":"「…邪魔するぜ、エスター」","translation":"...Sorry to barge in, Esther.","id":"00A520"}
+{"text":"「女の部屋に勝手に入ってくんじゃねえ！」","translation":"Don't just barge into a girl's room without permission!","id":"00A540"}
+{"text":"「心配するな。\n　俺の女嫌いは絶賛継続中だ」","translation":"Don't worry. My hatred of women is still going strong.","id":"00A578"}
+{"text":"「嘘つきタレ目野郎が…！\n　お前の言葉なんざ信じられるかよ！」","translation":"You lying, droopy-eyed bastard...! Like hell I'd believe a word you say!","id":"00A5A8"}
+{"text":"「今すぐ、そのよく動くベロを引き抜いて、\n　バイオビーストのオヤツにしてやりたいぜ！」","translation":"I'd love to rip out that loose tongue of yours right now and feed it to the Bio Beast!","id":"00A5F0"}
+{"text":"「荒れてるな…。\n　ま…無理もないか」","translation":"You're really worked up... Well, can't say I blame you.","id":"00A650"}
+{"text":"「言い訳しないのかよ…？\n　俺は嘘つきじゃないって」","translation":"Aren't you even going to make excuses...? Say you're not a liar.","id":"00A680"}
+{"text":"「俺がお前との契約…\n　ＭＤ打倒を果たしていないのは事実だからな」","translation":"The fact is, I haven't fulfilled my contract with you... I haven't defeated MD.","id":"00A6C0"}
+{"text":"「どうこう言うより前に\n　奴を倒してみせるのが、一番手っ取り早い」","translation":"Rather than talk about it, the quickest way is to prove it by beating him.","id":"00A708"}
+{"text":"「お前…まだ諦めてないのか？」","translation":"You... you still haven't given up?","id":"00A750"}
+{"text":"「諦める理由がどこにある？」","translation":"Why would I give up?","id":"00A778"}
+{"text":"「奴はインペリウムなんだぞ！\n　事はもうＭＤだけの問題じゃない！」","translation":"He's Imperium! This isn't just about MD anymore!","id":"00A798"}
+{"text":"「父さんや母さん、先生や友達の仇のＭＤを\n　あたしは憎んだけど、本当に憎むべきは\n　インペリウムだ…！」","translation":"I hated MD for killing my dad, my mom, my teachers, and my friends, but the ones I really should hate are Imperium...!","id":"00A7E8"}
+{"text":"「でも、あんな奴等に勝つなんて無理だ！\n　無理なんだよ！」","translation":"But there's no way we can beat those guys! No way!","id":"00A858"}
+{"text":"「…仕方ねえな」","translation":"...Guess I've got no choice.","id":"00A8A0"}
+{"text":"「何がだよ！」","translation":"What the hell's that supposed to mean!?","id":"00A8B8"}
+{"text":"「契約遂行が遅れてる詫びだ。\n　お前に魔法を教えてやる」","translation":"Call it an apology for taking so long to fulfill our contract. I'll teach you some magic.","id":"00A8D0"}
+{"text":"「…それがどうした？」","translation":"...And how's that supposed to help?","id":"00A910"}
+{"text":"「え…」","translation":"Huh...?","id":"00A930"}
+{"text":"「これから先、どんな壁にぶつかっても\n　こいつがあれば乗り越えられる」","translation":"No matter what wall you run into from here on out, this will help you get over it.","id":"00A948"}
+{"text":"「インペリウムだけじゃねえ。\n　お前の心を曲げようとする奴等全てに\n　そう言ってやれ」","translation":"Not just Imperium. Say that to anyone who tries to break your spirit.","id":"00A998"}
+{"text":"「それがどうした…ってな」","translation":"Tell them, \"So what?\"","id":"00A9F0"}
+{"text":"「ふざけるな！\n　そんなものが何の役に立つ！」","translation":"Don't be ridiculous! What good would something like that do?!","id":"00AA10"}
+{"text":"「お前は状況がわかってるのかよ！\n　相手は国を一つ丸ごと焼き払うような\n　連中なんだぞ！」","translation":"Do you even understand the situation?! They're the kind of people who'd burn an entire country to the ground!","id":"00AA48"}
+{"text":"「それがどうした？」","translation":"So what?","id":"00AAB0"}
+{"text":"「ムカつく野郎だな！\n　今すぐあたしの前から消えろ！」","translation":"You really piss me off! Get out of my sight right now!","id":"00AAC8"}
+{"text":"「…お前が俺をどう思おうが構わない。\n　嘘つき野郎と呼ぶ事も含めてな」","translation":"...I don't care what you think of me. That includes calling me a liar.","id":"00AB08"}
+{"text":"「俺は俺の好きにやる。\n　…だが、約束は果たす…。\n　それが俺の主義なんでな」","translation":"I'll do things my way. ...But I keep my promises... That's my code.","id":"00AB58"}
+{"text":"「消えちまえよ！！」","translation":"Just disappear!!","id":"00ABA8"}
+{"text":"「緊急事態発生の警報…！」","translation":"An emergency alert...!","id":"00ABC8"}
+{"text":"「ちっ…単独行動が裏目に出ちまったかも\n　知れねえな…」","translation":"Tch... Maybe going off on my own was a bad move after all...","id":"00ABF0"}
+{"text":"格納庫","translation":"Hangar","id":"00D650"}
+{"text":"「…ＶＸが解明できたわけじゃないって？」","translation":"...You mean you still haven't figured out VX?","id":"00D658"}
+{"text":"「正直に話すよ。\n　ＳＰＩＧＯＴは、あれの理論上の出力値を\n　見越して設計したんだけど…」","translation":"I'll be honest. SPIGOT was designed with that thing's theoretical output in mind, but...","id":"00D688"}
+{"text":"「結局、ＶＸを外部からの信号で\n　フル稼働させる事は出来なかったのさ」","translation":"In the end, we couldn't get VX to run at full power from an external signal.","id":"00D6F0"}
+{"text":"「じゃあ、今日の戦闘はどう説明する？」","translation":"Then how do you explain today's battle?","id":"00D740"}
+{"text":"「ほとばしる$nの怒りの電流が\n　眠れるＶＸを目覚めさせた！」","translation":"The surging current of $n's rage awakened the sleeping VX!","id":"00D770"}
+{"text":"「…あのよ、チーフ…\n　疲れてるなら、少し休め」","translation":"...Hey, Chief... If you're tired, get some rest.","id":"00D7B8"}
+{"text":"「何だったら、温泉でも行くか？\n　俺も最大限のサービスで肩ぐらい揉むぜ」","translation":"If you want, how about we hit the hot springs? I'll even give your shoulders a top-notch massage.","id":"00D7F0"}
+{"text":"「いやさ…さすがの私も\n　さっきの説明で納得してくれるとは\n　思ってないって」","translation":"Come on... even I don't think you'd buy that explanation I just gave.","id":"00D840"}
+{"text":"「だが、ＶＸの起動については\n　一種の脳量子コミュニケーター的なものが\n　使用されていると踏んでいる」","translation":"But as for VX's activation, I suspect some kind of brain-quantum communicator was used.","id":"00D898"}
+{"text":"「脳量子って…オカルトでもあるまい」","translation":"Brain quantum...? What is this, the occult?","id":"00D908"}
+{"text":"「馬鹿には出来ないよ。\n　噂じゃ人革連は兵器に応用するために\n　本気で研究してるって話だ」","translation":"Don't dismiss it so easily. Rumor has it the Human Reform League is seriously researching it for military applications.","id":"00D930"}
+{"text":"「つまり、何か…俺の何らかの精神状態が\n　ＶＸのスターターになったと？」","translation":"So you're saying... some kind of mental state of mine acted as VX's starter?","id":"00D998"}
+{"text":"「ご名答。\n　…って信じられないって顔してるね」","translation":"Exactly right. ...You look like you don't believe me.","id":"00D9E8"}
+{"text":"「まあな…。\n　だが、現実に起きちまった事だ。\n　受け止めるしかないさ」","translation":"Yeah... But it really happened. All I can do is accept it.","id":"00DA28"}
+{"text":"「結局、ＶＸはまだまだ研究が必要だ。\n　ブラスタの完成も時間がかかりそうだね」","translation":"In the end, VX still needs a lot more research. Looks like it'll take time to finish Brasta too.","id":"00DA78"}
+{"text":"「新兵器の装備で終わりじゃないのか？」","translation":"So it's not just a matter of equipping a new weapon?","id":"00DAD0"}
+{"text":"「何言ってるのさ。\n　次元獣はＭＤのライノダモン級の上に\n　ディノダモン級もいるんだよ」","translation":"What are you talking about? There are Dimensional Beasts above the MD Rhino DAMON class, like the Dino DAMON class.","id":"00DB00"}
+{"text":"「リモネシアでの映像を見る限り、\n　さらにその上もいるんだ。\n　戦闘力は、もっとアップさせなくちゃね」","translation":"And judging from the footage from Remonesia, there are even stronger ones beyond that. We need more combat power.","id":"00DB60"}
+{"text":"「その事なんだけどよ、チーフ…」","translation":"About that, Chief...","id":"00DBD0"}
+{"text":"「俺…テストパイロットを続けるぜ」","translation":"I'm... staying on as a test pilot.","id":"00DBF8"}
+{"text":"「$n…あんた…」","translation":"$n... you...","id":"00DC20"}
+{"text":"「フ…何も言うな。\n　俺は自分の意思でブラスタのパイロットを\n　続ける道を選んだんだ」","translation":"Heh... Don't say anything. I chose of my own free will to keep piloting Brasta.","id":"00DC40"}
+{"text":"「今日から俺は、自由な修羅だ」","translation":"Starting today, I'm a free man.","id":"00DC98"}
+{"text":"「何が自由だよ？\n　あんたのどこにそんなものがあんのさ？」","translation":"What do you mean, free? Where in you is there anything like that?","id":"00DCC0"}
+{"text":"「へ…？」","translation":"Huh...?","id":"00DD08"}
+{"text":"「今、計算してやるよ…。\n　あんたの借金額は…」","translation":"I'll do the math for you... Your debt is...","id":"00DD18"}
+{"text":"「１９９万Ｇだ」","translation":"1,990,000 G.","id":"00DD58"}
+{"text":"「ひゃくきゅうじゅうきゅうまんんんんっ！」","translation":"One million nine hundred ninety thousaaaaand!?","id":"00DD78"}
+{"text":"「それじゃ最初の借金の２倍近くじゃねえか！\n　何がどうなってんだ、こりゃ！？」","translation":"That's almost double my original debt! What the hell happened here!?","id":"00DDA8"}
+{"text":"「落ち着きなって。\n　ブラスタの修理と改修の費用だよ」","translation":"Calm down. That's the cost of repairing and upgrading Brasta.","id":"00DE00"}
+{"text":"「あんたが俺の金を使えって言ったから、\n　それに甘えさせてもらったよ」","translation":"You told me to use your money, so I took you up on that.","id":"00DE40"}
+{"text":"「それは…借金返済のお釣りの１万Ｇで…！」","translation":"That was... the 10,000 G left over after paying off my debt...!","id":"00DE90"}
+{"text":"「冗談はタレ目と足の長さだけにしておくれよ！\n　たった１万Ｇで何が出来るって言うのさ！」","translation":"Save the jokes for your droopy eyes and long legs! What do you think 10,000 G can even do!?","id":"00DEC0"}
+{"text":"「ブラスタの改修費用、２００万Ｇ…。\n　そこからあんたの貯金の１万Ｇを引いて\n　締めて１９９万Ｇ」","translation":"Brasta's upgrade costs: 2,000,000 G... Minus your 10,000 G savings, for a total of 1,990,000 G.","id":"00DF28"}
+{"text":"「それがあんたの新たな借金の額だ」","translation":"That's your new debt.","id":"00DF98"}
+{"text":"「あ…あいあういあ、うあああええ」","translation":"A... ah... wha... waaah...","id":"00DFC8"}
+{"text":"「開いた口が塞がらねえ…ね。\n　同情しちゃうよ」","translation":"You're so stunned you can't even close your mouth, huh? I almost feel sorry for you.","id":"00DFF0"}
+{"text":"「どこの口から、その台詞が出んだよ！？」","translation":"Who are you to say that!?","id":"00E030"}
+{"text":"「心配するな、$n。\n　もっと借金は少ないよ」","translation":"Don't worry, $n. Your debt's a little smaller than that.","id":"00E060"}
+{"text":"「あ…そうだった。\n　ＭＤを倒したから報酬の１０Ｇ引いとくね」","translation":"Ah... right. Since you defeated the MD, I'll subtract the 10 G reward.","id":"00E098"}
+{"text":"「借金の総額は１９８万９９９０Ｇだよ」","translation":"Your total debt is 1,989,990 G.","id":"00E0E0"}
+{"text":"「もう…何も言う気がねえ…」","translation":"I've got nothing left to say...","id":"00E110"}
+{"text":"「何も言う気がないんなら、\n　あたしの話を聞けよ」","translation":"If you've got nothing to say, then listen to me.","id":"00E130"}
+{"text":"「そのよ…ありがとな…」","translation":"Um... thanks...","id":"00E170"}
+{"text":"「フ…礼なんて…」","translation":"Heh... no need to thank me...","id":"00E198"}
+{"text":"「黙って聞け！」","translation":"Shut up and listen!","id":"00E1B0"}
+{"text":"「はいっ！」","translation":"Y-Yes, ma'am!","id":"00E1D0"}
+{"text":"「そのさ…あたし…\n　もう全てを諦めてたんだよ…」","translation":"You know... I'd already given up on everything...","id":"00E1E0"}
+{"text":"「ＭＤを倒す事も…生きていく事も…」","translation":"On defeating the MD... and on going on living...","id":"00E220"}
+{"text":"「だけど、あんたはやってくれた…。\n　あんたはへらへらしてるようだけど、\n　絶対に折れない芯がある」","translation":"But you did it... You may act all goofy, but deep down you've got a core that never breaks.","id":"00E250"}
+{"text":"「あんたは最高の男だよ。\n　あたしは…」","translation":"You're the best man there is. I...","id":"00E2C0"}
+{"text":"「いや…」","translation":"No...","id":"00E2F8"}
+{"text":"「黙って聞けって言ってんだろ！\n　殺すぞ！」","translation":"I told you to shut up and listen! I'll kill you!","id":"00E308"}
+{"text":"「ひ！」","translation":"Eek!","id":"00E340"}
+{"text":"「…ありがとな、$n…。\n　あたし…もっと頑張ってみるよ」","translation":"...Thanks, $n... I'm gonna try harder too.","id":"00E350"}
+{"text":"「以上、終わり！\n　もうしゃべっていいぞ！」","translation":"That's all! You can talk now!","id":"00E398"}
+{"text":"「ふう…開いた口が塞がらない次は\n　閉じた口を開けないとはな…」","translation":"Whew... first I was left speechless, and now I can't even open my mouth...","id":"00E3D0"}
+{"text":"「で、エスター…ＭＤは倒したけど、\n　これからお前はどうする気だ？」","translation":"So, Esther... we beat the MD, but what are you going to do now?","id":"00E418"}
+{"text":"「わかんない…。\n　でも、チーフがいいって言うなら、\n　このままラボで働くつもりだ」","translation":"I don't know... But if the Chief says it's okay, I plan to keep working here at the lab.","id":"00E460"}
+{"text":"「歓迎するよ、エスター。\n　見ての通り、ここも人手不足だからね」","translation":"You're welcome here, Esther. As you can see, we're short-handed too.","id":"00E4C0"}
+{"text":"「いいの？」","translation":"Really?","id":"00E510"}
+{"text":"「言っておくが、給料はあんまり出せないよ」","translation":"Just so you know, we can't pay much.","id":"00E528"}
+{"text":"「これは謙遜やギャグじゃなく、マジだぜ」","translation":"And that's not false modesty or a joke. I'm dead serious.","id":"00E560"}
+{"text":"「るせえな！\n　あたしはあんたと違って、\n　金のために働くんじゃねえんだよ！」","translation":"Shut up! Unlike you, I don't work for the money!","id":"00E590"}
+{"text":"「そんだけ強気なんだから、\n　テストパイロットでもやったら、どうだ？」","translation":"Since you're so bold, why not try being a test pilot?","id":"00E5E8"}
+{"text":"「お前…ブラスタを一瞬だけど操縦したろ？\n　なかなか出来るもんじゃないぜ」","translation":"You did pilot the Brasta for a moment, didn't you? That's not something just anyone can do.","id":"00E638"}
+{"text":"「あたしがテストパイロット…」","translation":"Me, a test pilot...","id":"00E688"}
+{"text":"「う～ん…でもね…\n　あれって誰でも出来るもんじゃないのよねぇ」","translation":"Hmm~... but, you know... that's not something just anybody can do.","id":"00E6B0"}
+{"text":"「そっか…」","translation":"I see...","id":"00E700"}
+{"text":"「違うだろ、エスター？」","translation":"That's not it, is it, Esther?","id":"00E718"}
+{"text":"「あ…」","translation":"Ah...","id":"00E738"}
+{"text":"「それにテストパイロットって\n　かなりキツいし…」","translation":"Besides, being a test pilot is pretty tough...","id":"00E750"}
+{"text":"「…れがど…」","translation":"...So what if it is...","id":"00E790"}
+{"text":"「何か言った？」","translation":"Did you say something?","id":"00E7A8"}
+{"text":"「それがどうした！？」","translation":"So what if it is?!","id":"00E7C8"}
+{"text":"「は…？」","translation":"Huh...?","id":"00E7E8"}
+{"text":"「あたし、やってみるよ、チーフ…！」","translation":"I'll do it, Chief...!","id":"00E800"}
+{"text":"「そりゃ…簡単じゃないってわかるけど、\n　やってみたいんだ！」","translation":"I know it won't be easy, but I want to try!","id":"00E830"}
+{"text":"「…ＯＫ。\n　そこまで言われりゃ、反対はしないさ」","translation":"...Okay. If you're that determined, I won't stop you.","id":"00E878"}
+{"text":"「だけど、一度でも弱音を吐いたら、\n　そこでクビだよ」","translation":"But if you complain even once, you're fired on the spot.","id":"00E8B8"}
+{"text":"「はい！」","translation":"Yes!","id":"00E8F8"}
+{"text":"「んじゃ、元祖テストパイロットは\n　戦場の荒野に再び旅立つとすっか…」","translation":"All right then, the original test pilot sets out once more for the battlefield...","id":"00E910"}
+{"text":"「たっぷりデータを集めといで。\n　今までの２倍くらいね」","translation":"Go gather plenty of data. About twice as much as before.","id":"00E960"}
+{"text":"「それを色んな所に売って、\n　あんたの借金に当てるよ」","translation":"We'll sell it all over the place and put it toward your debt.","id":"00E9A8"}
+{"text":"「へいへい…。\n　遠い遠い自由と平和のために\n　頑張って戦ってきますよ」","translation":"Yeah, yeah... I'll go fight my hardest for that distant, distant freedom and peace.","id":"00E9E8"}
+{"text":"「死ぬなよ、$n」","translation":"Don't die, $n.","id":"00EA38"}
+{"text":"「お前もな。\n　頑張れよ、エスター」","translation":"You too. Do your best, Esther.","id":"00EA58"}
+{"text":"「うん！」","translation":"Yeah!","id":"00EA80"}
+{"text":"グレート・アクシオン　ブリッジ","translation":"Great Axion Bridge","id":"00EA98"}
+{"text":"　\n　\n　　　～グレート・アクシオン　ブリッジ～","translation":"~Great Axion Bridge~","id":"00EAB8"}
+{"text":"「マァァルグリィィットォォォォッ！！」","translation":"Maaargriiitt!!","id":"00EAE8"}
+{"text":"「それで貴様はおめおめと帰ってきたと\n　言うのか！？」","translation":"And you're telling me you shamelessly came crawling back after that?!","id":"00EB18"}
+{"text":"「…はい…」","translation":"...Yes...","id":"00EB58"}
+{"text":"「くぉのアークセイバーの面汚しめがぁぁっ！」","translation":"You disgrace to Ark Saber!","id":"00EB78"}
+{"text":"「貴様は、アイム殿のご恩に報いる気が\n　あるのか、あぁん！？」","translation":"Do you have any intention of repaying Lord Aim's kindness, huh!?","id":"00EBB0"}
+{"text":"「申し訳ございません、シュバル卿…」","translation":"My deepest apologies, Lord Cheval...","id":"00EBF8"}
+{"text":"「そこまでにしましょう、シュバル」","translation":"That is enough, Cheval.","id":"00EC30"}
+{"text":"「おお…アイム殿、ご無事でしたか！」","translation":"Oh... Lord Aim, you're safe!","id":"00EC60"}
+{"text":"「確かにマルグリットは機を逸したが、\n　いい働きをしてくれました」","translation":"It's true that Marguerite missed her chance, but she still served us well.","id":"00EC90"}
+{"text":"「それに免じて、今日のところは\n　彼女の罪を許しましょう」","translation":"In light of that, I shall forgive her transgression for today.","id":"00ECE0"}
+{"text":"「しかぁし！\n　ケジメというものがあります故にぃぃっ！」","translation":"But! There must still be consequences for her actions!","id":"00ED28"}
+{"text":"「許してあげましょう。\n　今日は彼女の弟が亡くなられたのですから」","translation":"Let us forgive her. After all, her younger brother died today.","id":"00ED70"}
+{"text":"「$F…。\n　弟さんを追っていた彼は\n　本懐を果たしたといったところでしょうね」","translation":"$F... The one who was pursuing her brother seems to have fulfilled his long-cherished desire.","id":"00EDC0"}
+{"text":"「あの子が…死んだ…」","translation":"That child... is dead...","id":"00EE18"}
+{"text":"「顔色が悪いですよ、マルグリット。\n　もう下がりなさい」","translation":"You look pale, Marguerite. Go and rest now.","id":"00EE40"}
+{"text":"「は…い…」","translation":"Y-yes...","id":"00EE80"}
+{"text":"（フフ…これでマルグリットは\n　彼を憎むようになるでしょう。\n　それは彼女を強くします）","translation":"Heh... Now Marguerite will come to hate him. That will make her stronger.","id":"00EEA0"}
+{"text":"（さあ、揺れる天秤…。\n　あなたは彼女をどうやって退けますかな？）","translation":"Now then, wavering scales... How will you drive her back, I wonder?","id":"00EF00"}
+{"text":"「で、アイム…$cは\n　どうするつもりなのさ？」","translation":"So, Aim... what are you planning to do about $c?","id":"00EF50"}
+{"text":"「当面は泳がせますよ。\n　それがガイオウ様の御意思でもありますしね」","translation":"For now, we'll let them run free. That is also Lord Gaioh's will.","id":"00EF88"}
+{"text":"「彼等の存在に希望を持った愚者が\n　インペリウムに挑んでくる…。\n　それこそが王の望みなのですから」","translation":"Fools who find hope in their existence will challenge the Imperium... That is precisely what the King desires.","id":"00EFD8"}
+{"text":"夜空","translation":"Night sky","id":"00F048"}
+{"text":"「シェーヌ…。\n　私のたった一人の弟…」","translation":"Chene... my one and only little brother...","id":"00F050"}
+{"text":"「ごめんなさい…。\n　私は、またお前を…守れなかった…」","translation":"I'm sorry... I couldn't protect you again...","id":"00F088"}
+{"text":"「ごめん…ごめんね…。\n　ダメなお姉ちゃんで…」","translation":"I'm sorry... I'm so sorry... for being such a useless big sister...","id":"00F0D0"}
+{"text":"「お姉ちゃんなのに…ごめんね…。\n　ごめんね、シェーヌ…」","translation":"Even though I'm your big sister... I'm sorry... I'm sorry, Chene...","id":"00F110"}
+{"text":"「もう…お姉ちゃん…\n　本当に…一人ぼっちになっちゃったよ…。\n　シェーヌ…ごめんね…シェーヌ…」","translation":"Now... your big sister... is truly all alone... Chene... I'm sorry... Chene...","id":"00F158"}

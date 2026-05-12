@@ -1,0 +1,371 @@
+{"text":"敵の全滅。","translation":"Defeat all enemies.","id":"000500"}
+{"text":"いずれかの味方ユニットの撃墜。","translation":"Any allied unit is shot down.","id":"000518"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"000538"}
+{"text":"６ターン味方フェイズ以内にマップをクリアする。","translation":"Clear the map within 6 player turns.","id":"000558"}
+{"text":"「フフフ…\n　さあ、バードス島に凱旋しようか」","translation":"Heh heh heh... Now then, let us make our triumphant return to Bardos Island.","id":"000938"}
+{"text":"「Ｄｒ．ヘルも、さぞお喜びになられるだろう」","translation":"Dr. Hell will no doubt be most pleased.","id":"000970"}
+{"text":"「な、何事だ！」","translation":"W-What is the meaning of this?!","id":"000A68"}
+{"text":"「申し上げます！\n　兜甲児とその仲間がマジンガーＺを奪い、\n　逃走しました！」","translation":"Reporting! Koji Kabuto and his companions stole Mazinger Z and escaped!","id":"000A88"}
+{"text":"「馬鹿な！\n　格納庫にはガミアＱ５がいたのだぞ！」","translation":"Impossible! Gamia Q5 was in the hangar!","id":"000AE0"}
+{"text":"「やるじゃねえか、兜ぉ！\n　殺人アンドロイドに完勝とはよ！」","translation":"Not bad, Kabuto! You beat that killer android fair and square!","id":"000C00"}
+{"text":"「何だと！？\n　人間がガミアに勝っただと！」","translation":"What?! A human defeated Gamia?!","id":"000C48"}
+{"text":"「見たか、あしゅら！\n　これも$cでの特訓の成果だ！」","translation":"See that, Ashura?! This is the result of my training at $c!","id":"000C80"}
+{"text":"「甲児君…竜馬さんやタケルを相手に\n　ずっとトレーニングしてたものね」","translation":"Koji... You've been training with Ryoma and Takeru all this time, after all.","id":"000CC0"}
+{"text":"「操縦は赤木さんとワッ太から、\n　格闘はタケルやゲッターチームから…」","translation":"I learned piloting from Akagi and Watta, and hand-to-hand combat from Takeru and the Getter Team...","id":"000D10"}
+{"text":"「俺が強くなれたのは、\n　$cのみんなのおかげだ！」","translation":"I got stronger thanks to everyone at $c!","id":"000D60"}
+{"text":"「ぬうう！\n　こうなれば、マジンガーの亡骸を\n　バードス島に届けるのみ！」","translation":"Grrr! If it has come to this, then all that's left is to deliver Mazinger's remains to Bardos Island!","id":"000D98"}
+{"text":"「兜甲児！\n　この海底要塞サルードで\n　貴様の相手をしてくれる！」","translation":"Koji Kabuto! I'll take you on here aboard the Submarine Fortress Saluud!","id":"000DF0"}
+{"text":"「さやか！\n　ボスを連れて、陸地へ逃げるんだ！」","translation":"Sayaka! Take Boss and escape to land!","id":"000E40"}
+{"text":"「でも、甲児君…！」","translation":"But, Koji...!","id":"000E78"}
+{"text":"「水中では俺達が不利だ！\n　マジンガーは、ここで奴を食い止める！」","translation":"We're at a disadvantage underwater! Mazinger will hold him off here!","id":"000E98"}
+{"text":"「わかったわ！\n　$cには救援を要請したから！」","translation":"Got it! I've already requested reinforcements from $c!","id":"000EE0"}
+{"text":"「来い、あしゅら！\n　ご自慢の海底要塞ごと、\n　この海に沈めてやる！」","translation":"Come on, Ashura! I'll send you and your prized submarine fortress to the bottom of the sea!","id":"000F18"}
+{"text":"「その強がり…どこまで続けられるかな！」","translation":"That bravado of yours... let's see how long it lasts!","id":"000F68"}
+{"text":"「フフフ、無敵と謳われたマジンガーＺも\n　水中では思うようには動けまい！」","translation":"Heh heh heh. Even Mazinger Z, said to be invincible, can't move as it pleases underwater!","id":"0011E0"}
+{"text":"「このサルードとグロッサムＸ２の\n　連携の前には成す術もなかろう！」","translation":"With this Saluud and Grossam X2 working together, you won't stand a chance!","id":"001238"}
+{"text":"「く、くそ…！」","translation":"D-Damn it...!","id":"001288"}
+{"text":"「甲児君…！」","translation":"Koji...!","id":"0012A0"}
+{"text":"「守ってみせる…！\n　俺のために危険に晒されたさやかと\n　俺を助けてくれたボス達だけは！」","translation":"I'll protect them...! At least Sayaka, who was put in danger for my sake, and Boss and the others who came to save me!","id":"0012B8"}
+{"text":"「俺の生命とマジンガーＺに代えても、\n　それだけは守ってみせる！」","translation":"Even if it costs me my life and Mazinger Z, I'll protect them no matter what!","id":"001318"}
+{"text":"「気合だけは一丁前だね」","translation":"At least you've got spirit.","id":"001360"}
+{"text":"「ダイグレン！\n　みんなが来てくれたのか！」","translation":"Dai-Gurren! So everyone came!","id":"0014E0"}
+{"text":"「でも、救援要請を送ったのは\n　ついさっきなのに！」","translation":"But I only sent out the distress call just a moment ago!","id":"001518"}
+{"text":"「$nがマジンガーに発信機を\n　取り付けておいたんだ」","translation":"$n had already attached a transmitter to Mazinger.","id":"001558"}
+{"text":"「だから、俺達はサルードに向かっていた。\n　お前が自力でピンチを切り抜けるのを信じて」","translation":"That's why we were already heading for Saluud, believing you'd pull through this crisis on your own.","id":"001598"}
+{"text":"「フ…あたしの送った助っ人に頼ったにしても\n　まあそこそこ頑張ったようだね」","translation":"Heh. Even if you had to rely on the reinforcements I sent, I suppose you did fairly well.","id":"0015F8"}
+{"text":"「ば、馬鹿な…！\n　奴等にはガミアを４体も送り込んだのに！」","translation":"I-Impossible...! I sent four Gamia after them!","id":"001650"}
+{"text":"「残念だったな！\n　あいつは俺達がスクラップにしてやったぜ！」","translation":"Too bad for you! We turned those things into scrap!","id":"001698"}
+{"text":"「せっかくのカワイコちゃんだったのに\n　惜しい事をしたぜ」","translation":"What a shame... They were such cute girls, too.","id":"0016E0"}
+{"text":"「どうせ送ってくるなら、\n　メイドロボやナースロボにしてくれよな！」","translation":"If you're going to send robots, make them maid robots or nurse robots next time!","id":"001720"}
+{"text":"「マシンに乗る前の俺達を狙ったようだが、\n　そう簡単にいくかよ！」","translation":"Looks like they tried to jump us before we got into our machines, but it won't be that easy!","id":"001770"}
+{"text":"「ま…俺達は見てただけだがな」","translation":"Well... we were just watching, though.","id":"0017B8"}
+{"text":"「ええい！　\n　ならば、マジンガーだけでも先に仕留める！」","translation":"Damn it! Then I'll at least finish off Mazinger first!","id":"0017E0"}
+{"text":"「あしゅら…！」","translation":"Ashura...!","id":"001828"}
+{"text":"「甲児！　今、行く！」","translation":"Koji! I'm coming!","id":"001840"}
+{"text":"「来るな、ゲイナー！\n　お前まで巻き込まれる！」","translation":"Stay back, Gainer! You'll get caught up in this too!","id":"001AA0"}
+{"text":"「一人で戦っていると思うな！」","translation":"Don't think you're fighting alone!","id":"001AD8"}
+{"text":"「ゲイナー…」","translation":"Gainer...","id":"001B00"}
+{"text":"「みんなを信じるんだ！\n　僕達は一緒に戦う仲間じゃないか！」","translation":"Believe in everyone! Aren't we comrades fighting together?","id":"001B18"}
+{"text":"「…すまない」","translation":"...Sorry.","id":"001B60"}
+{"text":"「謝るのは後にしろ！\n　一度、敵から距離をとれ！」","translation":"Save the apologies for later! Put some distance between you and the enemy first!","id":"001B78"}
+{"text":"「そうはさせるか！\n　その前にサルードで押し潰してくれる！」","translation":"I won't let you! I'll crush you with the Saluud before that happens!","id":"001BB8"}
+{"text":"「くそっ…！\n　水の中では思うように動きがとれない…！」","translation":"Damn it...! I can't move the way I want to underwater...!","id":"001C00"}
+{"text":"「僕が何とかしてみせる！」","translation":"I'll handle this somehow!","id":"001C40"}
+{"text":"「何とかって…」","translation":"\"Somehow,\" huh...?","id":"001C68"}
+{"text":"「やるぞ、キング…！　ゲイナー！！」","translation":"Let's do this, King...! Gainer!!","id":"001C80"}
+{"text":"「オーバーフリーズ！！」","translation":"Overfreeze!!","id":"001E90"}
+{"text":"「海面から海を氷の柱が貫いていく！」","translation":"Pillars of ice are piercing up through the sea from the surface!","id":"001F58"}
+{"text":"「ば、馬鹿な！\n　これは何が起きているんだ！？」","translation":"I-Impossible! What is happening here!?","id":"001F88"}
+{"text":"「これがキングゲイナーのオーバースキルよ！」","translation":"This is King Gainer's Over Skill!","id":"001FC8"}
+{"text":"「甲児！　その柱を登るんだ！」","translation":"Koji! Climb up those pillars!","id":"002000"}
+{"text":"「おう！！\n　助かったぜ、ゲイナー！」","translation":"Yeah!! You saved me, Gainer!","id":"002028"}
+{"text":"「ええい！　海面に出たとて…」","translation":"Damn it! Even if you've made it to the surface...","id":"002058"}
+{"text":"「甲児！　こっちを見るんだ！」","translation":"Koji! Look over here!","id":"002080"}
+{"text":"「何だ！？\n　ダイグレンが何か持っている！？」","translation":"What!? Dai-Gurren's holding something!?","id":"0020A8"}
+{"text":"「目標、マジンガーＺ！」","translation":"Target: Mazinger Z!","id":"002260"}
+{"text":"「方位修正、距離合わせ、ＯＫよ！」","translation":"Bearing corrected, range matched, OK!","id":"002288"}
+{"text":"「ダイグレン…大きく振りかぶって！」","translation":"Dai-Gurren... give it a big windup!","id":"0022B8"}
+{"text":"「飛んで行きな！\n　ジェットスクランダー！」","translation":"Fly, Jet Scrander!","id":"0022E8"}
+{"text":"「ダイグレンが何か投げた！？」","translation":"Dai-Gurren threw something!?","id":"002420"}
+{"text":"「これは…紅の翼！？」","translation":"That's... the Crimson Wings!?","id":"002448"}
+{"text":"「叫びな、甲児！\n　その名も…」","translation":"Shout it, Koji! Its name is...","id":"002468"}
+{"text":"「その名も…！」","translation":"Its name is...!","id":"002490"}
+{"text":"「その名も…！」","translation":"Its name is...!","id":"0024A8"}
+{"text":"「スクランダークロス！！」","translation":"Scrander Cross!!","id":"0024C8"}
+{"text":"「マジンガーＺが飛んだ！」","translation":"Mazinger Z took flight!","id":"002628"}
+{"text":"「やったぜ！　一発で合体成功だ！」","translation":"We did it! The combination worked on the first try!","id":"002650"}
+{"text":"「これが…ジェットスクランダー！」","translation":"This is... the Jet Scrander!","id":"002678"}
+{"text":"「その通りだ、甲児君！」","translation":"That's right, Koji!","id":"0026A0"}
+{"text":"「ワシらからの贈り物、\n　気に入ってくれたかな？」","translation":"It's a gift from us. Do you like it?","id":"0026C8"}
+{"text":"「発射装置の完成は間に合わなかったが、\n　万事ＯＫじゃな！」","translation":"We didn't finish the launcher in time, but all's well that ends well!","id":"002708"}
+{"text":"「あなた達は…？」","translation":"Who are you... ?","id":"002750"}
+{"text":"「光子力研究所の三博士さ」","translation":"We're the three doctors from the Photon Power Laboratory.","id":"002768"}
+{"text":"「ワシらは十蔵ちゃんの古い友達でね。\n　子供の頃は、よく一緒に遊んだものじゃ」","translation":"We're old friends of Juzo's. We used to play together all the time when we were kids.","id":"002790"}
+{"text":"「おじいちゃんと！？」","translation":"With Grandpa!?","id":"0027E8"}
+{"text":"「若い頃は随分とケンカもしたが、\n　ロボット工学では敵わなくてね」","translation":"We fought quite a bit when we were young, but we were no match for him in robotics.","id":"002808"}
+{"text":"「色々と教えてもらったものさ」","translation":"He taught us all sorts of things.","id":"002858"}
+{"text":"「おのれ…兜甲児！\n　新たな力を手に入れたか！」","translation":"Damn you... Koji Kabuto! So you've gained a new power!","id":"002880"}
+{"text":"「こうなれば！」","translation":"If it has come to this!","id":"0028C0"}
+{"text":"「虎の子を出しやがったな！」","translation":"So you finally brought out your trump card!","id":"002B20"}
+{"text":"「日本各地で暴れていた機械獣を\n　ここで一気に使う気か！」","translation":"You mean to unleash all the Mechanical Beasts that've been rampaging across Japan right here at once!?","id":"002B48"}
+{"text":"「丁度いいぜ！\n　だったら、まとめて相手をしてやる！」","translation":"Perfect! Then I'll take them all on at once!","id":"002B90"}
+{"text":"「キングダン、ゴーストファイヤー、\n　バルガス、トロス！\n　お前達は$cを叩け！」","translation":"KingDan, Ghostfire, Belgas, Toros! You lot, attack $c!","id":"002BD0"}
+{"text":"「私は兜甲児と決着をつける！」","translation":"I'll settle things with Koji Kabuto myself!","id":"002C28"}
+{"text":"「望むところだ、あしゅら！」","translation":"You're on, Ashura!","id":"002C50"}
+{"text":"「ゲイナー！　あいつは俺に任せて、\n　お前達は機械獣を頼む！」","translation":"Gainer! Leave him to me, and you guys take care of the Mechanical Beasts!","id":"002C78"}
+{"text":"「了解！\n　君はおじいさんの仇を討つんだ！」","translation":"Understood! Go and avenge your grandfather!","id":"002CC0"}
+{"text":"「ああ！」","translation":"Yeah!","id":"002CF8"}
+{"text":"「甲児！\n　ジェットスクランダーを装備した\n　マジンガーＺは無敵だ！」","translation":"Koji! Mazinger Z equipped with the Jet Scrander is invincible!","id":"002EA8"}
+{"text":"「飛行速度マッハ３！　飛行高度２万メートル！\n　ジェットスクランダーと十字になる時、\n　マジンガーＺは空を飛ぶ！」","translation":"Flight speed Mach 3! Altitude 20,000 meters! When it crosses with the Jet Scrander, Mazinger Z can fly!","id":"002EF8"}
+{"text":"「高く！　速く！　強く！\n　完全無欠のスーパーロボットとなる！」","translation":"Higher! Faster! Stronger! It becomes the perfect, invincible super robot!","id":"002F70"}
+{"text":"「飛べ、ジェットスクランダー！\n　行くぞぉぉぉぉっ！！」","translation":"Fly, Jet Scrander! Here I goooo!!","id":"002FB8"}
+{"text":"「敵の全滅を確認したわ」","translation":"I've confirmed the enemy has been wiped out.","id":"0030F8"}
+{"text":"「あしゅらの野郎は逃がしちまったか…」","translation":"So Ashura got away, huh...","id":"003118"}
+{"text":"「だが、拠点となる移動要塞を失ったんだ。\n　当分は大人しくなるだろう」","translation":"But they lost their mobile fortress base. They'll probably lie low for a while.","id":"003148"}
+{"text":"「やったじゃねえか、甲児」","translation":"Nice work, Koji.","id":"003198"}
+{"text":"「これもみんなの助けがあったからと、\n　今日まで鍛えられたおかげですよ」","translation":"It's all thanks to everyone's help, and to all the training that's brought me this far.","id":"0031B8"}
+{"text":"「だが、オツムの方はいまいちなようだな。\n　敵の罠に簡単に引っかかるようじゃよ」","translation":"But it seems your head still needs work. Getting caught in the enemy's trap that easily...","id":"003208"}
+{"text":"「武蔵の兄ちゃんに言われちゃ、\n　甲児の兄ちゃんも終わりだな」","translation":"If Musashi-bro's saying that, then Koji-bro's really done for, huh?","id":"003260"}
+{"text":"「ははははは！　そうだな、勝平！」","translation":"Hahaha! That's right, Kappei!","id":"0032A8"}
+{"text":"「ぬう…器がデカいな、武蔵の奴…」","translation":"Hmph... Musashi's a bigger man than I thought...","id":"0032D0"}
+{"text":"「どこかに穴が空いてるのが難点だがな」","translation":"Though he does have a screw loose somewhere.","id":"003300"}
+{"text":"「だが、甲児…二度はないぞ。\n　今後は俺が戦略の読み方を教えてやる」","translation":"But Koji... there won't be a second time. From now on, I'll teach you how to read the enemy's strategy.","id":"003330"}
+{"text":"「お願いします。\n　俺…もっともっと強くならなきゃ\n　なりませんから」","translation":"Please do. I... I've got to become stronger. A lot stronger.","id":"003380"}
+{"text":"「甲児…」","translation":"Koji...","id":"0033D0"}
+{"text":"「ありがとな、ゲイナー。\n　お前にも大事な事を教えられたぜ」","translation":"Thanks, Gainer. You taught me something important too.","id":"0033E8"}
+{"text":"「ハッハッハ！　かっちょよかったぞ、甲児君！」","translation":"Hahaha! That was awesome, Koji-kun!","id":"003430"}
+{"text":"「まったく、一発で\n　ジェットスクランダーを使いこなすとは\n　さすが十蔵ちゃんの孫じゃ」","translation":"To think you could master the Jet Scrander on the first try... as expected of Juzo-chan's grandson.","id":"003468"}
+{"text":"「頼むから一回限りで\n　壊したりせんでくれよ」","translation":"Just please don't break it after one use, okay?","id":"0034C8"}
+{"text":"（おじいちゃん…\n　マジンガーは、また強くなったよ）","translation":"Grandpa... Mazinger's gotten stronger again.","id":"003500"}
+{"text":"（この力を正しい事に使えるように\n　俺も、もっともっと頑張るよ。\n　$cのみんなと一緒に…）","translation":"I'll work even harder too, so I can use this power for what is right. Together with everyone in $c...","id":"003540"}
+{"text":"「こ、こうなれば、\n　体当たりをしてでもマジンガーＺだけは！」","translation":"I-If it comes to this, I'll ram you if I have to, but Mazinger Z at least...!","id":"003880"}
+{"text":"「何故だ！？\n　何故、身体が動かん！」","translation":"Why!? Why won't my body move!?","id":"003968"}
+{"text":"「私はこの身を賭してでも、\n　Ｄｒ．ヘルへの忠誠を示さねばならんのに！」","translation":"Even if I have to stake my own life, I must show my loyalty to Dr. Hell!","id":"003998"}
+{"text":"「もうよい。\n　帰って来い、あしゅらよ」","translation":"Enough. Come back, Ashura.","id":"0039F0"}
+{"text":"「し、しかし…！」","translation":"B-But...!","id":"003A28"}
+{"text":"「お前はよくやった。\n　マジンガーＺの詳細なデータを集めた事は\n　勝利に匹敵する」","translation":"You have done well. Gathering detailed data on Mazinger Z is worth as much as a victory.","id":"003A48"}
+{"text":"「ここで死んではならん。\n　そのデータを何としても持ち帰るのだ」","translation":"You must not die here. Bring that data back, no matter what.","id":"003AA8"}
+{"text":"「ありがたき御言葉…。\n　このあしゅら…必ずやバードス島に\n　マジンガーのデータをお届けします！」","translation":"Your gracious words... I, Ashura, will surely deliver Mazinger's data to Bardos Island!","id":"003AF8"}
+{"text":"「総員、脱出せよ！\n　遺憾ながら、サルードを放棄する！」","translation":"All units, evacuate! Regrettably, we are abandoning Saluud!","id":"003B68"}
+{"text":"「やったぜ！\n　あしゅらの野郎の最期だ！」","translation":"We did it! That's the end of that Ashura bastard!","id":"003D30"}
+{"text":"「いや…奴は脱出した」","translation":"No... he escaped.","id":"003D60"}
+{"text":"「追わなくていいの、甲児君？」","translation":"Aren't you going to chase him, Koji-kun?","id":"003D80"}
+{"text":"「今、俺がやる事は、この戦いに勝利する事だ。\n　個人的な怒りや憎しみをぶつける事じゃない」","translation":"What I need to do now is win this battle. Not vent my personal anger and hatred.","id":"003DA8"}
+{"text":"「甲児君…」","translation":"Koji-kun...","id":"003E08"}
+{"text":"「俺も$cの一員だ。\n　もう二度と突っ走ったりはしないさ」","translation":"I'm one of $c too. I won't go charging off on my own ever again.","id":"003E20"}
+{"text":"「水中戦なら、このサルードに敵はいない！\n　終わりだ、兜甲児！」","translation":"In underwater combat, Saluud has no equal! It's over, Koji Kabuto!","id":"003FA0"}
+{"text":"「耐えろ、マジンガー！\n　どんな時でも、どんな相手でも\n　お前は勝たなくちゃならないんだ！」","translation":"Hold on, Mazinger! No matter when, no matter who you're up against, you have to win!","id":"003FF0"}
+{"text":"「おじいちゃんの造ったマジンガーＺは\n　負けちゃならないんだ！」","translation":"The Mazinger Z my grandpa built can't afford to lose!","id":"004050"}
+{"text":"「このジェットスクランダーの出力なら、\n　水中戦でも負けはしない！」","translation":"With the Jet Scrander's power, we won't lose even underwater!","id":"004178"}
+{"text":"「おのれ、マジンガーＺ！\n　まさに無敵の力を手に入れたか！」","translation":"Damn you, Mazinger Z! So you've truly gained invincible power!","id":"0041C8"}
+{"text":"「覚悟しろ、あしゅら男爵！\n　汚い手を使ったお礼…そして、お前が襲った\n　日本の人達の怒り、俺がこの手で返すぞ！」","translation":"Prepare yourself, Baron Ashura! I'll pay you back for those dirty tricks... and for Japan's anger!","id":"004210"}
+{"text":"「ちょ、ちょっと、あなた達！\n　変な所に触らないでよ！」","translation":"H-hey, you guys! Don't touch me in weird places!","id":"004368"}
+{"text":"「そんな事言われても～！」","translation":"Even if you say that~!","id":"0043A8"}
+{"text":"「こんなに狭い所に\n　詰め込まれているんだもんなぁ！」","translation":"We're packed into such a cramped space, after all!","id":"0043C8"}
+{"text":"「そういうわけで仕方ねえんだよ！」","translation":"That's why we can't help it!","id":"004408"}
+{"text":"「ああん、もう！\n　一瞬でもこんな人達に感謝した私が\n　バカだったぁ！」","translation":"Oh, come on! I was an idiot for feeling grateful to people like you for even a second!","id":"004430"}
+{"text":"「ロシウ！\n　グレンラガンのドリルをスクリュー代わりに\n　するんだ！」","translation":"Rossiu! Use Gurren Lagann's drill like a screw propeller!","id":"0045A0"}
+{"text":"「す、すごい！\n　これなら水の中でも自由自在だ！」","translation":"A-amazing! At this rate, we can move freely even underwater!","id":"0045F0"}
+{"text":"「おのれ！\n　味な真似をしてくれるではないか！」","translation":"Damn you! You've got some clever tricks up your sleeve!","id":"004630"}
+{"text":"「行くぞっ！\n　俺のドリルで大穴を開けて、\n　その船を沈めてやる！」","translation":"Let's go! I'll drill a huge hole with my drill and sink that ship!","id":"004670"}
+{"text":"「ちょ、ちょっと、赤木君！\n　水の中は無理！　絶対に無理よ！」","translation":"W-wait, Akagi-kun! We can't go underwater! Absolutely not!","id":"0047C0"}
+{"text":"「気密処理はしているんです！\n　ダイ・ガードは水の中でも宇宙でも\n　大丈夫ですよ！」","translation":"It's been sealed airtight! Dai-Guard is fine in water or even in space!","id":"004808"}
+{"text":"「このバカ…！\n　穴が開いたら、終わりだってのが\n　わかってるのか！」","translation":"You idiot...! Do you realize that if it springs a leak, we're finished!?","id":"004860"}
+{"text":"「ならば、お前達の生命を奪う一穴を\n　この私が開けてやろう！」","translation":"Then I shall open the hole that takes your lives myself!","id":"0048B0"}
+{"text":"「そうはさせるか！\n　墓穴は今までも何度も掘ってきたが、\n　今日はそういうわけにはいかないんだ！」","translation":"Like hell you will! I've dug my own grave plenty of times before, but not today!","id":"0048F8"}
+{"text":"「よくも日本中の人達を苦しめてくれたな！\n　絶対に許さないぞ！」","translation":"How dare you make people all over Japan suffer! I'll never forgive you!","id":"004A80"}
+{"text":"「あの国はいずれはＤｒ．ヘルのものとなる！\n　だから、全てはヘル様の自由よ！」","translation":"That country will eventually belong to Dr. Hell! Therefore, everything is Lord Hell's to do with as he pleases!","id":"004AC8"}
+{"text":"「そんな勝手な理屈が通じるかよ！\n　だったら、お前は最終的には負けるんだから、\n　とっとと尻尾を巻いて逃げ帰れ！」","translation":"Like hell that selfish logic works! If so, you're going to lose anyway, so tuck your tail and run home!","id":"004B20"}
+{"text":"「ぬうう！\n　口の減らない小僧めが！」","translation":"Nngh! You insolent little brat!","id":"004B98"}
+{"text":"「あしゅら男爵！\n　ギシン星人は何故、お前達と手を組んだ！？」","translation":"Baron Ashura! Why did the Gishin Star people join forces with you!?","id":"004CC8"}
+{"text":"「そんな質問に答える義理はない！\n　だが、もう奴等の手など借りぬわ！」","translation":"I have no obligation to answer that! But I have no need of their help any longer!","id":"004D10"}
+{"text":"「この私がＤｒ．ヘルの敵の全てを排除する！\n　お前は半殺しにして、宇宙に捨てて\n　くれるわ！」","translation":"I myself shall eliminate every enemy of Dr. Hell! I'll beat you half to death and cast you out into space!","id":"004D60"}
+{"text":"「俺達のヤサに殴りこみをかけてきた礼は\n　たっぷりさせてもらう！」","translation":"We'll make you pay dearly for barging into our turf!","id":"004EA8"}
+{"text":"「ば、化け物め！\n　殺人アンドロイドのガミアを退けるとは！」","translation":"Y-you monster! To think you could drive off Gamia, the killer android!","id":"004EF0"}
+{"text":"「てめえに言われたくねえな、あしゅら！」","translation":"You're the last one I want to hear that from, Ashura!","id":"004F38"}
+{"text":"「いい機会だ！\n　てめえを真っ二つにして、\n　元の身体に戻してやるぜ！」","translation":"This is perfect! I'll cut you clean in two and restore you to your original body!","id":"004F68"}
+{"text":"「ひ、ひいっ！　鬼ぃぃっ！」","translation":"E-Eek! A demon!","id":"004FB8"}
+{"text":"「待ちに待ってた出番が来たぜ！\n　水中戦なら、ゲッター３と俺の出番だ！」","translation":"The moment I've been waiting for is finally here! If it's underwater combat, then it's my turn and Getter-3's!","id":"005100"}
+{"text":"「馬鹿め！\n　海中で、このサルードにかなうと思うか！」","translation":"Fool! Do you really think you can beat the Saluud underwater!?","id":"005150"}
+{"text":"「へ…お互い、なかなか出番がなかったな。\n　だが、このたまにしか来ない大一番、\n　俺とゲッター３がもらうぜ！」","translation":"Heh... neither of us has had much of a chance to shine. But this rare big moment? Getter-3 and I are taking it!","id":"005190"}
+{"text":"「ええい！　ちょこまかと動きおって！\n　せわしない奴め！」","translation":"Grr! Quit darting around like that! You restless little pest!","id":"0052E8"}
+{"text":"「行くよ、ニルヴァーシュ！\n　スピードでかく乱して、一気に懐に飛び込む！」","translation":"Let's go, Nirvash! We'll throw them off with speed, then dive straight into close range!","id":"005330"}
+{"text":"「もきゅ！」","translation":"Mokyu!","id":"005388"}
+{"text":"「俺達はエウレカを迎えに行くんだ！\n　こんな所でやられるもんか！」","translation":"We're going to bring Eureka back! We won't go down here!","id":"0053A8"}
+{"text":"「無関係な人々を苦しめ、\n　人質を取るとは悪党の中の悪党だな！」","translation":"Making innocent people suffer and taking hostages... You're the worst kind of villain!","id":"0054F8"}
+{"text":"「黙れ！　このあしゅら…\n　Ｄｒ．ヘルのためなら、どのような手段をも\n　使うまでだ！」","translation":"Silence! I, Ashura... will use any means necessary for the sake of Dr. Hell!","id":"005540"}
+{"text":"「大した忠義者だ！\n　だったら、悪党の元締めに伝えとけ！」","translation":"What a loyal servant! Then pass this on to your evil master!","id":"0055A0"}
+{"text":"「そんな連中を俺達は絶対に許さないとな！」","translation":"We'll never forgive scum like you!","id":"0055E8"}
+{"text":"「この地球の海も美しい…」","translation":"The seas of this Earth are beautiful as well...","id":"005720"}
+{"text":"「お前…戦闘中に何を言っている！？」","translation":"You... what are you talking about in the middle of a battle!?","id":"005748"}
+{"text":"「この海にお前のような卑怯者は似合わない！\n　俺が相手になってやる！」","translation":"A coward like you has no place in this sea! I'll take you on myself!","id":"005778"}
+{"text":"「ええい！　別の世界の人間になど\n　やられてなるものか！」","translation":"Grr! I will not be defeated by someone from another world!","id":"0057C8"}
+{"text":"「生まれた世界も星も関係ない！\n　俺は自分が正しいと思う事をやるまでだ！」","translation":"It doesn't matter what world or star I was born on! I'll do what I believe is right!","id":"005810"}
+{"text":"「この野郎！\n　お前が海の中で暴れるから、\n　この辺りの魚が逃げちまったじゃねえか！」","translation":"You bastard! Rampaging around in the sea like that scared off all the fish around here!","id":"005988"}
+{"text":"「何を言っているんだ、お前は？」","translation":"What are you talking about?","id":"0059E8"}
+{"text":"「俺の父ちゃんは漁師だ！\n　海を荒らすような奴は許さねえぞ！」","translation":"My dad's a fisherman! I won't forgive anyone who wrecks the sea!","id":"005A18"}
+{"text":"「ジロン～！\n　水の中で攻撃を受けたら、危ないよ～！」","translation":"Jiron~! If you get hit underwater, it'll be dangerous~!","id":"005B40"}
+{"text":"「大丈夫だ！\n　もしもの時は息を止めればいい！」","translation":"Don't worry! If it comes to that, I'll just hold my breath!","id":"005B80"}
+{"text":"「何というデタラメな連中だ！」","translation":"What a completely absurd bunch!","id":"005BB8"}
+{"text":"「デタラメはどっちだ！\n　人質みたいな卑怯な手を使うような奴を\n　俺達は許さないからな！」","translation":"Absurd? Look who's talking! We won't forgive anyone who uses cowardly tricks like taking hostages!","id":"005BE0"}
+{"text":"「小兵めが！\n　お前が余計な事さえしなければ、\n　兜甲児にとどめを刺せたものを！」","translation":"You little runt! If you hadn't interfered, I'd have finished off Koji Kabuto!","id":"005D40"}
+{"text":"「この海の藻屑に変えてくれるわ！」","translation":"I'll send you to the bottom of this sea!","id":"005DA0"}
+{"text":"「水中戦だって、やってみせる！\n　チャンプは、いついかなる時、\n　どこでも、誰の挑戦でも受けるものなんだ！」","translation":"I'll show you I can fight underwater too! A champ takes on anyone's challenge, anytime, anywhere!","id":"005DD0"}
+{"text":"「キングゲイナー！\n　卑怯者なんかに負けるな！」","translation":"King Gainer! Don't lose to a coward like that!","id":"005E48"}
+{"text":"「戦場ってのは非情なもんだ。\n　正義もクソもねえもんさ」","translation":"A battlefield is a merciless place. There's no such thing as justice or crap like that.","id":"005F88"}
+{"text":"「何だ、こいつ…！？\n　いつもと雰囲気が違うぞ…！」","translation":"What's with this guy...!? He feels different than usual...!","id":"005FC8"}
+{"text":"「だが、お前はやっちゃいけない事をやった。\n　民間人を巻き込む…人質を取る…。\n　そのどちらも最低のモラル以下だ」","translation":"But you crossed the line. Dragging civilians into this... taking hostages... both are beneath even the lowest morals.","id":"006008"}
+{"text":"「それを防げなかった自分にも腹が立つ…。\n　悪いが、八つ当たらせてもらう…！」","translation":"I'm angry at myself for not being able to stop it too... Sorry, but I'm going to take it out on you...!","id":"006080"}
+{"text":"「あ！」","translation":"Ah!","id":"0061D8"}
+{"text":"くろがね屋座敷","translation":"Kurogane House parlor","id":"0063A8"}
+{"text":"　\n　\n　　　　　　～くろがね屋　宴会場～","translation":"~Kurogane-ya Banquet Hall~","id":"0063B8"}
+{"text":"「…それではＤｒ．ヘルの日本攻撃作戦の打倒を\n　祝して…」","translation":"...Now then, to celebrate the defeat of Dr. Hell's operation to attack Japan...","id":"0063E8"}
+{"text":"「かんぱ～い！」","translation":"Cheers~!","id":"006428"}
+{"text":"「乾杯！」","translation":"Cheers!","id":"006440"}
+{"text":"「お疲れ、兄貴！\n　久々の日本を満喫してくれよ！」","translation":"Good work, bro! Enjoy being back in Japan for the first time in a while!","id":"006450"}
+{"text":"「ありがとよ、シロー。\n　お前も元気で何よりだ」","translation":"Thanks, Shiro. Glad to see you're doing well too.","id":"006490"}
+{"text":"「さあ、じゃんじゃんやっておくれよ！\n　うちの先生ご自慢の料理だぜ！」","translation":"Come on, dig in! These are our teacher's pride and joy!","id":"0064C8"}
+{"text":"「言われなくても、いただいてるよ！」","translation":"You don't have to tell me twice—I'm already digging in!","id":"006518"}
+{"text":"「うめえ！　美味すぎるぜ！\n　ここの料理はよ！」","translation":"Man, this is good! Way too good! The food here rocks!","id":"006548"}
+{"text":"「スキヤキ、テンプラ、スシ、サシミ！\n　やっぱり、世界は変わってもヤーパンね！」","translation":"Sukiyaki, tempura, sushi, sashimi! No matter how much the world changes, Yapan is still Yapan!","id":"006580"}
+{"text":"「ねえ、サラ！\n　後でオンセンも入ろうよ！」","translation":"Hey, Sara! Let's go soak in the onsen later too!","id":"0065D8"}
+{"text":"「賛成～！\n　珠のお肌を磨いちゃおうね！」","translation":"I'm in~! Let's polish up our flawless skin!","id":"006610"}
+{"text":"「いいねぇ、そいつは。\n　たまにはのんびりさせてもらおうか」","translation":"Now that sounds nice. Maybe I'll let myself relax for once.","id":"006648"}
+{"text":"「アデット先生とうちのお姉ちゃん、\n　どっちがナイスバディかな？」","translation":"So who's got the nicer body, Teacher Adette or my big sis?","id":"006690"}
+{"text":"「ヨーコさんも負けてないと思うけど」","translation":"I don't think Yoko's losing in that department either.","id":"0066E0"}
+{"text":"「ふふ…まあね」","translation":"Heh... well, yeah.","id":"006710"}
+{"text":"「…もしかして、過酷な環境育ちだと\n　スタイルがよくなるのかな…」","translation":"...Maybe growing up in a harsh environment gives you a better figure...","id":"006728"}
+{"text":"「そうかも知れませんね」","translation":"Maybe so.","id":"006770"}
+{"text":"「げーっ！\n　だったら、都会暮らしなんて\n　やってらんない！」","translation":"Gah! If that's true, I can't stand living in the city!","id":"006790"}
+{"text":"「落ち着いてよ、谷川さん。\n　そんな事あるわけないじゃない」","translation":"Calm down, Tanigawa. There's no way that's true.","id":"0067D8"}
+{"text":"「余裕ね、さやかは…」","translation":"You're awfully relaxed about it, Sayaka...","id":"006820"}
+{"text":"「私も…暗黒大陸に行こうかな…」","translation":"Maybe I should go to the Dark Continent too...","id":"006840"}
+{"text":"「そんなに気にする事ないっスよ、\n　いぶきさん！」","translation":"You don't need to worry about it that much, Ibuki-san!","id":"006868"}
+{"text":"「あんたは聞き耳立ててんじゃないわよ！」","translation":"Quit eavesdropping on us!","id":"0068A0"}
+{"text":"「ゲイナー…あなたも\n　ロクでもない事、考えてないでしょうね？\n　覗きとか…」","translation":"Gainer... you're not thinking anything perverted, are you? Like peeping...?","id":"0068D0"}
+{"text":"「な、何で、そこで僕に…！？」","translation":"W-Why are you singling me out for that...!?","id":"006928"}
+{"text":"「前科持ちだからじゃない？\n　日頃の行ないの報いってやつだね」","translation":"Because you've got a record, maybe? That's karma for your usual behavior.","id":"006950"}
+{"text":"「でも、今日のゲイナー…格好よかったよ」","translation":"But you were pretty cool today, Gainer.","id":"006998"}
+{"text":"「サラ…」","translation":"Sara...","id":"0069C8"}
+{"text":"「サラ、ご褒美にゲイナーと\n　混浴でもしてやんな」","translation":"Sara, why don't you reward Gainer with a mixed bath or something?","id":"0069E0"}
+{"text":"「え！？」","translation":"Huh!?","id":"006A20"}
+{"text":"「調子に乗り過ぎ！」","translation":"Don't get carried away!","id":"006A38"}
+{"text":"「今日の礼だ。\n　サラってわけにはいかないが、\n　俺が背中を流すぜ、ゲイナー」","translation":"This is my thanks for today. I can't be Sara, but I'll wash your back, Gainer.","id":"006A58"}
+{"text":"「い、いいよ…！\n　そんな事は自分でやるから！」","translation":"N-no thanks...! I can do that myself!","id":"006AB0"}
+{"text":"「郷に入れば、郷に従えだ。\n　ヤーパン流の男の友情を深めようぜ」","translation":"When in Rome, do as the Romans do. Let's deepen our manly friendship, Yapan-style.","id":"006AF0"}
+{"text":"「俺だって混浴の方が嬉しいけどな」","translation":"I'd prefer a mixed bath too, honestly.","id":"006B38"}
+{"text":"「そうだね」","translation":"Yeah.","id":"006B60"}
+{"text":"「ゲイナー！！」","translation":"Gainer!!","id":"006B78"}
+{"text":"「まったく…男って…！」","translation":"Honestly... men...!","id":"006B90"}
+{"text":"「いいじゃねえか、ヨーコ！\n　お前の場合、いつもより、ちょっと露出が\n　増えるだけなんだからよ！」","translation":"Come on, Yoko! In your case, it'd just mean showing a little more skin than usual!","id":"006BB0"}
+{"text":"「そういう問題じゃないわよ！」","translation":"That's not the point!","id":"006C18"}
+{"text":"「………」","translation":"...","id":"006C40"}
+{"text":"「どうしたんだ、シモン？\n　顔が赤いぞ」","translation":"What's wrong, Simon? Your face is red.","id":"006C58"}
+{"text":"「若いな。\n　女性陣の温泉での艶姿を想像したか？」","translation":"You're young. Were you imagining the ladies looking alluring in the hot spring?","id":"006C90"}
+{"text":"「ち、ちが…！」","translation":"N-no, I wasn't...!","id":"006CD0"}
+{"text":"「違うのか？」","translation":"You weren't?","id":"006CE8"}
+{"text":"「違わない…」","translation":"...I was.","id":"006D00"}
+{"text":"「正直もんだな、お前は！\n　よっしゃ、ワシと裸の付き合いといくか！\n　力の限りに背中を流してやるぞ！」","translation":"You're an honest one! All right, let's have some naked bonding! I'll scrub your back with all I've got!","id":"006D18"}
+{"text":"「いいよ！\n　遠慮する！」","translation":"No thanks! I'll pass!","id":"006D88"}
+{"text":"「では、私がお背中、流しましょうか？」","translation":"Then shall I wash your back for you?","id":"006DB0"}
+{"text":"「二、ニアが！？」","translation":"N-Nia!?","id":"006DE0"}
+{"text":"「お嫌？」","translation":"You don't want me to?","id":"006E00"}
+{"text":"「い、いや…そうじゃないけど…」","translation":"N-no... that's not it, but...","id":"006E10"}
+{"text":"「俺、二番！\n　シモンの次でいいから、お願いする！」","translation":"I'm second! I don't mind being after Simon, so please!","id":"006E38"}
+{"text":"「あ、このヤロ！\n　大グレン団の女に手を出すとは\n　いい度胸してやがる！」","translation":"Hey, you bastard! You've got some nerve making a move on a woman from Team Dai-Gurren!","id":"006E78"}
+{"text":"「では、私もお願いしましょうかね…」","translation":"Well then, I suppose I'll ask as well...","id":"006EC8"}
+{"text":"「では、私も…」","translation":"Then I'll ask as well...","id":"006EF8"}
+{"text":"「で、では、私も！」","translation":"T-then me too!","id":"006F10"}
+{"text":"「何だよ、みんなしてさ！」","translation":"What the hell, all of you!","id":"006F30"}
+{"text":"「私でよければ、皆さんの背中を\n　お流ししますわ」","translation":"If you'd like, I can wash everyone's backs.","id":"006F58"}
+{"text":"「駄目だよ、ニア！\n　そんな事しちゃ！」","translation":"No, Nia! You can't do that!","id":"006F90"}
+{"text":"「わかりました、シモン。\n　あなたがそうおっしゃるのなら、\n　あなただけにします」","translation":"Understood, Simon. If that's what you say, then I'll do it for you alone.","id":"006FC0"}
+{"text":"「そういうわけじゃ…」","translation":"That's not what I meant...","id":"007018"}
+{"text":"「よ！　熱いね、お二人さん！」","translation":"Hey! Things are heating up, you two!","id":"007038"}
+{"text":"「…！」","translation":"...!","id":"007060"}
+{"text":"「…大丈夫か、ヨーコちゃん？」","translation":"...Are you okay, Yoko?","id":"007070"}
+{"text":"「…何でもない。\n　ちょっとここの空気に酔っただけだから」","translation":"...It's nothing. I just got a little lightheaded from the atmosphere in here.","id":"007098"}
+{"text":"「さあ、お待ち！\n　三博士…女将からの言いつけで\n　約束の美人のお酌を用意しましたぜ！」","translation":"All right, thanks for waiting! On the innkeeper's orders, we've prepared the promised beauty to pour your drinks!","id":"0070E0"}
+{"text":"「おお！」","translation":"Oh!","id":"007140"}
+{"text":"「待ってました！」","translation":"I've been waiting for this!","id":"007158"}
+{"text":"「く～！　生きててよかった！」","translation":"Whoo~! I'm glad to be alive!","id":"007178"}
+{"text":"「さあ、姐さん！　出番です！」","translation":"All right, sis! You're up!","id":"0071A0"}
+{"text":"「お待たせしました」","translation":"Sorry to keep you waiting.","id":"0071C8"}
+{"text":"「えーっ！」","translation":"Whaaat!?","id":"0071E8"}
+{"text":"「美人って…」","translation":"A beauty...?","id":"007200"}
+{"text":"「あのお菊さん！？」","translation":"That Okiku!?","id":"007218"}
+{"text":"「ワシらのアイドルに失礼じゃろうが！」","translation":"Show some respect for our idol!","id":"007238"}
+{"text":"「お前等、しばいたろかい？」","translation":"You guys want a beating?","id":"007268"}
+{"text":"「ねえ、お菊さん？」","translation":"Isn't that right, Miss Okiku?","id":"007290"}
+{"text":"「ホホホホホ。\n　恥ずかしいですわ、御三方」","translation":"Hohohohoho. You're embarrassing me, gentlemen.","id":"0072B0"}
+{"text":"「どうなってんだよ、あれ…」","translation":"What the heck is going on over there...?","id":"0072E8"}
+{"text":"「どうやら、去りし日のお菊さんは\n　相当の美人さんだったらしいな」","translation":"Looks like Miss Okiku must have been a real beauty back in the day.","id":"007310"}
+{"text":"「嫌ですよ、ハンサムさんまで。\n　あたしは今でも現役ですから」","translation":"Oh, stop, handsome. I'm still in my prime, you know.","id":"007358"}
+{"text":"「は、はは…一杯いただきます」","translation":"H-haha... I'll have a drink.","id":"0073A0"}
+{"text":"「さてと…そろそろ俺達は行くか」","translation":"Well then... I guess it's about time we got going.","id":"0073C8"}
+{"text":"「ん？　ゲッターチーム揃って、どこへ？」","translation":"Hm? The whole Getter Team together--where are you off to?","id":"0073F0"}
+{"text":"「早乙女のジジイの呼び出しだ。\n　新型ゲッターのテストだとよ」","translation":"Old man Saotome called us in. Says he's testing a new Getter.","id":"007420"}
+{"text":"「新型とは豪勢だな。\n　パワーアップしたゲッターって事か？」","translation":"A new model, huh? Fancy. So it's a powered-up Getter?","id":"007468"}
+{"text":"「だろうな。\n　インベーダーの侵攻も相変わらずだから、\n　博士も危機感を募らせてるのだろう」","translation":"Probably. The Invaders' advance hasn't let up, so the Professor's probably feeling the pressure too.","id":"0074A8"}
+{"text":"「あのジジイ…インベーダーに関しちゃ\n　大マジだからな」","translation":"That old man... when it comes to the Invaders, he's dead serious.","id":"007508"}
+{"text":"「で、奴等を滅ぼすためには\n　ゲッターを動かす俺達が必要ってわけだ」","translation":"And to wipe them out, he needs us to pilot Getter.","id":"007548"}
+{"text":"（口じゃ何だかんだ言いながら、\n　互いに信頼してるって事か）","translation":"So for all the trash you talk, you really do trust each other, huh?","id":"007598"}
+{"text":"「そういうわけだ、甲児。\n　悪いが中座させてもらうぜ」","translation":"That's how it is, Koji. Sorry, but we'll have to excuse ourselves.","id":"0075D8"}
+{"text":"「竜馬さん…俺、今日、\n　殺人アンドロイドを倒す事が出来ました」","translation":"Ryoma-san... today, I was able to defeat a killer android.","id":"007618"}
+{"text":"「俺…強くなってるんですね」","translation":"I... really am getting stronger, aren't I?","id":"007660"}
+{"text":"「当たり前だろ。\n　俺が鍛えてやってるんだからよ」","translation":"Of course you are. I'm the one training you, after all.","id":"007688"}
+{"text":"「竜馬だけじゃねえ。\n　この$c全員が\n　お前の師匠だからな」","translation":"It ain't just Ryoma. Everyone in this$c is your teacher.","id":"0076C0"}
+{"text":"「そして、お前も\n　この$cの一員だ」","translation":"And you're a member of this$c too.","id":"007700"}
+{"text":"「はい…！」","translation":"Yes...!","id":"007730"}
+{"text":"「マジンガーも空を飛べるようになったからな。\n　帰ってきたら、空中戦のイロハを\n　叩き込んでやる」","translation":"Now that Mazinger can fly too, when we get back, I'll drill you in the basics of aerial combat.","id":"007748"}
+{"text":"「お願いします。\n　俺…マジンガーと一緒に\n　もっと強くなりたいですから」","translation":"Please. I... want to become even stronger with Mazinger.","id":"0077B0"}
+{"text":"「あれ…？\n　そう言や、今回の勝利の立役者の一人、\n　女将は？」","translation":"Huh...? Come to think of it, where's the proprietress, one of the key figures in this victory?","id":"007800"}
+{"text":"「さっき、お父様と何か話してたみたいだけど…」","translation":"She seemed to be talking to Father about something a little while ago...","id":"007848"}
+{"text":"「そっか…。\n　後で女将にも礼を言わなくちゃな」","translation":"I see... I'll have to thank the proprietress later, too.","id":"007880"}
+{"text":"「そう言えば、甲児君…\n　ボスと勝負するって約束は？」","translation":"By the way, Koji... what about your promise to duel Boss?","id":"0078B8"}
+{"text":"「ああ…そっちはとっくに終わったよ」","translation":"Oh... that was settled a while ago.","id":"0078F8"}
+{"text":"「おおい…庭に誰か倒れてるぞ」","translation":"Hey... someone's collapsed in the yard.","id":"007928"}
+{"text":"「ありゃ、居候３人組じゃねえか。\n　このクソ忙しい時に寝てんのか？」","translation":"Huh, isn't that the three freeloaders? Sleeping at a time like this, when we're busy as hell?","id":"007950"}
+{"text":"「あれって…」","translation":"Is that...?","id":"007998"}
+{"text":"「ま…約束だからな。\n　手加減なしで勝負したさ」","translation":"Well... a promise is a promise. I fought him without holding back.","id":"0079B0"}
+{"text":"夜空","translation":"Night Sky","id":"0079E8"}
+{"text":"　\n　\n　　　　　　　～くろがね屋　庭～","translation":"~Kurogane House Garden~","id":"0079F0"}
+{"text":"「…やはり、そう判断しますか…」","translation":"...So, that's your conclusion as well...","id":"007A18"}
+{"text":"「あんたもそう見るだろう？」","translation":"You see it that way too, don't you?","id":"007A40"}
+{"text":"「世界最高峰の殺人アンドロイド…。\n　$cを襲った機体を調べりゃ、\n　結論は一つしかない」","translation":"The world's greatest killer android... Investigate the machine that attacked $c, and there's only one conclusion.","id":"007A68"}
+{"text":"「うむ…。\n　あれを造れるのは世界でただ二人…」","translation":"Indeed... Only two people in the world could have built that...","id":"007AC8"}
+{"text":"「そして、その片方は既に死んでいる。\n　あたしはバードス島でその現場を見ている」","translation":"And one of them is already dead. I saw it with my own eyes on Bardos Island.","id":"007B00"}
+{"text":"「では…」","translation":"Then...","id":"007B58"}
+{"text":"「…世界が落ち着いたら、行ってみるさ、\n　ドイツに」","translation":"...Once the world settles down, I'll go there, to Germany.","id":"007B68"}
+{"text":"「あたしが行くしかないからね、\n　シュトロハイム・ハインリッヒには…」","translation":"Because I'm the only one who can go... to Stroheim Heinrich.","id":"007BA8"}
+{"text":"（錦織つばさ…。\n　彼女とＤｒ．ヘル…そして、十蔵博士の因縁は\n　今後の戦いにどう影響していくのだろう…）","translation":"Tsubasa Nishikiori... How will the ties between her, Dr. Hell, and Dr. Juzo affect the battles to come...?","id":"007BF8"}
+{"text":"黒ベタ","translation":"Black screen","id":"007C68"}
+{"text":"バードス島","translation":"Bardos Island","id":"007C70"}
+{"text":"　\n　\n　　　　　　～バードス島　司令部～","translation":"~Bardos Island Command Center~","id":"007C80"}
+{"text":"「…顔を上げよ、あしゅら」","translation":"...Raise your head, Ashura.","id":"007CB0"}
+{"text":"「申し訳ありません、Ｄｒ．ヘル…！\n　次こそは、必ずやマジンガーＺと\n　$cの奴等を…」","translation":"My deepest apologies, Dr. Hell...! Next time, I will surely defeat Mazinger Z and those $c wretches...","id":"007CD8"}
+{"text":"「もうよい。\n　先にも言った通り、この度のお前の働きは\n　勝利にも値する」","translation":"Enough. As I said before, your actions this time were worthy of victory.","id":"007D38"}
+{"text":"「お前が集めたマジンガーＺのデータは\n　ある事実を雄弁に語っている」","translation":"The data you gathered on Mazinger Z speaks volumes about one fact.","id":"007D90"}
+{"text":"「と、おっしゃられますと？」","translation":"And what fact would that be?","id":"007DE0"}
+{"text":"「兜十蔵が、このバードス島より\n　持ち去った超合金Ｚ…」","translation":"The Super Alloy Z that Juzo Kabuto carried away from this Bardos Island...","id":"007E08"}
+{"text":"「それより生み出される光子力エネルギーと\n　超合金Ｚ自体の堅牢さが\n　マジンガーＺの強さの秘密だ」","translation":"The Photon Power it generates, and the toughness of Super Alloy Z itself, are the secrets of Mazinger Z's strength.","id":"007E50"}
+{"text":"「だが、足りぬのだ…」","translation":"But it is not enough...","id":"007EC0"}
+{"text":"「足りぬ…ですと？」","translation":"Not enough... you say?","id":"007EE8"}
+{"text":"「そうだ。\n　十蔵めは超合金Ｚの全てを使って\n　マジンガーＺを造ったのではない」","translation":"That's right. Juzo did not use all of the Super Alloy Z to build Mazinger Z.","id":"007F08"}
+{"text":"「奴は、どこかに超合金Ｚを隠している。\n　我々が狙うはそれよ」","translation":"He has hidden some Super Alloy Z somewhere. That is what we seek.","id":"007F68"}
+{"text":"「それこそがＤｒ．ヘルが世界を握るために\n　必要なもの…！」","translation":"That is exactly what Dr. Hell needs to seize control of the world...!","id":"007FB8"}
+{"text":"「今、世界は終末に向けて動き始めている」","translation":"Now, the world has begun to move toward its end.","id":"008000"}
+{"text":"「その通りだ」","translation":"That's right.","id":"008038"}
+{"text":"「何者だ！？」","translation":"Who goes there!?","id":"008050"}
+{"text":"「我が名はズール…皇帝ズールだ」","translation":"I am Zuul... Emperor Zuul.","id":"008070"}
+{"text":"「こ、この男がギシン星の皇帝…！」","translation":"Th-This man is the Emperor of the Gishin Star...!","id":"008098"}
+{"text":"「外宇宙より、己の像を送ってくるとは\n　聞きしに勝る力の持ち主…！」","translation":"To project his own image here from outer space... His power exceeds even the rumors...!","id":"0080C8"}
+{"text":"「ズールよ、ワシに何の用だ？\n　まさか、このＤｒ．ヘルに軍門に降れとでも\n　言う気か？」","translation":"Zuul, what business do you have with me? Surely you do not mean to tell this Dr. Hell to bow before you?","id":"008118"}
+{"text":"「そのつもりはない。\n　そなたはワシの協力者だ」","translation":"I have no such intention. You are my ally.","id":"008180"}
+{"text":"「フン…どうやら、お主は\n　このバードスの意味を知っているようだな」","translation":"Hmph... It seems you understand the significance of this Bardos.","id":"0081B8"}
+{"text":"「その通りよ。\n　ワシは終わりを知る者の一人だからな」","translation":"Just so. I am one of those who know the end.","id":"008208"}
+{"text":"「終わりを知る者…？」","translation":"One who knows the end...?","id":"008248"}
+{"text":"「この言葉の意味を\n　そこに住まうそなたもいずれ知るだろう」","translation":"You who dwell there will one day come to know the meaning of these words as well.","id":"008270"}
+{"text":"「そして、この言葉をそなたに送ろう」","translation":"And now, I shall leave you with these words.","id":"0082B8"}
+{"text":"「言葉？」","translation":"Words?","id":"0082E8"}
+{"text":"「黒の英知」","translation":"Black Wisdom.","id":"008300"}
+{"text":"「！」","translation":"!","id":"008318"}
+{"text":"「この言葉の意味をそなたが知った時、\n　ワシとそなたは真の盟友となろう。\n　その日を待っておるぞ」","translation":"When you come to understand the meaning of those words, you and I shall become true allies. I await that day.","id":"008330"}
+{"text":"（ギシン星の皇帝ズール…）","translation":"(Emperor Zuul of the Gishin Star...)","id":"008398"}
+{"text":"（何だ、この胸騒ぎは…？\n　私の記憶のどこかに奴がいるのか…？）","translation":"(What is this feeling of foreboding...? Is he somewhere in my memories...?)","id":"0083C0"}
+{"text":"「ズール…黒の英知…」","translation":"Zuul... Black Wisdom...","id":"008410"}
+{"text":"「皇帝ズールは\n　何を伝えようとしたのでしょうか？」","translation":"What was Emperor Zuul trying to tell us?","id":"008438"}
+{"text":"「…わからぬ。\n　だが、その意味が理解できた時こそ、\n　全てが始まるのだろう」","translation":"...I do not know. But when I come to understand its meaning, that is when everything shall begin.","id":"008478"}
+{"text":"「そして、それを手に入れるために\n　ワシは行動を起こす」","translation":"And to obtain it, I shall take action.","id":"0084D0"}
+{"text":"「では…！？」","translation":"Then...!?","id":"008518"}
+{"text":"「これよりワシは、このバードス島の\n　最深部の調査を開始する」","translation":"From this moment on, I shall begin an investigation into the deepest reaches of Bardos Island.","id":"008530"}
+{"text":"「そ、それは…！」","translation":"Th-That's...!","id":"008580"}
+{"text":"「危険でございます、Ｄｒ．ヘル！」","translation":"It's too dangerous, Dr. Hell!","id":"0085A0"}
+{"text":"「それも承知の上だ。\n　だが、そうする必要に迫られているのだ」","translation":"I am well aware of that. But circumstances now compel me to do so.","id":"0085D0"}
+{"text":"「ワシは新たな力を手に入れる。\n　それを用いて、十蔵めの隠した遺産を\n　我が手に収めるのだ」","translation":"I shall obtain a new power. With it, I will claim Juzo's hidden legacy for myself.","id":"008620"}
+{"text":"「承知いたしました、ヘル様。\n　我々が護衛を務めます」","translation":"Understood, Lord Hell. We shall serve as your escort.","id":"008688"}
+{"text":"「この生命に代えても、\n　ヘル様をお守りいたします！」","translation":"Even if it costs me my life, I will protect you, Lord Hell!","id":"0086C8"}
+{"text":"「世界への侵攻は一時休止だ。\n　それ程までに、この調査は危険なものとなる」","translation":"We will temporarily halt our invasion of the world. This investigation is that dangerous.","id":"008708"}
+{"text":"「だが、ワシはやらねばならん。\n　この世界の全てを手に入れるために！」","translation":"But I must do it. To claim everything in this world!","id":"008760"}
+{"text":"（十蔵の隠し持つゼウスの腕…。\n　それなくして、世界はつかめん）","translation":"The Arm of Zeus that Juzo kept hidden... Without it, I cannot seize this world.","id":"0087B8"}
+{"text":"（ワシは世界を手に入れねばならんのだ。\n　終末の時の前に…\n　そして、奴等が復活する前に…）","translation":"I must seize the world. Before the end of days... and before they revive...","id":"008808"}

@@ -1,0 +1,202 @@
+{"text":"ゲームを開始します。","translation":"START","id":"misc_000001"}
+{"text":"ゲームをロードします。","translation":"LOAD","id":"misc_000002"}
+{"text":"ゲームを再開します。","translation":"CONTINUE","id":"misc_000003"}
+{"text":"ライブラリーを閲覧します。","translation":"LIBRARY","id":"misc_000004"}
+{"text":"データインストールを開始します。","translation":"DATA INSTALL","id":"misc_000005"}
+{"text":"ロボット大図鑑を閲覧します。","translation":"ROBO-ENCYCLOPEDIA","id":"misc_000006"}
+{"text":"キャラクター事典を閲覧します。","translation":"CHAR-ENCYCLOPEDIA","id":"misc_000007"}
+{"text":"サウンドを鑑賞します。","translation":"SOUND","id":"misc_000008"}
+{"text":"シナリオチャートを閲覧します。","translation":"SCENARIO","id":"misc_000009"}
+{"text":"記録メディアをチェックしています。","translation":"Checking save","id":"misc_000010"}
+{"text":"システムファイルをチェックしています。","translation":"Checking system","id":"misc_000011"}
+{"text":"ファイルをセーブしています。","translation":"Saving file","id":"misc_000012"}
+{"text":"セーブの準備をしています。","translation":"Preparing to save","id":"misc_000013"}
+{"text":"タイトルに戻りますか？","translation":"Back to title?","id":"misc_000014"}
+{"text":"記録メディアの空き容量が不足しています。\nシステムデータをセーブするには\n空き容量があと%sＫＢ以上必要です。\n他のセーブデータを削除しますか？","translation":"Insufficient space\nNeed at least %sKB\nDelete other saves?","id":"misc_000015"}
+{"text":"記録メディアの空き容量が不足しています。\nステージデータをセーブするには\n空き容量があと%sＫＢ以上必要です。\n他のセーブデータを削除しますか？","translation":"Insufficient space\nNeed at least %sKB\nDelete other saves?","id":"misc_000016"}
+{"text":"　　　　　記録メディアが差し込まれていません。　　　　　\n快適にゲームを進行するには、マップの状況を途中セーブする\n　システムデータ（５４４ＫＢ）と、クリアしたステージを　\n　　セーブするステージデータ（５１２ＫＢ）を保存できる　\n　　　空き容量のある記録メディアの使用を推奨します。　　\n　　　　　　　このままゲームを開始しますか？　　　　　　\n","translation":"No storage media\nWe recommend 544KB for system data\nand 512KB for stage data\nStart anyway?","id":"misc_000017"}
+{"text":"　　システムデータを作成する空き容量が不足しています。　\n快適にゲームを進行するには、マップの状況を途中セーブする\n　システムデータ（５４４ＫＢ）と、クリアしたステージを　\n　　セーブするステージデータ（５１２ＫＢ）を保存できる　\n　　　空き容量のある記録メディアの使用を推奨します。　　\n　　　他のセーブデータを削除してから開始しますか？　　　\n","translation":"　　システムデータを作成する空き容量が不足しています。　\n快適にゲームを進行するには、マップの状況を途中セーブする\n　システムデータ（５４４ＫＢ）と、クリアしたステージを　\n　　セーブするステージデータ（５１２ＫＢ）を保存できる　\n　　　空き容量のある記録メディアの使用を推奨します。　　\n　　　他のセーブデータを削除してから開始しますか？　　　\n","id":"misc_000018"}
+{"text":"記録メディアが差し込まれていません。\nシステムデータをセーブするには空き容量が\n%sＫＢ以上ある記録メディアが必要です。","translation":"記録メディアが差し込まれていません。\nシステムデータをセーブするには空き容量が\n%sＫＢ以上ある記録メディアが必要です。","id":"misc_000019"}
+{"text":"記録メディアが差し込まれていません。","translation":"No storage media","id":"misc_000020"}
+{"text":"記録メディアが抜かれました。","translation":"Media removed","id":"misc_000021"}
+{"text":"記録メディアが抜かれました。\nセーブを中断します。","translation":"Media removed\nSave aborted","id":"misc_000022"}
+{"text":"記録メディアの空き容量が不足しています。\nシステムデータをセーブするには\n空き容量があと%sＫＢ以上必要です。","translation":"Insufficient space\nNeed at least %sKB","id":"misc_000023"}
+{"text":"セーブに失敗しました。","translation":"Failed to save","id":"misc_000024"}
+{"text":"ロードデータがありません。","translation":"No load data","id":"misc_000025"}
+{"text":"ファイルが破損しています。","translation":"ファイルが破損しています。","id":"misc_000026"}
+{"text":"記録メディアにアクセスできません。","translation":"Media access error","id":"misc_000027"}
+{"text":"書き込み保護されている記録メディアです。","translation":"Media write protected","id":"misc_000028"}
+{"text":"記録メディアが正しく認識されませんでした。\n","translation":"Media not recognized\n","id":"misc_000029"}
+{"text":"Ｏｖｅｒｗｒｉｔｅ　ＱＳａｖｅ　Ｄａｔａ？","translation":"Ｏｖｅｒｗｒｉｔｅ　ＱＳａｖｅ　Ｄａｔａ？","id":"misc_000030"}
+{"text":"Ｒｅｓｕｍｅ　ｐｌａｙｉｎｇ？","translation":"Ｒｅｓｕｍｅ　ｐｌａｙｉｎｇ？","id":"misc_000031"}
+{"text":"続いて、システムデータの更新を行います。","translation":"Updating system data","id":"misc_000032"}
+{"text":"削除メニューを起動しますか？","translation":"削除メニューを起動しますか？","id":"misc_000033"}
+{"text":"セーブ画面を終了しますか？","translation":"セーブ画面を終了しますか？","id":"misc_000034"}
+{"text":"セーブ画面に戻りますか？","translation":"Back to save menu?","id":"misc_000035"}
+{"text":"セーブが中断されました。\n再度、システムデータをセーブしますか？","translation":"Save interrupted\nTry again?","id":"misc_000036"}
+{"text":"システムデータをセーブしますか？","translation":"Save system data?","id":"misc_000037"}
+{"text":"セーブが終了しました。\nタイトル画面に戻ります。","translation":"Save completed\nBack to title screen","id":"misc_000038"}
+{"text":"記録メディアが差し込まれていません。\nシステムデータをセーブするには空き容量が\n%sＫＢ以上ある記録メディアが必要です。\nセーブを中止しますか？","translation":"No storage media\nAt least %sKB required\nStart anyway?","id":"misc_000039"}
+{"text":"セーブを中止しました。\nタイトル画面に戻ります。","translation":"セーブを中止しました。\nタイトル画面に戻ります。","id":"misc_000040"}
+{"text":"記録メディアが差し替えられました。\n再度、システムデータをセーブしますか？","translation":"Media swapped\nRetry save?","id":"misc_000041"}
+{"text":"欧米読み","translation":"West","id":"misc_000042"}
+{"text":"姓","translation":"Last","id":"misc_000043"}
+{"text":"ひらがな","translation":"Hira","id":"misc_000044"}
+{"text":"ＲＥＤＯ","translation":"REDO","id":"misc_000045"}
+{"text":"ＯＫ","translation":"OK","id":"misc_000046"}
+{"text":"おまかせ","translation":"AUTO","id":"misc_000047"}
+{"text":"ＹＥＳ","translation":"ＹＥＳ","id":"misc_000048"}
+{"text":"ＮＯ","translation":"ＮＯ","id":"misc_000049"}
+{"text":"ＮＡＭＥ","translation":"ＮＡＭＥ","id":"misc_000050"}
+{"text":"Ｂ／Ｄ","translation":"Birth","id":"misc_000051"}
+{"text":"ＢＬＤ","translation":"Blood","id":"misc_000052"}
+{"text":"ＮＥＸＴ","translation":"ＮＥＸＴ","id":"misc_000053"}
+{"text":"　Ａ型","translation":"　Ａ","id":"misc_000054"}
+{"text":"　Ｂ型","translation":"　Ｂ","id":"misc_000055"}
+{"text":"ＡＢ型","translation":"ＡＢ","id":"misc_000056"}
+{"text":"　Ｏ型","translation":"　Ｏ","id":"misc_000057"}
+{"text":"入力をやめますか？","translation":"Cancel?","id":"misc_000058"}
+{"text":"日本読み","translation":"East","id":"misc_000059"}
+{"text":"名","translation":"First","id":"misc_000060"}
+{"text":"愛称","translation":"Nick","id":"misc_000061"}
+{"text":"カタカナ","translation":"Kata","id":"misc_000062"}
+{"text":"英数字","translation":"English","id":"misc_000063"}
+{"text":"記号","translation":"Symbol","id":"misc_000064"}
+{"text":"漢字","translation":"Kanji","id":"misc_000065"}
+{"text":"名前の読み方を切り替えます。","translation":"Change order","id":"misc_000066"}
+{"text":"名前カーソルを切り替えます。","translation":"Change cursor","id":"misc_000067"}
+{"text":"入力できる文字の種類を切り替えます。","translation":"Change characters.","id":"misc_000068"}
+{"text":"おまかせで設定します。","translation":"おまかせで設定します。","id":"misc_000069"}
+{"text":"入力カーソルを左に移動します。","translation":"Move cursor left","id":"misc_000070"}
+{"text":"入力カーソルを右に移動します。","translation":"Move cursor right","id":"misc_000071"}
+{"text":"入力を決定して終了します。","translation":"Confirm","id":"misc_000072"}
+{"text":"元に戻します。","translation":"Undo","id":"misc_000073"}
+{"text":"候補","translation":"Candidate","id":"misc_000074"}
+{"text":"入力","translation":"Input","id":"misc_000075"}
+{"text":"月","translation":"／","id":"misc_000076"}
+{"text":"日","translation":"　","id":"misc_000077"}
+{"text":"名前\n愛称","translation":"Ｎｍ\nＮｋ","id":"misc_000078"}
+{"text":"：削除　　　　　　　：空白　　　　　　　：戻る","translation":"：ＤＥＬ　　　：ＳＰ　　　　：ＢＫ　　　　　　","id":"misc_000079"}
+{"text":"部隊名","translation":"Ｇｒｐ","id":"misc_000080"}
+{"text":"：←\n：→","translation":"：←\n：→","id":"misc_000081"}
+{"text":"：削除　　　　　　　：空白　　　　　　　：戻る","translation":"：ＤＥＬ　　　：ＳＰ　　　　：ＢＫ　　　　　　","id":"misc_000082"}
+{"text":"新機動戦記ガンダムＷ","translation":"Mobile Suit Gundam Wing","id":"misc_000083"}
+{"text":"∀ガンダム","translation":"∀ Gundam","id":"misc_000084"}
+{"text":"機動戦士ガンダム００　１ｓｔ　Ｓｅａｓｏｎ","translation":"Mobile Suit Gundam 00 1st Season","id":"misc_000085"}
+{"text":"獣装機攻ダンクーガノヴァ","translation":"Dancouga Nova","id":"misc_000086"}
+{"text":"真マジンガー　衝撃！Ｚ編","translation":"Shin Mazinger Edition Z: The Impact!","id":"misc_000087"}
+{"text":"ＴＨＥビッグオー","translation":"The Big O","id":"misc_000088"}
+{"text":"超重神グラヴィオンツヴァイ","translation":"Super Heavy God Gravion Zwei","id":"misc_000089"}
+{"text":"コードギアス　反逆のルルーシュ","translation":"Code Geass: Lelouch of the Rebellion","id":"misc_000090"}
+{"text":"オリジナル","translation":"Original","id":"misc_000091"}
+{"text":"機動新世紀ガンダムＸ","translation":"After War Gundam X","id":"misc_000092"}
+{"text":"機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ","translation":"Mobile Suit Gundam SEED Destiny","id":"misc_000093"}
+{"text":"超獣機神ダンクーガ","translation":"Super Beast Machine God Dancouga","id":"misc_000094"}
+{"text":"真（チェンジ！！）ゲッターロボ　世界最後の日","translation":"Shin Getter Robo: Armageddon","id":"misc_000095"}
+{"text":"地球防衛企業ダイ・ガード","translation":"Terrestrial Defense Corp. Dai-Guard","id":"misc_000096"}
+{"text":"オーバーマン　キングゲイナー","translation":"Overman King Gainer","id":"misc_000097"}
+{"text":"創聖のアクエリオン","translation":"Genesis of Aquarion","id":"misc_000098"}
+{"text":"天元突破グレンラガン","translation":"Tengen Toppa Gurren Lagann","id":"misc_000099"}
+{"text":"マクロスＦ","translation":"Macross Frontier","id":"misc_000100"}
+{"text":"交響詩篇エウレカセブン　ポケットが虹でいっぱい","translation":"Eureka Seven: Good Night, Sleep Tight, Young Lovers","id":"misc_000101"}
+{"text":"新機動戦記ガンダムＷ","translation":"Mobile Suit Gundam Wing","id":"misc_000102"}
+{"text":"∀ガンダム","translation":"∀ Gundam","id":"misc_000103"}
+{"text":"機動戦士ガンダム００　１ｓｔ　Ｓｅａｓｏｎ","translation":"Mobile Suit Gundam 00 1st Season","id":"misc_000104"}
+{"text":"獣装機攻ダンクーガノヴァ","translation":"Dancouga Nova","id":"misc_000105"}
+{"text":"真マジンガー　衝撃！Ｚ編","translation":"Shin Mazinger Edition Z: The Impact!","id":"misc_000106"}
+{"text":"ＴＨＥビッグオー","translation":"The Big O","id":"misc_000107"}
+{"text":"超重神グラヴィオンツヴァイ","translation":"Super Heavy God Gravion Zwei","id":"misc_000108"}
+{"text":"コードギアス　反逆のルルーシュ","translation":"Code Geass: Lelouch of the Rebellion","id":"misc_000109"}
+{"text":"劇場版　天元突破グレンラガン　紅蓮篇","translation":"Gurren Lagann the Movie: Childhood's End","id":"misc_000110"}
+{"text":"劇場版マクロスＦ～イツワリノウタヒメ～","translation":"Macross Frontier the Movie: The False Songstress","id":"misc_000111"}
+{"text":"オリジナル","translation":"Original","id":"misc_000112"}
+{"text":"機動新世紀ガンダムＸ","translation":"After War Gundam X","id":"misc_000113"}
+{"text":"機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ","translation":"Mobile Suit Gundam SEED Destiny","id":"misc_000114"}
+{"text":"超獣機神ダンクーガ","translation":"Super Beast Machine God Dancouga","id":"misc_000115"}
+{"text":"真（チェンジ！！）ゲッターロボ　世界最後の日","translation":"Shin Getter Robo: Armageddon","id":"misc_000116"}
+{"text":"地球防衛企業ダイ・ガード","translation":"Terrestrial Defense Corp. Dai-Guard","id":"misc_000117"}
+{"text":"オーバーマン　キングゲイナー","translation":"Overman King Gainer","id":"misc_000118"}
+{"text":"創聖のアクエリオン","translation":"Genesis of Aquarion","id":"misc_000119"}
+{"text":"天元突破グレンラガン","translation":"Tengen Toppa Gurren Lagann","id":"misc_000120"}
+{"text":"マクロスＦ","translation":"Macross Frontier","id":"misc_000121"}
+{"text":"交響詩篇エウレカセブン　ポケットが虹でいっぱい","translation":"Eureka Seven: Good Night, Sleep Tight, Young Lovers","id":"misc_000122"}
+{"text":"機動戦士ガンダム００　１ｓｔ　Ｓｅａｓｏｎ","translation":"Mobile Suit Gundam 00 1st Season","id":"misc_000123"}
+{"text":"超獣機神ダンクーガ","translation":"Super Beast Machine God Dancouga","id":"misc_000124"}
+{"text":"獣装機攻ダンクーガノヴァ","translation":"Dancouga Nova","id":"misc_000125"}
+{"text":"真（チェンジ！！）ゲッターロボ　世界最後の日","translation":"Shin Getter Robo: Armageddon","id":"misc_000126"}
+{"text":"真マジンガー　衝撃！Ｚ編","translation":"Shin Mazinger Edition Z: The Impact!","id":"misc_000127"}
+{"text":"地球防衛企業ダイ・ガード","translation":"Terrestrial Defense Corp. Dai-Guard","id":"misc_000128"}
+{"text":"ＴＨＥビッグオー","translation":"The Big O","id":"misc_000129"}
+{"text":"オーバーマン　キングゲイナー","translation":"Overman King Gainer","id":"misc_000130"}
+{"text":"超重神グラヴィオンツヴァイ","translation":"Super Heavy God Gravion Zwei","id":"misc_000131"}
+{"text":"創聖のアクエリオン","translation":"Genesis of Aquarion","id":"misc_000132"}
+{"text":"コードギアス　反逆のルルーシュ","translation":"Code Geass: Lelouch of the Rebellion","id":"misc_000133"}
+{"text":"天元突破グレンラガン","translation":"Tengen Toppa Gurren Lagann","id":"misc_000134"}
+{"text":"劇場版　天元突破グレンラガン　紅蓮篇","translation":"Gurren Lagann the Movie: Childhood's End","id":"misc_000135"}
+{"text":"マクロスＦ","translation":"Macross Frontier","id":"misc_000136"}
+{"text":"劇場版マクロスＦ～イツワリノウタヒメ～","translation":"Macross Frontier the Movie: The False Songstress","id":"misc_000137"}
+{"text":"交響詩篇エウレカセブン　ポケットが虹でいっぱい","translation":"Eureka Seven:\nGood Night, Sleep Tight, Young Lovers","id":"misc_000138"}
+{"text":"オリジナル","translation":"Original","id":"misc_000139"}
+{"text":"特殊スキル「社長」の効果で","translation":"Pres. skill:","id":"misc_000140"}
+{"text":"出撃したパイロットに","translation":"For pilots","id":"misc_000141"}
+{"text":"ＰＰが%sずつ加算されました。","translation":"%s PP each.","id":"misc_000142"}
+{"text":"%sのエースボーナスの効果で","translation":"Ace Bonus: %s","id":"misc_000143"}
+{"text":"資金を%s入手しました。","translation":"Got %s funds","id":"misc_000144"}
+{"text":"強化パーツ『%s』を","translation":"Part '%s'","id":"misc_000145"}
+{"text":"入手しました。","translation":"Got it.","id":"misc_000146"}
+{"text":"離脱するロボットの強化パーツをはずしますか？","translation":"Unequip robot parts?","id":"misc_000147"}
+{"text":"ロジャーの特殊スキルによって、","translation":"Roger's skill:","id":"misc_000148"}
+{"text":"清算金額が０になりました。","translation":"Cost now 0","id":"misc_000149"}
+{"text":"－－－－－－－","translation":"－－－－－－－","id":"misc_000150"}
+{"text":"合神して５ターン経過すると、ダンクーガノヴァは","translation":"After 5T, D.Nova","id":"misc_000151"}
+{"text":"機関暴走を迎え、合神は自動的に解除されます。","translation":"goes berserk & splits","id":"misc_000152"}
+{"text":"その後、同じマップ上では、再合神は出来ません。","translation":"Can't recombine.","id":"misc_000153"}
+{"text":"合神しますか？","translation":"Merge?","id":"misc_000154"}
+{"text":"単分離を実行すると、","translation":"If split","id":"misc_000155"}
+{"text":"同じマップ上では現形態に戻れません。","translation":"Can't revert.","id":"misc_000156"}
+{"text":"単分離しますか？","translation":"Split?","id":"misc_000157"}
+{"text":"－－－－","translation":"----","id":"misc_000158"}
+{"text":"？？？？","translation":"????","id":"misc_000159"}
+{"text":"獲得済","translation":"Got","id":"misc_000160"}
+{"text":"未獲得","translation":"Not","id":"misc_000161"}
+{"text":"ゲームオーバー後の再プレイのため、ＳＲポイントは獲得できません。","translation":"Cannot get SR Point on Replay.","id":"misc_000162"}
+{"text":"ＳＲポイント獲得済みです。","translation":"Got SR Point.","id":"misc_000163"}
+{"text":"宇宙戦士バルディオス","translation":"Space Warrior Baldios","id":"misc_000164"}
+{"text":"無敵鋼人ダイターン３","translation":"Invincible Steel Man Daitarn 3","id":"misc_000165"}
+{"text":"六神合体ゴッドマーズ","translation":"Six God Combination Godmars","id":"misc_000166"}
+{"text":"宇宙大帝ゴッドシグマ","translation":"Space Emperor God Sigma","id":"misc_000167"}
+{"text":"超時空世紀オーガス","translation":"Super Dimension Century Orguss","id":"misc_000168"}
+{"text":"無敵ロボ　トライダーＧ７","translation":"Invincible Robot Trider G7","id":"misc_000169"}
+{"text":"装甲騎兵ボトムズ","translation":"Armored Trooper VOTOMS","id":"misc_000170"}
+{"text":"装甲騎兵ボトムズ　ザ・ラストレッドショルダー","translation":"Armored Trooper VOTOMS: The Last Red Shoulder","id":"misc_000171"}
+{"text":"装甲騎兵ボトムズ　ペールゼン・ファイルズ","translation":"Armored Trooper VOTOMS: Pailsen Files","id":"misc_000172"}
+{"text":"装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ","translation":"VOTOMS: RSD: The Roots of Ambition","id":"misc_000173"}
+{"text":"戦闘メカ　ザブングル","translation":"Combat Mecha Xabungle","id":"misc_000174"}
+{"text":"無敵超人ザンボット３","translation":"Invincible Super Man Zambot 3","id":"misc_000175"}
+{"text":"宇宙戦士バルディオス","translation":"Space Warrior Baldios","id":"misc_000176"}
+{"text":"無敵鋼人ダイターン３","translation":"Invincible Steel Man Daitarn 3","id":"misc_000177"}
+{"text":"六神合体ゴッドマーズ","translation":"Six God Combination Godmars","id":"misc_000178"}
+{"text":"宇宙大帝ゴッドシグマ","translation":"Space Emperor God Sigma","id":"misc_000179"}
+{"text":"超時空世紀オーガス","translation":"Super Dimension Century Orguss","id":"misc_000180"}
+{"text":"無敵ロボ　トライダーＧ７","translation":"Invincible Robot Trider G7","id":"misc_000181"}
+{"text":"装甲騎兵ボトムズ","translation":"Armored Trooper VOTOMS","id":"misc_000182"}
+{"text":"装甲騎兵ボトムズ　ザ・ラストレッドショルダー","translation":"Armored Trooper VOTOMS: The Last Red Shoulder","id":"misc_000183"}
+{"text":"装甲騎兵ボトムズ　ペールゼン・ファイルズ","translation":"Armored Trooper VOTOMS: Pailsen Files","id":"misc_000184"}
+{"text":"装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ","translation":"VOTOMS: RSD: The Roots of Ambition","id":"misc_000185"}
+{"text":"戦闘メカ　ザブングル","translation":"Combat Mecha Xabungle ","id":"misc_000186"}
+{"text":"無敵超人ザンボット３","translation":"Invincible Super Man Zambot 3","id":"misc_000187"}
+{"text":"機動戦士Ｚガンダム","translation":"Mobile Suit Zeta Gundam","id":"misc_000188"}
+{"text":"宇宙戦士バルディオス","translation":"Space Warrior Baldios","id":"misc_000189"}
+{"text":"無敵鋼人ダイターン３","translation":"Invincible Steel Man Daitarn 3","id":"misc_000190"}
+{"text":"六神合体ゴッドマーズ","translation":"Six God Combination Godmars","id":"misc_000191"}
+{"text":"宇宙大帝ゴッドシグマ","translation":"Space Emperor God Sigma","id":"misc_000192"}
+{"text":"機動戦士ガンダム　逆襲のシャア","translation":"Mobile Suit Gundam: Char's Counterattack","id":"misc_000193"}
+{"text":"超時空世紀オーガス","translation":"Super Dimension Century Orguss","id":"misc_000194"}
+{"text":"無敵ロボ　トライダーＧ７","translation":"Invincible Robot Trider G7","id":"misc_000195"}
+{"text":"装甲騎兵ボトムズ","translation":"Armored Trooper VOTOMS","id":"misc_000196"}
+{"text":"装甲騎兵ボトムズ　ザ・ラストレッドショルダー","translation":"Armored Trooper VOTOMS: The Last Red Shoulder","id":"misc_000197"}
+{"text":"装甲騎兵ボトムズ　ペールゼン・ファイルズ","translation":"Armored Trooper VOTOMS: Pailsen Files","id":"misc_000198"}
+{"text":"装甲騎兵ボトムズ　レッドショルダードキュメント　野望のルーツ","translation":"VOTOMS: RSD: The Roots of Ambition","id":"misc_000199"}
+{"text":"戦闘メカ　ザブングル","translation":"Combat Mecha Xabungle ","id":"misc_000200"}
+{"text":"無敵超人ザンボット３","translation":"Invincible Super Man Zambot 3","id":"misc_000201"}
+{"text":"機動戦士Ｚガンダム","translation":"Mobile Suit Zeta Gundam","id":"misc_000202"}

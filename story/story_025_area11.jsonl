@@ -1,0 +1,342 @@
+{"text":"敵の全滅。","translation":"Defeat all enemies.","id":"000500"}
+{"text":"ブルーティッシュドッグの撃墜。","translation":"Shoot down the Brutishdog.","id":"000510"}
+{"text":"ランスロットの撃墜。","translation":"Shoot down the Lancelot.","id":"000530"}
+{"text":"ゼロ、またはキリコの撃墜。","translation":"Shoot down Zero or Chirico.","id":"000558"}
+{"text":"ゼロの撃墜。","translation":"Shoot down Zero.","id":"000578"}
+{"text":"５ターン味方フェイズ以内に敵を全滅させる。","translation":"Defeat all enemies within 5 allied phases.","id":"000590"}
+{"text":"５ターン味方フェイズ以内に他の敵を全滅させた後、\n最後にランスロットを撃墜する。","translation":"After defeating others in 5 turns,\nfinish Lancelot last.","id":"0005C0"}
+{"text":"「ディートハルトからの情報では\n　治安警察は我々を殲滅すべく、\n　ゲットーを焼き討ちするらしい」","translation":"According to information from Diethard, the security police plan to burn down the ghetto to wipe us out.","id":"000930"}
+{"text":"「ここで奴等を迎え撃つぞ」","translation":"We'll intercept them here.","id":"000998"}
+{"text":"「了解した」","translation":"Understood.","id":"0009B8"}
+{"text":"「………」","translation":"...","id":"0009D0"}
+{"text":"「迷っているのか？」","translation":"Are you hesitating?","id":"0009E8"}
+{"text":"「え…」","translation":"Huh...?","id":"000A08"}
+{"text":"「この通信は個人回線だ。\n　他の団員に聞かれる事はない」","translation":"This is a private line. No one else in the Order can hear us.","id":"000A18"}
+{"text":"「…あたしは正義のためだと…\n　それが正しい事だと思って\n　今まで戦ってきました」","translation":"...I've been fighting all this time because I believed it was for justice... because I thought it was the right thing to do.","id":"000A58"}
+{"text":"「でも…本当に…本当にあたし達のやり方で\n　世界が変えられるのでしょうか！？」","translation":"But... can we really... really change the world with our methods!?","id":"000AB0"}
+{"text":"「変えられる。\n　いや、変えねばならない」","translation":"We can. No, we must.","id":"000B08"}
+{"text":"「でも…！」","translation":"But...!","id":"000B38"}
+{"text":"「犠牲が出るか…。\n　兵士ではないのに巻き込まれて死ぬ者が」","translation":"There will be sacrifices... People who aren't even soldiers will get caught up in this and die.","id":"000B50"}
+{"text":"「だが、だからこそ\n　我々は立ち止まる事は出来ない」","translation":"But that's exactly why we can't afford to stop.","id":"000B98"}
+{"text":"「たとえ、どんな手段を使っても、\n　卑怯だと罵られようとも、勝つしかないんだ」","translation":"No matter what means we use, no matter if we're called cowards, we have to win.","id":"000BD8"}
+{"text":"「…そのためなら修羅になるべきだ。\n　流した血を無駄にしないためにも\n　さらなる血を流してみせる」","translation":"...For that, we must become demons. To make sure the blood already spilled wasn't in vain, we'll spill even more.","id":"000C30"}
+{"text":"「…だが、強制はしない。\n　カレン、引き返すなら今だ」","translation":"...But I won't force you. Karen, if you're going to turn back, now is the time.","id":"000C98"}
+{"text":"「共に進みます。\n　あたしは、あなたと共に」","translation":"I'll go on with you. I'll stay with you.","id":"000CD8"}
+{"text":"「ありがとう、カレン」","translation":"Thank you, Karen.","id":"000D10"}
+{"text":"（さあ、ゼロ…見せてもらいますよ。\n　あなたの戦いを）","translation":"Now then, Zero... let me see it. Your battle.","id":"000D30"}
+{"text":"（役立たずの解放戦線の生き残りを\n　勝つためのトラップとして使用したあなた…）","translation":"You used the useless remnants of the Liberation Front as a trap to secure victory...","id":"000D78"}
+{"text":"（フフ…やはりあなたは素晴らしき素材…\n　カオスの権化だ！）","translation":"Heh... just as I thought, you're magnificent material... the very embodiment of chaos!","id":"000DD8"}
+{"text":"（もっと…もっと見せてくれ、私に！\n　あなたの主観に満ちた世界を！）","translation":"More... show me more! Show me your world, overflowing with your own subjectivity!","id":"000E28"}
+{"text":"「治安警察の部隊を確認！\n　来るぞ！」","translation":"Public Security Police units confirmed! Here they come!","id":"000E80"}
+{"text":"「出てきたぜ、ブリキ野郎の飼い犬が！」","translation":"There they are, the Tin Man's watchdogs!","id":"001270"}
+{"text":"「アストラギウスの人間も\n　生きていくのに必死なのさ」","translation":"The people of Astragius are just desperate to survive too.","id":"0012A0"}
+{"text":"「だが、ブリタニア・ユニオンについた以上、\n　容赦はしない…！」","translation":"But now that they've sided with the Britannian Union, we won't show them any mercy...!","id":"0012E0"}
+{"text":"「キリコ、お前には私の直衛を命じる」","translation":"Chirico, I'm assigning you to my personal guard.","id":"001328"}
+{"text":"「わかった」","translation":"Understood.","id":"001358"}
+{"text":"（ガンダムのパイロット達は\n　ナリタの戦いで俺とは距離を置いている）","translation":"The Gundam pilots have kept their distance from me since the Battle of Narita.","id":"001370"}
+{"text":"（俺がブリタニア・ユニオンと戦う以上、\n　離反する事はないと思うが、\n　注意が必要だろう）","translation":"As long as I am fighting the Britannian Union, I don't think they will defect, but caution is necessary.","id":"0013C0"}
+{"text":"「各機、攻撃開始！\n　ゲットーの市民を守るために戦え！」","translation":"All units, begin your attack! Fight to protect the citizens of the ghetto!","id":"001420"}
+{"text":"「とりあえず、了解だ…！」","translation":"For now, understood...!","id":"001460"}
+{"text":"「奴は…」","translation":"It's him...","id":"001620"}
+{"text":"「キリコのストーカーかよ…！」","translation":"What is he, Chirico's stalker or something...!?","id":"001638"}
+{"text":"「………」","translation":"...","id":"001660"}
+{"text":"「奴が来たか」","translation":"So he's come.","id":"001678"}
+{"text":"「キリコ、お前の役目は私の直衛だ。\n　勝手は許さん…！」","translation":"Chirico, your role is to serve as my personal guard. I won't allow you to act on your own...!","id":"001690"}
+{"text":"「奴は俺を狙ってくる。\n　下手にお前の近くにいると\n　巻き込むことになる」","translation":"He's after me. If I stay too close to you, you'll get caught up in it.","id":"0016D0"}
+{"text":"「………」","translation":"...","id":"001720"}
+{"text":"「…いいだろう。\n　あのＡＴの戦闘力は脅威となる。\n　お前が奴を止めろ」","translation":"...Very well. That AT's combat capability is a threat. You stop him.","id":"001730"}
+{"text":"「あのＡＴ…通常の治安警察の部隊とは\n　別の管轄のようだな」","translation":"That AT... seems to be under a different chain of command from the regular Public Security Police units.","id":"001780"}
+{"text":"「スペシャルってわけかよ。\n　気をつけろよ、キリコ」","translation":"So it's some kind of special unit, huh? Watch yourself, Chirico.","id":"0017C8"}
+{"text":"「………」","translation":"...","id":"001800"}
+{"text":"「う…！」","translation":"Ugh...!","id":"001A38"}
+{"text":"「待て…！」","translation":"Wait...!","id":"001AF0"}
+{"text":"「いけない…！\n　あの位置は！」","translation":"This is bad...! At that position...!","id":"001BA8"}
+{"text":"「足場が崩れたか…！」","translation":"The footing gave way...!","id":"001C70"}
+{"text":"「ゲットーの地下は深い！\n　どこまで落ちたか、わからんぞ！」","translation":"The underground beneath the ghetto is deep! There's no telling how far he fell!","id":"001C90"}
+{"text":"「待て！　敵の増援が来る！」","translation":"Wait! Enemy reinforcements are coming!","id":"001CD0"}
+{"text":"「ブリタニアの白兜か！」","translation":"Britannia's White Knight!","id":"001DD8"}
+{"text":"「聞こえる、スザク君？\n　曰く、今回の出撃は\n　ブリタニアへの忠誠を示すチャンスだってさ」","translation":"Can you hear me, Suzaku-kun? They say this sortie is your chance to prove your loyalty to Britannia.","id":"001DF8"}
+{"text":"「ナンバーズ出身である僕に\n　黒の騎士団を相手にさせるのか…」","translation":"They're sending me, a former Number, against the Black Knights...?","id":"001E58"}
+{"text":"「踏み絵かな…。\n　どうする…試されてるよ、君」","translation":"A loyalty test, maybe...? What'll you do? They're testing you, you know.","id":"001EA0"}
+{"text":"「やります…！\n　僕はゼロのやり方を許せませんから！」","translation":"I'll do it...! I can't forgive Zero's methods!","id":"001ED8"}
+{"text":"「…スザク君、\n　こんな時に何だけど、一つ聞くよ」","translation":"...Suzaku-kun, this is hardly the time, but let me ask you one thing.","id":"001F18"}
+{"text":"「君は人が死ぬのを極端に嫌うねぇ。\n　なのに軍隊にいる。\n　な～ぜだ～い？」","translation":"You really hate seeing people die. And yet you're in the military. Why~ is~ that~?","id":"001F58"}
+{"text":"「死なせたくないから軍隊にいるんです」","translation":"I'm in the military because I don't want people to die.","id":"001FB0"}
+{"text":"「その矛盾はさ…いつか君を殺すよ」","translation":"That contradiction of yours... it'll kill you someday.","id":"001FE0"}
+{"text":"「…ランスロット、行きます！」","translation":"...Lancelot, moving out!","id":"002010"}
+{"text":"「奴の狙いは私か…！\n　各機、白兜を迎え撃て！」","translation":"So he's targeting me...! All units, intercept the White Knight!","id":"002038"}
+{"text":"「ちっ…キリコの救出は後回しか！」","translation":"Tch... rescuing Chirico will have to wait!","id":"002070"}
+{"text":"「ゼロ！\n　お前のやり方じゃ何も変えられない！」","translation":"Zero! Your way won't change a thing!","id":"002098"}
+{"text":"「結果ばかり追い求めて、\n　他人の痛みがわからないお前では！！」","translation":"You only care about results, and you don't understand anyone else's pain!!","id":"0020D0"}
+{"text":"（あれが黒の騎士団…。\n　あの人達がお父さんを…）","translation":"So that's the Black Knights... Those are the people who killed Dad...","id":"002118"}
+{"text":"「しまった…！」","translation":"Damn it...!","id":"0023B8"}
+{"text":"「各機、白兜に集中攻撃だ！\n　ここで奴を仕留めるぞ！」","translation":"All units, focus fire on the White Knight! We'll finish him here!","id":"0023D0"}
+{"text":"「ゼロ！　お前だけは、この手で！」","translation":"Zero! You're the one I'll take down with my own hands!","id":"002410"}
+{"text":"「何っ！？」","translation":"What!?","id":"002520"}
+{"text":"「うおおおおおっ！！」","translation":"Uoooooooh!!","id":"002538"}
+{"text":"「！」","translation":"!","id":"002618"}
+{"text":"「くっ！　コントロールが効かん！」","translation":"Damn! I can't control it!","id":"002630"}
+{"text":"「これでは！」","translation":"At this rate...!","id":"002718"}
+{"text":"「ゼロがやられた！」","translation":"Zero's been taken out!","id":"0027D0"}
+{"text":"「あいつ…あの白兜とは\n　とことん相性が悪いな！」","translation":"That guy... he really has the worst chemistry with that White Knight!","id":"0027F0"}
+{"text":"「ランスロットもここまでか…！\n　後は他の部隊に任せるしかない！」","translation":"So this is as far as Lancelot goes...! I'll have to leave the rest to the other units!","id":"002830"}
+{"text":"「気をつけろ、みんな！\n　また増援が来る！」","translation":"Watch out, everyone! More reinforcements are coming!","id":"002960"}
+{"text":"「こいつらを倒さなければ、\n　ゼロの救出に向かえんか！」","translation":"If we don't take these guys down, we can't go rescue Zero!","id":"002A30"}
+{"text":"「ゼロの方には杉山達を回します！」","translation":"I'll send Sugiyama and the others to Zero's location!","id":"002A70"}
+{"text":"「だったら、あたし達は敵の相手をする！」","translation":"Then we'll handle the enemy!","id":"002A98"}
+{"text":"（待っていて、ゼロ…！\n　必ずあたし達が助けに行くから！）","translation":"Hang on, Zero...! We'll definitely come save you!","id":"002AC8"}
+{"text":"（無様なものだね、ゼロ…。\n　君にＣ．Ｃ．は不釣合いだよ）","translation":"Pathetic, Zero... C.C. is wasted on you.","id":"002B10"}
+{"text":"（この感覚は何だ…。\n　俺は自分を狙ってくるこの女に対し、\n　敵意を感じていない…）","translation":"What is this feeling...? I don't feel any hostility toward this woman who's targeting me...","id":"002C78"}
+{"text":"（俺は…この女に何を求めている…）","translation":"What am I... seeking from this woman...?","id":"002CD8"}
+{"text":"「こいつの反応速度…！\n　人間業じゃねえ！」","translation":"That reaction speed...! That's not humanly possible!","id":"002DE8"}
+{"text":"「おまけに、このカスタムＡＴだ…！\n　いったい何者だってんだ…！？」","translation":"And on top of that, this custom AT...! Just who the hell is she...!?","id":"002E18"}
+{"text":"（何故…いつも貴様は俺の邪魔をする…！）","translation":"Why... do you always get in my way...!","id":"002F20"}
+{"text":"（どうしてお前は無意味に人の血を流す！）","translation":"Why do you spill people's blood so needlessly?!","id":"002F50"}
+{"text":"（貴様さえ、いなければ！）","translation":"If only you weren't here...!","id":"002F80"}
+{"text":"（お前がいるからっ！）","translation":"It's because you're here!","id":"002FA0"}
+{"text":"「白兜…！\n　あんたがゼロを狙うなら、あたしが\n　相手になる！」","translation":"White Knight...! If you're going after Zero, then you'll have to deal with me!","id":"0030C0"}
+{"text":"「あたしはゼロと共に進む！\n　迷いも後悔も振り切って！」","translation":"I'll move forward with Zero! Casting aside all my doubts and regrets!","id":"003108"}
+{"text":"（このＫＭＦ…！\n　乗っているのは藤堂さんか！）","translation":"This KMF...! Is Tohdoh the one piloting it?!","id":"003208"}
+{"text":"（私の知っている動き…！\n　このＫＭＦのパイロット、まさか…！）","translation":"I know those movements...! The pilot of this KMF... it can't be...!","id":"003240"}
+{"text":"（この動き…\n　俺は一度、見た事がある…）","translation":"This movement... I've seen it before...","id":"003348"}
+{"text":"（このＫＭＦのパイロット…\n　ユーフェミアと一緒にいたあの男か…！）","translation":"This KMF pilot... Is he that man who was with Euphemia...?!","id":"003380"}
+{"text":"「特派の開発した新型ＫＭＦ…！\n　こいつのデータはチーフから\n　回してもらっている！」","translation":"The Special Division's new KMF...! The chief already passed its data on to me!","id":"003490"}
+{"text":"「乗り手がなかなか決まらなかった荒馬だ。\n　乗りこなしてる奴は尊敬に値するぜ…！」","translation":"It's a wild horse that was hard to find a rider for. Anyone who can master it has my respect...!","id":"0034E8"}
+{"text":"「あ！」","translation":"Ah!","id":"003600"}
+{"text":"キョウト　アジト","translation":"Kyoto Hideout","id":"003778"}
+{"text":"　\n　　\n　　　　　　　　～キョウト本部～","translation":"~Kyoto Headquarters~","id":"003790"}
+{"text":"「…そうか。\n　藤堂はゼロについたか」","translation":"...I see. So Tohdoh has sided with Zero.","id":"0037C0"}
+{"text":"「これで黒の騎士団は名実共に\n　日本最大のレジスタンスグループになったと\n　言えよう」","translation":"With this, the Black Knights can truly be called Japan's largest resistance group, in name and in fact.","id":"0037F0"}
+{"text":"「ボートマン…いや、エルガン・ローディック…\n　これも貴様の筋書きか？」","translation":"Boatman... no, Elgan Roddick... Was this your scheme too?","id":"003850"}
+{"text":"「私は演出家を気取るつもりはない。\n　全てはゼロの才覚だ」","translation":"I have no intention of playing director. This is all due to Zero's own talents.","id":"0038A0"}
+{"text":"「そして、彼が本気で\n　ブリタニア・ユニオンを討つ気であるのは\n　あなたも知っていよう」","translation":"And you know that he is serious about bringing down the Britannia Union.","id":"0038E8"}
+{"text":"「貴様の情報通り、\n　ゼロがワシの知るあの少年であるならばの話だ」","translation":"That is, if Zero is indeed that boy I know, as your intel suggests.","id":"003948"}
+{"text":"「しかし、国連の平和維持理事会の代表が\n　レジスタンスに加担している事が発覚すれば、\n　世界が震撼するだろうな」","translation":"However, if it were discovered that a UN council representative was aiding the resistance, the world would be shaken.","id":"003990"}
+{"text":"「それはあなたも同じだ」","translation":"The same goes for you.","id":"003A08"}
+{"text":"「桐原泰三…。\n　旧日本財閥の一門にして、現在は\n　ブリタニア政府公認のイレヴン自治組織代表…」","translation":"Taizo Kirihara... Former zaibatsu, now head of an Eleven self-rule group approved by Britannia...","id":"003A30"}
+{"text":"「その実態は秘密結社キョウトの首魁…\n　日本のレジスタンス活動の影の指導者」","translation":"But in truth, you are the leader of the secret society Kyoto... the shadow leader of Japan's resistance movement.","id":"003A98"}
+{"text":"「…ゼロが、あの少年であるならば、\n　奴が人質として日本に来た時から知っている」","translation":"...If Zero is that boy, then I've known him since the day he came to Japan as a hostage.","id":"003AF0"}
+{"text":"「奴がブリタニアを憎むのも当然だろう。\n　その存在を父親に抹殺されたに等しいからな」","translation":"It's only natural he'd hate Britannia. His very existence was all but erased by his father.","id":"003B48"}
+{"text":"「では、引き続き、黒の騎士団の支援を要請する。\n　こちらからも必要な情報を送る」","translation":"Then I ask that you continue supporting the Black Knights. We'll send you the necessary information as well.","id":"003BA8"}
+{"text":"「何故、貴様は危険を冒してまで\n　日本解放に協力する？」","translation":"Why would you risk yourself to help liberate Japan?","id":"003C08"}
+{"text":"「…私が望むのは人類全体の利益だ。\n　そのためにはゼロの力も必要なのだ」","translation":"...What I seek is the good of all humanity. For that, I need Zero's power as well.","id":"003C48"}
+{"text":"「日本の行く末には興味がないと？」","translation":"So you have no interest in Japan's future?","id":"003CA0"}
+{"text":"「日本も世界の一部だ。\n　…また連絡する」","translation":"Japan is also part of the world. ...I'll contact you again.","id":"003CC8"}
+{"text":"（エルガン・ローディック…。\n　奴に私心がないのは明らかだ）","translation":"Elgan Roddick... It's clear he has no selfish motives.","id":"003D00"}
+{"text":"（故に気になる。\n　奴が見据える先に何があるかが…）","translation":"And that is precisely what concerns me. What it is he's looking toward...","id":"003D48"}
+{"text":"「お話は終わりまして？」","translation":"Are you finished with your discussion?","id":"003D88"}
+{"text":"「うむ…」","translation":"Yes...","id":"003DA8"}
+{"text":"「桐原様はゼロ様の正体をご存知で？」","translation":"Lord Kirihara, do you know Zero's true identity?","id":"003DB8"}
+{"text":"「一応はな。\n　だが、盟約に基づき、\n　そなたが相手でも口外は出来ぬ」","translation":"To a degree. But by our pact, I cannot speak of it, even to you.","id":"003DE8"}
+{"text":"「構いませんわ。\n　私が興味あるのは、あの方の向かう先です」","translation":"That's quite all right. What interests me is where that person is headed.","id":"003E38"}
+{"text":"「ゼロを気に入ったか？」","translation":"Have you taken a liking to Zero?","id":"003E80"}
+{"text":"「ええ…。\n　ナリタでの勝利を聞けば、いやが上にも」","translation":"Yes... After hearing of his victory at Narita, I could hardly help it.","id":"003EA0"}
+{"text":"「仮面の下で、あの方は\n　何を想うのでしょうか…」","translation":"I wonder what he's thinking beneath that mask...","id":"003EE0"}
+{"text":"黒ベタ","translation":"Black screen","id":"003F20"}
+{"text":"アーリントン墓地","translation":"Arlington Cemetery","id":"003F28"}
+{"text":"　\n　　\n　　　　　　　　　　～墓地～","translation":"~Cemetery~","id":"003F40"}
+{"text":"「…みんな、ありがとう。\n　お父さんのお葬式に来てくれて…」","translation":"...Thank you, everyone. For coming to my father's funeral...","id":"003F68"}
+{"text":"「その…ごめんなさい、シャーリー…」","translation":"Um... I'm sorry, Shirley...","id":"003FB0"}
+{"text":"「やだな…何で謝るの？」","translation":"Don't be silly... Why are you apologizing?","id":"003FE0"}
+{"text":"「俺も…ごめん」","translation":"I... I'm sorry too.","id":"004008"}
+{"text":"「そのさ…俺、ホテルジャックの時、\n　テレビとか見てて…黒の騎士団って\n　ちょっとかっこいいかも…とか思って…」","translation":"I mean... when the hotel was taken over, I was watching TV and stuff... and I thought the Black Knights were kind of cool...","id":"004028"}
+{"text":"「ほら…ニュースでも扱い違ってたし、\n　ナリタの事もなんかすげえって掲示板で\n　適当な事、書き込みしたり…」","translation":"You know... even the news treated them differently, and I posted random stuff on message boards about Narita...","id":"0040A0"}
+{"text":"「だから、ごめん…」","translation":"So... I'm sorry...","id":"004118"}
+{"text":"「そんな事ないよ。\n　そんなの全然関係ないって。\n　私だってナリタの事には…」","translation":"That's not true. It has nothing to do with that at all. Even I... about Narita...","id":"004138"}
+{"text":"「よしなって！」","translation":"That's enough!","id":"004190"}
+{"text":"「それより私はあんたの事が気がかり。\n　ちゃんと泣いた？\n　今、変に耐えると後でもっと辛くなるよ」","translation":"More importantly, I'm worried about you. Did you cry enough? If you hold it in now, it'll just hurt more later.","id":"0041A8"}
+{"text":"「…もういいの。\n　もう十分、泣いたから」","translation":"...It's okay. I've already cried enough.","id":"004210"}
+{"text":"「………」","translation":".........","id":"004248"}
+{"text":"「卑怯だ…！\n　黒の騎士団は…ゼロのやり方は卑怯だ！」","translation":"It's cowardly...! The Black Knights... Zero's methods are cowardly!","id":"004260"}
+{"text":"「自分で仕掛けるのでもなく、\n　ただ人の尻馬に乗って、事態をかき回しては\n　審判者を気取って、勝ち誇る…！」","translation":"They don't even act on their own, just ride on others' coattails, stir up trouble, then act like judges and crow about it...!","id":"0042A0"}
+{"text":"「あれじゃ何も変えられない…！\n　間違ったやり方で得た結果なんて\n　意味はないのに…！」","translation":"That won't change anything...! Results gained through the wrong methods are meaningless...!","id":"004318"}
+{"text":"「………」","translation":".........","id":"004378"}
+{"text":"「…行こう、シャーリー。\n　みんなも…」","translation":"...Let's go, Shirley. Everyone else too...","id":"004390"}
+{"text":"「はい…」","translation":"Yes...","id":"0043C0"}
+{"text":"（ごめんなさい、シャーリーさん…。\n　私は…どうすればいいかわかりません…）","translation":"I'm sorry, Shirley... I... don't know what I should do...","id":"0043D8"}
+{"text":"「ルルーシュ…」","translation":"Lelouch...","id":"004430"}
+{"text":"「先に行ってくれ。\n　少し…一人になりたい…」","translation":"Go on ahead. I... want to be alone for a while...","id":"004448"}
+{"text":"「わかった…」","translation":"Okay...","id":"004488"}
+{"text":"「シャーリー…俺は…」","translation":"Shirley... I...","id":"0044A0"}
+{"text":"「悔いているのか、\n　友人の父親を巻き込んだ事を」","translation":"Do you regret dragging your friend's father into this?","id":"0044C8"}
+{"text":"「黙れ」","translation":"Shut up.","id":"004508"}
+{"text":"「ゲームのつもりででもいたか？\n　今までもお前は多くの人間を殺してきた。\n　その手で…あるいはお前の言葉で」","translation":"Did you think this was a game? You've killed many people until now. With your own hands... or with your words.","id":"004520"}
+{"text":"「そいつらにも家族はいた。\n　恋人も友人も」","translation":"They had families, too. Lovers and friends.","id":"004598"}
+{"text":"「まさか理解してなかったとでも言うつもりか？\n　お前の覚悟とは、その程度の…」","translation":"Don't tell me you didn't realize that. Is that the extent of your resolve...?","id":"0045D0"}
+{"text":"「黙れ！」","translation":"Shut up!","id":"004628"}
+{"text":"「覚悟はあるさ…！\n　あの時…クロヴィスを殺したあの時からな！」","translation":"I do have resolve...! Ever since that day... ever since I killed Clovis!","id":"004640"}
+{"text":"「なら、なぜ今さら迷う？\n　それとも情で揺らいだか？\n　せがまれるままにあの娘にキスして」","translation":"Then why are you hesitating now? Or did your feelings make you waver? You kissed that girl just because she begged you to...","id":"004690"}
+{"text":"「くっ…」","translation":"Tch...","id":"0046F8"}
+{"text":"「どれだけ偉そうな事を言っても\n　所詮は口先だけの頭でっかちな童貞坊やか」","translation":"For all your lofty words, in the end you're just an all-talk, big-headed virgin boy.","id":"004710"}
+{"text":"「！」","translation":"!","id":"004768"}
+{"text":"「お前にはもう動揺したり、\n　立ち止まる権利などない」","translation":"You no longer have the right to waver or stop.","id":"004780"}
+{"text":"「生きるために必要なのだろう？\n　私を失望させるな」","translation":"You need that to survive, don't you? Don't disappoint me.","id":"0047C0"}
+{"text":"倉庫","translation":"Warehouse","id":"004800"}
+{"text":"　\n　　\n　　　　　　　～黒の騎士団アジト～","translation":"~Black Knights Hideout~","id":"004808"}
+{"text":"「………」","translation":".........","id":"004838"}
+{"text":"「どうした、カトル？\n　悩み事か」","translation":"What's wrong, Quatre? Something on your mind?","id":"004850"}
+{"text":"「…この前のナリタ連山の件ですが…」","translation":"...About the Narita Mountains incident the other day...","id":"004878"}
+{"text":"「結果的に民間人を巻き込んだ事か？」","translation":"You mean the fact that civilians got caught up in it in the end?","id":"0048A8"}
+{"text":"「はい…」","translation":"Yes...","id":"0048D0"}
+{"text":"「…次からは無しだ。\n　俺達が戦ってるのはブリタニア・ユニオンで、\n　ブリタニア・ユニオン人じゃねえ」","translation":"...No more of that from now on. We're fighting the Britannia Union, not Britannia Union civilians.","id":"0048E8"}
+{"text":"「奇跡も結構だが、\n　あんな無茶に加担するのは、あれっきりだ」","translation":"Miracles are all well and good, but that's the last time I'm going along with anything that reckless.","id":"004950"}
+{"text":"「だが、あの男はまたやるぞ」","translation":"But that man will do it again.","id":"004998"}
+{"text":"「ああ…。\n　この間の作戦もコーネリアを誘い込むってのは\n　理解できるが…」","translation":"Yeah... I can understand the plan to lure Cornelia in, but...","id":"0049C0"}
+{"text":"「俺達がもっと早く突入してりゃ、\n　ちっとは日本解放戦線の兵士も救えたはずだ」","translation":"If we'd gone in sooner, we could've saved at least some of the Japan Liberation Front soldiers.","id":"004A18"}
+{"text":"「あの男は奇跡を演出するために\n　兵士の生命を犠牲にした」","translation":"That man sacrificed soldiers' lives to stage a miracle.","id":"004A70"}
+{"text":"「奴にとっては、藤堂以外の連中には\n　価値はなかったのだろう」","translation":"To him, no one but Tohdoh had any value.","id":"004AB0"}
+{"text":"「お前の疑念通りだったってわけか…」","translation":"So your suspicions were right after all...","id":"004AF8"}
+{"text":"「だが、事実として奴は奇跡の勝利を手にした。\n　おかげで一時は沈静しかけていた抵抗の機運も\n　再び盛り返してきているらしい」","translation":"But he did pull off a miracle. Thanks to\nthat, the resistance is gaining ground\nagain.","id":"004B20"}
+{"text":"「結果だけみれば、\n　日本解放は前進してるって事か」","translation":"So if you look only at the outcome, Japan's liberation is moving forward.","id":"004BA8"}
+{"text":"「でも…」","translation":"But...","id":"004BE8"}
+{"text":"「カトル…俺達に出来る事は一つだけだ。\n　俺達が奴のストッパーになる」","translation":"Quatre... there's only one thing we can do. We have to be the ones who stop him.","id":"004C00"}
+{"text":"「え…」","translation":"Huh...?","id":"004C50"}
+{"text":"「日本解放には俺も賛成だ。\n　それにはゼロの手腕も必要だろう」","translation":"I support Japan's liberation too. And Zero's abilities will probably be necessary for that.","id":"004C60"}
+{"text":"「そして、奴の知略は\n　これから$cが戦っていく上でも\n　大きな力となる」","translation":"And his strategic brilliance will also be a major asset for $c in the battles ahead.","id":"004CA8"}
+{"text":"「黒の騎士団ではなく、\n　$cですか…」","translation":"Not the Black Knights, but $c... ?","id":"004CF8"}
+{"text":"「そうだ。\n　俺はいずれはインペリウムと戦うつもりだ」","translation":"That's right. Sooner or later, I intend to fight the Imperium.","id":"004D28"}
+{"text":"「向こうの日本のクラッシャー隊や\n　ソレスタルビーイングの連中も\n　同じように考えてるだろう」","translation":"The Crusher Squad in the other Japan, and the people from Celestial Being, are probably thinking the same thing.","id":"004D68"}
+{"text":"「もう一度、$cが集結して、\n　奴等と戦う日が来るって事か…」","translation":"So the day will come when $c gathers once more and fights them...","id":"004DC8"}
+{"text":"「敵はインペリウムだけではない。\n　インベーダー、ギシン星人、獣人、\n　テロリスト、エゴをむき出しにする大国…」","translation":"The enemy isn't just Imperium. Invaders, Gishin, beastmen, terrorists, and arrogant great powers...","id":"004E10"}
+{"text":"「その全てが悪だ」","translation":"All of it is evil.","id":"004E88"}
+{"text":"「ゼロが正義をやるってのは、\n　奴の真の目的を隠すための方便かも知れない」","translation":"Zero claiming to fight for justice may just be a cover to hide his true goal.","id":"004EA0"}
+{"text":"「だが、奴が俺達を利用するってんなら、\n　俺達も奴を利用してやろうぜ」","translation":"But if he's going to use us, then let's use him right back.","id":"004EF0"}
+{"text":"「それって…どうするんです？」","translation":"And... how do we do that?","id":"004F40"}
+{"text":"「奴に本当に正義の味方をやらせるのさ。\n　ナリタみたいな真似はもうさせない」","translation":"We'll make him truly act as a hero of justice. We won't let him pull another stunt like he did at Narita.","id":"004F68"}
+{"text":"「正面から戦っての消耗戦を避けるために\n　あんな手を使ったって言い訳するなら、\n　次は正面から無傷で勝利してやるまでだ」","translation":"If he used dirty tricks to avoid a head-on fight, then next time we'll beat him fair and square.","id":"004FB8"}
+{"text":"「それ位の事が出来なけりゃ、\n　あのインペリウムとは戦えないしな」","translation":"If we can't do at least that much, then we can't fight the Imperium.","id":"005038"}
+{"text":"「フン…風見鶏のような男だと思ったが、\n　芯はあるようだな」","translation":"Hmph... I thought you were the sort of man who shifts with the wind, but it seems you do have some backbone.","id":"005080"}
+{"text":"「フ…こう見えても着実に借金返済してるんだ。\n　ブレない事には自信ありだ」","translation":"Heh... I may not look it, but I've been steadily paying off my debts. I'm confident I won't waver.","id":"0050C8"}
+{"text":"「だが、ゼロが止まらなかった場合は\n　どうする？」","translation":"But what if Zero doesn't stop?","id":"005118"}
+{"text":"「その時の答えは決まっている」","translation":"I already know the answer to that.","id":"005158"}
+{"text":"「…なるべく、そんな事はしたくないがな」","translation":"...Though I'd rather not have to do that if I can help it.","id":"005180"}
+{"text":"「…ってなわけだ、キリコ。\n　俺達は今後、そういう風な付き合い方に\n　させてもらうぜ」","translation":"...That's how it is, Chirico. From here on out, that's how we're going to deal with you.","id":"0051B0"}
+{"text":"「勝手にすればいい」","translation":"Do as you please.","id":"005210"}
+{"text":"「一応、聞いておくぜ。\n　お前はどうするつもりだ？」","translation":"I'll ask just in case: what do you plan to do?","id":"005230"}
+{"text":"「俺は兵士だ。\n　目の前の敵を倒すだけだ」","translation":"I'm a soldier. I just take down the enemy in front of me.","id":"005268"}
+{"text":"「今はフリーなんだろ。\n　何か目的ってのはないのかよ？」","translation":"You're free now, aren't you? Don't you have some kind of goal?","id":"0052A0"}
+{"text":"「戦う理由って言ってもいいな」","translation":"You could call it a reason to fight.","id":"0052E0"}
+{"text":"黒バック","translation":"Black background.","id":"005308"}
+{"text":"（奴等の言葉を聞きながら、\n　俺は部隊を脱走してからの自分の戦いを\n　振り返っていた）","translation":"As I listened to their words, I looked back on my own battles since deserting my unit.","id":"005318"}
+{"text":"（戦いの意味など考えた事のない俺の中で\n　かすかな光のように、それはいた）","translation":"Within me, who had never thought about the meaning of fighting, it existed like a faint light.","id":"005378"}
+{"text":"（小惑星リドでの出会い、\n　そして、戦場で再会したあの女…）","translation":"The encounter on Asteroid Lido, and then that woman I met again on the battlefield...","id":"0053D0"}
+{"text":"（いつの間にかそれは、俺にとって\n　唯一の意味のある存在となっていた）","translation":"Before I knew it, she had become the only thing that truly meant anything to me.","id":"005418"}
+{"text":"治安警察","translation":"Security Police","id":"005468"}
+{"text":"　\n　　\n　　　　　　　～治安警察　署長室～","translation":"~Security Police Chief's Office~","id":"005478"}
+{"text":"「…ブリタニア・ユニオン政府から\n　このゲットーを根城にしている黒の騎士団の\n　掃討命令が出た」","translation":"...The Britannia Union government has issued an order to wipe out the Black Knights, who are based in this ghetto.","id":"0054A8"}
+{"text":"「………」","translation":".........","id":"005510"}
+{"text":"「もう既に知っておろうが、\n　その中には、あの男…キリコもいる」","translation":"You likely already know this, but that man... Chirico... is among them.","id":"005530"}
+{"text":"「！」","translation":"!","id":"005578"}
+{"text":"「万一の事を考えて、お前にも出動してもらう」","translation":"Just in case, you'll be deployed as well.","id":"005590"}
+{"text":"「この前のような失敗は許さん。\n　確実に奴を殺すのだ」","translation":"I won't tolerate another failure like last time. Make sure you kill him.","id":"0055C8"}
+{"text":"「パーフェクトソルジャーとしての力を\n　存分に見せてくれ」","translation":"Show me the full extent of your power as a Perfect Soldier.","id":"005608"}
+{"text":"「…嫌です」","translation":"...I refuse.","id":"005650"}
+{"text":"「何？」","translation":"What?","id":"005670"}
+{"text":"「何と言った？」","translation":"What did you say?","id":"005680"}
+{"text":"「嫌です」","translation":"I refuse.","id":"0056A0"}
+{"text":"「プロトワン…！」","translation":"Proto One...!","id":"0056C0"}
+{"text":"「信じられん…。\n　パーフェクトソルジャーが逆らった…」","translation":"Unbelievable... A Perfect Soldier defied orders...","id":"0056E0"}
+{"text":"「では、こうしよう。\n　キリコは殺さんでいい。\n　ただＡＴを破壊して、奴を捕えるのだ」","translation":"Then we'll do this. You don't have to kill Chirico. Just destroy his AT and capture him.","id":"005728"}
+{"text":"「約束しよう。\n　我々もキリコは殺さない」","translation":"I promise. We won't kill Chirico either.","id":"005788"}
+{"text":"「本当ですね？」","translation":"Is that true?","id":"0057C0"}
+{"text":"「無論だ。\n　さあ出撃に備えるがいい」","translation":"Of course. Now, go prepare for deployment.","id":"0057E8"}
+{"text":"「では、失礼します」","translation":"Then, excuse me.","id":"005818"}
+{"text":"「人間の限界を超えた反射神経と身体能力…。\n　それを付与された完璧なる兵士、\n　パーフェクトソルジャー…」","translation":"Reflexes and physical abilities beyond human limits... a perfect soldier endowed with them, a Perfect Soldier...","id":"005840"}
+{"text":"「ギルガメス軍の最高機密であるＰＳ…。\n　その素体である彼女を小惑星リドから奪取し、\n　我々の秘密結社が教育を施した…」","translation":"The PS, Gilgamesh's top secret... We seized her, its prototype, from Asteroid Lido, and our Secret Society trained her...","id":"0058B8"}
+{"text":"「命令には絶対服従のはずのＰＳが\n　何故、我々の命令を聞かんのだ…！？」","translation":"Why won't a PS, which should obey orders absolutely, follow our commands...!?","id":"005938"}
+{"text":"「…それについてですが、\n　プロトワンの脳波を調査した際、\n　潜在意識に影のようなものが発見されました」","translation":"...About that, when we examined Proto One's brainwaves, we found something like a shadow in her subconscious.","id":"005990"}
+{"text":"「影だと？」","translation":"A shadow?","id":"005A00"}
+{"text":"「それを視覚化したものが、これです」","translation":"This is a visualization of it.","id":"005A18"}
+{"text":"「！」","translation":"!","id":"005A48"}
+{"text":"「こ、これは…！　キリコだ！\n　奴に間違いない！」","translation":"Th-this...! It's Chirico! No doubt about it!","id":"005A58"}
+{"text":"「彼女はキリコによって誕生させられた…。\n　パーフェクトソルジャーの教育を受ける前の\n　全く空白の状態でキリコを見てしまったのです」","translation":"She was born through Chirico... Before she was even trained as a Perfect Soldier, she saw him while her mind was still a blank.","id":"005A98"}
+{"text":"「だとすると、プロトワンの意識の中には\n　常にキリコが存在するという事か」","translation":"So, Chirico is always present in Proto One's mind?","id":"005B28"}
+{"text":"「断定は出来ないが、多分そういう事です」","translation":"I can't say for certain, but that's probably it.","id":"005B80"}
+{"text":"「何という事だ！\n　この潜在意識がある限り、奴は\n　パーフェクトソルジャーとしては役立たずだ！」","translation":"What a disaster! As long as that subconscious remains, she's useless as a Perfect Soldier!","id":"005BB0"}
+{"text":"「ですが、プロトワンの兵器としての価値は\n　何も変わっておりません」","translation":"However, Proto One's value as a weapon remains unchanged.","id":"005C18"}
+{"text":"「要は彼女の中のキリコを抹殺すれば、\n　事は済むのです」","translation":"All we need is to erase Chirico from her mind.","id":"005C68"}
+{"text":"「そのためには…」","translation":"And to do that...","id":"005CA8"}
+{"text":"「そうです。\n　キリコを殺さねばなりません」","translation":"Exactly. Chirico must be killed.","id":"005CC8"}
+{"text":"「元々奴は、あの方の命令により、\n　小惑星リドで処分されるはずだったのだ」","translation":"Originally, he was supposed to be disposed of on Asteroid Lido by that person's orders.","id":"005D00"}
+{"text":"「そして、今…奴はギルガメス軍のスパイとして\n　このゲットーに潜む我々を探る任務に\n　ついている可能性がある」","translation":"And now... he may be in this ghetto as a Gilgamesh military spy, tasked with ferreting us out.","id":"005D58"}
+{"text":"「プロトワンは奴を殺せませんが、\n　捕えろとの命令は遂行するでしょう」","translation":"Proto One can't kill him, but she will carry out an order to capture him.","id":"005DD0"}
+{"text":"「その後、我々の手で背後関係を吐かせ、\n　処刑する」","translation":"After that, we'll force him to reveal his connections, then execute him.","id":"005E20"}
+{"text":"「それを以って、プロトワンを\n　ＰＳとして完成させるのだ」","translation":"That will complete Proto One as a PS.","id":"005E60"}
+{"text":"シンジュクゲットー","translation":"Shinjuku Ghetto","id":"005EA8"}
+{"text":"　\n　\n　　　　～シンジュクゲットー　戦場跡～","translation":"~Shinjuku Ghetto - Battlefield Ruins~","id":"005EC0"}
+{"text":"「すまんな。\n　こんな所まで付き合ってもらって」","translation":"Sorry to drag you all the way out here.","id":"005EF0"}
+{"text":"「い、いえ…。\n　でも、軍の方がいったい何の用です？」","translation":"N-no... But what exactly does the military want with me?","id":"005F30"}
+{"text":"「君を強引に連れ出した事については\n　謝罪する」","translation":"I apologize for forcing you to come with me.","id":"005F78"}
+{"text":"「私はヴィレッタ・ヌゥ。\n　黒の騎士団を追っている」","translation":"I'm Villetta Nu. I'm pursuing the Black Knights.","id":"005FB8"}
+{"text":"「黒の騎士団…。\n　お父さんを殺した…」","translation":"The Black Knights... They killed my father...","id":"005FF8"}
+{"text":"「私は奴等の首領ゼロについて調査し、\n　その行動に符合する人物に目星をつけた」","translation":"I investigated their leader, Zero, and identified someone whose actions match his.","id":"006030"}
+{"text":"「それが、この少年だ」","translation":"That someone is this boy.","id":"006090"}
+{"text":"「ルル！」","translation":"Lulu!","id":"0060B8"}
+{"text":"「ルルーシュ・ランペルージ。\n　アッシュフォード学園の生徒。\n　君の友人だ」","translation":"Lelouch Lamperouge. A student at Ashford Academy. Your friend.","id":"0060D0"}
+{"text":"「ルルが…ゼロ…」","translation":"Lulu is... Zero...","id":"006128"}
+{"text":"「断定は出来ない。\n　この件は私が独自に調査を進めたもので、\n　まだ軍でも知る者はいない」","translation":"I can't say for certain. I pursued this investigation on my own, and no one in the military knows about it yet.","id":"006148"}
+{"text":"「君に依頼したいのは、彼の身辺の調査だ」","translation":"What I want to ask of you is to investigate his personal affairs.","id":"0061B0"}
+{"text":"「でも…」","translation":"But...","id":"0061E8"}
+{"text":"「事はエリア１１の治安に関わる問題だ。\n　拒否は認められない」","translation":"This concerns the security of Area 11. Refusal will not be permitted.","id":"006200"}
+{"text":"「わ、わかりました…」","translation":"O-okay...","id":"006250"}
+{"text":"「念のために銃を渡しておく。\n　護身に使ってくれ」","translation":"Take this gun, just in case. Use it for self-defense.","id":"006278"}
+{"text":"（この女が動けば、ルルーシュという学生も\n　何らかのアクションを起こすはずだ）","translation":"If this girl makes a move, that student Lelouch is bound to take some kind of action too.","id":"0062B8"}
+{"text":"（奴が何らかの人間の記憶を操作できる手段を\n　持っているなら、なおの事…）","translation":"If he has some means of manipulating people's memories, then all the more so...","id":"006318"}
+{"text":"（私はジェレミアのように\n　地位も名誉も失って死んだりはしない。\n　いや、逆に手に入れてみせる！）","translation":"I won't lose my position and honor and die like Jeremiah did. No... I'll claim them instead!","id":"006370"}
+{"text":"（そのためにもゼロにつながる手がかりを…\n　私一人で…！）","translation":"And for that, I need a lead on Zero... all on my own...!","id":"0063E0"}
+{"text":"バトリング観客席","translation":"Battling Spectator Seats","id":"0084C8"}
+{"text":"　\n　　\n　　　　　～シンジュクゲットー　地下～","translation":"~Shinjuku Ghetto - Underground~","id":"0084E0"}
+{"text":"「ここは…」","translation":"This is...","id":"008510"}
+{"text":"「ゲットーの地下だ」","translation":"We're in the ghetto's underground.","id":"008528"}
+{"text":"「まだ上は戦闘中だ。\n　俺達のＡＴは動かないがな」","translation":"There's still fighting going on above us. Our ATs can't move, though.","id":"008548"}
+{"text":"「私はあなたの敵です。\n　射殺、または拘束しないのですか？」","translation":"I am your enemy. Aren't you going to shoot me, or restrain me?","id":"008588"}
+{"text":"「そのつもりはない」","translation":"I have no intention of doing so.","id":"0085D8"}
+{"text":"「俺を殺すか？」","translation":"Are you going to kill me?","id":"0085F8"}
+{"text":"「いえ…」","translation":"No...","id":"008610"}
+{"text":"「名前は？」","translation":"What's your name?","id":"008630"}
+{"text":"「プロトワン…」","translation":"Proto One...","id":"008648"}
+{"text":"「そいつは名前なんかじゃない」","translation":"That's not a name.","id":"008670"}
+{"text":"「…ずっとプロトワンと呼ばれてきました…」","translation":"...I've always been called Proto One...","id":"008698"}
+{"text":"「顔を合わせるのは、これで三度目だな。\n　最初は小惑星リド…二度目はエリア１１近海、\n　そして、今…」","translation":"This is the third time we've met. The first was on the asteroid Lido... the second near Area 11, and now...","id":"0086D8"}
+{"text":"「いつもあなたを見ていました」","translation":"I've always been watching you.","id":"008748"}
+{"text":"「いつも？」","translation":"Always?","id":"008778"}
+{"text":"「そう…いつも…」","translation":"Yes... always...","id":"008790"}
+{"text":"「俺を狙うように命令されているのか？」","translation":"Were you ordered to target me?","id":"0087B8"}
+{"text":"「イスクイ署長とボロー司祭に…」","translation":"By Chief Iskui and Priest Boro...","id":"0087E8"}
+{"text":"「この前…それに今、何故俺を殺らない？\n　出来るはずだ」","translation":"The other day... and now, why don't you kill me? You should be able to.","id":"008820"}
+{"text":"「わからない…。\n　でも、あなたとは戦いたくなかった…」","translation":"I don't know... But I didn't want to fight you...","id":"008860"}
+{"text":"「いったい何者なんだ？」","translation":"Just who are you?","id":"0088B0"}
+{"text":"「わからない…。\n　自分の名前すら思い出せない」","translation":"I don't know... I can't even remember my own name.","id":"0088D0"}
+{"text":"「プロトワン…。\n　この記号が今の私の名前…」","translation":"Proto One... That designation is my name now...","id":"008918"}
+{"text":"「教えてくれ。\n　リドの研究所では何が行なわれていたんだ？\n　何が目的で」","translation":"Tell me. What was going on at the research facility on Lido? What was the purpose?","id":"008958"}
+{"text":"「わからない…。\n　私には何もわからない…」","translation":"I don't know... I don't know anything...","id":"0089A8"}
+{"text":"「いたぞ、キリコだ！\n　プロトワンもいる！」","translation":"There he is, it's Chirico! Proto One is with him too!","id":"0089E8"}
+{"text":"「追手か」","translation":"Pursuers, huh.","id":"008A20"}
+{"text":"「キリコ…！」","translation":"Chirico...!","id":"008A38"}
+{"text":"「また会おう」","translation":"We'll meet again.","id":"008A58"}
+{"text":"「キリコ…」","translation":"Chirico...","id":"008A70"}
+{"text":"真っ暗","translation":"Pitch black.","id":"008A90"}
+{"text":"（俺の運命を歪ませた彼女は\n　もう敵ではなかった）","translation":"She who had twisted my fate was no longer my enemy.","id":"008A98"}
+{"text":"（ますます泥沼に引きずり込まれるような予感に\n　怯えながら、一方、俺は驚いていた）","translation":"While I trembled at the feeling that I was being dragged even deeper into the mire, I was also astonished.","id":"008AD8"}
+{"text":"（自分がこれ程までに願った事があるだろうか？\n　もっと生きたいと…）","translation":"Had I ever wished for anything this strongly before? To go on living...","id":"008B38"}
+{"text":"公園前","translation":"In front of the park.","id":"008B88"}
+{"text":"　\n　\n　　　　　　～シンジュクゲットー～","translation":"~Shinjuku Ghetto~","id":"008B90"}
+{"text":"「ぐ…！」","translation":"Guh...!","id":"008BC0"}
+{"text":"「こ、この人がゼロ…」","translation":"T-this man is Zero...","id":"008BD0"}
+{"text":"「動かない…。\n　気絶しているの…」","translation":"He's not moving... He's unconscious...","id":"008BF8"}
+{"text":"「今なら…お父さんの仇が…討てる…！」","translation":"Now... I can avenge my father...!","id":"008C28"}
+{"text":"「く…うう…」","translation":"Nng... ugh...","id":"008C60"}
+{"text":"「仮面が…外れる…」","translation":"His mask... it's coming off...","id":"008C78"}
+{"text":"「そいつがゼロか」","translation":"So that's Zero.","id":"008C98"}
+{"text":"「あ…」","translation":"Ah...","id":"008CB8"}
+{"text":"「これは驚きだな。\n　何らかの関係はあると思ったが、\n　学生自身がゼロだったとは」","translation":"This is a surprise. I thought there was some kind of connection, but to think the student himself was Zero.","id":"008CD0"}
+{"text":"「しかも、ブリタニア人…。\n　こいつをコーネリア総督に差し出せば、\n　私は貴族になれる…！」","translation":"And a Britannian, too... If I hand him over to Governor Cornelia, I can become a noble...!","id":"008D30"}
+{"text":"「騎士侯なんかじゃない、本物の貴族にだ。\n　それにまだ生きている。\n　いいぞ…どんな処刑がお似合いかな」","translation":"Not just some knight marquis, but a real noble. And he's still alive. Good... what kind of execution would suit him?","id":"008D98"}
+{"text":"「よくやったぞ。\n　総督には、お前の事も…」","translation":"Well done. I'll tell the governor about you as well...","id":"008E10"}
+{"text":"「ル、ルルから離れて…！」","translation":"L-Leave Lulu alone...!","id":"008E48"}
+{"text":"「お前…！\n　その銃で何をする気だ！？」","translation":"You...! What are you planning to do with that gun!?","id":"008E70"}
+{"text":"「離れて！」","translation":"Stay back!","id":"008EA8"}
+{"text":"「迂闊…。\n　こいつ…お前の…男…だったな…」","translation":"How careless... This guy... was your man... wasn't he...","id":"008EC0"}
+{"text":"「あ…ああ…！」","translation":"Ah... ahh...!","id":"008F00"}
+{"text":"「この…まま…で…終わるものか…」","translation":"I won't... end... like this...","id":"008F20"}
+{"text":"「何としても…こいつの…事を…\n　総督…に…報告…せね…ば…」","translation":"No matter what... I have to... report this... to the governor...","id":"008F50"}

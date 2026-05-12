@@ -1,0 +1,384 @@
+{"text":"敵の全滅。","translation":"All enemies destroyed.","id":"000800"}
+{"text":"味方戦艦の撃墜。","translation":"An allied battleship is shot down.","id":"000818"}
+{"text":"シモン、レントン、ホランド、葵、いずれかの撃墜。","translation":"Simon, Renton, Holland, or Aoi is shot down.","id":"000830"}
+{"text":"シモン、または葵の撃墜。","translation":"Simon or Aoi is shot down.","id":"000868"}
+{"text":"登場から２ターン以内にＲ－ダイガンを撃墜する。","translation":"Defeat R-Daigun within 2 turns\nof its appearance.","id":"0008A0"}
+{"text":"なし。","translation":"None.","id":"0008D0"}
+{"text":"『カミナのサングラス』を入手しました。","translation":"Got \"Kamina's Sunglasses\".","id":"001350"}
+{"text":"『ユグドラシルドライブ』を入手しました。","translation":"Got \"Yggdrasil Drive\".","id":"0013B8"}
+{"text":"「ちっ…これだけしか出撃できねえのかよ」","translation":"Tch... so this is all the units we get?","id":"001448"}
+{"text":"「パーティーに行っていた人達は\n　怪我してますから」","translation":"The people who went to the party are injured.","id":"001480"}
+{"text":"「やれるの、チームＤ？」","translation":"Can Team D handle it?","id":"0014C0"}
+{"text":"「問題ないわ。\n　それどころか、暴れたい気分ね」","translation":"No problem. If anything, I'm in the mood to cut loose.","id":"0014E8"}
+{"text":"「珍しく積極的だな。\n　何かあったのか？」","translation":"You're unusually fired up. Did something happen?","id":"001520"}
+{"text":"「強さが求められているのよ、私達も」","translation":"We're expected to be strong, too.","id":"001558"}
+{"text":"「ああ…！　やってやるよ！」","translation":"Yeah...! I'll do it!","id":"001588"}
+{"text":"（エイーダ…。\n　この戦いが終わったら、お見舞いに行くよ）","translation":"Eida... Once this battle is over, I'll go visit you.","id":"0015B0"}
+{"text":"「俺達で戦えないみんなの分もやるぞ、\n　シモン！」","translation":"We'll fight for everyone who can't, Simon!","id":"0015F8"}
+{"text":"「俺はアニキに…俺はアニキに…」","translation":"I want to be Bro... I want to be Bro...","id":"001638"}
+{"text":"「戦えるのか、シモンは？」","translation":"Can Simon fight?","id":"001660"}
+{"text":"「本人がやるって言ってんだ。\n　やらせるしかねえ」","translation":"He says he's doing it himself. We don't have a choice but to let him.","id":"001680"}
+{"text":"「後方で改修中のダイガンザンは\n　ダヤッカとガンメン部隊が守っている。\n　我々で獣人を食い止めるぞ」","translation":"Dai-Gunzan is being repaired in the rear, and Dayakka and the Gunmen unit are guarding it. We'll hold back the Beastmen.","id":"0016C0"}
+{"text":"「敵部隊、来ます！」","translation":"Enemy forces approaching!","id":"001730"}
+{"text":"「大した数じゃないわ。\n　これなら何とかなるわね」","translation":"It's not that many. We can handle this.","id":"001990"}
+{"text":"「俺がアニキに…俺がアニキに…」","translation":"I want to be Bro... I want to be Bro...","id":"0019D0"}
+{"text":"「しっかりしやがれ、シモン！\n　そんな事じゃカミナも…」","translation":"Get a grip, Simon! At this rate, Kamina would...","id":"0019F8"}
+{"text":"「うるさい！！」","translation":"Shut up!!","id":"001A38"}
+{"text":"「俺はアニキになるんだ！」","translation":"I'll become Bro!","id":"001B50"}
+{"text":"「悲しいね、あの人…」","translation":"How sad... him...","id":"001B78"}
+{"text":"「エウレカ…」","translation":"Eureka...","id":"001B98"}
+{"text":"「どうして…人って\n　こんなに悲しい思いをしながら\n　生きていくんだろう…」","translation":"Why... do people have to go on living with so much sadness...?","id":"001BB0"}
+{"text":"「次元震か！？」","translation":"A dimensional quake!?","id":"001D08"}
+{"text":"「違う…！　こいつは！」","translation":"No...! This is...!","id":"001D20"}
+{"text":"「あれは！」","translation":"That's...!","id":"001E08"}
+{"text":"「イマージュだ。\n　２０年前の大時空震動の時からいる\n　人類の敵だ」","translation":"It's an Image. They've been humanity's enemy ever since the Great Space-Time Quake twenty years ago.","id":"001E20"}
+{"text":"「マジかよ…！\n　まさか、こいつらも俺達の世界の奴等との\n　並行世界の同一人物ってやつか！？」","translation":"No way...! Don't tell me these guys are parallel-world counterparts of the ones from our world too!?","id":"001E70"}
+{"text":"「待って…！\n　じゃあ、この世界のエウレカって\n　いったい何なんだ！？」","translation":"Wait...! Then what exactly is Eureka in this world!?","id":"001ED8"}
+{"text":"「ごちゃごちゃ言ってる場合じゃねえぞ！\n　奴等は見境無しに人を襲う！」","translation":"This isn't the time to stand around talking! Those things attack people indiscriminately!","id":"001F28"}
+{"text":"「あれの正体を確かめるのは後だ。\n　ここは戦うしかない」","translation":"We can find out what that thing really is later. For now, we have no choice but to fight.","id":"001F78"}
+{"text":"「ちっ…あまりいい気分がしないぜ！」","translation":"Tch... I don't like this one bit!","id":"001FC0"}
+{"text":"「どうすんだよ、俺達は？」","translation":"So what do we do now?","id":"001FF0"}
+{"text":"「任務を果たさずに帰ったら、\n　螺旋王様に処刑されるだけだ。\n　やるしかねえ！」","translation":"If we go back without completing the mission, the Spiral King will just execute us. We've gotta do this!","id":"002010"}
+{"text":"「どうやら、あのぷよぷよした化け物は\n　人間を狙っているようだ。\n　それに乗らせてもらうとするか」","translation":"Looks like that squishy monster is targeting humans. Let's use that to our advantage.","id":"002068"}
+{"text":"「…イマージュは知りたがっている。\n　悲しみの意味を…」","translation":"...The Image wants to know. The meaning of sadness...","id":"0020D0"}
+{"text":"「ホランド…！」","translation":"Holland...!","id":"002118"}
+{"text":"「ああ…！\n　イマージュにあれを渡すわけにはいかねえ！」","translation":"Yeah...! We can't let the Image have that!","id":"002130"}
+{"text":"「各機は獣人とイマージュを迎撃しろ。\n　双方とも我々を狙っている以上、\n　挟撃に気をつけるんだ」","translation":"All units, intercept the Beastmen and the Images. Since both sides are targeting us, watch out for a pincer attack.","id":"002178"}
+{"text":"「誰が来ても、何が来ても負けない…。\n　俺は…アニキになるんだ…！」","translation":"No matter who comes, no matter what comes, I won't lose... I'm... gonna become Bro...!","id":"0021E8"}
+{"text":"「頃合ね…」","translation":"It's time...","id":"0024B8"}
+{"text":"「レントン…！\n　月光号に帰還しろ！」","translation":"Renton...! Return to the Gekko-Go!","id":"0024D0"}
+{"text":"「でも、まだ敵が…！」","translation":"But there are still enemies...!","id":"002500"}
+{"text":"「早くしろ！\n　これは命令だ！」","translation":"Hurry up! This is an order!","id":"002520"}
+{"text":"「は、はい！」","translation":"Y-Yes!","id":"002550"}
+{"text":"「…聞こえる、レントン…」","translation":"...I can hear you, Renton...","id":"002688"}
+{"text":"「エウレカ！」","translation":"Eureka!","id":"0026B0"}
+{"text":"「ごめんね、レントン…。\n　私の運命に巻き込んじゃって…。\n　全部全部、私のせいなんだよね…」","translation":"I'm sorry, Renton... For dragging you into my fate... It's all my fault... all of it...","id":"0026C8"}
+{"text":"「だけど、嬉しかった…。\n　最後にレントンに会えて、嬉しかった」","translation":"But I was happy... I was happy to see you one last time, Renton.","id":"002730"}
+{"text":"「もうこれで十分…。\n　思い残す事なんて、もう何も…」","translation":"This is enough... I have no regrets left...","id":"002780"}
+{"text":"「何を言ってるんだ、エウレカ！」","translation":"What are you saying, Eureka?!","id":"0027C0"}
+{"text":"「私には使命がある…。\n　でも、私はそれを果たしたくない…」","translation":"I have a mission... But I don't want to fulfill it...","id":"0027F0"}
+{"text":"「この人達は私を何かに使おうとしている…。\n　でも、そうすれば、私は自分の使命を\n　果たさなくて済むから…」","translation":"These people are trying to use me for something... But if they do, I won't have to fulfill my mission...","id":"002838"}
+{"text":"「ふざけんなよ！」","translation":"Don't mess with me!","id":"0028B0"}
+{"text":"「そうやって一人で勝手に納得して！\n　自分だけ気楽になって！\n　だけど、俺の気持ちを考えた事はあるのかよ！」","translation":"You just decide things on your own and make yourself feel better! Did you ever think about how I feel?!","id":"0028D0"}
+{"text":"「………」","translation":".........","id":"002948"}
+{"text":"「どうする、ホランド！」","translation":"What do we do, Holland?!","id":"002960"}
+{"text":"「仕方ねえ！\n　エウレカだけでも連れて、離脱する！」","translation":"No choice! We'll take Eureka and pull out!","id":"002980"}
+{"text":"「エウレカーッ！！」","translation":"Eurekaa!!","id":"0029C0"}
+{"text":"「さよなら、レントン…」","translation":"Goodbye, Renton...","id":"0029E0"}
+{"text":"「月光号、このエリアを離脱していきます！」","translation":"Gekko-Go is withdrawing from this area!","id":"002C68"}
+{"text":"「いったい何が起きてるのよ！？」","translation":"What the hell is going on?!","id":"002CA0"}
+{"text":"「事情はレントンから聞く。\n　彼を回収するんだ」","translation":"I'll hear the details from Renton. Retrieve him.","id":"002CC8"}
+{"text":"「ニルヴァーシュ！\n　月光号を追うんだ！！」","translation":"Nirvash! Go after Gekko-Go!!","id":"002D08"}
+{"text":"「もきゅ…」","translation":"Mokyu...","id":"002D40"}
+{"text":"「エウレカの言いつけなんか無視しろ！」","translation":"Ignore Eureka's orders!","id":"002D60"}
+{"text":"「もきゅ！」","translation":"Mokyu!","id":"002D90"}
+{"text":"「くそっ…！　くそぉぉぉぉっ！！」","translation":"Damn it...! Daaamn it!!","id":"002DB0"}
+{"text":"「どういう事なの、あれ？」","translation":"What was that all about?","id":"002F60"}
+{"text":"「月光号の連中、敵前逃亡かよ！」","translation":"Those Gekko-Go guys are running from the fight?!","id":"002F88"}
+{"text":"「気をつけて下さい！\n　このエリアに高速で接近する機体があります！」","translation":"Watch out! There's a unit approaching this area at high speed!","id":"002FB0"}
+{"text":"「Ｒ－ダイガン！」","translation":"R-Daigun!","id":"0030E0"}
+{"text":"「トリニティのガンダムはいないか」","translation":"So the Trinity Gundams aren't here.","id":"0030F8"}
+{"text":"「パーティー会場襲撃には\n　あの紅いマシンはいなかった。\n　今回も別行動のようだ」","translation":"That red machine wasn't there when the party venue was attacked. Looks like it's operating separately this time too.","id":"003128"}
+{"text":"「あいつの目的は\n　あくまであたし達みたいね」","translation":"Looks like that guy's target is us after all.","id":"003188"}
+{"text":"「そろそろあいつの顔も飽きてきたわね」","translation":"I'm starting to get tired of seeing his face.","id":"0031C0"}
+{"text":"「ここで決着をつけるとするか！」","translation":"Let's settle this here and now!","id":"0031F0"}
+{"text":"「同感です。\n　ダンクーガ対決を制せずして、\n　真のダンクーガにはなりえないでしょうからね」","translation":"I agree. If we can't win this Dancouga showdown, then we can never become the true Dancouga.","id":"003218"}
+{"text":"「ほう…少しは戦いの意味を知ったようだな」","translation":"Hoh... looks like you've learned a little about what battle means.","id":"003280"}
+{"text":"「だが、私に敗北はない…！\n　地球を救うのは、このＲ－ダイガンだ！」","translation":"But I know no defeat...! It is this R-Daigun that will save the Earth!","id":"0032B8"}
+{"text":"「あたし達の勝ちよ、Ｒ－ダイガン！」","translation":"We win, R-Daigun!","id":"0034A8"}
+{"text":"「この程度で調子に乗るな！」","translation":"Don't get cocky over this!","id":"0034D0"}
+{"text":"「まだやる気ね！」","translation":"Still raring to go, huh!","id":"0035B8"}
+{"text":"「こっちも全力で相手をするわよ！\n　超獣合神！！」","translation":"Then we'll take you on at full power too! Super Beast Fusion!!","id":"003678"}
+{"text":"「勝負だ、ダンクーガノヴァ！！」","translation":"Let's settle this, Dancouga Nova!!","id":"003750"}
+{"text":"「くうっ…！」","translation":"Ugh...!","id":"003818"}
+{"text":"「その程度で守れるのか！\n　この地球を！！」","translation":"You think you can protect this Earth with that?!","id":"003830"}
+{"text":"「まずいです！　さっきの攻撃で\n　アブソリュートアクティブフォース\n　ジェネレーターの暴走が始まっています！」","translation":"This is bad! That last attack has triggered a runaway in the Absolute Active Force Generator!","id":"003868"}
+{"text":"「けどよ！\n　分離状態じゃ、奴には勝てないぜ！」","translation":"Yeah, but we can't beat him while we're split up!","id":"0038E0"}
+{"text":"「分離しなさい、チームＤ！」","translation":"Separate, Team D!","id":"003918"}
+{"text":"「嫌よ！」","translation":"No way!","id":"003940"}
+{"text":"「やめろ！　自殺行為だ！」","translation":"Stop! That's suicide!","id":"003950"}
+{"text":"「死ぬ…このままじゃ、チームＤは…」","translation":"We're going to die... At this rate, Team D is...","id":"003970"}
+{"text":"「勝手に殺さないでよ！」","translation":"Don't go killing me off on your own!","id":"0039A0"}
+{"text":"「俺達は生きる！」","translation":"We're going to live!","id":"0039C0"}
+{"text":"「誰のためでもなく自分自身のために！」","translation":"Not for anyone else, but for ourselves!","id":"0039D8"}
+{"text":"「気が合うわね。\n　さらにチームらしくなってきたじゃない」","translation":"We're on the same wavelength. We're really starting to feel like a team, aren't we?","id":"003A08"}
+{"text":"「少しは素直になったせいじゃない、\n　葵さん？」","translation":"Maybe it's because you've become a bit more honest, Aoi?","id":"003A48"}
+{"text":"「そういうまどろっこしいのはやめ。\n　葵でいいわ、くらら」","translation":"Cut the formalities. Just call me Aoi, Kurara.","id":"003A80"}
+{"text":"「ＯＫ、葵。\n　…これでいいかしら？」","translation":"OK, Aoi. ...Is that better?","id":"003AC0"}
+{"text":"「上出来よ！」","translation":"Perfect!","id":"003AF0"}
+{"text":"「まだ諦めていないか！\n　とどめを刺してくれる！」","translation":"Still not giving up? Then I'll finish you off!","id":"003B08"}
+{"text":"「負けたくない…！　こんな奴に…！\n　負けたくない！」","translation":"I don't want to lose...! Not to someone like this...! I don't want to lose!","id":"003B48"}
+{"text":"「負けられないんだ…！」","translation":"I can't afford to lose...!","id":"003B88"}
+{"text":"「負けるのは…いや…！」","translation":"I... don't want to lose...!","id":"003BB0"}
+{"text":"「負けたくねえ…！」","translation":"I don't wanna lose...!","id":"003BD0"}
+{"text":"「負けたく…！　ない！」","translation":"I don't... want to lose!","id":"003BF0"}
+{"text":"「だったら、見せてみろよ！\n　お前達の力を！」","translation":"Then show me! Show me your power!","id":"003F50"}
+{"text":"「ファイナルダンクーガ！」","translation":"Final Dancouga!","id":"003F88"}
+{"text":"「私達の力…！」","translation":"Our power...!","id":"003FB0"}
+{"text":"「戦う力…生きる力…生命の力をよ！」","translation":"The power to fight... the power to live... the power of life itself!","id":"003FC8"}
+{"text":"「あたしの生きる目的…。\n　誰のために…何のために…」","translation":"My reason for living... For whose sake... and for what...?","id":"003FF0"}
+{"text":"「そして今、あたしはここにいる…。\n　まだあたしは何も見つけていない。\n　ここでは死ねない！」","translation":"And now, I'm here... I still haven't found anything. I can't die here!","id":"004030"}
+{"text":"「これがあたしの生きてきた目的じゃない…！\n　あたしは死ねない！　絶対に嫌だ！」","translation":"This isn't what I've lived for...! I can't die! I absolutely refuse!","id":"004090"}
+{"text":"「終わらせるぞ、ダンクーガノヴァ！」","translation":"Let's end this, Dancouga Nova!","id":"0040E8"}
+{"text":"「うああああああああああっ！！」","translation":"Aaaaaaaaaah!!","id":"004118"}
+{"text":"「ば、馬鹿な…！\n　何だ、この力は！」","translation":"I-Impossible...! What is this power?!","id":"0042E0"}
+{"text":"「くっ…！\n　覚えていろよ、ダンクーガノヴァ！」","translation":"Ggh...! Remember this, Dancouga Nova!","id":"004310"}
+{"text":"「はぁ…はぁ…」","translation":"Huff... huff...","id":"004408"}
+{"text":"「何…？　何なの、この感覚…？\n　身体が熱い…！」","translation":"What...? What is this feeling...? My body's burning...!","id":"004420"}
+{"text":"「身体が…心が燃えている…！」","translation":"My body... my heart's on fire...!","id":"004458"}
+{"text":"「身体の奥から、あふれてくる…！」","translation":"It's overflowing from deep inside me...!","id":"004480"}
+{"text":"「俺達の…求めた力…！」","translation":"The power we sought...!","id":"0044B0"}
+{"text":"「やれば、出来るじゃねえか。\n　そいつが生命の力…野性だ」","translation":"See? You can do it. That's the power of life... wild instinct.","id":"0044D0"}
+{"text":"「野性…」","translation":"Instinct...","id":"004510"}
+{"text":"「壁を越えたって事さ。\n　使いこなせよ、ゴッドビーストモード」","translation":"It means you've broken through a wall. Master it: God Beast Mode.","id":"004520"}
+{"text":"「そいつが使えるようになったって事は\n　ジェネレーターの出力を最大限に\n　活かせるだろうぜ」","translation":"Now that you can use that, you should be able to make full use of the generator's maximum output.","id":"004568"}
+{"text":"「機関暴走が発生しない…。\n　つまり、合神状態で出撃できるのですね」","translation":"The engine won't go into runaway... In other words, we can sortie in combined form.","id":"0045C8"}
+{"text":"「あばよ、後輩。\n　Ｆ．Ｓ．に報告しとくぜ」","translation":"See ya, junior. I'll report this to F.S.","id":"004618"}
+{"text":"「何なんだ、奴は…」","translation":"Just what is he...?","id":"004828"}
+{"text":"「ダンクーガノヴァとＲ－ダイガン…。\n　二体のダンクーガの戦いのジャッジ役か」","translation":"Dancouga Nova and R-Daigun... So he's the referee for the battle between the two Dancougas.","id":"004848"}
+{"text":"「ついでに俺達と同じで\n　呪われた放浪者らしいが…」","translation":"And apparently, just like us, he's a cursed wanderer...","id":"0048A0"}
+{"text":"「気をつけろ！\n　またイマージュが来るぞ！」","translation":"Watch out! More Images are coming!","id":"0048D8"}
+{"text":"「しつこい！」","translation":"They just won't quit!","id":"004A08"}
+{"text":"「俺達の熱さに引かれたんだろうぜ！」","translation":"Guess they were drawn in by our passion!","id":"004A20"}
+{"text":"「シモン！\n　あたし達は壁を越えたよ！」","translation":"Simon! We've broken through the wall!","id":"004A50"}
+{"text":"「え…」","translation":"Huh...?","id":"004A80"}
+{"text":"「お前はどうなんだ！\n　目の前の壁に負けちまうのか！」","translation":"What about you?! Are you gonna let the wall in front of you beat you?!","id":"004A90"}
+{"text":"「…俺はアニキにはなれない…。\n　なれないんだ…」","translation":"...I can't be Bro... I just can't...","id":"004AD0"}
+{"text":"「それでいいんです！」","translation":"That's fine!","id":"004C50"}
+{"text":"「ニア…」","translation":"Nia...","id":"004C70"}
+{"text":"「あなたはあなたです！\n　他の誰でも…アニキさんでもなく\n　私を助けてくれたシモンです！」","translation":"You're you! Not anyone else... not even Bro. You're Simon, the one who saved me!","id":"004C88"}
+{"text":"「俺はアニキではなく、俺…」","translation":"I'm not Bro... I'm me...","id":"004CE8"}
+{"text":"「当たり前じゃねえかよ！」","translation":"Isn't that obvious?!","id":"004D10"}
+{"text":"「シモンさんはシモンさんだろ！」","translation":"Simon is Simon, isn't he?!","id":"004D30"}
+{"text":"「確かにカミナはすげえ奴だった！」","translation":"It's true, Kamina was one hell of a guy!","id":"004D58"}
+{"text":"「強くて、大きくて、熱くて…！」","translation":"Strong, big, and hot-blooded...!","id":"004D80"}
+{"text":"「だけど、あんたはあんただよ！」","translation":"But you're you!","id":"004DA8"}
+{"text":"「いつまでも見えない影に頼るな！」","translation":"Don't keep leaning on a shadow you can't even see!","id":"004DD0"}
+{"text":"「君は君の好きなようにやればいいんだ！」","translation":"Just do things your own way!","id":"004E00"}
+{"text":"「カミナの穴はみんなで埋める！」","translation":"We'll all fill the hole Kamina left behind!","id":"004E30"}
+{"text":"「全てを一人で背負おうなんて考えるな！」","translation":"Don't think you have to shoulder everything on your own!","id":"004E58"}
+{"text":"「俺達みんなでカミナの道を走るぞ！」","translation":"We'll all run the road Kamina laid out for us!","id":"004E88"}
+{"text":"「あの人と一緒に走っていた所から、\n　もっとずっと先まで！」","translation":"From where we ran with him, and far beyond that!","id":"004EB8"}
+{"text":"「だから、これまでより少しだけ頑張れ！\n　少しずつってのが、お前のやり方だろうが！」","translation":"So push yourself just a little more than before! Taking it little by little... that's your way, isn't it?!","id":"004F00"}
+{"text":"「俺のやり方…」","translation":"My way...","id":"004F60"}
+{"text":"「カミナが言ってたよ。\n　いつも俺を救ってくれたのはあいつだ。\n　最後まで諦めないのは、あいつなんだって」","translation":"Kamina said it himself. The one who always saved him was you. The one who never gives up to the very end is you.","id":"005218"}
+{"text":"「あなたはいつだって諦めなかった！\n　そうやって、今日まで戦ってきたじゃ\n　ありませんか！」","translation":"You never gave up, not even once! Isn't that how you've fought your way to this very day?","id":"005288"}
+{"text":"「ヨーコ…ロシウ…」","translation":"Yoko... Rossiu...","id":"0052F0"}
+{"text":"「思い出せ、シモン！\n　カミナがお前に送った言葉を！」","translation":"Remember, Simon! The words Kamina left you with!","id":"005310"}
+{"text":"「…お前を信じろ…。\n　俺が信じるお前でもない…。\n　お前が信じる俺でもない…」","translation":"...Believe in yourself... Not in the me who believes in you... And not in the you who believes in me...","id":"005350"}
+{"text":"「お前が信じる…お前を信じろ！」","translation":"Believe in the you... that believes in yourself!","id":"0053A8"}
+{"text":"「ラガン…」","translation":"Lagann...","id":"005510"}
+{"text":"「俺を信じてくれるのか！」","translation":"You believe in me?!","id":"005528"}
+{"text":"「シモンがアニキさんを信じたように\n　私もシモンを信じます！」","translation":"Just like Simon believed in Kamina, I believe in Simon too!","id":"005550"}
+{"text":"「うん！」","translation":"Yeah!","id":"005598"}
+{"text":"「シモンさん！」","translation":"Simon!","id":"0055B0"}
+{"text":"「合体だ、ロシウ！」","translation":"Let's combine, Rossiu!","id":"0055C8"}
+{"text":"「はい！」","translation":"Yes!","id":"0055E8"}
+{"text":"「シモン！」","translation":"Simon!","id":"005760"}
+{"text":"「シモン！」","translation":"Simon!","id":"005778"}
+{"text":"「よっしゃ！\n　グレンラガンも復活だ！」","translation":"All right! Gurren Lagann's back too!","id":"005790"}
+{"text":"「ダイガンザンの改修もばっちりよ！」","translation":"Dai-Gunzan's overhaul is perfect too!","id":"0057C0"}
+{"text":"「やるじゃない！\n　さっすがリーロン！」","translation":"Nice job! That's Leeron for you!","id":"0057F0"}
+{"text":"「この艦はダイグレン！\n　カミナが俺達に遺したものだ！」","translation":"This ship is Dai-Gurren! It's what Kamina left behind for us!","id":"005820"}
+{"text":"「やるぞ、みんな！\n　大グレン団の新たな出発だ！」","translation":"Let's do this, everyone! This is Team Dai-Gurren's new beginning!","id":"005868"}
+{"text":"「アニキが俺達に遺してくれた\n　たくさんのもの…。\n　俺は忘れない！」","translation":"All the things Bro left behind for us... I won't forget them!","id":"0058A8"}
+{"text":"「俺は掘り続ける！\n　どんな大きく高い壁も俺のドリルで！！」","translation":"I'll keep digging! No matter how huge or high the wall, I'll break through it with my drill!!","id":"0058F8"}
+{"text":"「敵の全滅を確認。\n　まさに大勝利ね」","translation":"Enemy annihilation confirmed. That's a complete victory.","id":"005AE0"}
+{"text":"「そうだな。\n　それに俺達はかけがえのないものを\n　取り戻す事が出来た」","translation":"Yeah. And we were able to get back something truly irreplaceable.","id":"005B10"}
+{"text":"「やったね、シモン」","translation":"You did it, Simon.","id":"005C20"}
+{"text":"「ありがとう、葵。\n　それに$cのみんなも」","translation":"Thanks, Aoi. And everyone in $c too.","id":"005C38"}
+{"text":"「ま…俺達もカミナには世話になってたからな」","translation":"Well... Kamina did a lot for us too.","id":"005C70"}
+{"text":"「その弟分に…俺達の仲間に気合を入れるぐらい\n　お安い御用だ」","translation":"So firing up his kid brother... our comrade... was the least we could do.","id":"005CA0"}
+{"text":"「でもさ…真っ先に礼を言わなきゃならないのは\n　俺達じゃないんじゃないの？」","translation":"But, y'know... aren't there people other than us you should be thanking first?","id":"005CE8"}
+{"text":"「うん…」","translation":"Yeah...","id":"005D40"}
+{"text":"「ありがとう、ニア。\n　俺…頑張るよ」","translation":"Thank you, Nia. I'll do my best.","id":"005D58"}
+{"text":"「アニキにはなれないけど、\n　俺なりのやり方で」","translation":"I can't be Bro, but I'll do it my way.","id":"005D88"}
+{"text":"「はい」","translation":"Yes.","id":"005DC0"}
+{"text":"「そうだな。\n　それが大グレン団だな！\n　な、リーダー！」","translation":"Yeah. That's Team Dai-Gurren, all right! Right, Leader?","id":"005DD0"}
+{"text":"「俺が…？」","translation":"Me...?","id":"005E10"}
+{"text":"「やっぱりよ、カミナの選んだ男なんだぜ、\n　お前はよ！」","translation":"After all, you're the man Kamina chose!","id":"005E28"}
+{"text":"「さっきの名乗りはイマイチだったけどね」","translation":"But your introduction earlier was kind of weak.","id":"005E68"}
+{"text":"「え…ええ…ちょっと！」","translation":"W-Wait... hey!","id":"005E98"}
+{"text":"「頑張って下さいね、シモン」","translation":"Do your best, Simon.","id":"005EB8"}
+{"text":"「声が小せえぞ！」","translation":"Speak up!","id":"005EE0"}
+{"text":"（アニキ…俺、やるよ…。\n　俺なりのやり方で…）","translation":"Bro... I'll do it... in my own way...","id":"005EF8"}
+{"text":"（俺のドリルで少しずつ、\n　天に向かって掘り進んでいくから…）","translation":"With my drill, I'll keep digging little by little toward the heavens...","id":"005F30"}
+{"text":"（だから、見守っててよね、\n　あの星の向こうで）","translation":"So keep watching over me, from beyond that star.","id":"005F78"}
+{"text":"「やるんだ…！\n　俺はアニキになるんだ…！」","translation":"I'll do it...! I'll become Bro...!","id":"0062F0"}
+{"text":"「戦え、ラガン…！\n　アニキを見殺しにした俺が出来る償いは\n　それしかないんだ！」","translation":"Fight, Lagann...! The only way I can atone for letting Bro die... is to fight!","id":"006328"}
+{"text":"（世話になったな、$c。\n　出来れば、ずっとお前達と一緒に\n　戦っていたかったぜ…）","translation":"Thanks for everything, $c. If I could, I'd have wanted to keep fighting alongside you guys forever...","id":"006440"}
+{"text":"（だが、俺達は行かなきゃならねえんだ。\n　俺達が生きるためにな…！）","translation":"But we gotta go. If we're gonna survive...!","id":"0064A0"}
+{"text":"（エウレカの様子がおかしい…。\n　イマージュのせいなのか…）","translation":"Eureka's acting strange... Is it because of the Image...?","id":"0065B0"}
+{"text":"（そう言えば、再会した時も\n　エウレカの周辺にはイマージュがいた…）","translation":"Come to think of it, when we reunited, there were Images around Eureka too...","id":"0065F8"}
+{"text":"（エウレカとイマージュ…。\n　もしかして、それってエウレカが\n　最重要機密だった事と関係あるのか…）","translation":"Eureka and the Image... Could that have something to do with Eureka being top-secret...?","id":"006648"}
+{"text":"「戦いの意味がどうのって言ってたけど、\n　あんたはそれを知ってるの！？」","translation":"You were talking about the meaning of battle, but do you even know what it is!?","id":"0067B8"}
+{"text":"「私は地球を守るために戦っている。\n　そのためにお前を倒す…！」","translation":"I fight to protect the Earth. And to do that, I will defeat you...!","id":"006808"}
+{"text":"「訳がわからないわよ！\n　どうして、ダンクーガノヴァを倒す事が\n　地球を守るためになるのよ！」","translation":"I don't get it! How does defeating Dancouga Nova protect the Earth!?","id":"006850"}
+{"text":"「その意味をお前達が知る必要はない！\n　なぜなら、ここでお前達の戦いは\n　終わるからだ！」","translation":"You don't need to know what it means! Because your battle ends here!","id":"0068B0"}
+{"text":"（身体が熱い…。\n　全身の細胞が生きてる事を叫んでいるみたい…）","translation":"My body's burning up... It's like every cell in me is screaming that I'm alive...","id":"006A10"}
+{"text":"（これが野性…生きる力…）","translation":"So this is instinct... the power to live...","id":"006A58"}
+{"text":"「最高じゃない！\n　だったら、力の限りにやってやろうじゃん！」","translation":"Now that's more like it! Then let's give it everything we've got!","id":"006A78"}
+{"text":"「行くぞ、ロシウ！\n　グレンラガンを俺達の気合で\n　燃え上がらせる！」","translation":"Let's go, Rossiu! We'll make Gurren Lagann blaze with our fighting spirit!","id":"006BA0"}
+{"text":"「はい、シモンさん！」","translation":"Yes, Simon!","id":"006BF0"}
+{"text":"「無理を通して道理を蹴っ飛ばす！\n　気合で無茶を押し通す！」","translation":"We'll push past the impossible and kick reason to the curb! We'll shove the absurd through with pure fighting spirit!","id":"006C10"}
+{"text":"「やるぞ、グレンラガン！\n　これが俺の戦い方だぁぁぁっ！！」","translation":"Let's do this, Gurren Lagann! This is how I fight!!","id":"006C58"}
+{"text":"「どう、ヨーコ？\n　あんたのためにカスタムした\n　ダヤッカイザーの乗り心地は？」","translation":"So, Yoko? How's the ride in the Dayakkaiser I customized just for you?","id":"006DA0"}
+{"text":"「悪くない！\n　あたしに合ってるわ、こいつ！」","translation":"Not bad! This thing suits me!","id":"006DF8"}
+{"text":"「その名もヨーコＭタンク！」","translation":"It's called the Yoko M Tank!","id":"006E30"}
+{"text":"「名前はともかく、気に入ったわ！」","translation":"Name aside, I like it!","id":"006E58"}
+{"text":"「このガンメンであたしも戦う…！\n　カミナの分まで！\n　ううん…その１０倍で！」","translation":"I'll fight in this Gunmen too...! For Kamina's sake! No... ten times that!","id":"006E88"}
+{"text":"「出力正常！　各機関、問題なし！」","translation":"Output normal! All systems green!","id":"007000"}
+{"text":"「全員、持ち場についています！」","translation":"Everyone's at their stations!","id":"007030"}
+{"text":"「敵前方に発見！\n　準備、ＯＫよ！」","translation":"Enemy sighted ahead! We're ready to go!","id":"007058"}
+{"text":"「このダイグレンはカミナが生命を懸けて\n　手に入れた俺達の家だ！」","translation":"This Dai-Gurren is our home, the one Kamina staked his life to win for us!","id":"007088"}
+{"text":"「総員、カミナの魂を胸に戦え！\n　大グレン団の戦いを見せてやるぞ！」","translation":"All hands, fight with Kamina's spirit in your hearts! We'll show them how Team Dai-Gurren fights!","id":"0070D8"}
+{"text":"「あ！」","translation":"Ah!","id":"007248"}
+{"text":"月光号　格納庫","translation":"Gekko-Go Hangar","id":"007420"}
+{"text":"　\n　\n　　　　　　　～月光号　格納庫～","translation":"~Gekko-Go Hangar~","id":"007430"}
+{"text":"「いったい何が起きてるんだよ！\n　どうして、いきなりイマージュが現れて、\n　俺達が帰還しなきゃならないんだ！」","translation":"What the hell is going on!? Why did the Images suddenly appear, and why do we have to head back!?","id":"007458"}
+{"text":"「どうしたんだ、エウレカ？」","translation":"What's wrong, Eureka?","id":"0074D0"}
+{"text":"「全て…私のせいなの……」","translation":"It's all... my fault...","id":"0074F8"}
+{"text":"「え…？」","translation":"Huh...?","id":"007520"}
+{"text":"「私が…人間じゃないから…」","translation":"Because... I'm not human...","id":"007538"}
+{"text":"「何言ってんだよ！\n　俺達、ワルサワで一緒だったじゃないか！」","translation":"What are you talking about!? We were together in Warsaw, weren't we!?","id":"007560"}
+{"text":"「父さんだって、母さんだって、\n　ドミニク先生だって、君の事…\n　俺と同じように接してくれたじゃないか！」","translation":"My dad, my mom, and even Dr. Dominic... they all treated you just like they treated me, didn't they!?","id":"0075A8"}
+{"text":"「そう言ってくれるの、\n　昔からレントンだけだったよね」","translation":"You were the only one who ever said that, Renton.","id":"007620"}
+{"text":"「！」","translation":"!","id":"007668"}
+{"text":"「何で私が軍の最重要機密って\n　言われてたか知ってる？」","translation":"Do you know why I was called the military's top secret?","id":"007678"}
+{"text":"「知らない…。\n　でも、それは隊長達も知らないし…」","translation":"I don't... But Captain and the others don't know either...","id":"0076C0"}
+{"text":"「私がね…イマージュによって\n　送り込まれたスパイロボットだからだよ」","translation":"Because I'm... a spy robot sent by the Images.","id":"007700"}
+{"text":"「イマージュによって\n　人間を調査するために送り込まれたロボット…。\n　それが私…」","translation":"A robot sent by the Images to investigate humans... That's what I am...","id":"007750"}
+{"text":"「私…シモンの悲しみを知ろうとした…。\n　きっとそれに反応してイマージュは\n　現れたのよ…」","translation":"I... tried to understand Simon's sorrow... I'm sure the Images appeared in response to that...","id":"0077B0"}
+{"text":"「何を言い出すかと思ったら…」","translation":"And here I was wondering what you were going to say...","id":"007818"}
+{"text":"「信じてくれないか…」","translation":"You don't believe me...?","id":"007840"}
+{"text":"「でも、いいよ。\n　私…レントンの前では普通の女の子で\n　いたいから…」","translation":"But that's okay. I... want to be just a normal girl when I'm with you, Renton...","id":"007860"}
+{"text":"「そんな…！\n　そんな事が…！」","translation":"No way...! That can't be...!","id":"0078B0"}
+{"text":"「そこまでだ、レントン」","translation":"That's enough, Renton.","id":"0078E0"}
+{"text":"「隊長…あんたはエウレカの秘密を\n　知っていたのか！？」","translation":"Captain... did you know Eureka's secret!?","id":"007908"}
+{"text":"「当然だ」","translation":"Of course I did.","id":"007950"}
+{"text":"「知っていて、エウレカを救った…。\n　いや…軍から奪ったのか！？」","translation":"You knew, and you saved Eureka... No... did you steal her from the military!?","id":"007968"}
+{"text":"「そういう事だ。\n　騙して悪かったな」","translation":"That's right. Sorry for deceiving you.","id":"0079B8"}
+{"text":"「目的は何だ！？\n　俺を騙して、エウレカを強奪した理由は！？」","translation":"What's your goal!? Why did you deceive me and steal Eureka away!?","id":"0079E8"}
+{"text":"「それを答える前に\n　一つお前に聞いてみたい事がある。\n　お前には俺が何歳に見える？」","translation":"Before I answer that, there's one thing I want to ask you. How old do I look to you?","id":"007A30"}
+{"text":"「何…？」","translation":"What...?","id":"007A90"}
+{"text":"「いいから答えろ」","translation":"Just answer.","id":"007AA8"}
+{"text":"「知るか、そんなもん…！」","translation":"How the hell should I know...!","id":"007AC8"}
+{"text":"「１７だ」","translation":"Seventeen.","id":"007AF0"}
+{"text":"「え…」","translation":"Huh...?","id":"007B08"}
+{"text":"「俺だけじゃない。\n　ここにいるみんな…月光号のクルー全員が\n　１７歳だ」","translation":"Not just me. Everyone here... every member of the Gekko-Go crew is seventeen.","id":"007B20"}
+{"text":"「俺達はネバーランドの子供達だ」","translation":"We're the children of Neverland.","id":"007B78"}
+{"text":"「ネバーランド…。\n　永遠の子供達の国…」","translation":"Neverland... the land of eternal children...","id":"007BA8"}
+{"text":"「８年前に起こったドーハの悲劇…。\n　それはイマージュを利用して時空震動を\n　発生させる実験だった」","translation":"The Doha Tragedy eight years ago... it was an experiment that used the Image to trigger a space-time quake.","id":"007BE0"}
+{"text":"「その時にも人型イマージュ…\n　つまり、そこのエウレカと同じような\n　スパイロボットの少女が使われた」","translation":"They used a humanoid Image then too... in other words, a spy robot girl like Eureka here.","id":"007C50"}
+{"text":"「な、何を言っているんだ…？」","translation":"W-What are you talking about...?","id":"007CC0"}
+{"text":"「…俺達を乗せた艦は一直線に\n　イマージュに向かっていった」","translation":"...The ship carrying us headed straight for the Image.","id":"007CE8"}
+{"text":"「大人は若い軍人と桃色の髪の女以外に\n　誰も乗っていなかった」","translation":"There were no adults aboard except for a young soldier and a pink-haired woman.","id":"007D30"}
+{"text":"「その二人も何かの覚悟を決めたかのように\n　抱き合っているだけだった」","translation":"Those two just held each other, as if they'd made up their minds about something.","id":"007D78"}
+{"text":"「やがて周囲が虹色に輝き始め、\n　気付いた時には俺達はバラバラになった艦から\n　放り出されていた」","translation":"Before long, everything around us glowed rainbow-colored, and before we knew it, we were thrown from the shattered ship.","id":"007DC8"}
+{"text":"「死ぬのだと思った…」","translation":"I thought we were going to die...","id":"007E38"}
+{"text":"「虹のトンネルの中で俺達の身体は\n　バラバラになっていった。\n　そうだ…俺達はモルモットにされたんだ」","translation":"Inside that rainbow tunnel, our bodies started coming apart. That's right... we were used as guinea pigs.","id":"007E58"}
+{"text":"「孤児の俺達がいなくなったところで\n　誰も悲しみはしない…。\n　大人達はそう考えたんだろう」","translation":"The adults must have thought no one would mourn us if we orphans disappeared...","id":"007EC8"}
+{"text":"「だが、トンネルの抜けた先で俺達は見たんだ。\n　その先に広がる世界を…」","translation":"But on the other side of that tunnel, we saw it. The world that lay beyond...","id":"007F30"}
+{"text":"「緑に輝く環が星を取り囲み、\n　刻印のある月が浮かぶ青き星を…」","translation":"A blue planet with a glowing green ring surrounding it, and a moon bearing a seal...","id":"007F88"}
+{"text":"「刻印のある月…」","translation":"A moon bearing a seal...","id":"007FD8"}
+{"text":"「俺達は悟った。\n　この世界こそが俺達のいるべき世界なのだと」","translation":"We realized it then. That this world was where we were meant to be.","id":"007FF8"}
+{"text":"「そういった意味では\n　俺達はお前の両親に感謝している」","translation":"In that sense, we owe your parents our thanks.","id":"008040"}
+{"text":"「どういう事だ！？」","translation":"What do you mean by that!?","id":"008088"}
+{"text":"「お前の両親が働いていたワルサワの研究所…。\n　そこが、その実験を行なったのさ」","translation":"The Warsaw research facility where your parents worked... that's where they conducted that experiment.","id":"0080A8"}
+{"text":"「連中はそのテクノロジーを\n　ある物語を解析して生み出したんだとよ」","translation":"They say they created that technology by analyzing a certain story.","id":"008108"}
+{"text":"「物語…」","translation":"A story...","id":"008158"}
+{"text":"「『アゲハ神話』…。\n　それが全ての始まりだったのさ」","translation":"The \"Ageha Myth\"... That was where it all began.","id":"008170"}
+{"text":"「目が覚めると俺達は、\n　この世界に引き戻されていた」","translation":"When we woke up, we had been pulled back to this world.","id":"0081B0"}
+{"text":"「桃色の髪の女と共にいた若い軍人の姿は\n　消えていた」","translation":"The young soldier who'd been with the pink-haired woman was gone.","id":"0081F0"}
+{"text":"「軍に回収された俺達は\n　そこで自分達の身体が常人の三倍の速さで\n　成長している事を知った」","translation":"After the military recovered us, we learned that our bodies were growing three times faster than normal.","id":"008230"}
+{"text":"「この世界にいる限り、\n　俺達を待っているのは死だけ…。\n　俺はそんなのは嫌だ！」","translation":"As long as we're in this world, all that awaits us is death... I don't want that!","id":"008298"}
+{"text":"「運命に弄ばれて、\n　身体をメチャクチャにされて、\n　挙句に未来さえも奪われる…！」","translation":"Toyed with by fate, our bodies ruined, and in the end even our future stolen away...!","id":"0082F8"}
+{"text":"「俺はそんなのは嫌だ！\n　そんな人生を俺は絶対に認めねえ！」","translation":"I don't want that! I'll never accept a life like that!","id":"008358"}
+{"text":"「それがエウレカを強奪した事に\n　どう関係する！？」","translation":"What does that have to do with abducting Eureka!?","id":"0083A0"}
+{"text":"「…ワルサワの連中が使ったアゲハ神話は\n　イマージュによって用意されたものだって\n　説がある」","translation":"...There's a theory that the Ageha Myth used by the people at Warsaw was prepared by the Image.","id":"0083E0"}
+{"text":"「奴等は世界の事象を操る力を持ってるんだとよ。\n　だが、その力を起動させる術が\n　ねえらしい」","translation":"They say they have the power to manipulate the world's events. But it seems they don't know how to activate it.","id":"008448"}
+{"text":"「だから、誰かに起動スイッチを\n　押させるためにアゲハ神話を用意したのさ」","translation":"So they prepared the Ageha Myth to get someone else to press the activation switch.","id":"0084B0"}
+{"text":"「神話…スイッチ…。\n　それに何の意味が…」","translation":"Myth... switch... What does that even mean...?","id":"008508"}
+{"text":"「わからねえなら、教えてやる。\n　俺達はそこの人型イマージュを使って、\n　もう一度、時空震動を起こす！」","translation":"If you don't get it, I'll spell it out. We're going to use that humanoid Image to trigger another space-time quake!","id":"008540"}
+{"text":"「そして、俺達は世界を創り直す！\n　俺達が生きられる世界にな！」","translation":"Then we'll remake the world! A world where we can live!","id":"0085B0"}
+{"text":"「…ふざけるな…」","translation":"...Don't screw with me...","id":"008600"}
+{"text":"「何…？」","translation":"What...?","id":"008620"}
+{"text":"「世界を創り直すって、\n　そんなのを誰か個人がやっていいのかよ！」","translation":"Remake the world? You think some one person has the right to do that?!","id":"008638"}
+{"text":"「それにエウレカを使おうとするなんて、\n　あんたはあんたが嫌ってる大人達と\n　同じ事をしているじゃないか！」","translation":"And trying to use Eureka for that... You're doing the exact same thing as the adults you hate!","id":"008688"}
+{"text":"「黙れ！」","translation":"Shut up!","id":"008700"}
+{"text":"「殴られたって黙るかよ！\n　あんたは卑怯者だ！\n　そんな奴にエウレカを利用させてなるものか！」","translation":"Like hell I'll shut up just because you hit me! You're a coward! I won't let someone like you use Eureka!","id":"008718"}
+{"text":"「俺達の計画に使うのはエウレカだけじゃねえ！\n　お前もだ！」","translation":"Eureka isn't the only one we're using for our plan! You are too!","id":"008780"}
+{"text":"「何っ！？」","translation":"What!?","id":"0087C8"}
+{"text":"「レントン！　逃げて！！」","translation":"Renton! Run!!","id":"0087E0"}
+{"text":"「こいつ…！　離しやがれ！」","translation":"You...! Let go of me!","id":"008808"}
+{"text":"「エウレカ！！」","translation":"Eureka!!","id":"008830"}
+{"text":"「ここにいたら、レントンも\n　私と同じような目に遭う！\n　だから！」","translation":"If you stay here, Renton, you'll end up like me! So go!","id":"008850"}
+{"text":"「君を置いていくわけには…！」","translation":"I can't just leave you behind...!","id":"0088A0"}
+{"text":"「ニルヴァーシュ！\n　レントンを連れていって！」","translation":"Nirvash! Take Renton and go!","id":"0088C8"}
+{"text":"「やめろ、ニルヴァーシュ！\n　やめろ！！」","translation":"Stop, Nirvash! Stop!!","id":"008908"}
+{"text":"グレンラガン","translation":"Gurren Lagann","id":"009640"}
+{"text":"「アニキは死んだ！　もういない！」","translation":"Bro is dead! He's gone!","id":"009650"}
+{"text":"「だけど、俺の背中に！　この胸に！\n　一つになって生き続ける！」","translation":"But on my back! Here in my heart! He lives on as a part of me!","id":"009680"}
+{"text":"「穴を掘るなら天を突く！\n　墓穴掘っても掘り抜けて！」","translation":"If you're gonna dig, dig till you pierce the heavens! Even if in your own grave, keep digging!","id":"0096C8"}
+{"text":"「突き抜けたなら、俺の勝ち！」","translation":"And if I break through, I win!","id":"009708"}
+{"text":"「俺を誰だと思っている！？\n　俺はシモンだ！」","translation":"Just who the hell do you think I am!? I'm Simon!","id":"009730"}
+{"text":"「カミナのアニキじゃない！\n　俺は俺だ！　穴掘りシモンだ！！」","translation":"「I’m not my Bro Kamina!\n  I’m me!\n  Simon the digger!」","id":"009768"}
+{"text":"司令室","translation":"Command Room","id":"009C10"}
+{"text":"　\n　　\n　　　　　～ドラゴンズハイヴ　司令室～","translation":"~Dragon's Hive Command Room~","id":"009C18"}
+{"text":"「そういうわけだ。\n　連中は見事に壁を越えたぜ」","translation":"That's how it is. They made it clean over the wall.","id":"009C48"}
+{"text":"「だが、これは第一関門に過ぎない」","translation":"But this is only the first hurdle.","id":"009C80"}
+{"text":"「厳しいねぇ。\n　ま…ダンクーガを名乗る以上、\n　あれ位はやってもらわねえとな」","translation":"Harsh, huh. Well... if they're gonna call themselves Dancouga, they'd better be able to do at least that much.","id":"009CB0"}
+{"text":"「ご苦労だった。\n　帰還後には次のミッションを頼む事になる」","translation":"Good work. Once you return, I'll have another mission for you.","id":"009D08"}
+{"text":"「ＯＫ。\n　生命の恩人の頼みじゃ断れねえしな」","translation":"OK. Can't exactly turn down a favor from the one who saved my life.","id":"009D50"}
+{"text":"「やってくれたか…」","translation":"So they pulled it off...","id":"009D88"}
+{"text":"「私は信じていましたよ。\n　あの人達って、とってもタフな神経の\n　持ち主ですから」","translation":"I believed in them. Those people have nerves of steel.","id":"009DA8"}
+{"text":"「ほんとは、只のバカなんじゃないかと\n　思うくらいです」","translation":"Honestly, I sometimes wonder if they're just plain idiots.","id":"009E00"}
+{"text":"「同感。\n　でも、それをなかなか表に出せなかったのよね、\n　あの子達…」","translation":"I agree. But those kids could never really show that side of themselves openly...","id":"009E40"}
+{"text":"「壁を越えられた今、\n　彼等はそれを素直に出せるように\n　なったのでしょう」","translation":"Now that they've broken through that wall, I suppose they've become able to show it honestly.","id":"009E90"}
+{"text":"「ま…バカになれたとも言えますがね」","translation":"Well... you could also say they've finally learned how to be fools.","id":"009EE8"}
+{"text":"「これも率先して田中さんが\n　お手本を見せてくれていたおかげですね」","translation":"And that's thanks to Commander Tanaka taking the lead and setting an example for them.","id":"009F18"}
+{"text":"「あの…それって、つまり…」","translation":"Um... does that mean... ?","id":"009F68"}
+{"text":"「答えを聞きたいですか？」","translation":"Do you want to hear the answer?","id":"009F90"}
+{"text":"「その必要はありませんよ。\n　自覚はしていましたから」","translation":"There's no need. I was already aware of it.","id":"009FB0"}
+{"text":"「しかし、ＷＩＬＬ…」","translation":"However, WILL...","id":"009FF0"}
+{"text":"「何だい？」","translation":"What is it?","id":"00A010"}
+{"text":"「これも全てあなたの計画通りなのか？」","translation":"Was all of this part of your plan as well?","id":"00A028"}
+{"text":"「気がついていたのだね？\n　私が彼女にＲ－ダイガンの設計図を\n　渡した意味を」","translation":"So you noticed? The reason I gave her the blueprints for R-Daigun.","id":"00A058"}
+{"text":"「長い付き合いだからね…。\n　だが、あなたの考えの全てに\n　賛同するわけではない」","translation":"We've known each other a long time... but that doesn't mean I agree with everything you think.","id":"00A0B0"}
+{"text":"「それは残念だが、私の意思は変わらないよ」","translation":"That's unfortunate, but I won't change my mind.","id":"00A110"}
+{"text":"「だろうね…」","translation":"I thought as much...","id":"00A148"}
+{"text":"「ダンクーガノヴァとＲ－ダイガン…。\n　二つのダンクーガは戦わなければならない」","translation":"Dancouga Nova and R-Daigun... The two Dancougas must fight.","id":"00A160"}
+{"text":"「獣を超え、人を超え、\n　そして神をも超える存在となるために…」","translation":"To become a being that surpasses beasts, humanity, and even the gods...","id":"00A1C0"}
+{"text":"黒ベタ","translation":"Black screen","id":"00A210"}
+{"text":"月光号　ブリッジ","translation":"Gekko-Go Bridge","id":"00A218"}
+{"text":"　\n　　\n　　　　　　　～月光号　ブリッジ～","translation":"~Gekko-Go Bridge~","id":"00A230"}
+{"text":"「…だから、言ったじゃねえか、\n　説得しても無駄だって」","translation":"...I told you, didn't I? Trying to persuade him was pointless.","id":"00A260"}
+{"text":"「………」","translation":"...","id":"00A2A0"}
+{"text":"「いくらレントンがエウレカに\n　選ばれた奴だからって、所詮ただの人間だ。\n　俺達とは違うんだよ」","translation":"No matter if Renton was chosen by Eureka, in the end he's still just a human. He's different from us.","id":"00A2B8"}
+{"text":"「わかってる」","translation":"I know.","id":"00A320"}
+{"text":"「いいか、ホランド…俺達には時間がない。\n　あとどれだけ生きられるか\n　わからないんだぞ」","translation":"Listen, Holland... we don't have much time. We don't even know how much longer we've got to live.","id":"00A338"}
+{"text":"「わかってるさ」","translation":"I know that.","id":"00A398"}
+{"text":"「お前、ほんとにわかってるのかよ！\n　だいたい、お前は甘過ぎるんだ！」","translation":"Do you really get it?! You're way too soft!","id":"00A3B8"}
+{"text":"「何の確証もないままレントンを引き入れたり…。\n　そんな面倒な事しねえで、\n　とっとと奴に薬物を使って…」","translation":"You brought Renton in with no proof...\nInstead of making it so complicated,\nyou should've just drugged him and...","id":"00A408"}
+{"text":"「わかってんよ！」","translation":"I said I know!","id":"00A478"}
+{"text":"「お前…\n　まさか、後悔してるんじゃないだろうな？」","translation":"You... don't tell me you're having second thoughts?","id":"00A498"}
+{"text":"「何？」","translation":"What?","id":"00A4D8"}
+{"text":"「いまさら何をビビってんだ？\n　これはお前が始めた事なんだぞ！」","translation":"What are you getting cold feet for now? You started this!","id":"00A4F0"}
+{"text":"「なあ、いい加減、覚悟を決めろよ。\n　レントン一人でためらっていたら、\n　これから何も出来ないんだぞ」","translation":"Come on, make up your mind already. If you keep hesitating over Renton, we won't be able to do anything from here on out.","id":"00A538"}
+{"text":"「確かに奴の精神を制御していれば、\n　こんな事にはならなかった…。\n　決断しなかったのは、俺のミスだ」","translation":"It's true that if I had controlled his mind, it wouldn't have come to this... It was my mistake not to make that decision.","id":"00A5A8"}
+{"text":"「奴は俺達の事を$cに話す。\n　下手をすれば、面倒な事になるぞ」","translation":"He's going to tell $c about us. If things go badly, this could turn into a real problem.","id":"00A618"}
+{"text":"「俺は！\n　俺はただ…子供に手は出したくなかった\n　だけだ…」","translation":"I... I just... didn't want to lay a hand on a kid...","id":"00A660"}
+{"text":"「俺達だって…ほんとは子供だろうが」","translation":"We're just kids ourselves too...","id":"00A6A8"}
+{"text":"「どうするつもりだ、これから？」","translation":"What are you planning to do now?","id":"00A6D8"}
+{"text":"「計画は変更しない。\n　レントンはいずれ手に入れる」","translation":"The plan doesn't change. We'll get Renton sooner or later.","id":"00A708"}
+{"text":"「そのために奴の力を借りるのね…」","translation":"And for that, you'll use his power...","id":"00A748"}
+{"text":"「俺達が生きるためだ。\n　文句がある奴は、この艦を降りろ」","translation":"It's for our survival. If anyone has a problem with that, get off this ship.","id":"00A778"}
+{"text":"「既に覚悟は決めている」","translation":"I've already made up my mind.","id":"00A7C0"}
+{"text":"「ああ…俺達は生きる…。\n　どんな手段を使ってでも…」","translation":"Yeah... we'll survive. By any means necessary...","id":"00A7E8"}
+{"text":"「首尾はどうですか、月光号の皆さん」","translation":"How are things going, everyone on the Gekko-Go?","id":"00A830"}
+{"text":"「お前の指示通り、\n　なるべく$cを動揺させるように\n　戦闘中に離脱した」","translation":"Just as you instructed, we withdrew during the battle to shake $c up as much as possible.","id":"00A860"}
+{"text":"「上出来です。\n　では、約束通り、私アイム・ライアードが\n　個人的にあなたに協力しましょう」","translation":"Excellent. Then, as promised, I, Aim Liard, will personally assist you.","id":"00A8B0"}
+{"text":"「何が協力だ…。\n　俺達の事を調べて、すりよってきたくせによ」","translation":"Cooperation, huh...? You only came to us after digging into our business.","id":"00A918"}
+{"text":"「ですが、それに乗ったのは、あなた達です。\n　もう後戻りは出来ない事をお忘れなく」","translation":"But you're the ones who took the bait. Don't forget, there's no turning back now.","id":"00A960"}
+{"text":"「そんな事は言われるまでもねえ」","translation":"I don't need you to tell me that.","id":"00A9C0"}
+{"text":"「では、始めましょう。\n　あなた達の神話再生計画を…」","translation":"Then let us begin... your Myth Rebirth Plan.","id":"00A9F0"}
