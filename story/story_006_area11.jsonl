@@ -448,9 +448,9 @@
 {"text":"「あんた、財務担当じゃなかったのかよ？」","translation":"Weren't you supposed to be in charge of finances?","id":"00CC80"}
 {"text":"「玉城の場合、偉そうな顔が出来るんなら\n　役職は何でもいいんだよ」","translation":"In Tamaki's case, as long as he can look important, he doesn't care what his title is.","id":"00CCB0"}
 {"text":"「へへ…俺の計画を聞いて\n　驚くんじゃねえぞ」","translation":"Heh heh... don't be shocked when you hear my plan.","id":"00CCF8"}
-{"text":"「名付けてドーリアン外務次官令嬢誘拐計画だ」","translation":"I've got a name for it: the plan to kidnap Vice Foreign Minister Dorlian's daughter.","id":"00CD30"}
-{"text":"「…ドーリアン外務次官って誰だ？」","translation":"...Who's Vice Foreign Minister Dorlian?","id":"00CD68"}
-{"text":"「正確にはドーリアン外務調停次官だ。\n　国連の要人で国家間の紛争の実質的な\n　取りまとめ役だ」","translation":"To be exact, he's Deputy Foreign Mediation Minister Dorlian, a major U.N. figure who settles disputes between nations.","id":"00CD98"}
+{"text":"「名付けてドーリアン外務次官令嬢誘拐計画だ」","translation":"I've got a name for it: the plan to kidnap Vice Foreign Minister Darlian's daughter.","id":"00CD30"}
+{"text":"「…ドーリアン外務次官って誰だ？」","translation":"...Who's Vice Foreign Minister Darlian?","id":"00CD68"}
+{"text":"「正確にはドーリアン外務調停次官だ。\n　国連の要人で国家間の紛争の実質的な\n　取りまとめ役だ」","translation":"To be exact, he's Deputy Foreign Mediation Minister Darlian, a major U.N. figure who settles disputes between nations.","id":"00CD98"}
 {"text":"「そのご令嬢がエリア１１に留学してるってネタを\n　つかんだのさ」","translation":"I got wind that his daughter is studying abroad here in Area 11.","id":"00CDF8"}
 {"text":"「そいつを誘拐して、国連に俺達の主張を\n　聞かせるのさ」","translation":"We'll kidnap her and make the U.N. listen to what we have to say.","id":"00CE40"}
 {"text":"「やめとこうぜ。\n　娘と言っても民間人だ。\n　それを巻き込むのは寝覚めが悪い」","translation":"Let's not. Even if she's his daughter, she's a civilian. Getting her involved leaves a bad taste in my mouth.","id":"00CE80"}
@@ -459,7 +459,7 @@
 {"text":"「どうした、ヒイロ？\n　一目ぼれか」","translation":"What's wrong, Heero? Love at first sight?","id":"00CF60"}
 {"text":"「………」","translation":".........","id":"00CF90"}
 {"text":"「そういう冗談には乗らないか。\n　冷めてるねぇ…」","translation":"Not biting on that joke, huh? Cold as ever...","id":"00CFA8"}
-{"text":"「ご令嬢の名前はリリーナ・ドーリアン。\n　留学先は私立アッシュフォード学園だ」","translation":"The young lady's name is Relena Dorlian. She's studying at the private Ashford Academy.","id":"00CFE0"}
+{"text":"「ご令嬢の名前はリリーナ・ドーリアン。\n　留学先は私立アッシュフォード学園だ」","translation":"The young lady's name is Relena Darlian. She's studying at the private Ashford Academy.","id":"00CFE0"}
 {"text":"「アッシュフォード学園と言やぁ…」","translation":"Ashford Academy, huh...","id":"00D038"}
 {"text":"「ああ、あそこには…」","translation":"Yeah, that's where...","id":"00D060"}
 {"text":"「俺がそこに潜入する」","translation":"I'll infiltrate there.","id":"00D080"}
@@ -469,7 +469,7 @@
 {"text":"「何もすぐに実行するわけじゃない。\n　その下調べをするだけさ」","translation":"We're not actually going to do it right away. We're just going to do some recon first.","id":"00D148"}
 {"text":"「それに学生ってのは世相に敏感だからな。\n　俺達の行動に対するブリタニア・ユニオンの\n　民間人の反応も知りたい」","translation":"Besides, students are sensitive to the times. I want to know how Britannia Union civilians will react to our actions.","id":"00D190"}
 {"text":"「世慣れたお前なら心配は要らないが、\n　問題は相棒だな」","translation":"I'm not worried about you—you know how to handle yourself. The problem is your partner.","id":"00D208"}
-{"text":"（リリーナ・ドーリアン…。\n　俺の顔を見られた以上、その存在を\n　放っておくわけにはいかない…）","translation":"Relena Dorlian... Now that she's seen my face, I can't just leave her alone...","id":"00D248"}
+{"text":"（リリーナ・ドーリアン…。\n　俺の顔を見られた以上、その存在を\n　放っておくわけにはいかない…）","translation":"Relena Darlian... Now that she's seen my face, I can't just leave her alone...","id":"00D248"}
 {"text":"「みんな、大変だよ！\n　大ニュースだ！！」","translation":"Everyone, this is bad! Big news!!","id":"00D2B0"}
 {"text":"「何だよ？\n　毒ガスの次はミサイル輸送ってネタか？」","translation":"What now? After poison gas, is the next scoop missile transport?","id":"00D2E8"}
 {"text":"「ふざけてる場合じゃないよ！\n　クロヴィス総督が昨日、暗殺されたんだって！」","translation":"This is no time for jokes! Governor Clovis was assassinated yesterday!","id":"00D328"}
