@@ -198,8 +198,8 @@
 {"text":"「リリーナ・ドーリアンの父親だ。\n　気になるか？」","translation":"Relena Darlian's father. Does that bother you?","id":"005A18"}
 {"text":"「…！」","translation":"...!","id":"005A50"}
 {"text":"「どうして、お前がリリーナお嬢さんと\n　ヒイロの事を知ってるんだ？」","translation":"How do you know about Miss Relena and Heero?","id":"005A60"}
-{"text":"「ソレスタルビーイングは\n　各国の利害の調停役であるドーリアン外務次官の\n　動きはマークしている」","translation":"Celestial Being has been keeping tabs on the movements of Undersecretary Darlian, the mediator between nations' interests.","id":"005AB0"}
-{"text":"「俺はエリア１１の潜入工作員だ。\n　次官が娘を突然あの地へ転入させた事も\n　調査対象だった」","translation":"I'm an undercover agent in Area 11. The undersecretary suddenly transferring his daughter there was also under investigation.","id":"005B18"}
+{"text":"「ソレスタルビーイングは\n　各国の利害の調停役であるドーリアン外務次官の\n　動きはマークしている」","translation":"Celestial Being has been keeping tabs on the movements of Deputy Foreign Minister Darlian, the mediator between nations' interests.","id":"005AB0"}
+{"text":"「俺はエリア１１の潜入工作員だ。\n　次官が娘を突然あの地へ転入させた事も\n　調査対象だった」","translation":"I was an undercover agent in Area 11. The fact that the Deputy Minister suddenly transferred his daughter there was also under investigation.","id":"005B18"}
 {"text":"「で、リリーナの事も追ってったってわけか」","translation":"So that's why you were keeping an eye on Relena too, huh?","id":"005B78"}
 {"text":"（彼女にマークをつけた理由は\n　それだけではないがな）","translation":"That wasn't the only reason we marked her.","id":"005BB0"}
 {"text":"「なあ、刹那…\n　あの子とヒイロが俺の目の届かない所で\n　何やってたか教えろよ」","translation":"Hey, Setsuna... tell me what that girl and Heero were doing when I wasn't looking.","id":"005BF8"}
@@ -252,7 +252,7 @@
 {"text":"「だといいがな」","translation":"Let's hope so.","id":"0068E8"}
 {"text":"「それより…フロンティア船団…\n　どうなっちゃうんでしょうね…」","translation":"More importantly... what'll happen to the Frontier fleet now...?","id":"006900"}
 {"text":"「まさか、別の世界の地球に\n　たどり着くとはな」","translation":"Never thought we'd end up on Earth in another world.","id":"006948"}
-{"text":"「こっちの地球はゼントラーディとの戦いもなく、\n　統合政府もないって聞きます」","translation":"I hear this Earth never had a war with the Zentradi, and there's no unified government either.","id":"006980"}
+{"text":"「こっちの地球はゼントラーディとの戦いもなく、\n　統合政府もないって聞きます」","translation":"I hear this Earth never had a war with the Zentraedi, and there's no unified government either.","id":"006980"}
 {"text":"「各国家を代表した国連ってのの使節団と\n　政府が会談するってニュースで言ってたが…」","translation":"The news said the government was going to hold talks with a UN delegation representing the various nations, but...","id":"0069D8"}
 {"text":"「戦争になったりしませんよね…？」","translation":"It won't lead to war, will it...?","id":"006A38"}
 {"text":"「まさか…。\n　種の存続を目的に銀河を旅してきたのに\n　地球人同士で争うなんて馬鹿過ぎるだろう」","translation":"Of course not. We crossed the galaxy to ensure our species survives. Fighting among humans would be absurd.","id":"006A68"}
