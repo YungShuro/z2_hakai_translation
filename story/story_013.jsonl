@@ -27,7 +27,7 @@
 {"text":"（さあ、見せてもらうぞ、ゼロ…。\n　お前がこのステージを\n　どう演出するかを…）","translation":"Now then, show me, Zero... how you'll stage this performance...","id":"001AA8"}
 {"text":"「ゼロ…」","translation":"Zero...","id":"001B08"}
 {"text":"（奴等がゼロを同志として受け入れるか、\n　それとも邪魔者として扱うか…）","translation":"Will they accept Zero as a comrade, or treat him as an obstacle...?","id":"001B20"}
-{"text":"（いずれにせよ、ゼロに会いたいという誘惑…\n　この心の動きに勝てるはずがない）","translation":"Either way, I can't resist the temptation to meet Zero... There's no way I can overcome this stirring in my heart.","id":"001B70"}
+{"text":"（いずれにせよ、ゼロに会いたいという誘惑…\n　この心の動きに勝てるはずがない）","translation":"Either way, this temptation to become Zero once more... I know I can't resist it.","id":"001B70"}
 {"text":"（作戦の前提条件は全てクリア…。\n　さあ…ショーの始まりだ）","translation":"All the prerequisites for the operation are cleared... Now then... let the show begin.","id":"001BC8"}
 {"text":"「何だ、奴等は！？」","translation":"Who the hell are they!?","id":"001F90"}
 {"text":"「人質は解放した！\n　扇、玉城！　南と杉山と共に\n　彼等を退避させろ！」","translation":"The hostages are free! Ohgi, Tamaki! Evacuate them with Minami and Sugiyama!","id":"002050"}
@@ -163,7 +163,7 @@
 {"text":"「で、でも…」","translation":"B-But...","id":"005D40"}
 {"text":"「そういう時は腹の底に力を入れて、\n　啖呵の一つでも切ってやれ！\n　俺が手本を見せてやる！」","translation":"When that happens, put some strength in your gut and throw out a little bravado! I'll show you how!","id":"005D58"}
 {"text":"「おうおうおう！\n　どんな事情があるにしろ、\n　汚い手を使うドグサレは許しちゃおけねえ！」","translation":"All right, all right! Whatever their reasons, I won't forgive any filthy bastard who fights dirty!","id":"005DC0"}
-{"text":"「音に聞こえたグレン団！\n　その鬼リーダーのカミナ様と弟分のシモン！」","translation":"We're the famed Team Gurren! Its demon leader, the great Kamina, and his kid brother Simon!","id":"005E20"}
+{"text":"「音に聞こえたグレン団！\n　その鬼リーダーのカミナ様と弟分のシモン！」","translation":"We're the famed Team Gurren! I'm its fearsome leader, the great Kamina, and this is my kid brother, Simon!","id":"005E20"}
 {"text":"「俺達がここにいたのが、お前等の運の尽きよ！\n　覚悟が出来た奴から、かかってきやがれ！」","translation":"The fact that we're here means your luck just ran out! Anyone who's ready, come at us!","id":"005E70"}
 {"text":"（地球の空は確かに広かった…。\n　だが、こんな戦いをするために\n　俺は飛んでるんじゃない…）","translation":"Earth's skies really were vast... But I didn't take to the air for a fight like this...","id":"006030"}
 {"text":"「くそっ…！\n　何なんだ、このモヤモヤは…！」","translation":"Damn it...! What is this uneasy feeling...?","id":"006098"}
@@ -298,7 +298,7 @@
 {"text":"「あ…僕はルカ・アンジェローニ。\n　ミシェル先輩と同じくＳ．Ｍ．Ｓの所属です」","translation":"Ah... I'm Luca Angeloni. Like Michel-senpai, I'm with SMS.","id":"008960"}
 {"text":"「実はゼントラーディは、\n　地球人類の祖先に当たる種族が\n　遺伝子改良で造り上げた戦闘種族なんだ」","translation":"Actually, the Zentradi are a warrior race created through genetic engineering by a species ancestral to humanity on Earth.","id":"0089B8"}
 {"text":"「だから、地球人との間に\n　子供を作る事も可能なんだ」","translation":"That's why it's even possible for them to have children with humans.","id":"008A20"}
-{"text":"「ぷ…子供が子供を作る話をしてる」","translation":"Heh... kids talking about making kids.","id":"008A60"}
+{"text":"「ぷ…子供が子供を作る話をしてる」","translation":"Heh... that's rich, a kid talking about making kids.","id":"008A60"}
 {"text":"「お前なぁ！\n　私は１９歳の女子大生だぞ！」","translation":"Hey! I'm a 19-year-old college girl, you know!","id":"008A90"}
 {"text":"「嘘だろ！？\n　どう見ても小学生じゃないかよ！」","translation":"No way!? You look like an elementary school kid no matter how you slice it!","id":"008AC8"}
 {"text":"「お、お前！！\n　よくも言ったな！！」","translation":"Y-You!! How dare you say that!!","id":"008B00"}
@@ -415,12 +415,12 @@
 {"text":"「あいつらもよくわかってないみたいです。\n　生まれた時から決まっていた事だって」","translation":"Seems like even they don't really know. They say it was decided from the moment they were born.","id":"00A9C8"}
 {"text":"「地下だけがあいつらの世界で、\n　地上なんてものは存在しないとまで\n　言われてたそうです」","translation":"Apparently, the underground was their whole world, and they were even told the surface didn't exist.","id":"00AA20"}
 {"text":"「ところがだ！\n　そんなルールはクソくらえとばかりに\n　地上を目指す男がいた！」","translation":"But then! One man said screw those rules and set his sights on the surface!","id":"00AA80"}
-{"text":"「ジーハ村に悪名轟くグレン団！\n　男の魂、背中に背負い！　不撓不屈の！\n　あ！　鬼リーダー！」","translation":"Team Gurren from Jiha! And its manly demon boss!","id":"00AAD8"}
-{"text":"「その名もカミナ様たぁ俺の事だ！！」","translation":"And that Kamina-sama is me!!","id":"00AB40"}
-{"text":"「へ…威勢のいい野郎だぜ。\n　それに誰が決めたんだかわからねえルールなんざ\n　クソくらえってのが気に入った」","translation":"Heh... he's a spirited bastard. And I like that attitude of saying to hell with rules nobody even knows who made.","id":"00AB70"}
-{"text":"「本物の男は本物の男を知る…。\n　へへ…早速、俺と同じにおいの奴を\n　見つけたぜ！」","translation":"A real man knows a real man... Heh heh... I just found a guy with the same scent as me!","id":"00ABE0"}
-{"text":"「ちょ、ちょっと、アニキ…\n　いきなりの名乗りは失礼だよ」","translation":"W-wait, Bro... Announcing yourself like that is rude.","id":"00AC40"}
-{"text":"「何言ってやがんでぇ、シモン！\n　今日から同じ釜の飯を食う仲間に\n　挨拶するのは当然だろうが！」","translation":"What're you talking about, Simon! If we're sharing the same pot from today on, of course we should greet them!","id":"00AC88"}
+{"text":"「ジーハ村に悪名轟くグレン団！\n　男の魂、背中に背負い！　不撓不屈の！\n　あ！　鬼リーダー！」","translation":"The infamous Team Gurren from Jiha! And I'm its indomitable, fearsome leader!"","id":"00AAD8"}
+{"text":"「その名もカミナ様たぁ俺の事だ！！」","translation":"The great Kamina! That's me!!","id":"00AB40"}
+{"text":"「へ…威勢のいい野郎だぜ。\n　それに誰が決めたんだかわからねえルールなんざ\n　クソくらえってのが気に入った」","translation":"Heh... gutsy bastard. And that devil-may-care attitude of his is alright by me.","id":"00AB70"}
+{"text":"「本物の男は本物の男を知る…。\n　へへ…早速、俺と同じにおいの奴を\n　見つけたぜ！」","translation":"It takes a real man to recognize another... Heh... looks like I've found someone cut from the same cloth!","id":"00ABE0"}
+{"text":"「ちょ、ちょっと、アニキ…\n　いきなりの名乗りは失礼だよ」","translation":"W-wait, Bro... Announcing yourself like that is pretty rude.","id":"00AC40"}
+{"text":"「何言ってやがんでぇ、シモン！\n　今日から同じ釜の飯を食う仲間に\n　挨拶するのは当然だろうが！」","translation":"What're you talking about, Simon!? We're all in the same boat now, its only right that we introduce ourselves!","id":"00AC88"}
 {"text":"「こっちは俺の弟分のシモンだ。\n　…ほれ、シモン！　お前も挨拶しろ！」","translation":"This here's my little bro Simon. ...C'mon, Simon! You introduce yourself too!","id":"00ACF0"}
 {"text":"「よ、よろしく…」","translation":"N-nice to meet you...","id":"00AD40"}
 {"text":"「僕はロシウといいます。\n　シモンさん達とは別の村の出身ですが、\n　同行させてもらっています」","translation":"My name is Rossiu. I'm from a different village than Simon and the others, but I'm traveling with them.","id":"00AD60"}
@@ -441,8 +441,8 @@
 {"text":"「獣人…！？\n　暗黒大陸には、そんなものがいるの！？」","translation":"Beastmen...!? There are things like that on the Dark Continent?!","id":"00B108"}
 {"text":"「あそこは人間は地下に住み、\n　地上はケモノ人間…いわゆる獣人が\n　我が物顔でノシ歩いているのさ」","translation":"Over there, humans live underground, while the surface is ruled by beast-people... the so-called Beastmen.","id":"00B148"}
 {"text":"「そして、獣人達は地上に上がった人間を\n　狩っているの」","translation":"And those Beastmen hunt down any humans who make it to the surface.","id":"00B1B0"}
-{"text":"「その獣人達がガンメンなるマシンで\n　アフリカ南部を襲撃していると聞く」","translation":"I hear those Beastmen are attacking southern Africa with machines called Gunmen.","id":"00B1F0"}
-{"text":"「連中が人間を襲う理由はわからない…。\n　でも、奴等は徹底的に人間を排除しようとする」","translation":"I don't know why they attack humans... But they try to wipe us out completely.","id":"00B248"}
+{"text":"「その獣人達がガンメンなるマシンで\n　アフリカ南部を襲撃していると聞く」","translation":"We've received reports that those Beastmen are attacking southern Africa with these Gunmen.","id":"00B1F0"}
+{"text":"「連中が人間を襲う理由はわからない…。\n　でも、奴等は徹底的に人間を排除しようとする」","translation":"I don't know why they are attacking humans... But they're bent on exterminating us","id":"00B248"}
 {"text":"「外の世界に行けるようになったら、\n　そこに住んでいる人間を狙うのは\n　当然と言えば当然の成り行きね」","translation":"Once they can reach the outside world, going after the humans living there is only natural, I suppose.","id":"00B2A8"}
 {"text":"「だが、俺達がいる限り、\n　奴等の思い通りにはさせねえ！」","translation":"But as long as we're here, we won't let them have their way!","id":"00B318"}
 {"text":"「このカミナ様とグレン団、\n　世界中の獣人を狩って…狩って…\n　狩りまくってやるぜ！」","translation":"Me and Team Gurren are gonna hunt Beastmen all over the world... hunt 'em... and keep on hunting 'em!","id":"00B360"}
