@@ -235,12 +235,12 @@
 {"text":"「何と言った？」","translation":"What did you say?","id":"005680"}
 {"text":"「嫌です」","translation":"I refuse.","id":"0056A0"}
 {"text":"「プロトワン…！」","translation":"Proto One...!","id":"0056C0"}
-{"text":"「信じられん…。\n　パーフェクトソルジャーが逆らった…」","translation":"Unbelievable... A Perfect Soldier defied orders...","id":"0056E0"}
+{"text":"「信じられん…。\n　パーフェクトソルジャーが逆らった…」","translation":"Unbelievable... A Perfect Soldier, defying orders...","id":"0056E0"}
 {"text":"「では、こうしよう。\n　キリコは殺さんでいい。\n　ただＡＴを破壊して、奴を捕えるのだ」","translation":"Then we'll do this. You don't have to kill Chirico. Just destroy his AT and capture him.","id":"005728"}
-{"text":"「約束しよう。\n　我々もキリコは殺さない」","translation":"I promise. We won't kill Chirico either.","id":"005788"}
-{"text":"「本当ですね？」","translation":"Is that true?","id":"0057C0"}
-{"text":"「無論だ。\n　さあ出撃に備えるがいい」","translation":"Of course. Now, go prepare for deployment.","id":"0057E8"}
-{"text":"「では、失礼します」","translation":"Then, excuse me.","id":"005818"}
+{"text":"「約束しよう。\n　我々もキリコは殺さない」","translation":"We won't kill Chirico either, we promise.","id":"005788"}
+{"text":"「本当ですね？」","translation":"A promise?","id":"0057C0"}
+{"text":"「無論だ。\n　さあ出撃に備えるがいい」","translation":"Of course it is. Now, go prepare for deployment.","id":"0057E8"}
+{"text":"「では、失礼します」","translation":"Then, please excuse me.","id":"005818"}
 {"text":"「人間の限界を超えた反射神経と身体能力…。\n　それを付与された完璧なる兵士、\n　パーフェクトソルジャー…」","translation":"Reflexes and physical abilities beyond human limits... a perfect soldier endowed with them, a Perfect Soldier...","id":"005840"}
 {"text":"「ギルガメス軍の最高機密であるＰＳ…。\n　その素体である彼女を小惑星リドから奪取し、\n　我々の秘密結社が教育を施した…」","translation":"The PS, Gilgamesh's top secret... We seized her, its prototype, from Asteroid Lido, and our Secret Society trained her...","id":"0058B8"}
 {"text":"「命令には絶対服従のはずのＰＳが\n　何故、我々の命令を聞かんのだ…！？」","translation":"Why won't a PS, which should obey orders absolutely, follow our commands...!?","id":"005938"}
