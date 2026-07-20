@@ -147,8 +147,8 @@
 {"text":"「それより私はあんたの事が気がかり。\n　ちゃんと泣いた？\n　今、変に耐えると後でもっと辛くなるよ」","translation":"More importantly, I'm worried about you. Did you cry enough? If you hold it in now, it'll just hurt more later.","id":"0041A8"}
 {"text":"「…もういいの。\n　もう十分、泣いたから」","translation":"...It's okay. I've already cried enough.","id":"004210"}
 {"text":"「………」","translation":".........","id":"004248"}
-{"text":"「卑怯だ…！\n　黒の騎士団は…ゼロのやり方は卑怯だ！」","translation":"It's cowardly...! The Black Knights... Zero's methods are cowardly!","id":"004260"}
-{"text":"「自分で仕掛けるのでもなく、\n　ただ人の尻馬に乗って、事態をかき回しては\n　審判者を気取って、勝ち誇る…！」","translation":"They don't even act on their own, just ride on others' coattails, stir up trouble, then act like judges and crow about it...!","id":"0042A0"}
+{"text":"「卑怯だ…！\n　黒の騎士団は…ゼロのやり方は卑怯だ！」","translation":"It's cowardly...! Those Black Knights... and Zero, their methods are cowardly!","id":"004260"}
+{"text":"「自分で仕掛けるのでもなく、\n　ただ人の尻馬に乗って、事態をかき回しては\n　審判者を気取って、勝ち誇る…！」","translation":"Instead of taking action themselves, they merely ride on other's coattails, pretending to be judge, jury, and executioner...!","id":"0042A0"}
 {"text":"「あれじゃ何も変えられない…！\n　間違ったやり方で得た結果なんて\n　意味はないのに…！」","translation":"That won't change anything...! Results gained through the wrong methods are meaningless...!","id":"004318"}
 {"text":"「………」","translation":".........","id":"004378"}
 {"text":"「…行こう、シャーリー。\n　みんなも…」","translation":"...Let's go, Shirley. Everyone else too...","id":"004390"}
@@ -167,10 +167,10 @@
 {"text":"「覚悟はあるさ…！\n　あの時…クロヴィスを殺したあの時からな！」","translation":"I do have resolve...! Ever since that day... ever since I killed Clovis!","id":"004640"}
 {"text":"「なら、なぜ今さら迷う？\n　それとも情で揺らいだか？\n　せがまれるままにあの娘にキスして」","translation":"Then why are you hesitating now? Or did your feelings make you waver? You kissed that girl just because she begged you to...","id":"004690"}
 {"text":"「くっ…」","translation":"Tch...","id":"0046F8"}
-{"text":"「どれだけ偉そうな事を言っても\n　所詮は口先だけの頭でっかちな童貞坊やか」","translation":"For all your lofty words, in the end you're just an all-talk, big-headed virgin boy.","id":"004710"}
+{"text":"「どれだけ偉そうな事を言っても\n　所詮は口先だけの頭でっかちな童貞坊やか」","translation":"For all your lofty words, you're nothing more than an all-talk, know-it-all virgin brat.","id":"004710"}
 {"text":"「！」","translation":"!","id":"004768"}
 {"text":"「お前にはもう動揺したり、\n　立ち止まる権利などない」","translation":"You no longer have the right to waver or stop.","id":"004780"}
-{"text":"「生きるために必要なのだろう？\n　私を失望させるな」","translation":"You need that to survive, don't you? Don't disappoint me.","id":"0047C0"}
+{"text":"「生きるために必要なのだろう？\n　私を失望させるな」","translation":"Resolve is essential for survival, isn't it? Don't disappoint me.","id":"0047C0"}
 {"text":"倉庫","translation":"Warehouse","id":"004800"}
 {"text":"　\n　　\n　　　　　　　～黒の騎士団アジト～","translation":"~Black Knights Hideout~","id":"004808"}
 {"text":"「………」","translation":".........","id":"004838"}
